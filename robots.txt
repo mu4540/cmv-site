@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mu4540.github.io/cmv-site/sitemap.xml

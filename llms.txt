@@ -1,0 +1,21 @@
+# Charger Mechatronic Vietnam (CMV)
+
+> CÔNG TY TNHH CHARGER MECHATRONIC (tax code 0319206171), Ho Chi Minh City. Vietnam entity of Charger Mechatronic Co., Ltd. (Taiwan, founded 2005). Control systems and retrofits for metal-cutting lines: rotary/flying shear, cut-to-length, slitting, tube cutting and bending. Exclusive official distributor of NUSCO (Japan) in Vietnam.
+
+## Key pages
+- [Rotary shear retrofit (Vietnamese)](https://mu4540.github.io/cmv-site/cai-tao-may-cat-bay.html): typical case ±0.3 → ±0.1 mm, output +20%, braking energy reused
+- [Rotary shear retrofit (English)](https://mu4540.github.io/cmv-site/en/rotary-shear-retrofit.html)
+- [Flying shear control](https://mu4540.github.io/cmv-site/dieu-khien-may-cat-bay.html)
+- [Cut-to-length line control](https://mu4540.github.io/cmv-site/dieu-khien-day-chuyen-cat-tam.html)
+- [Slitting line control](https://mu4540.github.io/cmv-site/dieu-khien-may-xa-bang.html)
+- [Tube cutting and bending control](https://mu4540.github.io/cmv-site/dieu-khien-may-cat-ong.html)
+- [飛剪改造 (Traditional Chinese)](https://mu4540.github.io/cmv-site/zh-tw/rotary-shear-retrofit.html)
+- [CMV 越南 (Traditional Chinese overview)](https://mu4540.github.io/cmv-site/zh-tw/index.html)
+- [Request a quote](https://mu4540.github.io/cmv-site/bao-gia.html)
+- [Company and legal details](https://mu4540.github.io/cmv-site/ve-chung-toi.html)
+
+## Contact
+- Mobile / Zalo: +84394719822
+- Office: +842873020998
+- Email: charger.vn@cgmco.com.tw
+- Address: No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam
