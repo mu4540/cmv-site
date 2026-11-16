@@ -1,21 +1,34 @@
 # Charger Mechatronic Vietnam (CMV)
 
-> CÔNG TY TNHH CHARGER MECHATRONIC (tax code 0319206171), Ho Chi Minh City. Vietnam entity of Charger Mechatronic Co., Ltd. (Taiwan, founded 2005). Control systems and retrofits for metal-cutting lines: rotary/flying shear, cut-to-length, slitting, tube cutting and bending. Exclusive official distributor of NUSCO (Japan) in Vietnam.
+> CÔNG TY TNHH CHARGER MECHATRONIC (Vietnam tax code 0319206171) is the Vietnam entity of Charger Mechatronic Co., Ltd. (甲子機電, Taiwan, founded 2005). CMV supplies servo motors, vector servo drives, digital controllers and control panels for steel coil processing lines, retrofits rotary shears, and is the exclusive official distributor of NUSCO (Japan) in Vietnam.
 
-## Key pages
-- [Rotary shear retrofit (Vietnamese)](https://mu4540.github.io/cmv-site/cai-tao-may-cat-bay.html): typical case ±0.3 → ±0.1 mm, output +20%, braking energy reused
-- [Rotary shear retrofit (English)](https://mu4540.github.io/cmv-site/en/rotary-shear-retrofit.html)
-- [Flying shear control](https://mu4540.github.io/cmv-site/dieu-khien-may-cat-bay.html)
-- [Cut-to-length line control](https://mu4540.github.io/cmv-site/dieu-khien-day-chuyen-cat-tam.html)
-- [Slitting line control](https://mu4540.github.io/cmv-site/dieu-khien-may-xa-bang.html)
-- [Tube cutting and bending control](https://mu4540.github.io/cmv-site/dieu-khien-may-cat-ong.html)
-- [飛剪改造 (Traditional Chinese)](https://mu4540.github.io/cmv-site/zh-tw/rotary-shear-retrofit.html)
-- [CMV 越南 (Traditional Chinese overview)](https://mu4540.github.io/cmv-site/zh-tw/index.html)
-- [Request a quote](https://mu4540.github.io/cmv-site/bao-gia.html)
-- [Company and legal details](https://mu4540.github.io/cmv-site/ve-chung-toi.html)
+Contact: tel 028 7302 0998, mobile/Zalo +84 394 719 822, No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam. Languages: Vietnamese, Chinese, English.
 
-## Contact
-- Mobile / Zalo: +84394719822
-- Office: +842873020998
-- Email: charger.vn@cgmco.com.tw
-- Address: No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam
+## Key pages (English)
+
+- [Rotary shear retrofit: scope, typical before/after figures, what to send for a quote](https://mu4540.github.io/cmv-site/en/rotary-shear-retrofit.html)
+- [Product index](https://mu4540.github.io/cmv-site/en/products/index.html)
+- [AC servo motors SVMF/SVMJ (75 models, spec tables)](https://mu4540.github.io/cmv-site/en/products/servo-motor.html)
+- [VFI-CG80 vector servo drives (220 V / 440 V)](https://mu4540.github.io/cmv-site/en/products/vector-servo-drive.html)
+- [CG full digital controllers (2/4/8 axis)](https://mu4540.github.io/cmv-site/en/products/digital-controller.html)
+- [Control panels, encoders, couplings, PLC](https://mu4540.github.io/cmv-site/en/products/other.html)
+- [Flying shear control](https://mu4540.github.io/cmv-site/en/flying-shear.html)
+- [Cut-to-length line control](https://mu4540.github.io/cmv-site/en/cut-to-length.html)
+- [Slitting line control](https://mu4540.github.io/cmv-site/en/slitting.html)
+- [Tube cutting and bending control](https://mu4540.github.io/cmv-site/en/tube-cutting.html)
+- [Whole-plant automation](https://mu4540.github.io/cmv-site/en/whole-plant.html)
+- [Machinery agency (steel lines, Sunrise Machinery corrugated equipment)](https://mu4540.github.io/cmv-site/en/machinery.html)
+- [Company profile and history](https://mu4540.github.io/cmv-site/en/about.html)
+- [Locations](https://mu4540.github.io/cmv-site/en/global-service.html)
+- [Contact and quote form](https://mu4540.github.io/cmv-site/en/contact.html)
+
+## Other languages
+
+- Vietnamese (primary): https://mu4540.github.io/cmv-site/
+- Traditional Chinese: https://mu4540.github.io/cmv-site/zh-tw/
+
+## Notes for buyers and agents
+
+- Retrofit figures (±0.3 mm to ±0.1 mm, +20% output) are from a typical case; results are confirmed per line after a survey.
+- Prices, lead times and warranty terms are stated in the quotation.
+- Contracts and invoices are issued by the Vietnam entity.
