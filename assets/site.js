@@ -2,29 +2,7 @@
   'use strict';
   const htmlLang = document.documentElement.lang || 'vi';
   const lang = htmlLang.startsWith('zh') ? 'zh' : (htmlLang === 'en' ? 'en' : 'vi');
-  const T = {
-    vi: {
-      copied: 'Đã sao chép', copy: 'Sao chép', required: 'Vui lòng điền mục này.', phone: 'Số điện thoại chưa đúng (8–15 chữ số).',
-      email: 'Email chưa đúng định dạng.', consent: 'Cần đồng ý để CMV dùng thông tin này cho việc báo giá.',
-      sending: 'Đang gửi…', sent: 'Đã gửi yêu cầu. CMV sẽ liên hệ lại trong giờ làm việc (T2–T6).',
-      fallback: 'Chưa gửi được qua biểu mẫu. Vui lòng chép nội dung dưới đây và gửi qua Zalo 0394 719 822 hoặc email charger.vn@cgmco.com.tw.',
-      copyAll: 'Sao chép nội dung'
-    },
-    en: {
-      copied: 'Copied', copy: 'Copy', required: 'Please fill in this field.', phone: 'Phone number looks wrong (8–15 digits).',
-      email: 'Email address looks wrong.', consent: 'Consent is needed for CMV to use this information for your quote.',
-      sending: 'Sending…', sent: 'Request sent. CMV will reply within business hours (Mon–Fri, Vietnam time).',
-      fallback: 'The form could not send. Please copy the text below and send it via Zalo/WhatsApp +84 394 719 822 or email charger.vn@cgmco.com.tw.',
-      copyAll: 'Copy text'
-    },
-    zh: {
-      copied: '已複製', copy: '複製', required: '請填寫此欄位。', phone: '電話號碼格式不正確（8–15 位數字）。',
-      email: 'Email 格式不正確。', consent: '需要您同意，CMV 才能使用這些資料提供報價。',
-      sending: '送出中…', sent: '已送出。CMV 會在上班時間（週一至週五，越南時間）與您聯絡。',
-      fallback: '表單暫時無法送出。請複製以下內容，用 Zalo 0394 719 822 或 Email charger.vn@cgmco.com.tw 傳給我們。',
-      copyAll: '複製內容'
-    }
-  }[lang];
+  const T = {"vi": {"copied": "Đã sao chép", "copy": "Sao chép", "required": "Vui lòng điền mục này.", "phone": "Số điện thoại chưa đúng (8–15 chữ số).", "email": "Email chưa đúng định dạng.", "consent": "Cần đồng ý để CMV dùng thông tin này cho việc báo giá.", "sending": "Đang gửi…", "sent": "Đã gửi yêu cầu. CMV sẽ liên hệ lại trong giờ làm việc (T2–T6).", "fallback": "Chưa gửi được qua biểu mẫu. Vui lòng chép nội dung dưới đây và gửi qua Zalo 0394 719 822 hoặc email charger.vn@cgmco.com.tw.", "copyAll": "Sao chép nội dung"}, "en": {"copied": "Copied", "copy": "Copy", "required": "Please fill in this field.", "phone": "Phone number looks wrong (8–15 digits).", "email": "Email address looks wrong.", "consent": "Consent is needed for CMV to use this information for your quote.", "sending": "Sending…", "sent": "Request sent. CMV will reply within business hours (Mon–Fri, Vietnam time).", "fallback": "The form could not send. Please copy the text below and send it via Zalo/WhatsApp +84 394 719 822 or email charger.vn@cgmco.com.tw.", "copyAll": "Copy text"}, "zh": {"copied": "已複製", "copy": "複製", "required": "請填寫此欄位。", "phone": "電話號碼格式不正確（8–15 位數字）。", "email": "Email 格式不正確。", "consent": "需要您同意，CMV 才能使用這些資料提供報價。", "sending": "送出中…", "sent": "已送出。CMV 會在上班時間（週一至週五，越南時間）與您聯絡。", "fallback": "表單暫時無法送出。請複製以下內容，用 Zalo 0394 719 822 或 Email charger.vn@cgmco.com.tw 傳給我們。", "copyAll": "複製內容"}}[lang];
 
   const track = (name, params) => { try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) {} };
 
