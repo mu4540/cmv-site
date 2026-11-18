@@ -67,7 +67,17 @@
     return '';
   };
 
+  /* deep links: ?model=CODE&message=text&line=N fill the quote form, so a person or an agent arrives with the request ready */
+  const qp = new URLSearchParams(location.search);
+  const prefill = (form) => {
+    const msg = form.querySelector('[name="message"]'); const line = form.querySelector('[name="line"]');
+    const model = (qp.get('model') || '').slice(0, 80); const text = (qp.get('message') || '').slice(0, 1000);
+    if (msg && (model || text) && !msg.value) msg.value = [model ? 'Model: ' + model : '', text].filter(Boolean).join('\n');
+    if (line) { const n = qp.has('line') ? parseInt(qp.get('line'), 10) : (model ? 5 : NaN); if (n >= 0 && n < line.options.length) line.selectedIndex = n; }
+  };
+
   document.querySelectorAll('form[data-form]').forEach((form) => {
+    prefill(form);
     const status = form.querySelector('[data-status]');
     const btn = form.querySelector('button[type="submit"]');
     form.querySelectorAll('input, select, textarea').forEach((f) => {

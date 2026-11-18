@@ -28,6 +28,13 @@ Contact: tel 028 7302 0998, mobile/Zalo +84 394 719 822, No. 933, Ta Quang Buu S
 - Traditional Chinese: https://mu4540.github.io/cmv-site/zh-tw/
 - Korean: https://mu4540.github.io/cmv-site/ko/
 
+## For AI agents
+
+- Product data as JSON (all models, names in 4 languages, ratings, URLs): https://mu4540.github.io/cmv-site/data/products.json
+- Quote form deep link: https://mu4540.github.io/cmv-site/en/contact.html?model=<product code>&message=<text>#quote (also accepts line=0..6; no login, no captcha)
+- Forms need a phone number and the consent checkbox; errors are shown next to the field.
+- Sitemap: https://mu4540.github.io/cmv-site/sitemap.xml
+
 ## Notes for buyers and agents
 
 - Retrofit figures (±0.3 mm to ±0.1 mm, +20% output) are from a typical case; results are confirmed per line after a survey.
