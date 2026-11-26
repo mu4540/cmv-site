@@ -1,0 +1,599 @@
+{
+ "strings": [
+  {
+   "id": "83abbfb9",
+   "vi": "Cải tạo máy cắt bay (rotary shear): sai số ±0,1 mm | CMV",
+   "zh": "飛剪改造（rotary shear retrofit）：公差 ±0.1 mm｜CMV 越南",
+   "en": "Rotary shear retrofit in Vietnam: ±0.1 mm tolerance | CMV",
+   "ko": "베트남 로터리 시어 개조: 공차 ±0.1 mm | CMV"
+  },
+  {
+   "id": "09132d14",
+   "vi": "Dịch vụ cải tạo máy cắt bay cho nhà máy gia công thép cuộn tại Việt Nam: thay bộ điều khiển, servo, biến tần và encoder đo chiều dài, giữ lại phần cơ khí còn tốt. Dự án cải tạo điển hình đưa sai số chiều dài từ trên ±0,3 mm xuống trong khoảng ±0,1 mm và tăng năng suất từ 20% trở lên.",
+   "zh": "為越南的鋼捲加工廠改造飛剪線：更換控制器、伺服馬達、驅動器與長度編碼器，保留狀況良好的機構部分。典型改造案例中，裁切長度公差由 ±0.3 mm 以上降到 ±0.1 mm 以內，產量提升 20% 以上。",
+   "en": "Rotary shear retrofit for steel coil processing plants in Vietnam: CMV replaces the controller, servo motors, drives and length encoder and keeps the mechanical parts that are still sound. A typical retrofit takes cut-length tolerance from over ±0.3 mm to within ±0.1 mm and raises output by 20% or more.",
+   "ko": "베트남 코일 가공 공장을 위한 로터리 시어 개조: CMV가 컨트롤러, 서보 모터, 드라이브, 측장 엔코더를 교체하고 상태가 양호한 기계부는 그대로 둡니다. 대표적인 개조 사례에서 절단 길이 공차가 ±0.3 mm 초과에서 ±0.1 mm 이내로 줄고 생산량이 20% 이상 늘었습니다."
+  },
+  {
+   "id": "ed5e56d9",
+   "vi": "Cải tạo máy cắt bay (rotary shear)",
+   "zh": "飛剪改造（Rotary shear retrofit）",
+   "en": "Rotary shear retrofit",
+   "ko": "로터리 시어 개조"
+  },
+  {
+   "id": "1f8b00fe",
+   "vi": "Dây chuyền cũ hoặc dây chuyền mua từ Trung Quốc có cải tạo được không?",
+   "zh": "中國製或使用多年的飛剪線可以改造嗎？",
+   "en": "Can older lines, including lines bought from China, be retrofitted?",
+   "ko": "중국산 라인이나 오래 사용한 라인도 개조할 수 있습니까?"
+  },
+  {
+   "id": "3544566b",
+   "vi": "Thường là được. CMV thay bộ điều khiển, servo, biến tần và encoder đo chiều dài; phần cơ khí còn tốt được giữ lại. Khả năng cải tạo được xác nhận sau khi xem ảnh, video, thông số hoặc khảo sát tại nhà máy.",
+   "zh": "通常可以。CMV 更換控制器、伺服馬達、驅動器與長度編碼器，保留狀況良好的機構部分。能否改造，會在看過照片、影片、產線資料或現場勘查後確認。",
+   "en": "Usually yes. CMV replaces the controller, servo motors, drives and length encoder and keeps the mechanical parts that are still sound. Feasibility is confirmed after reviewing photos, video and line data, or after a site survey.",
+   "ko": "대부분 가능합니다. CMV가 컨트롤러, 서보 모터, 드라이브, 측장 엔코더를 교체하고 상태가 양호한 기계부는 그대로 둡니다. 개조 가능 여부는 사진, 영상, 라인 자료를 검토하거나 현장 조사를 한 뒤 확인합니다."
+  },
+  {
+   "id": "cb38039b",
+   "vi": "Phải dừng dây chuyền bao lâu?",
+   "zh": "需要停線多久？",
+   "en": "How long does the line have to stop?",
+   "ko": "라인을 얼마나 세워야 합니까?"
+  },
+  {
+   "id": "ee1f25b6",
+   "vi": "Tùy hiện trạng và phạm vi công việc. Thời gian dừng máy được ghi rõ trong báo giá để nhà máy sắp xếp kế hoạch sản xuất.",
+   "zh": "依產線現況與改造範圍而定。停機時間會寫在報價中，方便工廠安排生產。",
+   "en": "It depends on the line's condition and the scope. The downtime is stated in the quotation so the plant can plan production around it.",
+   "ko": "라인 상태와 개조 범위에 따라 다릅니다. 공장이 생산 계획을 세울 수 있도록 정지 시간을 견적서에 명시합니다."
+  },
+  {
+   "id": "c8c20b66",
+   "vi": "Sai số sau cải tạo được nghiệm thu thế nào?",
+   "zh": "改造後的公差怎麼驗收？",
+   "en": "How is the tolerance after the retrofit accepted?",
+   "ko": "개조 후 공차는 어떻게 검수합니까?"
+  },
+  {
+   "id": "bf589b19",
+   "vi": "Đo chiều dài một loạt tấm cắt liên tiếp ở tốc độ vận hành thực tế. Số mẫu, cách đo và tiêu chí nghiệm thu được thống nhất trong hợp đồng trước khi thi công.",
+   "zh": "在實際生產速度下，量測連續裁切板材的長度。樣本數、量測方式與驗收標準，在施工前寫入合約。",
+   "en": "By measuring the length of a run of consecutive cut sheets at real operating speed. Sample size, method and acceptance criteria are agreed in the contract before work starts.",
+   "ko": "실제 운전 속도에서 연속 절단한 판재의 길이를 측정합니다. 샘플 수, 측정 방법, 검수 기준은 착공 전에 계약서에 정합니다."
+  },
+  {
+   "id": "59eaf7fa",
+   "vi": "Vì sao cải tạo giúp giảm tiền điện?",
+   "zh": "為什麼改造能降低電費？",
+   "en": "Why does a retrofit lower the electricity bill?",
+   "ko": "개조하면 전기 요금이 왜 줄어듭니까?"
+  },
+  {
+   "id": "a38248ba",
+   "vi": "Khi dao cắt giảm tốc, động năng được biến tần đưa trở lại hệ thống điện để tái sử dụng thay vì đốt thành nhiệt. Mức tiết kiệm phụ thuộc chu kỳ cắt và tốc độ của từng dây chuyền.",
+   "zh": "刀輥減速時，驅動器把煞車能量回送電力系統再利用，而不是轉成熱能浪費。節省幅度依各產線的剪切週期與速度而定。",
+   "en": "When the knife decelerates, the drive returns the braking energy to the power system for reuse instead of burning it as heat. Savings depend on each line's cut cycle and speed.",
+   "ko": "나이프가 감속할 때 드라이브가 제동 에너지를 열로 버리지 않고 전원 계통으로 되돌려 재사용하기 때문입니다. 절감 폭은 라인의 절단 사이클과 속도에 따라 다릅니다."
+  },
+  {
+   "id": "40f5c0d0",
+   "vi": "NUSCO liên quan gì đến CMV?",
+   "zh": "CMV 和 NUSCO 的關係？",
+   "en": "How is CMV related to NUSCO?",
+   "ko": "CMV와 NUSCO는 어떤 관계입니까?"
+  },
+  {
+   "id": "37d849ed",
+   "vi": "CMV là nhà phân phối độc quyền chính thức của NUSCO (Nhật Bản) tại Việt Nam.",
+   "zh": "CMV 是 NUSCO（日本）在越南的獨家官方代理商。",
+   "en": "CMV is the exclusive official distributor of NUSCO (Japan) in Vietnam.",
+   "ko": "CMV는 NUSCO(일본)의 베트남 독점 공식 대리점입니다."
+  },
+  {
+   "id": "048579be",
+   "vi": "Sai số chiều dài cắt trong dự án cải tạo điển hình",
+   "zh": "典型改造案例的裁切長度公差",
+   "en": "Cut-length tolerance in a typical retrofit",
+   "ko": "대표적인 개조 사례의 절단 길이 공차"
+  },
+  {
+   "id": "7704e87e",
+   "vi": "Yêu cầu báo giá cải tạo",
+   "zh": "索取改造報價",
+   "en": "Request a retrofit quote",
+   "ko": "개조 견적 요청"
+  },
+  {
+   "id": "28920b4c",
+   "vi": "Thước sai số, vẽ theo tỷ lệ",
+   "zh": "公差尺，按比例繪製",
+   "en": "Tolerance scale, drawn to scale",
+   "ko": "공차 눈금, 실제 비율로 표시"
+  },
+  {
+   "id": "dca58a59",
+   "vi": "Thước sai số chiều dài cắt, vẽ theo tỷ lệ: TRƯỚC CẢI TẠO: LỚN HƠN ±0,3 mm; ±0,10 mm",
+   "zh": "裁切長度公差，按比例繪製: 改造前：超過 ±0.3 mm; ±0.10 mm",
+   "en": "Cut-length tolerance drawn to scale: BEFORE RETROFIT: OVER ±0.3 mm; ±0.10 mm",
+   "ko": "실제 비율로 그린 절단 길이 공차: 개조 전: ±0.3 mm 초과; ±0.10 mm"
+  },
+  {
+   "id": "a7d5d3b9",
+   "vi": "TRƯỚC CẢI TẠO: LỚN HƠN ±0,3 mm",
+   "zh": "改造前：超過 ±0.3 mm",
+   "en": "BEFORE RETROFIT: OVER ±0.3 mm",
+   "ko": "개조 전: ±0.3 mm 초과"
+  },
+  {
+   "id": "3a3c770d",
+   "vi": "±0,10 mm",
+   "zh": "±0.10 mm",
+   "en": "±0.10 mm",
+   "ko": "±0.10 mm"
+  },
+  {
+   "id": "f7ba9295",
+   "vi": "−0,4",
+   "zh": "−0.4",
+   "en": "−0.4",
+   "ko": "−0.4"
+  },
+  {
+   "id": "3f1ac620",
+   "vi": "−0,2",
+   "zh": "−0.2",
+   "en": "−0.2",
+   "ko": "−0.2"
+  },
+  {
+   "id": "9291f7d7",
+   "vi": "Chiều dài danh nghĩa",
+   "zh": "標稱長度",
+   "en": "Nominal length",
+   "ko": "공칭 길이"
+  },
+  {
+   "id": "da31a171",
+   "vi": "Trước cải tạo",
+   "zh": "改造前",
+   "en": "Before retrofit",
+   "ko": "개조 전"
+  },
+  {
+   "id": "5480fffa",
+   "vi": "Sau cải tạo (điển hình)",
+   "zh": "改造後（典型案例）",
+   "en": "After retrofit (typical)",
+   "ko": "개조 후(대표 사례)"
+  },
+  {
+   "id": "f084257a",
+   "vi": "Trước và sau cải tạo",
+   "zh": "改造前後比較",
+   "en": "Before and after",
+   "ko": "개조 전후 비교"
+  },
+  {
+   "id": "aca3f5e8",
+   "vi": "Sai số chiều dài cắt",
+   "zh": "裁切長度公差",
+   "en": "Cut-length tolerance",
+   "ko": "절단 길이 공차"
+  },
+  {
+   "id": "f1853cf4",
+   "vi": "Lớn hơn ±0,3 mm",
+   "zh": "超過 ±0.3 mm",
+   "en": "Over ±0.3 mm",
+   "ko": "±0.3 mm 초과"
+  },
+  {
+   "id": "2d5c45e8",
+   "vi": "Trong khoảng ±0,1 mm",
+   "zh": "±0.1 mm 以內",
+   "en": "Within ±0.1 mm",
+   "ko": "±0.1 mm 이내"
+  },
+  {
+   "id": "5e77e589",
+   "vi": "Tăng tốc, giảm tốc dao cắt",
+   "zh": "刀輥加減速",
+   "en": "Knife acceleration / deceleration",
+   "ko": "나이프 가감속"
+  },
+  {
+   "id": "092231d4",
+   "vi": "Chậm, kìm tốc độ dây chuyền",
+   "zh": "慢，限制產線速度",
+   "en": "Slow, holds the line speed down",
+   "ko": "느려서 라인 속도를 제한"
+  },
+  {
+   "id": "3b1fe44b",
+   "vi": "Servo vector đáp ứng nhanh",
+   "zh": "向量伺服快速響應",
+   "en": "Fast-response servo vector drive",
+   "ko": "고응답 서보 벡터 드라이브"
+  },
+  {
+   "id": "a2002d22",
+   "vi": "Năng suất",
+   "zh": "產量",
+   "en": "Output",
+   "ko": "생산량"
+  },
+  {
+   "id": "efcfbf0b",
+   "vi": "Mốc so sánh",
+   "zh": "比較基準",
+   "en": "Baseline",
+   "ko": "비교 기준"
+  },
+  {
+   "id": "3814812b",
+   "vi": "Tăng từ 20% trở lên",
+   "zh": "提升 20% 以上",
+   "en": "+20% or more",
+   "ko": "20% 이상 증가"
+  },
+  {
+   "id": "286516c5",
+   "vi": "Điện năng",
+   "zh": "耗電",
+   "en": "Energy",
+   "ko": "전력"
+  },
+  {
+   "id": "517d993a",
+   "vi": "Tiêu thụ cao, điện hãm bị đốt bỏ",
+   "zh": "耗電大，煞車能量白白浪費",
+   "en": "High consumption, braking energy wasted",
+   "ko": "소비가 크고 제동 에너지가 버려짐"
+  },
+  {
+   "id": "f6ccf21f",
+   "vi": "Điện năng hãm được tái sử dụng, giảm tiền điện",
+   "zh": "煞車能量回生再利用，降低電費",
+   "en": "Braking energy reused, lower electricity bill",
+   "ko": "제동 에너지를 재사용하여 전기 요금 절감"
+  },
+  {
+   "id": "4e41ba6d",
+   "vi": "Số liệu từ một dự án cải tạo điển hình. Kết quả thực tế phụ thuộc tốc độ dây chuyền, độ dày vật liệu và hiện trạng cơ khí; CMV xác nhận mức cải thiện sau khảo sát.",
+   "zh": "數據來自典型改造案例。實際效果依線速、材料厚度與機構現況而定，CMV 會在現場勘查後確認預期改善幅度。",
+   "en": "Figures from a typical retrofit case. Actual results depend on line speed, material thickness and mechanical condition; CMV confirms the expected improvement after a survey.",
+   "ko": "대표적인 개조 사례의 수치입니다. 실제 결과는 라인 속도, 소재 두께, 기계 상태에 따라 다르며, CMV가 현장 조사 후 예상 개선 폭을 확인해 드립니다."
+  },
+  {
+   "id": "04efc20f",
+   "vi": "Trung tâm gia công thép cuộn (coil center) cắt tấm theo chiều dài",
+   "zh": "越南的鋼捲加工中心（coil center），定尺裁切板材",
+   "en": "Coil service centers cutting sheet to length",
+   "ko": "판재를 정척 절단하는 코일 서비스 센터"
+  },
+  {
+   "id": "84dcf94a",
+   "vi": "Nhà máy tôn mạ, tôn màu, thép ống có dây chuyền cắt bay",
+   "zh": "鍍鋅板、彩色鋼板、鋼管工廠的飛剪線",
+   "en": "Coated sheet and pipe mills with flying or rotary shears",
+   "ko": "플라잉 시어 또는 로터리 시어를 보유한 도금 강판·파이프 공장"
+  },
+  {
+   "id": "bb0059ac",
+   "vi": "Nhà sản xuất máy cán tôn, máy cắt xà gồ cần hệ điều khiển cắt bay",
+   "zh": "浪板成型機、C/Z 型鋼成型機製造商，需要飛剪電控",
+   "en": "Roll-forming and purlin machine builders who need flying-cut control",
+   "ko": "플라잉 컷 제어가 필요한 롤 포밍기·퍼린 성형기 제조사"
+  },
+  {
+   "id": "e48848ed",
+   "vi": "Dây chuyền có sai số chiều dài lớn, tốc độ bị giới hạn bởi dao cắt, hoặc bộ điều khiển cũ không còn phụ tùng",
+   "zh": "公差大、線速被刀輥拖慢，或舊控制器已停產缺料的產線",
+   "en": "Lines with wide length tolerance, speed limited by the knife, or an old controller without spare parts",
+   "ko": "길이 공차가 크거나, 나이프 때문에 속도가 제한되거나, 기존 컨트롤러의 부품이 단종된 라인"
+  },
+  {
+   "id": "ba16a1c2",
+   "vi": "Độ dày và khổ rộng vật liệu",
+   "zh": "材質、板厚與板寬",
+   "en": "Material thickness and width",
+   "ko": "소재 두께와 폭"
+  },
+  {
+   "id": "1e17c8e2",
+   "vi": "Chiều dài cắt thường dùng và sai số hiện tại",
+   "zh": "常用剪切長度、目前公差與目標公差",
+   "en": "Typical cut lengths and current tolerance",
+   "ko": "주로 쓰는 절단 길이와 현재 공차"
+  },
+  {
+   "id": "4c14252e",
+   "vi": "Hãng và model bộ điều khiển, động cơ, biến tần đang dùng",
+   "zh": "現有控制器、馬達、驅動器的品牌與型號",
+   "en": "Brand and model of the existing controller, motors and drives",
+   "ko": "기존 컨트롤러, 모터, 드라이브의 브랜드와 모델"
+  },
+  {
+   "id": "76213fbf",
+   "vi": "Ảnh hoặc video dây chuyền đang chạy (gửi qua Zalo)",
+   "zh": "產線運轉中的照片或影片（可用 Zalo 傳送）",
+   "en": "Photos or video of the line running (WhatsApp/Zalo)",
+   "ko": "라인이 가동 중인 사진 또는 영상(WhatsApp/Zalo)"
+  },
+  {
+   "id": "94a9e8c0",
+   "vi": "CMV thay những gì trên dây chuyền",
+   "zh": "CMV 在產線上更換的部分",
+   "en": "What CMV replaces on the line",
+   "ko": "CMV가 라인에서 교체하는 부분"
+  },
+  {
+   "id": "8712b5f2",
+   "vi": "Sơ đồ dây chuyền cắt bay: xả cuộn, nắn phẳng, bánh xe đo, dao cắt bay, xếp tấm; bộ điều khiển CMV nhận tín hiệu chiều dài và điều khiển dao cắt",
+   "zh": "飛剪線示意：開捲、整平、量測輪、飛剪、堆疊；CMV 控制器讀取長度訊號並驅動刀輥",
+   "en": "Rotary shear line: uncoiler, leveler, measuring roll, rotary shear, stacker; the CMV controller reads the length signal and drives the knife",
+   "ko": "로터리 시어 라인 개요: 언코일러, 레벨러, 측장 롤, 로터리 시어, 스태커. CMV 컨트롤러가 길이 신호를 읽어 나이프를 구동합니다"
+  },
+  {
+   "id": "ce80b7de",
+   "vi": "Xả cuộn",
+   "zh": "開捲",
+   "en": "Uncoiler",
+   "ko": "언코일러"
+  },
+  {
+   "id": "e21efbb1",
+   "vi": "Nắn phẳng",
+   "zh": "整平",
+   "en": "Leveler",
+   "ko": "레벨러"
+  },
+  {
+   "id": "d9e14f90",
+   "vi": "Bánh xe đo + encoder",
+   "zh": "量測輪＋編碼器",
+   "en": "Measuring roll + encoder",
+   "ko": "측장 롤 + 엔코더"
+  },
+  {
+   "id": "ea33bc99",
+   "vi": "Dao cắt bay",
+   "zh": "飛剪",
+   "en": "Rotary shear",
+   "ko": "로터리 시어"
+  },
+  {
+   "id": "9f86e748",
+   "vi": "Xếp tấm",
+   "zh": "堆疊",
+   "en": "Stacker",
+   "ko": "스태커"
+  },
+  {
+   "id": "911ee3ce",
+   "vi": "Servo SVMF",
+   "zh": "SVMF 伺服",
+   "en": "SVMF servo",
+   "ko": "SVMF 서보"
+  },
+  {
+   "id": "cd2cf111",
+   "vi": "hướng chạy →",
+   "zh": "行進方向 →",
+   "en": "line direction →",
+   "ko": "진행 방향 →"
+  },
+  {
+   "id": "74e21583",
+   "vi": "Bộ điều khiển CG + biến tần VFI-CG80",
+   "zh": "CG 數位控制器＋VFI-CG80 驅動器",
+   "en": "CG controller + VFI-CG80 drive",
+   "ko": "CG 컨트롤러 + VFI-CG80 드라이브"
+  },
+  {
+   "id": "2110201b",
+   "vi": "tín hiệu chiều dài",
+   "zh": "長度訊號",
+   "en": "length signal",
+   "ko": "길이 신호"
+  },
+  {
+   "id": "647ac201",
+   "vi": "lệnh đồng bộ dao",
+   "zh": "刀輥同步指令",
+   "en": "knife sync command",
+   "ko": "나이프 동기 명령"
+  },
+  {
+   "id": "b3e46fb0",
+   "vi": "gửi tín hiệu chiều dài về bộ điều khiển",
+   "zh": "將長度訊號傳回控制器",
+   "en": "sends the length signal to the controller",
+   "ko": "길이 신호를 컨트롤러로 전송"
+  },
+  {
+   "id": "936f2c42",
+   "vi": "servo SVMF chạy đồng tốc theo lệnh bộ điều khiển",
+   "zh": "SVMF 伺服依控制器指令同步運轉",
+   "en": "SVMF servo runs in sync on the controller's command",
+   "ko": "SVMF 서보가 컨트롤러 명령에 따라 동기 운전"
+  },
+  {
+   "id": "b7af8e4d",
+   "vi": "Phạm vi thiết bị",
+   "zh": "設備範圍",
+   "en": "Equipment scope",
+   "ko": "설비 범위"
+  },
+  {
+   "id": "27a1b928",
+   "vi": "Động cơ servo",
+   "zh": "伺服馬達",
+   "en": "Servo motor",
+   "ko": "서보 모터"
+  },
+  {
+   "id": "2021c80c",
+   "vi": "SVMF, 0,75–132 kW, IP54 / IP23",
+   "zh": "SVMF，0.75–132 kW，IP54／IP23",
+   "en": "SVMF, 0.75–132 kW, IP54 / IP23",
+   "ko": "SVMF, 0.75–132 kW, IP54 / IP23"
+  },
+  {
+   "id": "86c492c8",
+   "vi": "VFI-CG80, cấp 220 V 2–25 HP, cấp 440 V 2–400 HP",
+   "zh": "VFI-CG80，220 V 級 2–25 HP，440 V 級 2–400 HP",
+   "en": "VFI-CG80, 220 V class 2–25 HP, 440 V class 2–400 HP",
+   "ko": "VFI-CG80, 220 V급 2–25 HP, 440 V급 2–400 HP"
+  },
+  {
+   "id": "33e98b4b",
+   "vi": "CG, 2 / 4 / 8 trục",
+   "zh": "CG 全數位式，2／4／8 軸",
+   "en": "CG, 2 / 4 / 8 axis",
+   "ko": "CG, 2 / 4 / 8축"
+  },
+  {
+   "id": "66730a32",
+   "vi": "Encoder bánh xe đo, vòng kín",
+   "zh": "量測輪編碼器，全閉迴路",
+   "en": "Measuring-roll encoder, closed loop",
+   "ko": "측장 롤 엔코더, 폐루프"
+  },
+  {
+   "id": "9a2760e5",
+   "vi": "Tủ điều khiển, tủ MCC, PLC theo dây chuyền",
+   "zh": "控制盤、MCC 盤、PLC，依產線配置",
+   "en": "Control panel, MCC panel, PLC as the line requires",
+   "ko": "제어반, MCC반, PLC(라인 구성에 따라)"
+  },
+  {
+   "id": "9df5550c",
+   "vi": "Độ dày, khổ rộng, tốc độ tối đa",
+   "zh": "板厚、板寬、最高線速",
+   "en": "Thickness, width, max. speed",
+   "ko": "두께, 폭, 최고 속도"
+  },
+  {
+   "id": "b00ccb4d",
+   "vi": "Theo từng dây chuyền, ghi trong đề xuất kỹ thuật",
+   "zh": "依各產線確認，寫入技術提案",
+   "en": "Per line, stated in the technical proposal",
+   "ko": "라인별로 확인하여 기술 제안서에 명시"
+  },
+  {
+   "id": "c1fe047d",
+   "vi": "Quy trình làm việc",
+   "zh": "合作流程",
+   "en": "How the work runs",
+   "ko": "진행 절차"
+  },
+  {
+   "id": "5164fad0",
+   "vi": "Gửi thông số",
+   "zh": "提供產線資料",
+   "en": "Send line data",
+   "ko": "라인 자료 송부"
+  },
+  {
+   "id": "77cc67b5",
+   "vi": "Tốc độ, độ dày, khổ rộng, sai số hiện tại, ảnh hoặc video qua Zalo.",
+   "zh": "線速、板厚、板寬、目前公差，並用 Zalo 傳照片或影片。",
+   "en": "Speed, thickness, width, current tolerance, photos or video.",
+   "ko": "속도, 두께, 폭, 현재 공차, 사진 또는 영상."
+  },
+  {
+   "id": "bb3b5ebd",
+   "vi": "Khảo sát",
+   "zh": "勘查評估",
+   "en": "Survey",
+   "ko": "현장 조사"
+  },
+  {
+   "id": "b567f5e9",
+   "vi": "Tại nhà máy hoặc từ dữ liệu đã gửi.",
+   "zh": "到廠勘查，或依您提供的資料評估。",
+   "en": "On site, or from the data you sent.",
+   "ko": "공장 방문 또는 보내 주신 자료로 검토."
+  },
+  {
+   "id": "7f8bd901",
+   "vi": "Đề xuất và báo giá",
+   "zh": "技術提案與報價",
+   "en": "Proposal and quotation",
+   "ko": "기술 제안과 견적"
+  },
+  {
+   "id": "0d3cc013",
+   "vi": "Phạm vi thay thế, thời gian dừng máy, bảo hành.",
+   "zh": "更換範圍、停機時間、保固。",
+   "en": "Replacement scope, downtime, warranty.",
+   "ko": "교체 범위, 정지 시간, 보증."
+  },
+  {
+   "id": "1d96408f",
+   "vi": "Thi công, nghiệm thu",
+   "zh": "施工與驗收",
+   "en": "Installation and acceptance",
+   "ko": "시공과 검수"
+  },
+  {
+   "id": "e051fd18",
+   "vi": "Đo chiều dài tấm cắt ở tốc độ vận hành thực tế.",
+   "zh": "在實際生產速度下量測裁切長度。",
+   "en": "Cut lengths measured at real operating speed.",
+   "ko": "실제 운전 속도에서 절단 길이를 측정."
+  },
+  {
+   "id": "fb7d5184",
+   "vi": "Gửi thông số dây chuyền để nhận báo giá",
+   "zh": "提供產線資料，索取改造報價",
+   "en": "Send your line data for a quote",
+   "ko": "라인 자료를 보내고 견적을 받으십시오"
+  },
+  {
+   "id": "89ad5dd2",
+   "vi": "Công ty",
+   "zh": "公司名稱",
+   "en": "Company",
+   "ko": "회사명"
+  },
+  {
+   "id": "1f29d26f",
+   "vi": "Công ty",
+   "zh": "公司",
+   "en": "Company",
+   "ko": "회사명"
+  },
+  {
+   "id": "25e5cc39",
+   "vi": "Người liên hệ",
+   "zh": "聯絡人",
+   "en": "Contact name",
+   "ko": "담당자"
+  },
+  {
+   "id": "7d7feae8",
+   "vi": "Người liên hệ",
+   "zh": "聯絡人",
+   "en": "Name",
+   "ko": "이름"
+  },
+  {
+   "id": "dc83e29e",
+   "vi": "Đồng ý báo giá",
+   "zh": "同意報價聯絡",
+   "en": "Consent: quote",
+   "ko": "동의: 견적"
+  },
+  {
+   "id": "5d7144b7",
+   "vi": "Gửi yêu cầu báo giá",
+   "zh": "送出詢價",
+   "en": "Send quote request",
+   "ko": "견적 요청 보내기"
+  }
+ ]
+}

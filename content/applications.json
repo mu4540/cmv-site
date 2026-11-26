@@ -1,0 +1,60 @@
+{
+ "strings": [
+  {
+   "id": "cd9d5cdf",
+   "vi": "Ứng dụng | Charger Mechatronic Việt Nam",
+   "zh": "產品應用 | Charger Mechatronic 越南",
+   "en": "Applications | Charger Mechatronic Vietnam",
+   "ko": "응용 분야 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "66fedfab",
+   "vi": "Ứng dụng hệ thống điều khiển Charger Mechatronic: tự động hóa toàn nhà máy, dây chuyền cắt tấm, xả băng, máy cắt bay, cắt ống và các dây chuyền thép cuộn khác.",
+   "zh": "甲子機電控制系統的應用：整廠自動化生產線、停剪機、分條機、飛剪機、切管機與其他鋼捲產線。",
+   "en": "Applications of Charger Mechatronic control systems: whole-plant automation, cut-to-length, slitting, flying shear, tube cutting and other coil lines.",
+   "ko": "Charger Mechatronic 제어 시스템의 응용: 공장 전체 자동화, 정척 절단, 슬리팅, 플라잉 시어, 파이프 절단 및 기타 코일 라인."
+  },
+  {
+   "id": "0c008bb5",
+   "vi": "Hệ thống servo, biến tần và điều khiển của Charger Mechatronic chạy trên các dây chuyền gia công thép cuộn: từ một máy cắt đến cả nhà máy.",
+   "zh": "甲子機電的伺服、驅動與控制系統，應用於鋼捲加工產線：從單一裁切機到整廠產線。",
+   "en": "Charger Mechatronic servo, drive and control systems run coil-processing lines, from a single shear to a whole plant.",
+   "ko": "Charger Mechatronic의 서보, 드라이브, 제어 시스템은 절단기 한 대부터 공장 전체까지 코일 가공 라인에 적용됩니다."
+  },
+  {
+   "id": "ec6a5e6f",
+   "vi": "Điều khiển máy cắt ống và máy uốn ống CNC, NC chạy điện hoặc điện–thủy lực.",
+   "zh": "全系列全電/油電CNC,NC,CR智慧型彎管機研發。",
+   "en": "Controls for tube cut-off machines and all-electric or electro-hydraulic CNC/NC tube benders.",
+   "ko": "파이프 절단기와 전전동식·전동유압식 CNC/NC 파이프 벤더용 제어."
+  },
+  {
+   "id": "0b62c90c",
+   "vi": "Máy cắt bay đang chạy",
+   "zh": "運轉中的飛剪機",
+   "en": "Rotary shear in operation",
+   "ko": "가동 중인 로터리 시어"
+  },
+  {
+   "id": "c7f08796",
+   "vi": "Thay bộ điều khiển, servo, biến tần và encoder đo chiều dài; giữ lại phần cơ khí còn tốt.",
+   "zh": "更換控制器、伺服、驅動器與長度編碼器，保留狀況良好的機構。",
+   "en": "New controller, servo, drives and length encoder; sound mechanical parts stay.",
+   "ko": "컨트롤러, 서보, 드라이브, 측장 엔코더를 교체하고 양호한 기계부는 그대로 둡니다."
+  },
+  {
+   "id": "6575c000",
+   "vi": "Xem trang cải tạo",
+   "zh": "查看改造頁",
+   "en": "See the retrofit page",
+   "ko": "개조 페이지 보기"
+  },
+  {
+   "id": "4bfb14f9",
+   "vi": "Lợi ích",
+   "zh": "應用效益",
+   "en": "What plants gain",
+   "ko": "도입 효과"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "strings": [
+  {
+   "id": "6b11aa8c",
+   "vi": "Liên hệ | Charger Mechatronic Việt Nam",
+   "zh": "聯絡我們 | Charger Mechatronic 越南",
+   "en": "Contact | Charger Mechatronic Vietnam",
+   "ko": "문의 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "c4b6cf38",
+   "vi": "Liên hệ CMV: Số 933, đường Tạ Quang Bửu, Phường Bình Đông, Thành phố Hồ Chí Minh, Việt Nam. Tel 028 7302 0998, Zalo 0394 719 822. Biểu mẫu yêu cầu báo giá.",
+   "zh": "聯絡 CMV：No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam。電話 028 7302 0998，Zalo +84 394 719 822。詢價表單。",
+   "en": "Contact CMV: No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam. Tel 028 7302 0998, Zalo +84 394 719 822. Quote request form.",
+   "ko": "CMV 문의: No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam. 전화 028 7302 0998, Zalo +84 394 719 822. 견적 요청 양식."
+  },
+  {
+   "id": "f4eeb379",
+   "vi": "Bao lâu thì CMV trả lời?",
+   "zh": "CMV 多久回覆？",
+   "en": "How soon does CMV reply?",
+   "ko": "CMV는 얼마나 빨리 답변합니까?"
+  },
+  {
+   "id": "d0cd7a98",
+   "vi": "Trong giờ làm việc, từ thứ Hai đến thứ Sáu (giờ Việt Nam).",
+   "zh": "週一至週五上班時間內回覆（越南時間）。",
+   "en": "Within business hours, Monday to Friday (Vietnam time).",
+   "ko": "월요일–금요일 업무 시간(베트남 시간) 내에 답변드립니다."
+  },
+  {
+   "id": "4f81f855",
+   "vi": "Biểu mẫu được gửi đi đâu?",
+   "zh": "表單會送到哪裡？",
+   "en": "Where does the form go?",
+   "ko": "양식은 어디로 전송됩니까?"
+  },
+  {
+   "id": "e09e56d7",
+   "vi": "Nội dung biểu mẫu được gửi bằng email tới hộp thư của CMV. Bạn cũng có thể nhắn Zalo hoặc gọi điện trực tiếp.",
+   "zh": "表單內容會以 Email 寄到 CMV 信箱。您也可以直接用 Zalo 傳訊或來電。",
+   "en": "The form is sent by email to CMV's mailbox. You can also message on Zalo or call directly.",
+   "ko": "양식 내용은 이메일로 CMV 메일함에 전송됩니다. Zalo 메시지나 전화로 직접 문의하셔도 됩니다."
+  },
+  {
+   "id": "75afad57",
+   "vi": "Nên chuẩn bị gì trước khi liên hệ?",
+   "zh": "聯絡前要準備什麼？",
+   "en": "What should I prepare before contacting?",
+   "ko": "문의 전에 무엇을 준비하면 좋습니까?"
+  },
+  {
+   "id": "d7f37924",
+   "vi": "Loại dây chuyền, tốc độ, độ dày và khổ rộng vật liệu, sai số hiện tại, thiết bị đang dùng và ảnh hoặc video.",
+   "zh": "產線類型、線速、板厚與板寬、目前公差、現有設備，以及照片或影片。",
+   "en": "Line type, speed, material thickness and width, current tolerance, the equipment in use and photos or video.",
+   "ko": "라인 종류, 속도, 소재 두께와 폭, 현재 공차, 사용 중인 설비, 사진 또는 영상입니다."
+  },
+  {
+   "id": "6610db4b",
+   "vi": "Gọi, nhắn Zalo hoặc gửi biểu mẫu. CMV trả lời trong giờ làm việc, thứ Hai đến thứ Sáu.",
+   "zh": "歡迎來電、用 Zalo 傳訊或填寫表單。CMV 於週一至週五上班時間回覆（越南時間）。",
+   "en": "Call, message on Zalo or send the form. CMV replies within business hours, Monday to Friday (Vietnam time).",
+   "ko": "전화, Zalo 메시지 또는 양식으로 문의해 주십시오. CMV는 월요일–금요일 업무 시간(베트남 시간)에 답변드립니다."
+  },
+  {
+   "id": "88e059bc",
+   "vi": "Gửi yêu cầu báo giá",
+   "zh": "填寫詢價表單",
+   "en": "Send a quote request",
+   "ko": "견적 요청 양식"
+  },
+  {
+   "id": "27e4c97a",
+   "vi": "Địa chỉ",
+   "zh": "聯絡資訊",
+   "en": "Locations",
+   "ko": "연락처"
+  },
+  {
+   "id": "d1b41914",
+   "vi": "Hỗ trợ trực tuyến của công ty mẹ",
+   "zh": "母公司線上客服",
+   "en": "Parent company online service",
+   "ko": "모회사 온라인 상담"
+  },
+  {
+   "id": "9caff452",
+   "vi": "LINE của Charger Mechatronic (Đài Loan) và WeChat của Quadrant (Thượng Hải). Khách hàng tại Việt Nam vui lòng dùng Zalo của CMV.",
+   "zh": "甲子機電（台灣）LINE 與廣權機電（上海）WeChat。越南客戶請使用 CMV 的 Zalo。",
+   "en": "LINE for Charger Mechatronic (Taiwan) and WeChat for Quadrant (Shanghai). Customers in Vietnam: please use CMV's Zalo.",
+   "ko": "Charger Mechatronic(대만)의 LINE과 Quadrant(상하이)의 WeChat입니다. 베트남 고객은 CMV의 Zalo를 이용해 주십시오."
+  },
+  {
+   "id": "b2f3093a",
+   "vi": "Mã QR LINE: Charger Mechatronic, hỗ trợ trực tuyến",
+   "zh": "LINE QR code：甲子機電線上客服",
+   "en": "LINE QR code: Charger Mechatronic online service",
+   "ko": "LINE QR 코드: Charger Mechatronic 온라인 상담"
+  },
+  {
+   "id": "7420a48e",
+   "vi": "Mã QR WeChat: Quadrant, hỗ trợ trực tuyến",
+   "zh": "WeChat QR code：廣權機電線上客服",
+   "en": "WeChat QR code: Quadrant online service",
+   "ko": "WeChat QR 코드: Quadrant 온라인 상담"
+  }
+ ]
+}

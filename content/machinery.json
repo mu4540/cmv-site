@@ -1,0 +1,137 @@
+{
+ "strings": [
+  {
+   "id": "cb84308f",
+   "vi": "Máy móc thiết bị | Charger Mechatronic Việt Nam",
+   "zh": "機械設備 | Charger Mechatronic 越南",
+   "en": "Machinery | Charger Mechatronic Vietnam",
+   "ko": "기계 설비 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "d96bbdfc",
+   "vi": "CMV phân phối dây chuyền cắt bay, xả băng, cắt tấm cho thép cuộn từ Đài Loan và Trung Quốc, và là đại lý độc quyền thiết bị thùng carton Sunrise Machinery.",
+   "zh": "CMV 代理台灣與中國大陸的飛剪、分條、停剪產線，並為長聲工業瓦楞紙箱設備獨家代理。",
+   "en": "CMV distributes rotary shear, slitting and cut-to-length lines from Taiwan and China and is the exclusive agent for Sunrise Machinery corrugated box equipment.",
+   "ko": "CMV는 대만과 중국의 로터리 시어, 슬리팅, 정척 절단 라인을 판매하며 Sunrise Machinery 골판지 상자 설비의 독점 대리점입니다."
+  },
+  {
+   "id": "5d84525e",
+   "vi": "Ngoài điện điều khiển, CMV còn phân phối máy và dây chuyền gia công cho ngành thép và ngành bao bì giấy.",
+   "zh": "除了電控系統，CMV 也代理鋼鐵業與紙業的加工機械與產線。",
+   "en": "Beyond electrical controls, CMV also distributes machines and processing lines for the steel and paper packaging industries.",
+   "ko": "CMV는 전기 제어 외에 철강 및 제지 포장 산업용 기계와 가공 라인도 판매합니다."
+  },
+  {
+   "id": "73e9e196",
+   "vi": "Dây chuyền gia công nguội thép cuộn",
+   "zh": "鋼捲冷加工產線",
+   "en": "Cold-processing lines for steel coil",
+   "ko": "코일 냉간 가공 라인"
+  },
+  {
+   "id": "daa6b87f",
+   "vi": "CMV là đại lý cho các nhà chế tạo máy Đài Loan và Trung Quốc: máy cắt bay, dây chuyền xả băng, dây chuyền cắt tấm. Dây chuyền được cấp kèm điện điều khiển của Charger Mechatronic.",
+   "zh": "CMV 代理台灣與中國大陸機械廠的飛剪線、分條線與停剪線，並搭配甲子機電電控供應。",
+   "en": "CMV represents machine builders from Taiwan and China: rotary shear, slitting and cut-to-length lines, supplied with Charger Mechatronic electrical controls.",
+   "ko": "CMV는 대만과 중국 기계 제조사의 로터리 시어, 슬리팅, 정척 절단 라인을 Charger Mechatronic 전기 제어와 함께 공급합니다."
+  },
+  {
+   "id": "97a83a79",
+   "vi": "Thiết bị bao bì carton Sunrise Machinery",
+   "zh": "長聲工業（Sunrise Machinery）瓦楞紙箱設備",
+   "en": "Sunrise Machinery corrugated box equipment",
+   "ko": "Sunrise Machinery 골판지 상자 설비"
+  },
+  {
+   "id": "76753dda",
+   "vi": "CMV là đại lý độc quyền của Sunrise Machinery (長聲工業, Đài Loan), nhà chế tạo thiết bị sản xuất thùng carton sóng.",
+   "zh": "CMV 為長聲工業（Sunrise Machinery，台灣）的獨家代理，該公司製造瓦楞紙箱生產設備。",
+   "en": "CMV is the exclusive agent of Sunrise Machinery (長聲工業, Taiwan), a builder of corrugated box production equipment.",
+   "ko": "CMV는 골판지 상자 생산 설비 제조사인 Sunrise Machinery(長聲工業, 대만)의 독점 대리점입니다."
+  },
+  {
+   "id": "34699d8e",
+   "vi": "Danh mục máy và thông số: xem trang của nhà chế tạo hoặc liên hệ CMV.",
+   "zh": "機種與規格請參考原廠網站，或與 CMV 聯絡。",
+   "en": "For the machine range and specifications, see the builder's site or contact CMV.",
+   "ko": "기종과 사양은 제조사 웹사이트를 참고하거나 CMV에 문의하십시오."
+  },
+  {
+   "id": "78ccd636",
+   "vi": "Dịch vụ đi kèm",
+   "zh": "配套服務",
+   "en": "Services with the machines",
+   "ko": "함께 제공하는 서비스"
+  },
+  {
+   "id": "64d57ada",
+   "vi": "Tư vấn chọn dây chuyền theo vật liệu, độ dày, khổ rộng và sản lượng",
+   "zh": "依材質、板厚、板寬與產量協助選擇產線",
+   "en": "Line selection by material, thickness, width and output",
+   "ko": "소재, 두께, 폭, 생산량에 따른 라인 선정 지원"
+  },
+  {
+   "id": "fa129623",
+   "vi": "Điện điều khiển, tủ điện và lắp đặt tại nhà máy",
+   "zh": "電控、電控盤與現場安裝",
+   "en": "Electrical controls, panels and on-site installation",
+   "ko": "전기 제어, 제어반, 현장 설치"
+  },
+  {
+   "id": "0bb3c614",
+   "vi": "Hiệu chỉnh, bàn giao và đào tạo vận hành",
+   "zh": "調試、交機與操作訓練",
+   "en": "Commissioning, handover and operator training",
+   "ko": "시운전, 인도, 운전 교육"
+  },
+  {
+   "id": "72d56835",
+   "vi": "Phụ tùng và hỗ trợ kỹ thuật tại Việt Nam",
+   "zh": "越南當地備品與技術支援",
+   "en": "Spare parts and technical support in Vietnam",
+   "ko": "베트남 현지 예비 부품과 기술 지원"
+  },
+  {
+   "id": "b0d69f19",
+   "vi": "CMV phân phối những máy nào?",
+   "zh": "CMV 代理哪些機械？",
+   "en": "Which machines does CMV distribute?",
+   "ko": "CMV는 어떤 기계를 판매합니까?"
+  },
+  {
+   "id": "c199e7de",
+   "vi": "Dây chuyền gia công nguội thép cuộn từ Đài Loan và Trung Quốc (máy cắt bay, xả băng, cắt tấm) và thiết bị sản xuất thùng carton sóng của Sunrise Machinery.",
+   "zh": "台灣與中國大陸的鋼捲冷加工產線（飛剪、分條、停剪），以及長聲工業的瓦楞紙箱生產設備。",
+   "en": "Cold-processing lines for steel coil from Taiwan and China (rotary shear, slitting, cut-to-length) and Sunrise Machinery corrugated box equipment.",
+   "ko": "대만과 중국의 코일 냉간 가공 라인(로터리 시어, 슬리팅, 정척 절단)과 Sunrise Machinery의 골판지 상자 설비입니다."
+  },
+  {
+   "id": "3c061583",
+   "vi": "Máy có kèm điện điều khiển và lắp đặt không?",
+   "zh": "機械有含電控與安裝嗎？",
+   "en": "Do the machines come with electrical controls and installation?",
+   "ko": "기계에 전기 제어와 설치가 포함됩니까?"
+  },
+  {
+   "id": "f456dc40",
+   "vi": "Có. Dây chuyền thép cuộn được cấp kèm điện điều khiển của Charger Mechatronic; CMV lắp đặt, hiệu chỉnh và đào tạo vận hành tại nhà máy.",
+   "zh": "有。鋼捲產線搭配甲子機電電控供應，CMV 負責現場安裝、調試與操作訓練。",
+   "en": "Yes. Steel coil lines are supplied with Charger Mechatronic electrical controls; CMV installs, commissions and trains operators on site.",
+   "ko": "예. 코일 라인은 Charger Mechatronic 전기 제어와 함께 공급하며, CMV가 현장에서 설치, 시운전, 운전 교육을 수행합니다."
+  },
+  {
+   "id": "49d553c2",
+   "vi": "Cần thông tin gì để chọn dây chuyền?",
+   "zh": "選擇產線需要哪些資料？",
+   "en": "What is needed to select a line?",
+   "ko": "라인 선정에 필요한 정보는 무엇입니까?"
+  },
+  {
+   "id": "0d200f29",
+   "vi": "Vật liệu, độ dày, khổ rộng, trọng lượng cuộn và sản lượng mong muốn.",
+   "zh": "材質、板厚、板寬、鋼捲重量與目標產量。",
+   "en": "Material, thickness, width, coil weight and the output you need.",
+   "ko": "소재, 두께, 폭, 코일 중량, 목표 생산량입니다."
+  }
+ ]
+}

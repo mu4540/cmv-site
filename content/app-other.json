@@ -1,0 +1,102 @@
+{
+ "strings": [
+  {
+   "id": "edcd05f2",
+   "vi": "Ứng dụng khác | Charger Mechatronic Việt Nam",
+   "zh": "其他 | Charger Mechatronic 越南",
+   "en": "Other applications | Charger Mechatronic Vietnam",
+   "ko": "기타 응용 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "48ff7ba2",
+   "vi": "CMV cung cấp gì cho loại dây chuyền này?",
+   "zh": "這類產線 CMV 提供什麼？",
+   "en": "What does CMV supply for this kind of line?",
+   "ko": "이런 라인에 CMV는 무엇을 공급합니까?"
+  },
+  {
+   "id": "d9e10328",
+   "vi": "Thiết kế và tích hợp hệ thống điều khiển: động cơ servo, biến tần, bộ điều khiển, tủ điện, lắp đặt và hiệu chỉnh tại nhà máy.",
+   "zh": "控制系統設計與整合：伺服馬達、驅動器、控制器、電控盤，以及現場安裝與調試。",
+   "en": "Control system design and integration: servo motors, drives, controllers, panels, on-site installation and commissioning.",
+   "ko": "제어 시스템 설계와 통합: 서보 모터, 드라이브, 컨트롤러, 제어반, 현장 설치와 시운전."
+  },
+  {
+   "id": "7743bdf4",
+   "vi": "Cần gửi gì để nhận đề xuất?",
+   "zh": "要提供哪些資料才能取得提案？",
+   "en": "What should I send to get a proposal?",
+   "ko": "제안을 받으려면 무엇을 보내야 합니까?"
+  },
+  {
+   "id": "b991d9a9",
+   "vi": "Sơ đồ hoặc mô tả dây chuyền, vật liệu, độ dày, khổ rộng, tốc độ, thiết bị điện đang dùng, kèm ảnh hoặc video.",
+   "zh": "產線配置圖或說明、材質、板厚、板寬、線速、現有電控設備，並附照片或影片。",
+   "en": "The line layout or a description, material, thickness, width, speed and the electrical equipment in use, with photos or video.",
+   "ko": "라인 배치도 또는 설명, 소재, 두께, 폭, 속도, 사용 중인 전기 설비와 사진 또는 영상입니다."
+  },
+  {
+   "id": "f033ef3d",
+   "vi": "Dây chuyền đang chạy có cải tạo được không?",
+   "zh": "運轉中的產線可以改造嗎？",
+   "en": "Can a running line be retrofitted?",
+   "ko": "가동 중인 라인도 개조할 수 있습니까?"
+  },
+  {
+   "id": "1680e272",
+   "vi": "Thường là được. CMV xem hiện trạng rồi đề xuất phạm vi thay thế; thời gian dừng máy được ghi trong báo giá.",
+   "zh": "通常可以。CMV 評估現況後提出更換範圍，停機時間會寫在報價中。",
+   "en": "Usually yes. CMV reviews the line and proposes the replacement scope; downtime is stated in the quotation.",
+   "ko": "대부분 가능합니다. CMV가 라인을 검토한 뒤 교체 범위를 제안하며, 정지 시간은 견적서에 명시합니다."
+  },
+  {
+   "id": "dfe000b2",
+   "vi": "Sơ đồ hệ thống điều khiển: Ứng dụng khác. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+   "zh": "其他 控制系統架構圖. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+   "en": "Control system diagram: Other applications. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+   "ko": "기타 응용 제어 시스템 구성도. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels."
+  },
+  {
+   "id": "4991e998",
+   "vi": "Ứng dụng khác: Ứng dụng rộng rãi trong nhiều ngành",
+   "zh": "其他: 廣泛應用於各產業",
+   "en": "Other applications: Used widely across industries",
+   "ko": "기타 응용: 다양한 산업에 폭넓게 적용"
+  },
+  {
+   "id": "f2eb6655",
+   "vi": "Ứng dụng khác: Tiết kiệm thời gian, công sức và chi phí",
+   "zh": "其他: 具省時、省力、低成本優勢",
+   "en": "Other applications: Saves time, labour and cost",
+   "ko": "기타 응용: 시간, 인력, 비용 절감"
+  },
+  {
+   "id": "31f9dc07",
+   "vi": "Ứng dụng khác: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+   "zh": "其他: 結合電腦網路設備，快速演算",
+   "en": "Other applications: Fast computation with networked computer equipment",
+   "ko": "기타 응용: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+  },
+  {
+   "id": "04d3133b",
+   "vi": "Ứng dụng khác: Chất lượng sản phẩm ổn định",
+   "zh": "其他: 生產產品品質穩定",
+   "en": "Other applications: Stable product quality",
+   "ko": "기타 응용: 안정된 제품 품질"
+  },
+  {
+   "id": "2c5fda57",
+   "vi": "Ứng dụng khác: Giảm nhân lực vận hành",
+   "zh": "其他: 有效降低人力使用",
+   "en": "Other applications: Fewer operators needed",
+   "ko": "기타 응용: 운전 인력 절감"
+  },
+  {
+   "id": "4a0cf494",
+   "vi": "Ứng dụng khác: Thao tác đơn giản",
+   "zh": "其他: 簡單的操作模式",
+   "en": "Other applications: Simple operation",
+   "ko": "기타 응용: 간단한 조작"
+  }
+ ]
+}

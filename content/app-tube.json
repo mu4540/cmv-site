@@ -1,0 +1,256 @@
+{
+ "strings": [
+  {
+   "id": "51ea0307",
+   "vi": "Điều khiển máy cắt ống, uốn ống | Charger Mechatronic Việt Nam",
+   "zh": "切管機、彎管機電控 | Charger Mechatronic 越南",
+   "en": "Tube cutting and bending control | Charger Mechatronic Vietnam",
+   "ko": "파이프 절단·벤딩 제어 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "cb0394b8",
+   "vi": "Hệ điều khiển cho máy cắt ống theo chiều dài và máy uốn ống CNC/NC, dùng PLC hoặc bộ điều khiển PC-based, với servo và biến tần của Charger Mechatronic.",
+   "zh": "定尺切管機與 CNC／NC 彎管機電控系統，採 PLC 或 PC-based 控制器，搭配甲子機電伺服馬達與驅動器。",
+   "en": "Control systems for tube cut-off machines and CNC/NC tube benders, using a PLC or PC-based controller with Charger Mechatronic servo motors and drives.",
+   "ko": "파이프 절단기와 CNC/NC 파이프 벤더용 제어 시스템: PLC 또는 PC 기반 컨트롤러에 Charger Mechatronic 서보 모터와 드라이브를 사용합니다."
+  },
+  {
+   "id": "588d1879",
+   "vi": "Có hỗ trợ máy uốn ống không?",
+   "zh": "有支援彎管機嗎？",
+   "en": "Do you support tube benders?",
+   "ko": "파이프 벤더도 지원합니까?"
+  },
+  {
+   "id": "e03eddb7",
+   "vi": "Có. CMV cung cấp phần điều khiển cho máy uốn ống CNC/NC.",
+   "zh": "有。CMV 提供 CNC／NC 彎管機的電控。",
+   "en": "Yes. CMV supplies controls for CNC/NC tube benders.",
+   "ko": "예. CMV는 CNC/NC 파이프 벤더용 제어를 공급합니다."
+  },
+  {
+   "id": "ae9b6d20",
+   "vi": "Cần thông tin gì để báo giá?",
+   "zh": "詢價需要哪些資料？",
+   "en": "What is needed for a quote?",
+   "ko": "견적에 필요한 자료는 무엇입니까?"
+  },
+  {
+   "id": "4e5ab8d3",
+   "vi": "Đường kính và độ dày ống, chiều dài cắt, tốc độ, bộ điều khiển đang dùng, kèm ảnh hoặc video.",
+   "zh": "管徑與管壁厚度、切斷長度、速度、現有控制器，並附照片或影片。",
+   "en": "Tube diameter and wall thickness, cut length, speed, the existing controller, with photos or video.",
+   "ko": "파이프 지름과 두께, 절단 길이, 속도, 기존 컨트롤러 정보와 사진 또는 영상입니다."
+  },
+  {
+   "id": "306694ce",
+   "vi": "Nhà máy thép ống cắt ống theo chiều dài",
+   "zh": "定尺切管的製管廠",
+   "en": "Pipe mills cutting tube to length",
+   "ko": "파이프를 정척 절단하는 파이프 공장"
+  },
+  {
+   "id": "190898d7",
+   "vi": "Xưởng gia công ống dùng máy uốn ống CNC/NC",
+   "zh": "使用 CNC／NC 彎管機的管件加工廠",
+   "en": "Tube fabricators running CNC/NC benders",
+   "ko": "CNC/NC 벤더를 사용하는 파이프 가공 업체"
+  },
+  {
+   "id": "04621f51",
+   "vi": "Máy cắt, uốn ống cũ cần thay bộ điều khiển",
+   "zh": "需要更換控制器的舊切管、彎管機",
+   "en": "Older cut-off and bending machines that need a new controller",
+   "ko": "컨트롤러 교체가 필요한 노후 절단기·벤딩기"
+  },
+  {
+   "id": "bfc6b18b",
+   "vi": "Đường kính và độ dày ống",
+   "zh": "管徑與管壁厚度",
+   "en": "Tube diameter and wall thickness",
+   "ko": "파이프 지름과 두께"
+  },
+  {
+   "id": "b4460e63",
+   "vi": "Chiều dài cắt; góc và bán kính uốn (nếu có)",
+   "zh": "切斷長度；彎曲角度與半徑（如有）",
+   "en": "Cut length; bend angle and radius (if any)",
+   "ko": "절단 길이, 벤딩 각도와 반경(해당 시)"
+  },
+  {
+   "id": "b2a68274",
+   "vi": "Tốc độ hoặc năng suất",
+   "zh": "速度或產能",
+   "en": "Speed or output",
+   "ko": "속도 또는 생산량"
+  },
+  {
+   "id": "b5cdb6bd",
+   "vi": "Bộ điều khiển đang dùng",
+   "zh": "現有控制器",
+   "en": "Existing controller",
+   "ko": "기존 컨트롤러"
+  },
+  {
+   "id": "b6d444e5",
+   "vi": "Ảnh hoặc video máy đang chạy",
+   "zh": "機台運轉中的照片或影片",
+   "en": "Photos or video of the machine running",
+   "ko": "장비가 가동 중인 사진 또는 영상"
+  },
+  {
+   "id": "83513f35",
+   "vi": "Chiều dài cắt ống",
+   "zh": "切管長度",
+   "en": "Tube cut length",
+   "ko": "파이프 절단 길이"
+  },
+  {
+   "id": "7ceb86a6",
+   "vi": "Sai số lớn",
+   "zh": "誤差大",
+   "en": "Wide tolerance",
+   "ko": "오차가 큼"
+  },
+  {
+   "id": "afd4e630",
+   "vi": "Đo chiều dài bằng encoder",
+   "zh": "編碼器量測長度",
+   "en": "Length measurement by encoder",
+   "ko": "엔코더로 길이 측정"
+  },
+  {
+   "id": "3c5406c5",
+   "vi": "Lập trình uốn",
+   "zh": "彎管程式",
+   "en": "Bend programming",
+   "ko": "벤딩 프로그램"
+  },
+  {
+   "id": "9742c665",
+   "vi": "Khó lập trình lại",
+   "zh": "難以重新編寫",
+   "en": "Hard to reprogram",
+   "ko": "재프로그래밍이 어려움"
+  },
+  {
+   "id": "64d5e5f0",
+   "vi": "Bộ điều khiển PLC hoặc PC-based mới",
+   "zh": "全新 PLC 或 PC-based 控制器",
+   "en": "New PLC or PC-based controller",
+   "ko": "새 PLC 또는 PC 기반 컨트롤러"
+  },
+  {
+   "id": "d17e1977",
+   "vi": "Phụ tùng",
+   "zh": "備品",
+   "en": "Spare parts",
+   "ko": "예비 부품"
+  },
+  {
+   "id": "4afe20c0",
+   "vi": "Bộ điều khiển cũ hết phụ tùng",
+   "zh": "舊控制器已無備品",
+   "en": "None left for the old controller",
+   "ko": "기존 컨트롤러는 부품이 단종됨"
+  },
+  {
+   "id": "cf3109d5",
+   "vi": "Thiết bị và phụ tùng qua CMV tại Việt Nam",
+   "zh": "設備與備品由越南 CMV 供應",
+   "en": "Equipment and parts through CMV in Vietnam",
+   "ko": "장비와 부품을 베트남 CMV를 통해 공급"
+  },
+  {
+   "id": "9a5ae146",
+   "vi": "PLC hoặc PC-based",
+   "zh": "PLC 或 PC-based",
+   "en": "PLC or PC-based",
+   "ko": "PLC 또는 PC 기반"
+  },
+  {
+   "id": "8b810cf1",
+   "vi": "Truyền động",
+   "zh": "傳動",
+   "en": "Drive train",
+   "ko": "구동부"
+  },
+  {
+   "id": "0b2b1455",
+   "vi": "Encoder",
+   "zh": "編碼器",
+   "en": "Encoder",
+   "ko": "엔코더"
+  },
+  {
+   "id": "a6e2cc2d",
+   "vi": "Tủ điều khiển",
+   "zh": "控制盤",
+   "en": "Control panel",
+   "ko": "제어반"
+  },
+  {
+   "id": "22a15350",
+   "vi": "Đường kính, độ dày, tốc độ",
+   "zh": "管徑、厚度、速度",
+   "en": "Diameter, thickness, speed",
+   "ko": "지름, 두께, 속도"
+  },
+  {
+   "id": "07d15e69",
+   "vi": "Xác nhận theo từng máy trong đề xuất kỹ thuật",
+   "zh": "依各機台確認，寫入技術提案",
+   "en": "Confirmed per machine in the technical proposal",
+   "ko": "장비별로 확인하여 기술 제안서에 명시"
+  },
+  {
+   "id": "fe1ed375",
+   "vi": "Sơ đồ hệ thống điều khiển: Máy cắt ống, uốn ống. 切管機 (tube cut-off) system diagram: tube, Saw on Carriage with rack and pinion, motor, DRIVE, Controller, HMI.",
+   "zh": "切管機 控制系統架構圖. 切管機 (tube cut-off) system diagram: tube, Saw on Carriage with rack and pinion, motor, DRIVE, Controller, HMI.",
+   "en": "Control system diagram: Tube cutting and bending. 切管機 (tube cut-off) system diagram: tube, Saw on Carriage with rack and pinion, motor, DRIVE, Controller, HMI.",
+   "ko": "파이프 절단·벤딩 제어 시스템 구성도. 切管機 (tube cut-off) system diagram: tube, Saw on Carriage with rack and pinion, motor, DRIVE, Controller, HMI."
+  },
+  {
+   "id": "d678c090",
+   "vi": "Máy cắt ống, uốn ống: Ứng dụng rộng rãi trong nhiều ngành",
+   "zh": "切管機: 廣泛應用於各產業",
+   "en": "Tube cutting and bending: Used widely across industries",
+   "ko": "파이프 절단·벤딩: 다양한 산업에 폭넓게 적용"
+  },
+  {
+   "id": "2d05bd72",
+   "vi": "Máy cắt ống, uốn ống: Tiết kiệm thời gian, công sức và chi phí",
+   "zh": "切管機: 具省時、省力、低成本優勢",
+   "en": "Tube cutting and bending: Saves time, labour and cost",
+   "ko": "파이프 절단·벤딩: 시간, 인력, 비용 절감"
+  },
+  {
+   "id": "de1191ae",
+   "vi": "Máy cắt ống, uốn ống: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+   "zh": "切管機: 結合電腦網路設備，快速演算",
+   "en": "Tube cutting and bending: Fast computation with networked computer equipment",
+   "ko": "파이프 절단·벤딩: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+  },
+  {
+   "id": "583938d7",
+   "vi": "Máy cắt ống, uốn ống: Chất lượng sản phẩm ổn định",
+   "zh": "切管機: 生產產品品質穩定",
+   "en": "Tube cutting and bending: Stable product quality",
+   "ko": "파이프 절단·벤딩: 안정된 제품 품질"
+  },
+  {
+   "id": "64192814",
+   "vi": "Máy cắt ống, uốn ống: Giảm nhân lực vận hành",
+   "zh": "切管機: 有效降低人力使用",
+   "en": "Tube cutting and bending: Fewer operators needed",
+   "ko": "파이프 절단·벤딩: 운전 인력 절감"
+  },
+  {
+   "id": "439fb28d",
+   "vi": "Máy cắt ống, uốn ống: Thao tác đơn giản",
+   "zh": "切管機: 簡單的操作模式",
+   "en": "Tube cutting and bending: Simple operation",
+   "ko": "파이프 절단·벤딩: 간단한 조작"
+  }
+ ]
+}

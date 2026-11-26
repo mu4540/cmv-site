@@ -1,0 +1,307 @@
+# Pages CMS configuration (https://pagescms.org). Text and pictures are edited here; layout lives in templates/.
+media:
+  input: static/assets/img
+  output: /assets/img
+  extensions: [webp, jpg, jpeg, png, gif, svg]
+
+components:
+  sentence:
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{vi}"
+    fields:
+      - name: id
+        label: ID（請勿修改）
+        type: string
+        readonly: true
+      - name: vi
+        label: Tiếng Việt
+        type: text
+      - name: zh
+        label: 繁體中文
+        type: text
+      - name: en
+        label: English
+        type: text
+      - name: ko
+        label: 한국어
+        type: text
+
+content:
+  - name: home
+    label: "首頁"
+    type: file
+    path: content/home.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: common
+    label: "共用文字（選單、頁尾、表單、按鈕）"
+    type: file
+    path: content/common.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: about
+    label: "公司沿革"
+    type: file
+    path: content/about.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: products
+    label: "產品介紹與四個產品列表"
+    type: file
+    path: content/products.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: product-motors-svmf
+    label: "產品頁：SVMF 馬達"
+    type: file
+    path: content/product-motors-svmf.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: product-motors-svmj
+    label: "產品頁：SVMJ 馬達"
+    type: file
+    path: content/product-motors-svmj.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: product-drives
+    label: "產品頁：驅動器"
+    type: file
+    path: content/product-drives.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: product-other
+    label: "產品頁：控制器與其他"
+    type: file
+    path: content/product-other.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: applications
+    label: "產品應用總覽"
+    type: file
+    path: content/applications.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-flying-shear
+    label: "應用：飛剪機"
+    type: file
+    path: content/app-flying-shear.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-cut-to-length
+    label: "應用：停剪機"
+    type: file
+    path: content/app-cut-to-length.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-slitting
+    label: "應用：分條機"
+    type: file
+    path: content/app-slitting.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-tube
+    label: "應用：切管機"
+    type: file
+    path: content/app-tube.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-whole-plant
+    label: "應用：整廠自動化"
+    type: file
+    path: content/app-whole-plant.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: app-other
+    label: "應用：其他"
+    type: file
+    path: content/app-other.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: retrofit
+    label: "飛剪改造"
+    type: file
+    path: content/retrofit.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: machinery
+    label: "機械設備"
+    type: file
+    path: content/machinery.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: reality
+    label: "實境應用"
+    type: file
+    path: content/reality.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: customers
+    label: "客戶群體"
+    type: file
+    path: content/customers.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: service
+    label: "全球服務"
+    type: file
+    path: content/service.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: group
+    label: "集團據點"
+    type: file
+    path: content/group.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: contact
+    label: "聯絡我們"
+    type: file
+    path: content/contact.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: quote
+    label: "報價頁（僅越文）"
+    type: file
+    path: content/quote.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: privacy
+    label: "隱私權政策（僅越文）"
+    type: file
+    path: content/privacy.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: notfound
+    label: "404 頁面"
+    type: file
+    path: content/notfound.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
+  - name: images
+    label: "圖片更換"
+    type: file
+    path: content/images.json
+    format: json
+    fields:
+      - name: images
+        label: 圖片（在「image」欄上傳新圖即可替換）
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{where}"
+        fields:
+          - name: where
+            label: 出現位置
+            type: string
+            readonly: true
+          - name: original
+            label: 原始檔案（請勿修改）
+            type: string
+            readonly: true
+          - name: image
+            label: 目前使用的圖片
+            type: image
+  - name: company
+    label: "公司聯絡資料"
+    type: file
+    path: content/company.json
+    format: json
+    fields:
+      - name: details
+        label: 聯絡資料（改「value」欄，全站一起更新）
+        type: object
+        list:
+          collapsible:
+            collapsed: false
+            summary: "{label}"
+        fields:
+          - name: label
+            label: 項目
+            type: string
+            readonly: true
+          - name: original
+            label: 原始值（請勿修改）
+            type: string
+            readonly: true
+          - name: value
+            label: 目前的值
+            type: string

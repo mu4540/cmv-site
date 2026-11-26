@@ -1,0 +1,1061 @@
+{
+ "strings": [
+  {
+   "id": "3267e27d",
+   "vi": "Trang chủ",
+   "zh": "首頁",
+   "en": "Home",
+   "ko": "홈"
+  },
+  {
+   "id": "7135eaa6",
+   "vi": "Ứng dụng",
+   "zh": "產品應用",
+   "en": "Applications",
+   "ko": "응용 분야"
+  },
+  {
+   "id": "dc2b8c60",
+   "vi": "Chuyển đến nội dung chính",
+   "zh": "跳到主要內容",
+   "en": "Skip to main content",
+   "ko": "본문으로 건너뛰기"
+  },
+  {
+   "id": "17d1d34a",
+   "vi": "Việt Nam · 甲子機電",
+   "zh": "越南 · 甲子機電",
+   "en": "Vietnam · 甲子機電",
+   "ko": "베트남 · 甲子機電"
+  },
+  {
+   "id": "5189d0f3",
+   "vi": "Điều hướng chính",
+   "zh": "主選單",
+   "en": "Main navigation",
+   "ko": "주 메뉴"
+  },
+  {
+   "id": "6f92d309",
+   "vi": "Sản phẩm",
+   "zh": "產品介紹",
+   "en": "Products",
+   "ko": "제품 소개"
+  },
+  {
+   "id": "d7fc28bf",
+   "vi": "Tất cả sản phẩm",
+   "zh": "全部產品",
+   "en": "All products",
+   "ko": "전체 제품"
+  },
+  {
+   "id": "f1abb3e0",
+   "vi": "Động cơ servo AC",
+   "zh": "交流伺服馬達",
+   "en": "AC Servo Motor",
+   "ko": "AC 서보 모터"
+  },
+  {
+   "id": "9b6904a5",
+   "vi": "Biến tần servo vector",
+   "zh": "向量伺服驅動器",
+   "en": "Vector Servo Drive",
+   "ko": "벡터 서보 드라이브"
+  },
+  {
+   "id": "e96e55a2",
+   "vi": "Bộ điều khiển số",
+   "zh": "全數位式控制器",
+   "en": "Full Digital Controller",
+   "ko": "풀 디지털 컨트롤러"
+  },
+  {
+   "id": "7c3b8fd4",
+   "vi": "Sản phẩm khác",
+   "zh": "其他",
+   "en": "Other Products",
+   "ko": "기타 제품"
+  },
+  {
+   "id": "16bc2e36",
+   "vi": "Tổng quan ứng dụng",
+   "zh": "應用總覽",
+   "en": "Applications overview",
+   "ko": "응용 개요"
+  },
+  {
+   "id": "037d50c3",
+   "vi": "Tự động hóa toàn nhà máy",
+   "zh": "整廠自動化生產線",
+   "en": "Whole-plant automation lines",
+   "ko": "공장 전체 자동화 라인"
+  },
+  {
+   "id": "d2077920",
+   "vi": "Dây chuyền cắt tấm",
+   "zh": "停剪機",
+   "en": "Cut-to-length (stop shear) line",
+   "ko": "정척 절단(스톱 시어) 라인"
+  },
+  {
+   "id": "659e098b",
+   "vi": "Dây chuyền xả băng",
+   "zh": "分條機",
+   "en": "Slitting line",
+   "ko": "슬리팅 라인"
+  },
+  {
+   "id": "b781587e",
+   "vi": "Máy cắt bay",
+   "zh": "飛剪機",
+   "en": "Flying shear (rotary shear)",
+   "ko": "플라잉 시어(로터리 시어)"
+  },
+  {
+   "id": "9624b224",
+   "vi": "Máy cắt ống, uốn ống",
+   "zh": "切管機",
+   "en": "Tube cutting and bending",
+   "ko": "파이프 절단·벤딩"
+  },
+  {
+   "id": "45f656de",
+   "vi": "Ứng dụng khác",
+   "zh": "其他",
+   "en": "Other applications",
+   "ko": "기타 응용"
+  },
+  {
+   "id": "770de73a",
+   "vi": "Cải tạo máy cắt bay",
+   "zh": "飛剪改造",
+   "en": "Rotary shear retrofit",
+   "ko": "로터리 시어 개조"
+  },
+  {
+   "id": "1c1649cc",
+   "vi": "Máy móc",
+   "zh": "機械設備",
+   "en": "Machinery",
+   "ko": "기계 설비"
+  },
+  {
+   "id": "a63cecd0",
+   "vi": "Hình ảnh",
+   "zh": "實境應用",
+   "en": "On site",
+   "ko": "현장 사진"
+  },
+  {
+   "id": "55f149a8",
+   "vi": "Công ty",
+   "zh": "關於我們",
+   "en": "Company",
+   "ko": "회사 소개"
+  },
+  {
+   "id": "1ab00c25",
+   "vi": "Lịch sử công ty",
+   "zh": "公司沿革",
+   "en": "About us",
+   "ko": "회사 연혁"
+  },
+  {
+   "id": "5ff6e0dc",
+   "vi": "Khách hàng",
+   "zh": "客戶群體",
+   "en": "Customers",
+   "ko": "고객"
+  },
+  {
+   "id": "6986cb4f",
+   "vi": "Dịch vụ toàn cầu",
+   "zh": "全球服務",
+   "en": "Global service",
+   "ko": "글로벌 서비스"
+  },
+  {
+   "id": "1ffe891c",
+   "vi": "Công ty trong tập đoàn",
+   "zh": "集團據點",
+   "en": "Group companies",
+   "ko": "그룹 거점"
+  },
+  {
+   "id": "ecaf6a53",
+   "vi": "Liên hệ",
+   "zh": "聯絡我們",
+   "en": "Contact",
+   "ko": "문의"
+  },
+  {
+   "id": "28ddd9a3",
+   "vi": "Ngôn ngữ",
+   "zh": "語言",
+   "en": "Language",
+   "ko": "언어"
+  },
+  {
+   "id": "3589544f",
+   "vi": "Yêu cầu báo giá",
+   "zh": "索取報價",
+   "en": "Request a quote",
+   "ko": "견적 요청"
+  },
+  {
+   "id": "ca3ab141",
+   "vi": "Mở menu",
+   "zh": "開啟選單",
+   "en": "Open menu",
+   "ko": "메뉴 열기"
+  },
+  {
+   "id": "dba3eec7",
+   "vi": "Hạng mục",
+   "zh": "項目",
+   "en": "Item",
+   "ko": "항목"
+  },
+  {
+   "id": "9521e10c",
+   "vi": "Phù hợp với",
+   "zh": "適用對象",
+   "en": "Who it is for",
+   "ko": "적용 대상"
+  },
+  {
+   "id": "dd2b7f88",
+   "vi": "Thông tin cần gửi để báo giá",
+   "zh": "詢價時請提供",
+   "en": "What to send for a quote",
+   "ko": "견적에 필요한 자료"
+  },
+  {
+   "id": "6e3f69e2",
+   "vi": "Tốc độ dây chuyền (m/phút)",
+   "zh": "線速（m/min）",
+   "en": "Line speed (m/min)",
+   "ko": "라인 속도(m/min)"
+  },
+  {
+   "id": "5c8d1aef",
+   "vi": "Biến tần",
+   "zh": "驅動器",
+   "en": "Drive",
+   "ko": "드라이브"
+  },
+  {
+   "id": "18d9e267",
+   "vi": "Bộ điều khiển",
+   "zh": "控制器",
+   "en": "Controller",
+   "ko": "컨트롤러"
+  },
+  {
+   "id": "0d3189fe",
+   "vi": "Đo chiều dài",
+   "zh": "長度量測",
+   "en": "Length measurement",
+   "ko": "길이 측정"
+  },
+  {
+   "id": "4b87878c",
+   "vi": "Tủ điện",
+   "zh": "電控盤",
+   "en": "Panels",
+   "ko": "제어반"
+  },
+  {
+   "id": "b0c03bf8",
+   "vi": "Điều kiện thương mại",
+   "zh": "商務條件",
+   "en": "Commercial terms",
+   "ko": "거래 조건"
+  },
+  {
+   "id": "8df005de",
+   "vi": "Khảo sát",
+   "zh": "現場勘查",
+   "en": "Survey",
+   "ko": "현장 조사"
+  },
+  {
+   "id": "dd7c1b52",
+   "vi": "Tại nhà máy hoặc qua ảnh, video và thông số",
+   "zh": "到廠勘查，或依照片、影片與產線資料評估",
+   "en": "On site, or from photos, video and line data",
+   "ko": "공장 방문 또는 사진, 영상, 라인 자료로 검토"
+  },
+  {
+   "id": "b8a69655",
+   "vi": "Thời gian thi công, dừng máy",
+   "zh": "工期與停機時間",
+   "en": "Work time, downtime",
+   "ko": "공사 기간, 정지 시간"
+  },
+  {
+   "id": "ef0b2471",
+   "vi": "Ghi rõ trong báo giá",
+   "zh": "寫在報價中",
+   "en": "Stated in the quotation",
+   "ko": "견적서에 명시"
+  },
+  {
+   "id": "b30e73e6",
+   "vi": "Bảo hành",
+   "zh": "保固",
+   "en": "Warranty",
+   "ko": "보증"
+  },
+  {
+   "id": "ea98fcf9",
+   "vi": "Ghi rõ trong báo giá và hợp đồng",
+   "zh": "寫在報價與合約中",
+   "en": "Stated in the quotation and contract",
+   "ko": "견적서와 계약서에 명시"
+  },
+  {
+   "id": "a92e9bba",
+   "vi": "Phụ tùng thay thế",
+   "zh": "備品",
+   "en": "Spare parts",
+   "ko": "예비 부품"
+  },
+  {
+   "id": "87a5ce92",
+   "vi": "Cung cấp qua CMV tại Việt Nam",
+   "zh": "由越南 CMV 供應",
+   "en": "Supplied through CMV in Vietnam",
+   "ko": "베트남 CMV를 통해 공급"
+  },
+  {
+   "id": "8703028a",
+   "vi": "Hợp đồng, hóa đơn",
+   "zh": "合約與發票",
+   "en": "Contract, invoice",
+   "ko": "계약, 세금계산서"
+  },
+  {
+   "id": "28dcf686",
+   "vi": "Ký với CÔNG TY TNHH CHARGER MECHATRONIC, MST 0319206171",
+   "zh": "與 CÔNG TY TNHH CHARGER MECHATRONIC 簽約（越南稅號 0319206171），越南當地開立發票",
+   "en": "With CÔNG TY TNHH CHARGER MECHATRONIC (Vietnam tax code 0319206171)",
+   "ko": "CÔNG TY TNHH CHARGER MECHATRONIC(베트남 세금 코드 0319206171)과 계약"
+  },
+  {
+   "id": "02a69a9a",
+   "vi": "Câu hỏi thường gặp",
+   "zh": "常見問題",
+   "en": "Frequently asked questions",
+   "ko": "자주 묻는 질문"
+  },
+  {
+   "id": "4d46a161",
+   "vi": "Văn phòng",
+   "zh": "辦公室",
+   "en": "Office",
+   "ko": "사무실"
+  },
+  {
+   "id": "fe225816",
+   "vi": "Sao chép",
+   "zh": "複製",
+   "en": "Copy",
+   "ko": "복사"
+  },
+  {
+   "id": "efe7019a",
+   "vi": "Giờ làm việc: thứ Hai đến thứ Sáu. Hỗ trợ tiếng Việt, tiếng Trung và tiếng Anh.",
+   "zh": "服務時間：週一至週五（越南時間）。可用越南文、中文、英文溝通。",
+   "en": "Business hours: Monday to Friday, Vietnam time. Vietnamese, Chinese and English spoken.",
+   "ko": "업무 시간: 월요일–금요일(베트남 시간). 베트남어, 중국어, 영어로 상담 가능합니다."
+  },
+  {
+   "id": "52222ba8",
+   "vi": "Điện thoại / Zalo",
+   "zh": "電話／Zalo／LINE",
+   "en": "Phone / WhatsApp / Zalo",
+   "ko": "전화 / WhatsApp / Zalo"
+  },
+  {
+   "id": "83685b3a",
+   "vi": "Điện thoại",
+   "zh": "電話",
+   "en": "Phone",
+   "ko": "전화"
+  },
+  {
+   "id": "09408728",
+   "vi": "(không bắt buộc)",
+   "zh": "（選填）",
+   "en": "(optional)",
+   "ko": "(선택)"
+  },
+  {
+   "id": "a1092f59",
+   "vi": "Dây chuyền / sản phẩm",
+   "zh": "產線／產品",
+   "en": "Line / product",
+   "ko": "라인 / 제품"
+  },
+  {
+   "id": "c9535677",
+   "vi": "Dây chuyền",
+   "zh": "產線",
+   "en": "Line",
+   "ko": "라인"
+  },
+  {
+   "id": "42646ca3",
+   "vi": "Máy cắt bay (rotary shear) – cải tạo",
+   "zh": "飛剪改造",
+   "en": "Rotary shear retrofit",
+   "ko": "로터리 시어 개조"
+  },
+  {
+   "id": "86b7a93c",
+   "vi": "Máy cắt bay – hệ mới",
+   "zh": "飛剪電控（新設備）",
+   "en": "New flying shear control",
+   "ko": "플라잉 시어 제어(신규 설비)"
+  },
+  {
+   "id": "6bcd01c5",
+   "vi": "Dây chuyền cắt tấm",
+   "zh": "停剪／定尺橫切線",
+   "en": "Cut-to-length line",
+   "ko": "정척 절단 라인"
+  },
+  {
+   "id": "da22d5e8",
+   "vi": "Dây chuyền xả băng",
+   "zh": "分條線",
+   "en": "Slitting line",
+   "ko": "슬리팅 라인"
+  },
+  {
+   "id": "cf179bad",
+   "vi": "Máy cắt ống, uốn ống",
+   "zh": "切管／彎管",
+   "en": "Tube cutting / bending",
+   "ko": "파이프 절단 / 벤딩"
+  },
+  {
+   "id": "036e7962",
+   "vi": "Sản phẩm: servo, biến tần, bộ điều khiển",
+   "zh": "產品：伺服馬達、驅動器、控制器",
+   "en": "Products: servo, drive, controller",
+   "ko": "제품: 서보 모터, 드라이브, 컨트롤러"
+  },
+  {
+   "id": "14e68d98",
+   "vi": "Khác",
+   "zh": "其他",
+   "en": "Other",
+   "ko": "기타"
+  },
+  {
+   "id": "81d41e2e",
+   "vi": "Hiện trạng và yêu cầu",
+   "zh": "現況與需求",
+   "en": "Current situation and request",
+   "ko": "현재 상황과 요청 사항"
+  },
+  {
+   "id": "4f1c7aa6",
+   "vi": "Tốc độ dây chuyền, độ dày, khổ rộng, sai số hiện tại, bộ điều khiển đang dùng. Ảnh và video gửi qua Zalo.",
+   "zh": "線速、板厚、板寬、目前公差、現有控制器型號。照片與影片請用 Zalo 傳送。",
+   "en": "Line speed, thickness, width, current tolerance, existing controller. Send photos and video via WhatsApp/Zalo.",
+   "ko": "라인 속도, 두께, 폭, 현재 공차, 기존 컨트롤러. 사진과 영상은 WhatsApp/Zalo로 보내 주십시오."
+  },
+  {
+   "id": "ef80a57d",
+   "vi": "Nội dung",
+   "zh": "內容",
+   "en": "Message",
+   "ko": "내용"
+  },
+  {
+   "id": "69697a85",
+   "vi": "Tôi đồng ý để CMV dùng thông tin trên để liên hệ và báo giá.",
+   "zh": "我同意 CMV 使用以上資料與我聯絡並提供報價。",
+   "en": "I agree that CMV may use this information to contact me and prepare a quote.",
+   "ko": "CMV가 연락과 견적 작성을 위해 이 정보를 사용하는 데 동의합니다."
+  },
+  {
+   "id": "8c337f2b",
+   "vi": "Chính sách bảo mật",
+   "zh": "隱私權政策（越南文）",
+   "en": "Privacy policy (Vietnamese)",
+   "ko": "개인정보 처리방침(베트남어)"
+  },
+  {
+   "id": "a6633d36",
+   "vi": ".",
+   "zh": "。",
+   "en": ".",
+   "ko": "."
+  },
+  {
+   "id": "fe94c41e",
+   "vi": "Đồng ý nhận tin",
+   "zh": "同意收到技術資訊",
+   "en": "Consent: news",
+   "ko": "동의: 소식"
+  },
+  {
+   "id": "8ddbc3dc",
+   "vi": "Tôi muốn nhận bản tin kỹ thuật của CMV (không bắt buộc, có thể hủy bất cứ lúc nào).",
+   "zh": "我想收到 CMV 的技術資訊（選填，可隨時取消）。",
+   "en": "Send me CMV technical updates (optional, unsubscribe any time).",
+   "ko": "CMV 기술 소식을 받겠습니다(선택, 언제든지 수신 거부 가능)."
+  },
+  {
+   "id": "2f380492",
+   "vi": "Logo Charger Mechatronic (甲子機電)",
+   "zh": "甲子機電 Charger Mechatronic 標誌",
+   "en": "Charger Mechatronic (甲子機電) logo",
+   "ko": "Charger Mechatronic(甲子機電) 로고"
+  },
+  {
+   "id": "d5519658",
+   "vi": "Mã số thuế:",
+   "zh": "越南稅號:",
+   "en": "Vietnam tax code:",
+   "ko": "베트남 세금 코드:"
+  },
+  {
+   "id": "00f75ad1",
+   "vi": "Số 933, đường Tạ Quang Bửu, Phường Bình Đông, Thành phố Hồ Chí Minh, Việt Nam",
+   "zh": "No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam",
+   "en": "No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam",
+   "ko": "No. 933, Ta Quang Buu Street, Binh Dong Ward, Ho Chi Minh City, Vietnam"
+  },
+  {
+   "id": "80e5145c",
+   "vi": "Di động / Zalo",
+   "zh": "手機 / Zalo",
+   "en": "Mobile / Zalo",
+   "ko": "휴대폰 / Zalo"
+  },
+  {
+   "id": "4805c956",
+   "vi": "Máy móc thiết bị",
+   "zh": "機械設備",
+   "en": "Machinery",
+   "ko": "기계 설비"
+  },
+  {
+   "id": "586de53d",
+   "vi": "Hình ảnh thực tế",
+   "zh": "實境應用",
+   "en": "On site",
+   "ko": "현장 사진"
+  },
+  {
+   "id": "a616ac51",
+   "vi": "Cập nhật trang:",
+   "zh": "頁面更新:",
+   "en": "Page updated:",
+   "ko": "페이지 업데이트:"
+  },
+  {
+   "id": "36c9e703",
+   "vi": "· © 2026 CÔNG TY TNHH CHARGER MECHATRONIC. Công ty thành viên của Charger Mechatronic Co., Ltd. (Đài Loan).",
+   "zh": "· © 2026 CÔNG TY TNHH CHARGER MECHATRONIC. 甲子機電實業股份有限公司（台灣）越南公司。",
+   "en": "· © 2026 CÔNG TY TNHH CHARGER MECHATRONIC. Vietnam entity of Charger Mechatronic Co., Ltd. (Taiwan).",
+   "ko": "· © 2026 CÔNG TY TNHH CHARGER MECHATRONIC. Charger Mechatronic Co., Ltd.(대만)의 베트남 법인."
+  },
+  {
+   "id": "c67e59b3",
+   "vi": "Liên hệ nhanh",
+   "zh": "快速聯絡",
+   "en": "Quick contact",
+   "ko": "빠른 문의"
+  },
+  {
+   "id": "a356ef36",
+   "vi": "Gọi",
+   "zh": "電話",
+   "en": "Call",
+   "ko": "전화"
+  },
+  {
+   "id": "043245a9",
+   "vi": "Báo giá",
+   "zh": "報價",
+   "en": "Quote",
+   "ko": "견적"
+  },
+  {
+   "id": "10c22fa8",
+   "vi": "Charger Mechatronic Co., Ltd. (甲子機電實業股份有限公司)",
+   "zh": "甲子機電實業股份有限公司",
+   "en": "Charger Mechatronic Co., Ltd.",
+   "ko": "Charger Mechatronic Co., Ltd."
+  },
+  {
+   "id": "270282d5",
+   "vi": "Trụ sở chính, Đài Loan",
+   "zh": "台灣總公司",
+   "en": "Headquarters, Taiwan",
+   "ko": "대만 본사"
+  },
+  {
+   "id": "ddf3cdf3",
+   "vi": "3F., No. 252, Sec. 2, Xinbei Blvd., Sanchong Dist., New Taipei City 24158, Đài Loan",
+   "zh": "24158 新北市三重區新北大道二段252號3樓",
+   "en": "3F., No. 252, Sec. 2, Xinbei Blvd., Sanchong Dist., New Taipei City 24158, Taiwan",
+   "ko": "3F., No. 252, Sec. 2, Xinbei Blvd., Sanchong Dist., New Taipei City 24158, Taiwan"
+  },
+  {
+   "id": "a6851ea7",
+   "vi": "Quadrant (Shanghai) Mechatronic Technology Co., Ltd. (廣權(上海)機電科技有限公司)",
+   "zh": "廣權(上海)機電科技有限公司",
+   "en": "Quadrant (Shanghai) Mechatronic Technology Co., Ltd.",
+   "ko": "Quadrant (Shanghai) Mechatronic Technology Co., Ltd."
+  },
+  {
+   "id": "45297f55",
+   "vi": "Công ty liên kết, Thượng Hải",
+   "zh": "關係企業・上海",
+   "en": "Affiliate, Shanghai",
+   "ko": "관계사, 상하이"
+  },
+  {
+   "id": "e98aaffa",
+   "vi": "Tòa A, Nhà số 4, Số 599 Huiwang East Road, quận Gia Định, Thượng Hải 201807, Trung Quốc",
+   "zh": "201807 上海市嘉定區滙旺東路599號4號樓A座",
+   "en": "Block A, Building 4, No. 599 Huiwang East Road, Jiading District, Shanghai 201807, China",
+   "ko": "Block A, Building 4, No. 599 Huiwang East Road, Jiading District, Shanghai 201807, China"
+  },
+  {
+   "id": "33ac907d",
+   "vi": "Gọi hoặc nhắn Zalo cho kỹ sư CMV",
+   "zh": "直接打電話或用 Zalo 找 CMV 工程師",
+   "en": "Contact CMV",
+   "ko": "CMV에 문의"
+  },
+  {
+   "id": "60995bed",
+   "vi": "Số điện thoại / Zalo",
+   "zh": "電話／Zalo／LINE",
+   "en": "Phone / Zalo / WhatsApp",
+   "ko": "전화 / Zalo / WhatsApp"
+  },
+  {
+   "id": "2fffddf8",
+   "vi": "VD: 0912 345 678",
+   "zh": "例：0912 345 678",
+   "en": "e.g. +84 912 345 678",
+   "ko": "예: +84 912 345 678"
+  },
+  {
+   "id": "e626ccca",
+   "vi": "Dây chuyền",
+   "zh": "產線類型",
+   "en": "Line type",
+   "ko": "라인 종류"
+  },
+  {
+   "id": "39323816",
+   "vi": "Đồng ý báo giá",
+   "zh": "同意報價聯絡",
+   "en": "Consent",
+   "ko": "동의"
+  },
+  {
+   "id": "234274b1",
+   "vi": "Tôi đồng ý để CMV dùng số điện thoại này để liên hệ báo giá. Xem",
+   "zh": "我同意 CMV 使用此電話號碼與我聯絡報價事宜。詳見",
+   "en": "I agree that CMV may use this number to contact me about a quote. See the",
+   "ko": "CMV가 견적 안내를 위해 이 번호로 연락하는 데 동의합니다. 자세한 내용:"
+  },
+  {
+   "id": "90b1023c",
+   "vi": "chính sách bảo mật",
+   "zh": "隱私權政策（越南文）",
+   "en": "privacy policy (Vietnamese)",
+   "ko": "개인정보 처리방침(베트남어)"
+  },
+  {
+   "id": "e536fd7b",
+   "vi": "Yêu cầu gọi lại",
+   "zh": "請工程師回電",
+   "en": "Request a call back",
+   "ko": "전화 회신 요청"
+  },
+  {
+   "id": "9915a4c8",
+   "vi": "Thay đổi sau khi lắp hệ thống",
+   "zh": "導入後的改變",
+   "en": "What changes with the system",
+   "ko": "시스템 도입 후 달라지는 점"
+  },
+  {
+   "id": "30043623",
+   "vi": "Hiện trạng thường gặp",
+   "zh": "常見現況",
+   "en": "Common situation",
+   "ko": "흔한 현재 상황"
+  },
+  {
+   "id": "5b2479fa",
+   "vi": "Với hệ thống CMV",
+   "zh": "採用 CMV 系統",
+   "en": "With the CMV system",
+   "ko": "CMV 시스템 적용 시"
+  },
+  {
+   "id": "4d866c69",
+   "vi": "Phạm vi cung cấp",
+   "zh": "供應範圍",
+   "en": "Supply scope",
+   "ko": "공급 범위"
+  },
+  {
+   "id": "4bbda125",
+   "vi": "Độ dày, khổ rộng, tốc độ",
+   "zh": "板厚、板寬、線速",
+   "en": "Thickness, width, speed",
+   "ko": "두께, 폭, 속도"
+  },
+  {
+   "id": "0cf4117b",
+   "vi": "Xác nhận theo từng dây chuyền trong đề xuất kỹ thuật",
+   "zh": "依各產線確認，寫入技術提案",
+   "en": "Confirmed per line in the technical proposal",
+   "ko": "라인별로 확인하여 기술 제안서에 명시"
+  },
+  {
+   "id": "3f1ce845",
+   "vi": "Sơ đồ hệ thống",
+   "zh": "系統架構圖",
+   "en": "System diagram",
+   "ko": "시스템 구성도"
+  },
+  {
+   "id": "2c09ff48",
+   "vi": "Sơ đồ do Charger Mechatronic công bố; nhãn trên hình bằng tiếng Anh.",
+   "zh": "圖面為甲子機電公開資料，圖中標示為英文。",
+   "en": "Diagram as published by Charger Mechatronic.",
+   "ko": "Charger Mechatronic이 공개한 도면입니다. 도면 내 표기는 영어입니다."
+  },
+  {
+   "id": "2172e4f2",
+   "vi": "Trên dây chuyền thực tế",
+   "zh": "實際產線",
+   "en": "On real lines",
+   "ko": "실제 라인"
+  },
+  {
+   "id": "5b38370b",
+   "vi": "Ứng dụng rộng rãi trong nhiều ngành",
+   "zh": "廣泛應用於各產業",
+   "en": "Used widely across industries",
+   "ko": "다양한 산업에 폭넓게 적용"
+  },
+  {
+   "id": "a7b01785",
+   "vi": "Tiết kiệm thời gian, công sức và chi phí",
+   "zh": "具省時、省力、低成本優勢",
+   "en": "Saves time, labour and cost",
+   "ko": "시간, 인력, 비용 절감"
+  },
+  {
+   "id": "88fc951b",
+   "vi": "Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+   "zh": "結合電腦網路設備，快速演算",
+   "en": "Fast computation with networked computer equipment",
+   "ko": "컴퓨터 네트워크 장비와 연계한 빠른 연산"
+  },
+  {
+   "id": "8aed5153",
+   "vi": "Chất lượng sản phẩm ổn định",
+   "zh": "生產產品品質穩定",
+   "en": "Stable product quality",
+   "ko": "안정된 제품 품질"
+  },
+  {
+   "id": "85a7566f",
+   "vi": "Giảm nhân lực vận hành",
+   "zh": "有效降低人力使用",
+   "en": "Fewer operators needed",
+   "ko": "운전 인력 절감"
+  },
+  {
+   "id": "e3c57b4a",
+   "vi": "Thao tác đơn giản",
+   "zh": "簡單的操作模式",
+   "en": "Simple operation",
+   "ko": "간단한 조작"
+  },
+  {
+   "id": "3956dad5",
+   "vi": "Chức năng điều khiển",
+   "zh": "控制功能",
+   "en": "Control functions",
+   "ko": "제어 기능"
+  },
+  {
+   "id": "6f8a80e0",
+   "vi": "Điều khiển bám",
+   "zh": "追蹤控制",
+   "en": "Tracking control",
+   "ko": "추종 제어"
+  },
+  {
+   "id": "ddee033a",
+   "vi": "Điều khiển cắt theo chiều dài",
+   "zh": "定尺裁切控制",
+   "en": "Cut-to-length control",
+   "ko": "정척 절단 제어"
+  },
+  {
+   "id": "3dbb475b",
+   "vi": "Điều khiển định vị",
+   "zh": "定位控制",
+   "en": "Positioning control",
+   "ko": "위치 결정 제어"
+  },
+  {
+   "id": "976b1678",
+   "vi": "Tính toán đường kính cuộn",
+   "zh": "外徑計算控制",
+   "en": "Coil diameter calculation",
+   "ko": "코일 외경 연산 제어"
+  },
+  {
+   "id": "5068954b",
+   "vi": "Điều khiển chia tải",
+   "zh": "負載共償控制",
+   "en": "Load sharing control",
+   "ko": "부하 분담 제어"
+  },
+  {
+   "id": "23f2231e",
+   "vi": "Điều khiển đồng bộ",
+   "zh": "同步控制",
+   "en": "Synchronization control",
+   "ko": "동기 제어"
+  },
+  {
+   "id": "7773ea44",
+   "vi": "Điều khiển giàn tích liệu",
+   "zh": "積料架控制",
+   "en": "Looper control",
+   "ko": "루퍼 제어"
+  },
+  {
+   "id": "d6aa4338",
+   "vi": "Điều khiển lực căng",
+   "zh": "張力控制",
+   "en": "Tension control",
+   "ko": "장력 제어"
+  },
+  {
+   "id": "ca38b3fa",
+   "vi": "Điều khiển tốc độ",
+   "zh": "速度控制",
+   "en": "Speed control",
+   "ko": "속도 제어"
+  },
+  {
+   "id": "2758aa07",
+   "vi": "Điều khiển khu vực trữ liệu",
+   "zh": "儲料區控制",
+   "en": "Storage zone control",
+   "ko": "저장 구간 제어"
+  },
+  {
+   "id": "78b9c3bc",
+   "vi": "Điều khiển mô-men",
+   "zh": "扭力控制",
+   "en": "Torque control",
+   "ko": "토크 제어"
+  },
+  {
+   "id": "34378409",
+   "vi": "Điều khiển mức",
+   "zh": "液位控制",
+   "en": "Level control",
+   "ko": "액위 제어"
+  },
+  {
+   "id": "163fca14",
+   "vi": "Thiết kế và tích hợp hệ thống điều khiển cho cả dây chuyền gia công thép cuộn liên tục.",
+   "zh": "連續式鋼捲加工產線的整廠控制系統設計與整合。",
+   "en": "Control system design and integration for complete continuous strip-processing lines.",
+   "ko": "연속식 코일 가공 라인 전체의 제어 시스템 설계와 통합."
+  },
+  {
+   "id": "ee9af6bc",
+   "vi": "Cụm nắn phẳng cho tấm dày đạt độ phẳng cao.",
+   "zh": "此裁剪機有良好整平的功能能供應平坦度極佳的厚板。",
+   "en": "A well-levelled shear line that delivers thick plate with excellent flatness.",
+   "ko": "레벨링 성능이 좋아 평탄도가 우수한 후판을 생산하는 절단 라인."
+  },
+  {
+   "id": "5fde7acf",
+   "vi": "Xả băng, chia băng chính xác cao với hệ điều khiển biến tần.",
+   "zh": "高精度分切、分條，應用電子光學基材與變頻控制系統。",
+   "en": "High-precision slitting with inverter control systems.",
+   "ko": "인버터 제어 시스템을 적용한 고정밀 슬리팅."
+  },
+  {
+   "id": "5ef5360c",
+   "vi": "Đo chiều dài theo vòng kín (closed-loop), bộ điều khiển tốc độ cao định vị chính xác.",
+   "zh": "採全閉環反饋測長系統，超高速控制器高精度定位。",
+   "en": "Fully closed-loop length measurement with a high-speed controller for precise positioning.",
+   "ko": "완전 폐루프 측장 시스템과 고속 컨트롤러로 정밀하게 위치를 결정합니다."
+  },
+  {
+   "id": "02325da3",
+   "vi": "Các dây chuyền gia công thép cuộn khác: mạ, sơn, tích liệu, truyền động con lăn.",
+   "zh": "其他鋼捲加工產線：塗鍍、儲料塔、張力輥傳動等。",
+   "en": "Other coil-processing lines: coating, accumulators and bridle-roll drives.",
+   "ko": "기타 코일 가공 라인: 도금·도장, 어큐뮬레이터, 브라이들 롤 구동 등."
+  },
+  {
+   "id": "89b5c36d",
+   "vi": "Làm thế nào để nhận báo giá một model?",
+   "zh": "如何取得某個型號的報價？",
+   "en": "How do I get a price for a model?",
+   "ko": "모델 가격은 어떻게 받습니까?"
+  },
+  {
+   "id": "7659e056",
+   "vi": "Mở trang model và bấm \"Hỏi giá model này\", hoặc gửi mã sản phẩm và số lượng qua Zalo. CMV gửi báo giá trong giờ làm việc. Giá không niêm yết trên website.",
+   "zh": "打開型號頁面點選「詢問此型號報價」，或用 Zalo 傳產品代碼與數量。CMV 會在上班時間回覆報價。網站上不公開價格。",
+   "en": "Open the model page and choose \"Ask for a price\", or send the product code and quantity by Zalo. CMV replies with a quotation within business hours. Prices are not listed on the website.",
+   "ko": "모델 페이지에서 '이 모델 가격 문의'를 선택하거나 제품 코드와 수량을 Zalo로 보내 주십시오. CMV가 업무 시간 내에 견적을 회신합니다. 가격은 웹사이트에 게시하지 않습니다."
+  },
+  {
+   "id": "3be42914",
+   "vi": "CMV có giúp chọn động cơ và biến tần không?",
+   "zh": "CMV 可以協助選擇馬達與驅動器嗎？",
+   "en": "Can CMV help choose a motor and drive?",
+   "ko": "CMV가 모터와 드라이브 선정을 도와줍니까?"
+  },
+  {
+   "id": "f7746315",
+   "vi": "Có. Gửi tốc độ dây chuyền, vật liệu, độ dày, khổ rộng và động cơ, biến tần đang dùng; kỹ sư CMV sẽ đề xuất cấu hình.",
+   "zh": "可以。請提供線速、材質、板厚、板寬與現有馬達、驅動器，CMV 工程師會提出配置建議。",
+   "en": "Yes. Send the line speed, material, thickness, width and the motor and drive in use; a CMV engineer will propose a configuration.",
+   "ko": "예. 라인 속도, 소재, 두께, 폭과 현재 사용 중인 모터·드라이브 정보를 보내 주시면 CMV 엔지니어가 구성을 제안해 드립니다."
+  },
+  {
+   "id": "367b53bf",
+   "vi": "Thời gian giao hàng và bảo hành thế nào?",
+   "zh": "交期與保固如何？",
+   "en": "What about lead time and warranty?",
+   "ko": "납기와 보증은 어떻게 됩니까?"
+  },
+  {
+   "id": "d9599bbf",
+   "vi": "Thời gian giao hàng và điều kiện bảo hành được ghi rõ trong báo giá.",
+   "zh": "交期與保固條件會寫在報價中。",
+   "en": "Lead time and warranty terms are stated in the quotation.",
+   "ko": "납기와 보증 조건은 견적서에 명시합니다."
+  },
+  {
+   "id": "70609994",
+   "vi": "Mã sản phẩm",
+   "zh": "產品代碼",
+   "en": "Product code",
+   "ko": "제품 코드"
+  },
+  {
+   "id": "50d6f708",
+   "vi": "Nhóm",
+   "zh": "類別",
+   "en": "Category",
+   "ko": "분류"
+  },
+  {
+   "id": "55d4e85f",
+   "vi": "Thương hiệu",
+   "zh": "品牌",
+   "en": "Brand",
+   "ko": "브랜드"
+  },
+  {
+   "id": "446d454f",
+   "vi": "Hỏi giá model này",
+   "zh": "詢問此型號報價",
+   "en": "Ask for a price",
+   "ko": "이 모델 가격 문의"
+  },
+  {
+   "id": "12e2cff4",
+   "vi": "Thông số",
+   "zh": "規格",
+   "en": "Specifications",
+   "ko": "사양"
+  },
+  {
+   "id": "f156112f",
+   "vi": "Model liền kề",
+   "zh": "相鄰型號",
+   "en": "Adjacent models",
+   "ko": "인접 모델"
+  },
+  {
+   "id": "9f85378c",
+   "vi": "Hỏi giá hoặc hỏi chọn model",
+   "zh": "詢價或請工程師協助選型",
+   "en": "Ask for a price or help choosing a model",
+   "ko": "가격 문의 또는 모델 선정 상담"
+  },
+  {
+   "id": "4e8b334e",
+   "vi": "Bảng thông số giữ nguyên tiếng Anh theo tài liệu của Charger Mechatronic.",
+   "zh": "規格表依甲子機電原廠資料，以英文呈現。",
+   "en": "Specification tables are reproduced from Charger Mechatronic documentation.",
+   "ko": "사양표는 Charger Mechatronic 자료에 따라 영어로 표기합니다."
+  },
+  {
+   "id": "9148ae1f",
+   "vi": "Dây chuyền cắt tấm",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  },
+  {
+   "id": "8b1de152",
+   "vi": "Dây chuyền xả băng",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  },
+  {
+   "id": "583e689d",
+   "vi": "Máy cắt ống, uốn ống",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  },
+  {
+   "id": "80b73484",
+   "vi": "Công ty",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  },
+  {
+   "id": "c74239e8",
+   "vi": "Lịch sử công ty",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  },
+  {
+   "id": "18327a4c",
+   "vi": "Hình ảnh thực tế",
+   "zh": "",
+   "en": "",
+   "ko": ""
+  }
+ ]
+}

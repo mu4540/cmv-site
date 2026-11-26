@@ -1,0 +1,221 @@
+{
+ "strings": [
+  {
+   "id": "69380d01",
+   "vi": "Hệ điều khiển máy cắt bay (flying shear) | Charger Mechatronic Việt Nam",
+   "zh": "飛剪機電控系統 | Charger Mechatronic 越南",
+   "en": "Flying shear control system | Charger Mechatronic Vietnam",
+   "ko": "플라잉 시어 제어 시스템 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "059b9ffc",
+   "vi": "Hệ điều khiển cho máy cắt bay (flying shear, rotary shear): cắt thép tấm, tôn và xà gồ trong khi dây chuyền vẫn chạy. Bánh xe đo ghi chiều dài theo vòng kín; bộ điều khiển CG tốc độ cao đồng bộ dao cắt với tốc độ vật liệu.",
+   "zh": "飛剪機（flying shear、rotary shear）電控系統：產線不停機即可裁切鋼板、浪板與型鋼。量測輪以全閉迴路量測長度，超高速 CG 控制器讓刀輥與材料同步。",
+   "en": "Control system for flying shears (rotary shears): cuts sheet, coated steel and purlins while the line keeps running. A measuring roll reads length in closed loop and the high-speed CG controller synchronizes the knife with the material speed.",
+   "ko": "플라잉 시어(로터리 시어) 제어 시스템: 라인을 멈추지 않고 강판, 도금 강판, 퍼린을 절단합니다. 측장 롤이 폐루프로 길이를 측정하고, 고속 CG 컨트롤러가 나이프를 소재 속도에 동기시킵니다."
+  },
+  {
+   "id": "05a3d79b",
+   "vi": "Máy cắt bay đang chạy có cần thay toàn bộ không?",
+   "zh": "運轉中的飛剪需要整台換掉嗎？",
+   "en": "Does a running flying shear need to be replaced entirely?",
+   "ko": "가동 중인 플라잉 시어를 통째로 교체해야 합니까?"
+  },
+  {
+   "id": "0c255c1a",
+   "vi": "Không nhất thiết. Nếu phần cơ khí còn tốt, CMV chỉ thay phần điều khiển và truyền động. Xem trang cải tạo máy cắt bay.",
+   "zh": "不一定。機構狀況良好時，CMV 只更換電控與傳動部分，詳見飛剪改造頁。",
+   "en": "Not necessarily. If the mechanical parts are sound, CMV replaces only the controls and drive. See the rotary shear retrofit page.",
+   "ko": "꼭 그렇지는 않습니다. 기계부가 양호하면 CMV는 제어와 구동부만 교체합니다. 로터리 시어 개조 페이지를 참고하십시오."
+  },
+  {
+   "id": "add445b6",
+   "vi": "Hệ thống dùng cho những vật liệu nào?",
+   "zh": "適用哪些材料？",
+   "en": "Which materials is the system used for?",
+   "ko": "어떤 소재에 사용합니까?"
+  },
+  {
+   "id": "d32a6a5c",
+   "vi": "Tôn, thép tấm và xà gồ trên dây chuyền cán, xả cuộn. Thông số cụ thể được xác nhận theo từng dây chuyền.",
+   "zh": "成型線與開捲線上的鋼板、浪板與型鋼。具體規格依各產線確認。",
+   "en": "Sheet, coated steel and purlins on roll-forming and uncoiling lines. Exact figures are confirmed for each line.",
+   "ko": "롤 포밍 라인과 언코일링 라인의 강판, 도금 강판, 퍼린입니다. 구체적인 수치는 라인별로 확인합니다."
+  },
+  {
+   "id": "b882d645",
+   "vi": "Nhà sản xuất máy cán tôn, máy cắt xà gồ C/Z cần hệ điều khiển cắt bay",
+   "zh": "浪板成型機、C/Z 型鋼成型機製造商，需要飛剪電控",
+   "en": "Roll-forming and C/Z purlin machine builders who need flying-cut control",
+   "ko": "플라잉 컷 제어가 필요한 롤 포밍기, C/Z 퍼린 성형기 제조사"
+  },
+  {
+   "id": "4ca3f62c",
+   "vi": "Nhà máy tôn, thép tấm có dây chuyền cắt không dừng",
+   "zh": "鋼板、鍍面鋼板工廠的不停機裁切產線",
+   "en": "Sheet and coated-steel plants running non-stop cutting lines",
+   "ko": "무정지 절단 라인을 운영하는 강판·도금 강판 공장"
+  },
+  {
+   "id": "ca1fffe4",
+   "vi": "Dây chuyền mới cần bộ điều khiển cắt bay có hỗ trợ kỹ thuật tại Việt Nam",
+   "zh": "新產線需要在越南有技術支援的飛剪控制器",
+   "en": "New lines that need a flying shear controller with technical support in Vietnam",
+   "ko": "베트남 현지 기술 지원이 되는 플라잉 시어 컨트롤러가 필요한 신규 라인"
+  },
+  {
+   "id": "6613e934",
+   "vi": "Chiều dài cắt thường dùng, sai số hiện tại và sai số mong muốn",
+   "zh": "常用剪切長度、目前公差與目標公差",
+   "en": "Typical cut lengths, current and target tolerance",
+   "ko": "주로 쓰는 절단 길이, 현재 공차와 목표 공차"
+  },
+  {
+   "id": "446573a6",
+   "vi": "Ảnh hoặc video máy cắt đang chạy",
+   "zh": "飛剪運轉中的照片或影片",
+   "en": "Photos or video of the shear running",
+   "ko": "시어가 가동 중인 사진 또는 영상"
+  },
+  {
+   "id": "7e221e2d",
+   "vi": "Sai số chiều dài khi đổi tốc độ",
+   "zh": "變速時的長度誤差",
+   "en": "Length error when speed changes",
+   "ko": "속도 변화 시 길이 오차"
+  },
+  {
+   "id": "b828dd99",
+   "vi": "Thay đổi theo tốc độ dây chuyền",
+   "zh": "隨線速變動",
+   "en": "Varies with line speed",
+   "ko": "라인 속도에 따라 달라짐"
+  },
+  {
+   "id": "60fb2233",
+   "vi": "Đo chiều dài vòng kín bằng encoder bánh xe đo",
+   "zh": "量測輪編碼器全閉迴路量測長度",
+   "en": "Closed-loop length measurement by measuring-roll encoder",
+   "ko": "측장 롤 엔코더에 의한 폐루프 길이 측정"
+  },
+  {
+   "id": "c9a7b2a6",
+   "vi": "Tốc độ dây chuyền",
+   "zh": "線速",
+   "en": "Line speed",
+   "ko": "라인 속도"
+  },
+  {
+   "id": "5b157dd2",
+   "vi": "Bị giới hạn vì dao tăng tốc chậm",
+   "zh": "受刀輥加速慢限制",
+   "en": "Limited by slow knife acceleration",
+   "ko": "나이프 가속이 느려 제한됨"
+  },
+  {
+   "id": "814a5581",
+   "vi": "Servo vector đáp ứng nhanh cho trống dao",
+   "zh": "刀輥採向量伺服，響應快",
+   "en": "Fast-response servo vector drive on the knife drum",
+   "ko": "나이프 드럼에 고응답 서보 벡터 드라이브 적용"
+  },
+  {
+   "id": "b7b58457",
+   "vi": "Chỉnh thông số, sửa chữa",
+   "zh": "調機與維修",
+   "en": "Tuning and repair",
+   "ko": "조정과 수리"
+  },
+  {
+   "id": "9685bd03",
+   "vi": "Phụ thuộc nhà sản xuất cũ",
+   "zh": "依賴原廠",
+   "en": "Depends on the original maker",
+   "ko": "원 제조사에 의존"
+  },
+  {
+   "id": "3fb6f092",
+   "vi": "Kỹ sư CMV hỗ trợ tại Việt Nam",
+   "zh": "CMV 工程師在越南支援",
+   "en": "CMV engineers support on site in Vietnam",
+   "ko": "CMV 엔지니어가 베트남 현장에서 지원"
+  },
+  {
+   "id": "d3347e3a",
+   "vi": "CG, 2 / 4 / 8 trục",
+   "zh": "CG，2／4／8 軸",
+   "en": "CG, 2 / 4 / 8 axis",
+   "ko": "CG, 2 / 4 / 8축"
+  },
+  {
+   "id": "6e360499",
+   "vi": "Động cơ trống dao",
+   "zh": "刀輥馬達",
+   "en": "Knife drum motor",
+   "ko": "나이프 드럼 모터"
+  },
+  {
+   "id": "7aaeb9e8",
+   "vi": "Servo SVMF, 0,75–132 kW",
+   "zh": "SVMF 伺服，0.75–132 kW",
+   "en": "SVMF servo, 0.75–132 kW",
+   "ko": "SVMF 서보, 0.75–132 kW"
+  },
+  {
+   "id": "3920fc33",
+   "vi": "Tủ điều khiển, PLC",
+   "zh": "控制盤、PLC",
+   "en": "Control panel, PLC",
+   "ko": "제어반, PLC"
+  },
+  {
+   "id": "96b3d51f",
+   "vi": "Sơ đồ hệ thống điều khiển: Máy cắt bay. 飛剪機 (rotary/flying shear) system diagram: Uncoiler, Rough Leveller, loop, Fine Leveller, Feed Roll, Rotary Shear, motors, DRIVEs, Controller, HMI.",
+   "zh": "飛剪機 控制系統架構圖. 飛剪機 (rotary/flying shear) system diagram: Uncoiler, Rough Leveller, loop, Fine Leveller, Feed Roll, Rotary Shear, motors, DRIVEs, Controller, HMI.",
+   "en": "Control system diagram: Flying shear (rotary shear). 飛剪機 (rotary/flying shear) system diagram: Uncoiler, Rough Leveller, loop, Fine Leveller, Feed Roll, Rotary Shear, motors, DRIVEs, Controller, HMI.",
+   "ko": "플라잉 시어(로터리 시어) 제어 시스템 구성도. 飛剪機 (rotary/flying shear) system diagram: Uncoiler, Rough Leveller, loop, Fine Leveller, Feed Roll, Rotary Shear, motors, DRIVEs, Controller, HMI."
+  },
+  {
+   "id": "b2339427",
+   "vi": "Máy cắt bay: Ứng dụng rộng rãi trong nhiều ngành",
+   "zh": "飛剪機: 廣泛應用於各產業",
+   "en": "Flying shear (rotary shear): Used widely across industries",
+   "ko": "플라잉 시어(로터리 시어): 다양한 산업에 폭넓게 적용"
+  },
+  {
+   "id": "5a9252eb",
+   "vi": "Máy cắt bay: Tiết kiệm thời gian, công sức và chi phí",
+   "zh": "飛剪機: 具省時、省力、低成本優勢",
+   "en": "Flying shear (rotary shear): Saves time, labour and cost",
+   "ko": "플라잉 시어(로터리 시어): 시간, 인력, 비용 절감"
+  },
+  {
+   "id": "72631fa9",
+   "vi": "Máy cắt bay: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+   "zh": "飛剪機: 結合電腦網路設備，快速演算",
+   "en": "Flying shear (rotary shear): Fast computation with networked computer equipment",
+   "ko": "플라잉 시어(로터리 시어): 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+  },
+  {
+   "id": "c1032d2c",
+   "vi": "Máy cắt bay: Chất lượng sản phẩm ổn định",
+   "zh": "飛剪機: 生產產品品質穩定",
+   "en": "Flying shear (rotary shear): Stable product quality",
+   "ko": "플라잉 시어(로터리 시어): 안정된 제품 품질"
+  },
+  {
+   "id": "cfae8e7c",
+   "vi": "Máy cắt bay: Giảm nhân lực vận hành",
+   "zh": "飛剪機: 有效降低人力使用",
+   "en": "Flying shear (rotary shear): Fewer operators needed",
+   "ko": "플라잉 시어(로터리 시어): 운전 인력 절감"
+  },
+  {
+   "id": "bf852e4c",
+   "vi": "Máy cắt bay: Thao tác đơn giản",
+   "zh": "飛剪機: 簡單的操作模式",
+   "en": "Flying shear (rotary shear): Simple operation",
+   "ko": "플라잉 시어(로터리 시어): 간단한 조작"
+  }
+ ]
+}

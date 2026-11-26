@@ -1,0 +1,249 @@
+{
+ "strings": [
+  {
+   "id": "9ef9fd28",
+   "vi": "Điều khiển dây chuyền xả băng (slitting) | Charger Mechatronic Việt Nam",
+   "zh": "分條機電控 | Charger Mechatronic 越南",
+   "en": "Slitting line control | Charger Mechatronic Vietnam",
+   "ko": "슬리팅 라인 제어 | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "17fde7ac",
+   "vi": "Hệ điều khiển cho dây chuyền xả băng (slitting), cắt cuộn lớn thành các cuộn băng hẹp: biến tần điều khiển tốc độ, điều khiển lực căng khi thu cuộn và cảm biến quang điện dò mép.",
+   "zh": "分條機電控系統，將大鋼捲分切成窄帶捲：變頻速度控制、收捲張力控制與光電邊緣偵測。",
+   "en": "Control system for slitting lines that cut a master coil into narrow strips: inverter speed control, recoiler tension control and photoelectric edge detection.",
+   "ko": "마스터 코일을 좁은 스트립으로 절단하는 슬리팅 라인 제어 시스템: 인버터 속도 제어, 리코일러 장력 제어, 광전식 에지 검출."
+  },
+  {
+   "id": "0d2116d4",
+   "vi": "CMV có cung cấp cả dây chuyền xả băng không?",
+   "zh": "CMV 也供應整條分條線嗎？",
+   "en": "Does CMV supply complete slitting lines?",
+   "ko": "CMV는 슬리팅 라인 전체도 공급합니까?"
+  },
+  {
+   "id": "ac6d32b4",
+   "vi": "Có. CMV phân phối dây chuyền gia công thép cuộn từ Đài Loan và Trung Quốc, đồng thời cung cấp phần điện điều khiển.",
+   "zh": "是。CMV 代理台灣與中國大陸的鋼捲加工產線，同時提供電控。",
+   "en": "Yes. CMV distributes coil-processing lines from Taiwan and China and also supplies the electrical controls.",
+   "ko": "예. CMV는 대만과 중국의 코일 가공 라인을 판매하며 전기 제어도 함께 공급합니다."
+  },
+  {
+   "id": "64257598",
+   "vi": "Có cải tạo dây chuyền xả băng cũ được không?",
+   "zh": "舊分條線可以改造嗎？",
+   "en": "Can an old slitting line be retrofitted?",
+   "ko": "노후 슬리팅 라인을 개조할 수 있습니까?"
+  },
+  {
+   "id": "d68ab748",
+   "vi": "Thường là được. CMV xem hiện trạng và đề xuất phạm vi thay biến tần, điều khiển lực căng và tủ điện.",
+   "zh": "通常可以。CMV 評估現況後，提出變頻器、張力控制與電控盤的更換範圍。",
+   "en": "Usually yes. CMV reviews the line and proposes the scope for drives, tension control and panels.",
+   "ko": "대부분 가능합니다. CMV가 라인을 검토한 뒤 드라이브, 장력 제어, 제어반의 교체 범위를 제안합니다."
+  },
+  {
+   "id": "6e856610",
+   "vi": "Trung tâm gia công thép cuộn xả băng cho nhà máy ống, máy cán",
+   "zh": "為製管廠、成型機分條的鋼捲加工中心",
+   "en": "Coil service centers slitting strip for pipe mills and roll formers",
+   "ko": "파이프 공장과 롤 포밍용 스트립을 슬리팅하는 코일 서비스 센터"
+  },
+  {
+   "id": "e7c4e9f2",
+   "vi": "Nhà máy cần cuộn băng thu đều, ít lệch mép",
+   "zh": "要求收捲整齊、少偏邊的工廠",
+   "en": "Plants that need evenly wound strip with little edge drift",
+   "ko": "권취가 고르고 에지 편차가 적은 스트립이 필요한 공장"
+  },
+  {
+   "id": "dfdc3826",
+   "vi": "Dây chuyền xả băng cũ cần thay biến tần và điều khiển lực căng",
+   "zh": "需要更換變頻器與張力控制的舊分條線",
+   "en": "Older slitting lines that need new drives and tension control",
+   "ko": "드라이브와 장력 제어 교체가 필요한 노후 슬리팅 라인"
+  },
+  {
+   "id": "d2f0c625",
+   "vi": "Vật liệu, độ dày và khổ rộng cuộn mẹ",
+   "zh": "材質、板厚與母捲寬度",
+   "en": "Material, thickness and master coil width",
+   "ko": "소재, 두께, 마스터 코일 폭"
+  },
+  {
+   "id": "891ebb1e",
+   "vi": "Số băng và khổ băng",
+   "zh": "分條數與條寬",
+   "en": "Number of strips and strip widths",
+   "ko": "스트립 수와 스트립 폭"
+  },
+  {
+   "id": "b871c9ed",
+   "vi": "Biến tần, bộ điều khiển đang dùng (nếu có)",
+   "zh": "現有變頻器、控制器（如有）",
+   "en": "Existing drives and controller (if any)",
+   "ko": "기존 드라이브와 컨트롤러(있는 경우)"
+  },
+  {
+   "id": "8425852f",
+   "vi": "Lực căng thu cuộn",
+   "zh": "收捲張力",
+   "en": "Recoiler tension",
+   "ko": "리코일러 장력"
+  },
+  {
+   "id": "1814434c",
+   "vi": "Không đều, cuộn lỏng hoặc quá chặt",
+   "zh": "不均，捲太鬆或太緊",
+   "en": "Uneven, coils wound loose or too tight",
+   "ko": "불균일하여 코일이 느슨하거나 너무 단단하게 감김"
+  },
+  {
+   "id": "1866b0b0",
+   "vi": "Điều khiển lực căng khi thu cuộn",
+   "zh": "收捲張力控制",
+   "en": "Tension control on the recoiler",
+   "ko": "리코일러 장력 제어"
+  },
+  {
+   "id": "17461a5a",
+   "vi": "Mép băng",
+   "zh": "帶邊",
+   "en": "Strip edge",
+   "ko": "스트립 에지"
+  },
+  {
+   "id": "9c9f1cd7",
+   "vi": "Lệch mép, phải chạy chậm",
+   "zh": "偏邊，只能降速生產",
+   "en": "Edge drift forces a lower speed",
+   "ko": "에지 편차 때문에 속도를 낮춰야 함"
+  },
+  {
+   "id": "d1b6cd30",
+   "vi": "Dò mép bằng cảm biến quang điện",
+   "zh": "光電邊緣偵測",
+   "en": "Photoelectric edge detection",
+   "ko": "광전식 에지 검출"
+  },
+  {
+   "id": "186644d9",
+   "vi": "Khởi động, dừng",
+   "zh": "啟動與停止",
+   "en": "Start and stop",
+   "ko": "기동과 정지"
+  },
+  {
+   "id": "ef230688",
+   "vi": "Giật, không êm",
+   "zh": "頓挫、不平順",
+   "en": "Jerky",
+   "ko": "충격이 있고 부드럽지 않음"
+  },
+  {
+   "id": "1d8e0275",
+   "vi": "Biến tần điều khiển tăng, giảm tốc",
+   "zh": "變頻器控制加減速",
+   "en": "Inverter-controlled acceleration and deceleration",
+   "ko": "인버터로 가감속 제어"
+  },
+  {
+   "id": "27567caf",
+   "vi": "Biến tần",
+   "zh": "驅動器",
+   "en": "Drives",
+   "ko": "드라이브"
+  },
+  {
+   "id": "124ee409",
+   "vi": "VFI-CG80 cho xả cuộn, dao xả, thu cuộn",
+   "zh": "VFI-CG80，用於開捲、分條刀、收捲",
+   "en": "VFI-CG80 for uncoiler, slitter and recoiler",
+   "ko": "언코일러, 슬리터, 리코일러용 VFI-CG80"
+  },
+  {
+   "id": "8cafdfec",
+   "vi": "Lực căng",
+   "zh": "張力",
+   "en": "Tension",
+   "ko": "장력"
+  },
+  {
+   "id": "87c0a071",
+   "vi": "Điều khiển lực căng thu cuộn",
+   "zh": "收捲張力控制",
+   "en": "Recoiler tension control",
+   "ko": "리코일러 장력 제어"
+  },
+  {
+   "id": "aa542271",
+   "vi": "Dò mép",
+   "zh": "邊緣偵測",
+   "en": "Edge detection",
+   "ko": "에지 검출"
+  },
+  {
+   "id": "d70cf26b",
+   "vi": "Cảm biến quang điện",
+   "zh": "光電感測器",
+   "en": "Photoelectric sensor",
+   "ko": "광전 센서"
+  },
+  {
+   "id": "d10a8eb3",
+   "vi": "CG, PLC",
+   "zh": "CG、PLC",
+   "en": "CG, PLC",
+   "ko": "CG, PLC"
+  },
+  {
+   "id": "cf00a152",
+   "vi": "Sơ đồ hệ thống điều khiển: Dây chuyền xả băng. 分條機 (slitter) system diagram: Uncoiler, Three Feed Roll, loop, Slitter, Recoiler, motors, DRIVEs, Controller, HMI.",
+   "zh": "分條機 控制系統架構圖. 分條機 (slitter) system diagram: Uncoiler, Three Feed Roll, loop, Slitter, Recoiler, motors, DRIVEs, Controller, HMI.",
+   "en": "Control system diagram: Slitting line. 分條機 (slitter) system diagram: Uncoiler, Three Feed Roll, loop, Slitter, Recoiler, motors, DRIVEs, Controller, HMI.",
+   "ko": "슬리팅 라인 제어 시스템 구성도. 分條機 (slitter) system diagram: Uncoiler, Three Feed Roll, loop, Slitter, Recoiler, motors, DRIVEs, Controller, HMI."
+  },
+  {
+   "id": "7a8e1ab3",
+   "vi": "Dây chuyền xả băng: Ứng dụng rộng rãi trong nhiều ngành",
+   "zh": "分條機: 廣泛應用於各產業",
+   "en": "Slitting line: Used widely across industries",
+   "ko": "슬리팅 라인: 다양한 산업에 폭넓게 적용"
+  },
+  {
+   "id": "d883a794",
+   "vi": "Dây chuyền xả băng: Tiết kiệm thời gian, công sức và chi phí",
+   "zh": "分條機: 具省時、省力、低成本優勢",
+   "en": "Slitting line: Saves time, labour and cost",
+   "ko": "슬리팅 라인: 시간, 인력, 비용 절감"
+  },
+  {
+   "id": "0f2f97d3",
+   "vi": "Dây chuyền xả băng: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+   "zh": "分條機: 結合電腦網路設備，快速演算",
+   "en": "Slitting line: Fast computation with networked computer equipment",
+   "ko": "슬리팅 라인: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+  },
+  {
+   "id": "a7075c07",
+   "vi": "Dây chuyền xả băng: Chất lượng sản phẩm ổn định",
+   "zh": "分條機: 生產產品品質穩定",
+   "en": "Slitting line: Stable product quality",
+   "ko": "슬리팅 라인: 안정된 제품 품질"
+  },
+  {
+   "id": "eb072903",
+   "vi": "Dây chuyền xả băng: Giảm nhân lực vận hành",
+   "zh": "分條機: 有效降低人力使用",
+   "en": "Slitting line: Fewer operators needed",
+   "ko": "슬리팅 라인: 운전 인력 절감"
+  },
+  {
+   "id": "7b5f31cb",
+   "vi": "Dây chuyền xả băng: Thao tác đơn giản",
+   "zh": "分條機: 簡單的操作模式",
+   "en": "Slitting line: Simple operation",
+   "ko": "슬리팅 라인: 간단한 조작"
+  }
+ ]
+}

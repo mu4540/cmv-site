@@ -1,0 +1,956 @@
+{
+ "strings": [
+  {
+   "id": "9c47edb4",
+   "vi": "Biến tần servo vector VFI-CG80 220V 25HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 25HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 25HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 25HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "bd73c42f",
+   "vi": "VFI-CG80 là biến tần servo vector hiệu suất cao với bốn chế độ điều khiển: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG. Người dùng chọn chế độ đi",
+   "zh": "VFI-CG80 向量伺服驅動器是高性能變頻器，提供四種控制模式：開環矢量，磁通矢量，V / f控制和帶PG反饋的V / f控制。控制方法可以根據用戶的應用，通過使用操作員來輕鬆選擇。多種規格可供選配，符合客戶需求。",
+   "en": "The VFI-CG80 vector servo drive is a high-performance inverter with four control modes: open-loop vector, flux vector, V/f control and V/f control with PG feedb",
+   "ko": "VFI-CG80 벡터 서보 드라이브는 오픈 루프 벡터, 자속 벡터, V/f 제어, PG 피드백 V/f 제어의 네 가지 제어 모드를 갖춘 고성능 인버터입니다. 용도에 맞는 제어 방식을 조작 키패드에서 선택할 수 있습니다. 다양한 용량을 갖추어 고객 요구에 맞출 수 있습니다."
+  },
+  {
+   "id": "84732262",
+   "vi": "Biến tần servo vector VFI-CG80 220V 25HP",
+   "zh": "VFI-CG80系列220V 25HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 25HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 25HP"
+  },
+  {
+   "id": "229609b7",
+   "vi": "VFI-CG80 là biến tần servo vector hiệu suất cao với bốn chế độ điều khiển: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG. Người dùng chọn chế độ điều khiển theo ứng dụng ngay trên bàn phím vận hành. Nhiều cấp công suất để lựa chọn theo nhu cầu.",
+   "zh": "VFI-CG80 向量伺服驅動器是高性能變頻器，提供四種控制模式：開環矢量，磁通矢量，V / f控制和帶PG反饋的V / f控制。控制方法可以根據用戶的應用，通過使用操作員來輕鬆選擇。多種規格可供選配，符合客戶需求。",
+   "en": "The VFI-CG80 vector servo drive is a high-performance inverter with four control modes: open-loop vector, flux vector, V/f control and V/f control with PG feedback. The control method is selected on the operator keypad to suit the application. A wide range of ratings is available to match customer needs.",
+   "ko": "VFI-CG80 벡터 서보 드라이브는 오픈 루프 벡터, 자속 벡터, V/f 제어, PG 피드백 V/f 제어의 네 가지 제어 모드를 갖춘 고성능 인버터입니다. 용도에 맞는 제어 방식을 조작 키패드에서 선택할 수 있습니다. 다양한 용량을 갖추어 고객 요구에 맞출 수 있습니다."
+  },
+  {
+   "id": "dc57eb88",
+   "vi": "Điện áp",
+   "zh": "電壓等級",
+   "en": "Voltage class",
+   "ko": "전압 등급"
+  },
+  {
+   "id": "6df41010",
+   "vi": "Công suất",
+   "zh": "容量",
+   "en": "Capacity",
+   "ko": "용량"
+  },
+  {
+   "id": "e6961796",
+   "vi": "Loại",
+   "zh": "類型",
+   "en": "Type",
+   "ko": "종류"
+  },
+  {
+   "id": "5f60ad2c",
+   "vi": "Thông số dòng VFI-CG80",
+   "zh": "VFI-CG80 系列規格",
+   "en": "VFI-CG80 series specifications",
+   "ko": "VFI-CG80 시리즈 사양"
+  },
+  {
+   "id": "11c229a4",
+   "vi": "Thông số chung VFI-CG80",
+   "zh": "VFI-CG80 一般規格",
+   "en": "VFI-CG80 general specifications",
+   "ko": "VFI-CG80 일반 사양"
+  },
+  {
+   "id": "812406a3",
+   "vi": "Kích thước và công suất theo model",
+   "zh": "各型號尺寸與容量",
+   "en": "Dimensions and ratings by model",
+   "ko": "모델별 치수와 용량"
+  },
+  {
+   "id": "123a88b1",
+   "vi": "Kích thước (mm), khung nhỏ và vừa",
+   "zh": "外形尺寸（mm），小、中型機框",
+   "en": "Dimensions (mm), small and medium frames",
+   "ko": "외형 치수(mm), 소형·중형 프레임"
+  },
+  {
+   "id": "6c13c424",
+   "vi": "Kích thước (mm), khung lớn",
+   "zh": "外形尺寸（mm），大型機框",
+   "en": "Dimensions (mm), large frames",
+   "ko": "외형 치수(mm), 대형 프레임"
+  },
+  {
+   "id": "44c97f96",
+   "vi": "Dòng 220 V: công suất theo model",
+   "zh": "220 V 級：各型號容量",
+   "en": "220 V class: ratings by model",
+   "ko": "220 V급: 모델별 용량"
+  },
+  {
+   "id": "fea9a9ad",
+   "vi": "Dòng 440 V: công suất theo model",
+   "zh": "440 V 級：各型號容量",
+   "en": "440 V class: ratings by model",
+   "ko": "440 V급: 모델별 용량"
+  },
+  {
+   "id": "b7776a20",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 10HP (có hãm)",
+   "zh": "← VFI-CG80系列220V 10HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 10HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 10HP (브레이크 내장)"
+  },
+  {
+   "id": "210c8191",
+   "vi": "Biến tần servo vector VFI-CG80 440V 2HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 2HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 2HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 2HP (브레이크 내장) →"
+  },
+  {
+   "id": "1217aa10",
+   "vi": "Biến tần servo vector VFI-CG80 220V 2HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 2HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 2HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 2HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "43fa0324",
+   "vi": "Biến tần servo vector VFI-CG80 220V 2HP (có hãm)",
+   "zh": "VFI-CG80系列220V 2HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 2HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 2HP (브레이크 내장)"
+  },
+  {
+   "id": "5d190e51",
+   "vi": "Biến tần, có hãm",
+   "zh": "驅動器（含煞車）",
+   "en": "Drive with brake",
+   "ko": "드라이브(브레이크 내장)"
+  },
+  {
+   "id": "4228ac8d",
+   "vi": "Biến tần servo vector VFI-CG80 220V 3HP (có hãm) →",
+   "zh": "VFI-CG80系列220V 3HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 220V 3HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 3HP (브레이크 내장) →"
+  },
+  {
+   "id": "6bc871ca",
+   "vi": "Biến tần servo vector VFI-CG80 220V 3HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 3HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 3HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 3HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "215c3e09",
+   "vi": "Biến tần servo vector VFI-CG80 220V 3HP (có hãm)",
+   "zh": "VFI-CG80系列220V 3HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 3HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 3HP (브레이크 내장)"
+  },
+  {
+   "id": "3cb21127",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 2HP (có hãm)",
+   "zh": "← VFI-CG80系列220V 2HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 2HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 2HP (브레이크 내장)"
+  },
+  {
+   "id": "546f3646",
+   "vi": "Biến tần servo vector VFI-CG80 220V 5HP (có hãm) →",
+   "zh": "VFI-CG80系列220V 5HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 220V 5HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 5HP (브레이크 내장) →"
+  },
+  {
+   "id": "fa1aa01c",
+   "vi": "Biến tần servo vector VFI-CG80 220V 5HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 5HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 5HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 5HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "751cc4b8",
+   "vi": "Biến tần servo vector VFI-CG80 220V 5HP (có hãm)",
+   "zh": "VFI-CG80系列220V 5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 5HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 5HP (브레이크 내장)"
+  },
+  {
+   "id": "cdc889df",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 3HP (có hãm)",
+   "zh": "← VFI-CG80系列220V 3HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 3HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 3HP (브레이크 내장)"
+  },
+  {
+   "id": "0b562f77",
+   "vi": "Biến tần servo vector VFI-CG80 220V 7.5HP (có hãm) →",
+   "zh": "VFI-CG80系列220V 7.5HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 220V 7.5HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 7.5HP (브레이크 내장) →"
+  },
+  {
+   "id": "02ff68f6",
+   "vi": "Biến tần servo vector VFI-CG80 220V 7.5HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 7.5HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 7.5HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 7.5HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "0cb0f85c",
+   "vi": "Biến tần servo vector VFI-CG80 220V 7.5HP (có hãm)",
+   "zh": "VFI-CG80系列220V 7.5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 7.5HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 7.5HP (브레이크 내장)"
+  },
+  {
+   "id": "cc560f16",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 5HP (có hãm)",
+   "zh": "← VFI-CG80系列220V 5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 5HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 5HP (브레이크 내장)"
+  },
+  {
+   "id": "d27ba581",
+   "vi": "Biến tần servo vector VFI-CG80 220V 10HP (có hãm) →",
+   "zh": "VFI-CG80系列220V 10HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 220V 10HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 10HP (브레이크 내장) →"
+  },
+  {
+   "id": "d5311caf",
+   "vi": "Biến tần servo vector VFI-CG80 220V 10HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 10HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 10HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 10HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "4e081fde",
+   "vi": "Biến tần servo vector VFI-CG80 220V 10HP (có hãm)",
+   "zh": "VFI-CG80系列220V 10HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 220V 10HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 10HP (브레이크 내장)"
+  },
+  {
+   "id": "296e6dc9",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 7.5HP (có hãm)",
+   "zh": "← VFI-CG80系列220V 7.5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 7.5HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 7.5HP (브레이크 내장)"
+  },
+  {
+   "id": "c3740e12",
+   "vi": "Biến tần servo vector VFI-CG80 220V 25HP →",
+   "zh": "VFI-CG80系列220V 25HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 220V 25HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 220V 25HP →"
+  },
+  {
+   "id": "ba0267b5",
+   "vi": "Biến tần servo vector VFI-CG80 440V 15HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 15HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 15HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 15HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "19c3f2b2",
+   "vi": "Biến tần servo vector VFI-CG80 440V 15HP (có hãm)",
+   "zh": "VFI-CG80系列440V 15HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 15HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 15HP (브레이크 내장)"
+  },
+  {
+   "id": "5412c50e",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 10HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 10HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 10HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 10HP (브레이크 내장)"
+  },
+  {
+   "id": "b0a599f3",
+   "vi": "Biến tần servo vector VFI-CG80 440V 20HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 20HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 20HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 20HP (브레이크 내장) →"
+  },
+  {
+   "id": "99405577",
+   "vi": "Biến tần servo vector VFI-CG80 440V 20HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 20HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 20HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 20HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "eae26abf",
+   "vi": "Biến tần servo vector VFI-CG80 440V 20HP (có hãm)",
+   "zh": "VFI-CG80系列440V 20HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 20HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 20HP (브레이크 내장)"
+  },
+  {
+   "id": "69e8b94b",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 15HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 15HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 15HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 15HP (브레이크 내장)"
+  },
+  {
+   "id": "0f367b8f",
+   "vi": "Biến tần servo vector VFI-CG80 440V 25HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 25HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 25HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 25HP (브레이크 내장) →"
+  },
+  {
+   "id": "8a3561a2",
+   "vi": "Biến tần servo vector VFI-CG80 440V 25HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 25HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 25HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 25HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "8e274fb5",
+   "vi": "Biến tần servo vector VFI-CG80 440V 25HP (có hãm)",
+   "zh": "VFI-CG80系列440V 25HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 25HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 25HP (브레이크 내장)"
+  },
+  {
+   "id": "b0cfaff7",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 20HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 20HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 20HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 20HP (브레이크 내장)"
+  },
+  {
+   "id": "74f6f53b",
+   "vi": "Biến tần servo vector VFI-CG80 440V 30HP →",
+   "zh": "VFI-CG80系列440V 30HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 30HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 30HP →"
+  },
+  {
+   "id": "9bb4183a",
+   "vi": "Biến tần servo vector VFI-CG80 440V 30HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 30HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 30HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 30HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "e0ab0c55",
+   "vi": "Biến tần servo vector VFI-CG80 440V 30HP",
+   "zh": "VFI-CG80系列440V 30HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 30HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 30HP"
+  },
+  {
+   "id": "5bfd7957",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 25HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 25HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 25HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 25HP (브레이크 내장)"
+  },
+  {
+   "id": "b8aa6b24",
+   "vi": "Biến tần servo vector VFI-CG80 440V 40HP →",
+   "zh": "VFI-CG80系列440V 40HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 40HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 40HP →"
+  },
+  {
+   "id": "f021d476",
+   "vi": "Biến tần servo vector VFI-CG80 440V 40HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 40HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 40HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 40HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "0f8f6f47",
+   "vi": "Biến tần servo vector VFI-CG80 440V 40HP",
+   "zh": "VFI-CG80系列440V 40HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 40HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 40HP"
+  },
+  {
+   "id": "e930505d",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 30HP",
+   "zh": "← VFI-CG80系列440V 30HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 30HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 30HP"
+  },
+  {
+   "id": "9b02c036",
+   "vi": "Biến tần servo vector VFI-CG80 440V 50HP →",
+   "zh": "VFI-CG80系列440V 50HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 50HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 50HP →"
+  },
+  {
+   "id": "5a74e871",
+   "vi": "Biến tần servo vector VFI-CG80 440V 50HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 50HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 50HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 50HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "b6c1f165",
+   "vi": "Biến tần servo vector VFI-CG80 440V 50HP",
+   "zh": "VFI-CG80系列440V 50HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 50HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 50HP"
+  },
+  {
+   "id": "0646d2bc",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 40HP",
+   "zh": "← VFI-CG80系列440V 40HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 40HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 40HP"
+  },
+  {
+   "id": "adf43c88",
+   "vi": "Biến tần servo vector VFI-CG80 440V 60HP →",
+   "zh": "VFI-CG80系列440V 60HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 60HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 60HP →"
+  },
+  {
+   "id": "1551d160",
+   "vi": "Biến tần servo vector VFI-CG80 440V 60HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 60HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 60HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 60HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "a1d50d14",
+   "vi": "Biến tần servo vector VFI-CG80 440V 60HP",
+   "zh": "VFI-CG80系列440V 60HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 60HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 60HP"
+  },
+  {
+   "id": "90b852dd",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 50HP",
+   "zh": "← VFI-CG80系列440V 50HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 50HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 50HP"
+  },
+  {
+   "id": "895bb280",
+   "vi": "Biến tần servo vector VFI-CG80 440V 75HP →",
+   "zh": "VFI-CG80系列440V 75HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 75HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 75HP →"
+  },
+  {
+   "id": "b97e3d0a",
+   "vi": "Biến tần servo vector VFI-CG80 440V 75HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 75HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 75HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 75HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "78f3f9cc",
+   "vi": "Biến tần servo vector VFI-CG80 440V 75HP",
+   "zh": "VFI-CG80系列440V 75HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 75HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 75HP"
+  },
+  {
+   "id": "3e8f49eb",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 60HP",
+   "zh": "← VFI-CG80系列440V 60HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 60HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 60HP"
+  },
+  {
+   "id": "a37adc33",
+   "vi": "Biến tần servo vector VFI-CG80 440V 100HP →",
+   "zh": "VFI-CG80系列440V 100HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 100HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 100HP →"
+  },
+  {
+   "id": "9c0a8f2e",
+   "vi": "Biến tần servo vector VFI-CG80 440V 100HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 100HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 100HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 100HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "bcf0b716",
+   "vi": "Biến tần servo vector VFI-CG80 440V 100HP",
+   "zh": "VFI-CG80系列440V 100HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 100HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 100HP"
+  },
+  {
+   "id": "f22a7bf5",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 75HP",
+   "zh": "← VFI-CG80系列440V 75HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 75HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 75HP"
+  },
+  {
+   "id": "9968939e",
+   "vi": "Biến tần servo vector VFI-CG80 440V 125HP →",
+   "zh": "VFI-CG80系列440V 125HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 125HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 125HP →"
+  },
+  {
+   "id": "e1769191",
+   "vi": "Biến tần servo vector VFI-CG80 440V 125HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 125HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 125HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 125HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "900ac17c",
+   "vi": "Biến tần servo vector VFI-CG80 440V 125HP",
+   "zh": "VFI-CG80系列440V 125HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 125HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 125HP"
+  },
+  {
+   "id": "530d2464",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 100HP",
+   "zh": "← VFI-CG80系列440V 100HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 100HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 100HP"
+  },
+  {
+   "id": "479d3246",
+   "vi": "Biến tần servo vector VFI-CG80 440V 150HP →",
+   "zh": "VFI-CG80系列440V 150HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 150HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 150HP →"
+  },
+  {
+   "id": "1820cc23",
+   "vi": "Biến tần servo vector VFI-CG80 440V 150HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 150HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 150HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 150HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "a40322ba",
+   "vi": "Biến tần servo vector VFI-CG80 440V 150HP",
+   "zh": "VFI-CG80系列440V 150HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 150HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 150HP"
+  },
+  {
+   "id": "b41d6316",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 125HP",
+   "zh": "← VFI-CG80系列440V 125HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 125HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 125HP"
+  },
+  {
+   "id": "218f062c",
+   "vi": "Biến tần servo vector VFI-CG80 440V 175HP →",
+   "zh": "VFI-CG80系列440V 175HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 175HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 175HP →"
+  },
+  {
+   "id": "1e322ac4",
+   "vi": "Biến tần servo vector VFI-CG80 440V 175HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 175HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 175HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 175HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "810a57e7",
+   "vi": "Biến tần servo vector VFI-CG80 440V 175HP",
+   "zh": "VFI-CG80系列440V 175HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 175HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 175HP"
+  },
+  {
+   "id": "ae13a7be",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 150HP",
+   "zh": "← VFI-CG80系列440V 150HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 150HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 150HP"
+  },
+  {
+   "id": "bb10496a",
+   "vi": "Biến tần servo vector VFI-CG80 440V 200HP →",
+   "zh": "VFI-CG80系列440V 200HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 200HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 200HP →"
+  },
+  {
+   "id": "f71fa029",
+   "vi": "Biến tần servo vector VFI-CG80 440V 200HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 200HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 200HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 200HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "f6c65c96",
+   "vi": "Biến tần servo vector VFI-CG80 440V 200HP",
+   "zh": "VFI-CG80系列440V 200HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 200HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 200HP"
+  },
+  {
+   "id": "e3c70930",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 175HP",
+   "zh": "← VFI-CG80系列440V 175HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 175HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 175HP"
+  },
+  {
+   "id": "1ef8dd40",
+   "vi": "Biến tần servo vector VFI-CG80 440V 250HP →",
+   "zh": "VFI-CG80系列440V 250HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 250HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 250HP →"
+  },
+  {
+   "id": "178f7205",
+   "vi": "Biến tần servo vector VFI-CG80 440V 250HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 250HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 250HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 250HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "8d21f70a",
+   "vi": "Biến tần servo vector VFI-CG80 440V 250HP",
+   "zh": "VFI-CG80系列440V 250HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 250HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 250HP"
+  },
+  {
+   "id": "c5d0f788",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 200HP",
+   "zh": "← VFI-CG80系列440V 200HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 200HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 200HP"
+  },
+  {
+   "id": "642577e4",
+   "vi": "Biến tần servo vector VFI-CG80 440V 300HP →",
+   "zh": "VFI-CG80系列440V 300HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 300HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 300HP →"
+  },
+  {
+   "id": "970ae0e0",
+   "vi": "Biến tần servo vector VFI-CG80 440V 2HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 2HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 2HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 2HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "cbea6941",
+   "vi": "Biến tần servo vector VFI-CG80 440V 2HP (có hãm)",
+   "zh": "VFI-CG80系列440V 2HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 2HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 2HP (브레이크 내장)"
+  },
+  {
+   "id": "bbe6f595",
+   "vi": "← Biến tần servo vector VFI-CG80 220V 25HP",
+   "zh": "← VFI-CG80系列220V 25HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 220V 25HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 220V 25HP"
+  },
+  {
+   "id": "2303d546",
+   "vi": "Biến tần servo vector VFI-CG80 440V 3HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 3HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 3HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 3HP (브레이크 내장) →"
+  },
+  {
+   "id": "1d7e30f6",
+   "vi": "Biến tần servo vector VFI-CG80 440V 300HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 300HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 300HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 300HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "ff7cd81c",
+   "vi": "Biến tần servo vector VFI-CG80 440V 300HP",
+   "zh": "VFI-CG80系列440V 300HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 300HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 300HP"
+  },
+  {
+   "id": "961668ed",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 250HP",
+   "zh": "← VFI-CG80系列440V 250HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 250HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 250HP"
+  },
+  {
+   "id": "b5f6c331",
+   "vi": "Biến tần servo vector VFI-CG80 440V 400HP →",
+   "zh": "VFI-CG80系列440V 400HP向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 400HP Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 400HP →"
+  },
+  {
+   "id": "1f1d64c7",
+   "vi": "Biến tần servo vector VFI-CG80 440V 3HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 3HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 3HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 3HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "1d74a5f3",
+   "vi": "Biến tần servo vector VFI-CG80 440V 3HP (có hãm)",
+   "zh": "VFI-CG80系列440V 3HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 3HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 3HP (브레이크 내장)"
+  },
+  {
+   "id": "bc036b71",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 2HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 2HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 2HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 2HP (브레이크 내장)"
+  },
+  {
+   "id": "4d80887c",
+   "vi": "Biến tần servo vector VFI-CG80 440V 5HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 5HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 5HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 5HP (브레이크 내장) →"
+  },
+  {
+   "id": "e56d0fff",
+   "vi": "Biến tần servo vector VFI-CG80 440V 400HP | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 400HP向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 400HP Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 400HP | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "a8eda76b",
+   "vi": "Biến tần servo vector VFI-CG80 440V 400HP",
+   "zh": "VFI-CG80系列440V 400HP向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 400HP Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 400HP"
+  },
+  {
+   "id": "74adf35f",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 300HP",
+   "zh": "← VFI-CG80系列440V 300HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 300HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 300HP"
+  },
+  {
+   "id": "95e09246",
+   "vi": "Bộ hãm VFI-CG80 220V 22K →",
+   "zh": "VFI-CG80系列220V 22K煞車器 →",
+   "en": "VFI-CG80 Series 220V 22K Brake →",
+   "ko": "브레이크 유닛 VFI-CG80 220V 22K →"
+  },
+  {
+   "id": "b96d37e1",
+   "vi": "Biến tần servo vector VFI-CG80 440V 5HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 5HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 5HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 5HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "ec6a726f",
+   "vi": "Biến tần servo vector VFI-CG80 440V 5HP (có hãm)",
+   "zh": "VFI-CG80系列440V 5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 5HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 5HP (브레이크 내장)"
+  },
+  {
+   "id": "c2424ef5",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 3HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 3HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 3HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 3HP (브레이크 내장)"
+  },
+  {
+   "id": "10b03ecc",
+   "vi": "Biến tần servo vector VFI-CG80 440V 7.5HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 7.5HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 7.5HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 7.5HP (브레이크 내장) →"
+  },
+  {
+   "id": "5a807574",
+   "vi": "Biến tần servo vector VFI-CG80 440V 7.5HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 7.5HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 7.5HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 7.5HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "442589d2",
+   "vi": "Biến tần servo vector VFI-CG80 440V 7.5HP (có hãm)",
+   "zh": "VFI-CG80系列440V 7.5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 7.5HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 7.5HP (브레이크 내장)"
+  },
+  {
+   "id": "1e10a841",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 5HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 5HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 5HP (브레이크 내장)"
+  },
+  {
+   "id": "7c8f0ad7",
+   "vi": "Biến tần servo vector VFI-CG80 440V 10HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 10HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 10HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 10HP (브레이크 내장) →"
+  },
+  {
+   "id": "d9714cb8",
+   "vi": "Biến tần servo vector VFI-CG80 440V 10HP (có hãm) | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 10HP(煞)向量伺服驅動器(變頻器) | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 10HP(Brake) Vector Servo Drive | Charger Mechatronic Vietnam",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 10HP (브레이크 내장) | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "41ffd36f",
+   "vi": "Biến tần servo vector VFI-CG80 440V 10HP (có hãm)",
+   "zh": "VFI-CG80系列440V 10HP(煞)向量伺服驅動器(變頻器)",
+   "en": "VFI-CG80 Series 440V 10HP(Brake) Vector Servo Drive",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 10HP (브레이크 내장)"
+  },
+  {
+   "id": "b7a4cd84",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 7.5HP (có hãm)",
+   "zh": "← VFI-CG80系列440V 7.5HP(煞)向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 7.5HP(Brake) Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 7.5HP (브레이크 내장)"
+  },
+  {
+   "id": "ac321913",
+   "vi": "Biến tần servo vector VFI-CG80 440V 15HP (có hãm) →",
+   "zh": "VFI-CG80系列440V 15HP(煞)向量伺服驅動器(變頻器) →",
+   "en": "VFI-CG80 Series 440V 15HP(Brake) Vector Servo Drive →",
+   "ko": "벡터 서보 드라이브 VFI-CG80 440V 15HP (브레이크 내장) →"
+  },
+  {
+   "id": "e479a53c",
+   "vi": "Bộ hãm VFI-CG80 220V 22K | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列220V 22K煞車器 | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 220V 22K Brake | Charger Mechatronic Vietnam",
+   "ko": "브레이크 유닛 VFI-CG80 220V 22K | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "eee21e22",
+   "vi": "Bộ hãm VFI-CG80 220V 22K",
+   "zh": "VFI-CG80系列220V 22K煞車器",
+   "en": "VFI-CG80 Series 220V 22K Brake",
+   "ko": "브레이크 유닛 VFI-CG80 220V 22K"
+  },
+  {
+   "id": "bf4f30cb",
+   "vi": "Bộ hãm",
+   "zh": "煞車器",
+   "en": "Brake unit",
+   "ko": "브레이크 유닛"
+  },
+  {
+   "id": "e9bd64cf",
+   "vi": "← Biến tần servo vector VFI-CG80 440V 400HP",
+   "zh": "← VFI-CG80系列440V 400HP向量伺服驅動器(變頻器)",
+   "en": "← VFI-CG80 Series 440V 400HP Vector Servo Drive",
+   "ko": "← 벡터 서보 드라이브 VFI-CG80 440V 400HP"
+  },
+  {
+   "id": "d52f3401",
+   "vi": "Bộ hãm VFI-CG80 440V 18K →",
+   "zh": "VFI-CG80系列440V 18K煞車器 →",
+   "en": "VFI-CG80 Series 440V 18K Brake →",
+   "ko": "브레이크 유닛 VFI-CG80 440V 18K →"
+  },
+  {
+   "id": "22c1f962",
+   "vi": "Bộ hãm VFI-CG80 440V 18K | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 18K煞車器 | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 18K Brake | Charger Mechatronic Vietnam",
+   "ko": "브레이크 유닛 VFI-CG80 440V 18K | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "17b852f1",
+   "vi": "Bộ hãm VFI-CG80 440V 18K",
+   "zh": "VFI-CG80系列440V 18K煞車器",
+   "en": "VFI-CG80 Series 440V 18K Brake",
+   "ko": "브레이크 유닛 VFI-CG80 440V 18K"
+  },
+  {
+   "id": "5dc0c582",
+   "vi": "← Bộ hãm VFI-CG80 220V 22K",
+   "zh": "← VFI-CG80系列220V 22K煞車器",
+   "en": "← VFI-CG80 Series 220V 22K Brake",
+   "ko": "← 브레이크 유닛 VFI-CG80 220V 22K"
+  },
+  {
+   "id": "329974ed",
+   "vi": "Bộ hãm VFI-CG80 440V 22K →",
+   "zh": "VFI-CG80系列440V 22K煞車器 →",
+   "en": "VFI-CG80 Series 440V 22K Brake →",
+   "ko": "브레이크 유닛 VFI-CG80 440V 22K →"
+  },
+  {
+   "id": "12e3143c",
+   "vi": "Bộ hãm VFI-CG80 440V 22K | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 22K煞車器 | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 22K Brake | Charger Mechatronic Vietnam",
+   "ko": "브레이크 유닛 VFI-CG80 440V 22K | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "e7902c48",
+   "vi": "Bộ hãm VFI-CG80 440V 22K",
+   "zh": "VFI-CG80系列440V 22K煞車器",
+   "en": "VFI-CG80 Series 440V 22K Brake",
+   "ko": "브레이크 유닛 VFI-CG80 440V 22K"
+  },
+  {
+   "id": "7c7265c9",
+   "vi": "← Bộ hãm VFI-CG80 440V 18K",
+   "zh": "← VFI-CG80系列440V 18K煞車器",
+   "en": "← VFI-CG80 Series 440V 18K Brake",
+   "ko": "← 브레이크 유닛 VFI-CG80 440V 18K"
+  },
+  {
+   "id": "591d1ee1",
+   "vi": "Bộ hãm VFI-CG80 440V 30K →",
+   "zh": "VFI-CG80系列440V 30K煞車器 →",
+   "en": "VFI-CG80 Series 440V 30K Brake →",
+   "ko": "브레이크 유닛 VFI-CG80 440V 30K →"
+  },
+  {
+   "id": "2d9e2e15",
+   "vi": "Bộ hãm VFI-CG80 440V 30K | Charger Mechatronic Việt Nam",
+   "zh": "VFI-CG80系列440V 30K煞車器 | Charger Mechatronic 越南",
+   "en": "VFI-CG80 Series 440V 30K Brake | Charger Mechatronic Vietnam",
+   "ko": "브레이크 유닛 VFI-CG80 440V 30K | Charger Mechatronic 베트남"
+  },
+  {
+   "id": "de327a6f",
+   "vi": "Bộ hãm VFI-CG80 440V 30K",
+   "zh": "VFI-CG80系列440V 30K煞車器",
+   "en": "VFI-CG80 Series 440V 30K Brake",
+   "ko": "브레이크 유닛 VFI-CG80 440V 30K"
+  },
+  {
+   "id": "cada1b56",
+   "vi": "← Bộ hãm VFI-CG80 440V 22K",
+   "zh": "← VFI-CG80系列440V 22K煞車器",
+   "en": "← VFI-CG80 Series 440V 22K Brake",
+   "ko": "← 브레이크 유닛 VFI-CG80 440V 22K"
+  }
+ ]
+}
