@@ -1,0 +1,5454 @@
+{
+ "publisher": "CÔNG TY TNHH CHARGER MECHATRONIC",
+ "site": "https://mu4540.github.io/cmv-site/",
+ "updated": "2026-11-18",
+ "note": "Prices are quoted on request. Quote deep link: <contact page>?model=<code>",
+ "products": [
+  {
+   "code": "SVMF-IP54_SF-100LB",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-100LB",
+    "en": "SVMF Series IP54 SF-100LB AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-100LB交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-100LB"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-100lb.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-100lb.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-100lb.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-100lb.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-100LB#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-100LB",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "2.2",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "4.4",
+     "Rated Torque(N-m)": "20.8",
+     "Rated Torque(Kg-m)": "2.1",
+     "Rotor Inertial(Kg-m²)": "0.0076",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-100LB"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "3.7",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "7.6",
+     "Rated Torque(N-m)": "25.5",
+     "Rated Torque(Kg-m)": "2.6",
+     "Rotor Inertial(Kg-m²)": "0.0076",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-100LB"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-112L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-112L",
+    "en": "SVMF Series IP54 SF-112L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-112L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-112l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-112l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-112l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-112l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-112L#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-112L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "3.7",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "7.6",
+     "Rated Torque(N-m)": "35",
+     "Rated Torque(Kg-m)": "3.6",
+     "Rotor Inertial(Kg-m²)": "0.0153",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "10.6",
+     "Rated Torque(N-m)": "35",
+     "Rated Torque(Kg-m)": "3.6",
+     "Rotor Inertial(Kg-m²)": "0.0153",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-112XA",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-112XA",
+    "en": "SVMF Series IP54 SF-112XA AC Servo Vector Motor",
+    "zh": "S V M F系 列 IP54 SF-112XA 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XA"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-112xa.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-112xa.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-112xa.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-112xa.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-112XA#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-112XA",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "11.6",
+     "Rated Torque(N-m)": "51.5",
+     "Rated Torque(Kg-m)": "5.3",
+     "Rotor Inertial(Kg-m²)": "0.0212",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112XA"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "15.2",
+     "Rated Torque(N-m)": "51.5",
+     "Rated Torque(Kg-m)": "5.3",
+     "Rotor Inertial(Kg-m²)": "0.0212",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112XA"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-112XB",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-112XB",
+    "en": "SVMF Series IP54 SF-112XB AC Servo Vector Motor",
+    "zh": "S V M F 系 列 IP54 SF-112XB 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XB"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-112xb.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-112xb.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-112xb.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-112xb.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-112XB#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-112XB",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "15.5",
+     "Rated Torque(N-m)": "71",
+     "Rated Torque(Kg-m)": "7.3",
+     "Rotor Inertial(Kg-m²)": "0.0282",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112XB"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "20.5",
+     "Rated Torque(N-m)": "71",
+     "Rated Torque(Kg-m)": "7.3",
+     "Rotor Inertial(Kg-m²)": "0.0282",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112XB"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "12.6",
+     "Rated Torque(N-m)": "57.8",
+     "Rated Torque(Kg-m)": "6",
+     "Rotor Inertial(Kg-m²)": "0.0282",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-112XB"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-132L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-132L",
+    "en": "SVMF Series IP54 SF-132L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-132L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-132l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-132l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-132l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-132l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-132L#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-132L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "22.8",
+     "Rated Torque(N-m)": "104.1",
+     "Rated Torque(Kg-m)": "10.7",
+     "Rotor Inertial(Kg-m²)": "0.0608",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SF-132L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "25.2",
+     "Rated Torque(N-m)": "104",
+     "Rated Torque(Kg-m)": "10.7",
+     "Rotor Inertial(Kg-m²)": "0.0608",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SF-132L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-132LA",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-132LA",
+    "en": "SVMF Series IP54 SF-132LA AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-132LA交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132LA"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-132la.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-132la.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-132la.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-132la.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-132LA#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-132LA",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "31.1",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.6",
+     "Rotor Inertial(Kg-m²)": "0.0735",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SF-132LA"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "43.7",
+     "Rated Torque(N-m)": "138",
+     "Rated Torque(Kg-m)": "14.2",
+     "Rotor Inertial(Kg-m²)": "0.0735",
+     "Max. Speed(RPM)": "7000",
+     "Frame Size": "SF-132LA"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-132MB",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-132MB",
+    "en": "SVMF Series IP54 SF-132MB AC Servo Vector Motor",
+    "zh": "SVMF 系 列 IP54 SF-132MB 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132MB"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-132mb.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-132mb.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-132mb.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-132mb.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-132MB#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-132MB",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "35",
+     "Rated Torque(N-m)": "283.9",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "64.9",
+     "Rated Torque(N-m)": "284.2",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "75.7",
+     "Rated Torque(N-m)": "234.2",
+     "Rated Torque(Kg-m)": "24.1",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "44.5",
+     "Rated Torque(N-m)": "208",
+     "Rated Torque(Kg-m)": "21.4",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-160L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-160L",
+    "en": "SVMF Series IP54 SF-160L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-160L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-160l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-160l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-160l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-160l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-160L#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-160L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "25",
+     "Rated Torque(N-m)": "208.2",
+     "Rated Torque(Kg-m)": "21.4",
+     "Rotor Inertial(Kg-m²)": "0.2427",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "25",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "51.8",
+     "Rated Torque(N-m)": "236.6",
+     "Rated Torque(Kg-m)": "24.3",
+     "Rotor Inertial(Kg-m²)": "0.2427",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "71.3",
+     "Rated Torque(N-m)": "215.4",
+     "Rated Torque(Kg-m)": "22.2",
+     "Rotor Inertial(Kg-m²)": "0.2427",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-160M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-160M",
+    "en": "SVMF Series IP54 SF-160M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-160M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-160m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-160m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-160m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-160m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-160M#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-160M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "9",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "20",
+     "Rated Torque(N-m)": "170.4",
+     "Rated Torque(Kg-m)": "17.5",
+     "Rotor Inertial(Kg-m²)": "0.2054",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160M"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "20",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "41.4",
+     "Rated Torque(N-m)": "189.3",
+     "Rated Torque(Kg-m)": "19.5",
+     "Rotor Inertial(Kg-m²)": "0.2054",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160M"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "28",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "54.9",
+     "Rated Torque(N-m)": "176.7",
+     "Rated Torque(Kg-m)": "18.2",
+     "Rotor Inertial(Kg-m²)": "0.2054",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-160S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-160S",
+    "en": "SVMF Series IP54 SF-160S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-160S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-160s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-160s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-160s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-160s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-160S#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-160S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "17",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.6",
+     "Rotor Inertial(Kg-m²)": "0.1675",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-160X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-160X",
+    "en": "SVMF Series IP54 SF-160X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-160X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-160x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-160x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-160x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-160x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-160X#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-160X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "34",
+     "Rated Torque(N-m)": "283.9",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160X"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "62.2",
+     "Rated Torque(N-m)": "283.9",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160X"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "88.9",
+     "Rated Torque(N-m)": "284.1",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SF-160X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-180L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-180L",
+    "en": "SVMF Series IP54 SF-180L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-180L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-180l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-180l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-180l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-180l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-180L#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-180L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "83",
+     "Rated Torque(N-m)": "700.3",
+     "Rated Torque(Kg-m)": "72.1",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "73",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "150.3",
+     "Rated Torque(N-m)": "690.9",
+     "Rated Torque(Kg-m)": "71.1",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "234",
+     "Rated Torque(N-m)": "694.7",
+     "Rated Torque(Kg-m)": "71.5",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-180M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-180M",
+    "en": "SVMF Series IP54 SF-180M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-180M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-180m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-180m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-180m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-180m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-180M#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-180M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "67",
+     "Rated Torque(N-m)": "567.8",
+     "Rated Torque(Kg-m)": "58.4",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180M"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "60",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "128.1",
+     "Rated Torque(N-m)": "567.8",
+     "Rated Torque(Kg-m)": "58.4",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180M"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "193",
+     "Rated Torque(N-m)": "568.8",
+     "Rated Torque(Kg-m)": "58.5",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SF-180M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-180P",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-180P",
+    "en": "SVMF Series IP54 SF-180P AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-180P交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180P"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-180p.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-180p.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-180p.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-180p.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-180P#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-180P",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "42",
+     "Rated Torque(N-m)": "350.2",
+     "Rated Torque(Kg-m)": "36",
+     "Rotor Inertial(Kg-m²)": "0.5463",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180P"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "79.8",
+     "Rated Torque(N-m)": "350.2",
+     "Rated Torque(Kg-m)": "36",
+     "Rotor Inertial(Kg-m²)": "0.5463",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180P"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "115",
+     "Rated Torque(N-m)": "348",
+     "Rated Torque(Kg-m)": "35.8",
+     "Rotor Inertial(Kg-m²)": "0.5463",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SF-180P"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-180S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-180S",
+    "en": "SVMF Series IP54 SF-180S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-180S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-180s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-180s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-180s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-180s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-180S#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-180S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "25",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "56",
+     "Rated Torque(N-m)": "473.2",
+     "Rated Torque(Kg-m)": "48.7",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180S"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "50",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "106.9",
+     "Rated Torque(N-m)": "473.2",
+     "Rated Torque(Kg-m)": "48.7",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180S"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "157",
+     "Rated Torque(N-m)": "473.9",
+     "Rated Torque(Kg-m)": "48.8",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SF-180S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-180X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-180X",
+    "en": "SVMF Series IP54 SF-180X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-180X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-180x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-180x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-180x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-180x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-180X#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-180X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "101",
+     "Rated Torque(N-m)": "851.8",
+     "Rated Torque(Kg-m)": "87.6",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180X"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "193.3",
+     "Rated Torque(N-m)": "851.1",
+     "Rated Torque(Kg-m)": "87.6",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SF-180X"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "132",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "269",
+     "Rated Torque(N-m)": "833.9",
+     "Rated Torque(Kg-m)": "85.8",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SF-180X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-90L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-90L",
+    "en": "SVMF Series IP54 SF-90L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-90L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-90l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-90l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-90l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-90l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-90L#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-90L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "1.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "3.4",
+     "Rated Torque(N-m)": "14.2",
+     "Rated Torque(Kg-m)": "1.46",
+     "Rotor Inertial(Kg-m²)": "0.0059",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90L"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "2.2",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "5.6",
+     "Rated Torque(N-m)": "17",
+     "Rated Torque(Kg-m)": "1.75",
+     "Rotor Inertial(Kg-m²)": "0.0059",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-90MA",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-90MA",
+    "en": "SVMF Series IP54 SF-90MA AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-90MA交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MA"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-90ma.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-90ma.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-90ma.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-90ma.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-90MA#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-90MA",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "0.75",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "2",
+     "Rated Torque(N-m)": "7.2",
+     "Rated Torque(Kg-m)": "0.74",
+     "Rotor Inertial(Kg-m²)": "0.003",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90MA"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "1.1",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "2.7",
+     "Rated Torque(N-m)": "7",
+     "Rated Torque(Kg-m)": "0.72",
+     "Rotor Inertial(Kg-m²)": "0.003",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90MA"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP54_SF-90MB",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP54 SF-90MB",
+    "en": "SVMF Series IP54 SF-90MB AC Servo Vector Motor",
+    "zh": "SVMF系列 IP54 SF-90MB交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MB"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip54-sf-90mb.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip54-sf-90mb.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip54-sf-90mb.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip54-sf-90mb.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP54_SF-90MB#quote",
+   "series": "SVMF IP54",
+   "frame": "SF-90MB",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "1.1",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "2.8",
+     "Rated Torque(N-m)": "10.4",
+     "Rated Torque(Kg-m)": "1.07",
+     "Rotor Inertial(Kg-m²)": "0.0038",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90MB"
+    },
+    {
+     "Product Series": "SVMF IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "1.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "3.3",
+     "Rated Torque(N-m)": "10.1",
+     "Rated Torque(Kg-m)": "1.04",
+     "Rotor Inertial(Kg-m²)": "0.0038",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SF-90MB"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-132L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-132L",
+    "en": "SVMF Series IP23 SA-132L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-132L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-132l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-132l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-132l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-132l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-132L#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-132L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "35",
+     "Rated Torque(N-m)": "283.9",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "64.9",
+     "Rated Torque(N-m)": "284.2",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "75.7",
+     "Rated Torque(N-m)": "234.2",
+     "Rated Torque(Kg-m)": "24.1",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "44.5",
+     "Rated Torque(N-m)": "208",
+     "Rated Torque(Kg-m)": "21.4",
+     "Rotor Inertial(Kg-m²)": "0.0685",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-132M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-132M",
+    "en": "SVMF Series IP23 SA-132M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-132M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-132m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-132m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-132m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-132m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-132M#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-132M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "26",
+     "Rated Torque(N-m)": "208.2",
+     "Rated Torque(Kg-m)": "21.4",
+     "Rotor Inertial(Kg-m²)": "0.0598",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "46.1",
+     "Rated Torque(N-m)": "208.4",
+     "Rated Torque(Kg-m)": "21.4",
+     "Rotor Inertial(Kg-m²)": "0.0598",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "61.1",
+     "Rated Torque(N-m)": "189.5",
+     "Rated Torque(Kg-m)": "19.5",
+     "Rotor Inertial(Kg-m²)": "0.0598",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "34.3",
+     "Rated Torque(N-m)": "157.7",
+     "Rated Torque(Kg-m)": "16.2",
+     "Rotor Inertial(Kg-m²)": "0.0598",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "41.5",
+     "Rated Torque(N-m)": "194.5",
+     "Rated Torque(Kg-m)": "20",
+     "Rotor Inertial(Kg-m²)": "0.0598",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-132S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-132S",
+    "en": "SVMF Series IP23 SA-132S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-132S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-132s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-132s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-132s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-132s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-132S#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-132S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "17",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.6",
+     "Rotor Inertial(Kg-m²)": "0.0448",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "32.3",
+     "Rated Torque(N-m)": "142.1",
+     "Rated Torque(Kg-m)": "14.6",
+     "Rotor Inertial(Kg-m²)": "0.0448",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "46.4",
+     "Rated Torque(N-m)": "139",
+     "Rated Torque(Kg-m)": "14.3",
+     "Rotor Inertial(Kg-m²)": "0.0448",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-132X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-132X",
+    "en": "SVMF Series IP23 SA-132X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-132X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-132x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-132x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-132x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-132x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-132X#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-132X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "43",
+     "Rated Torque(N-m)": "350.2",
+     "Rated Torque(Kg-m)": "36",
+     "Rotor Inertial(Kg-m²)": "0.0898",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "78.8",
+     "Rated Torque(N-m)": "350.4",
+     "Rated Torque(Kg-m)": "36.1",
+     "Rotor Inertial(Kg-m²)": "0.0898",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "91.9",
+     "Rated Torque(N-m)": "283.8",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.0898",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SA-132X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-160L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-160L",
+    "en": "SVMF Series IP23 SA-160L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-160L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-160l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-160l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-160l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-160l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-160L#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-160L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "75.2",
+     "Rated Torque(N-m)": "388.8",
+     "Rated Torque(Kg-m)": "40",
+     "Rotor Inertial(Kg-m²)": "0.252",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "42",
+     "Rated Torque(N-m)": "291.8",
+     "Rated Torque(Kg-m)": "30",
+     "Rotor Inertial(Kg-m²)": "0.2427",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "32.2",
+     "Rated Torque(N-m)": "283.9",
+     "Rated Torque(Kg-m)": "29.2",
+     "Rotor Inertial(Kg-m²)": "0.2427",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-160M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-160M",
+    "en": "SVMF Series IP23 SA-160M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-160M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-160m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-160m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-160m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-160m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-160M#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-160M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "63",
+     "Rated Torque(N-m)": "315.9",
+     "Rated Torque(Kg-m)": "32.5",
+     "Rotor Inertial(Kg-m²)": "0.1966",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-160X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-160X",
+    "en": "SVMF Series IP23 SA-160X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-160X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-160x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-160x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-160x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-160x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-160X#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-160X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "49",
+     "Rated Torque(N-m)": "416.4",
+     "Rated Torque(Kg-m)": "42.8",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "101.1",
+     "Rated Torque(N-m)": "347.8",
+     "Rated Torque(Kg-m)": "35.8",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "93",
+     "Rated Torque(N-m)": "473.3",
+     "Rated Torque(Kg-m)": "48.7",
+     "Rotor Inertial(Kg-m²)": "0.299",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "45.5",
+     "Rated Torque(N-m)": "347",
+     "Rated Torque(Kg-m)": "35.7",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "40.4",
+     "Rated Torque(N-m)": "350.2",
+     "Rated Torque(Kg-m)": "36",
+     "Rotor Inertial(Kg-m²)": "0.3023",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-160X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-180L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-180L",
+    "en": "SVMF Series IP23 SA-180L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-180L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-180l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-180l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-180l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-180l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-180L#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-180L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "83",
+     "Rated Torque(N-m)": "700.3",
+     "Rated Torque(Kg-m)": "72.1",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "73",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "150.3",
+     "Rated Torque(N-m)": "695",
+     "Rated Torque(Kg-m)": "71.5",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "234",
+     "Rated Torque(N-m)": "694.7",
+     "Rated Torque(Kg-m)": "71.5",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "152",
+     "Rated Torque(N-m)": "788.3",
+     "Rated Torque(Kg-m)": "81.1",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "92",
+     "Rated Torque(N-m)": "709.8",
+     "Rated Torque(Kg-m)": "73",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "92",
+     "Rated Torque(N-m)": "567.8",
+     "Rated Torque(Kg-m)": "58.4",
+     "Rotor Inertial(Kg-m²)": "0.9075",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-180L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-180M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-180M",
+    "en": "SVMF Series IP23 SA-180M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-180M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-180m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-180m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-180m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-180m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-180M#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-180M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "67",
+     "Rated Torque(N-m)": "567.8",
+     "Rated Torque(Kg-m)": "58.4",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "60",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "128.1",
+     "Rated Torque(N-m)": "568.6",
+     "Rated Torque(Kg-m)": "58.5",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "193.4",
+     "Rated Torque(N-m)": "568.8",
+     "Rated Torque(Kg-m)": "58.5",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "75",
+     "Rated Torque(N-m)": "583.6",
+     "Rated Torque(Kg-m)": "60",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "60.2",
+     "Rated Torque(N-m)": "416.4",
+     "Rated Torque(Kg-m)": "42.8",
+     "Rotor Inertial(Kg-m²)": "0.7369",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-180S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-180S",
+    "en": "SVMF Series IP23 SA-180S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-180S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-180s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-180s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-180s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-180s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-180S#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-180S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "50",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "106.9",
+     "Rated Torque(N-m)": "473.3",
+     "Rated Torque(Kg-m)": "48.7",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "157.2",
+     "Rated Torque(N-m)": "473.9",
+     "Rated Torque(Kg-m)": "48.8",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "111",
+     "Rated Torque(N-m)": "578.3",
+     "Rated Torque(Kg-m)": "59.5",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "62",
+     "Rated Torque(N-m)": "473.2",
+     "Rated Torque(Kg-m)": "48.7",
+     "Rotor Inertial(Kg-m²)": "0.6466",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-180X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-180X",
+    "en": "SVMF Series IP23 SA-180X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-180X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-180x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-180x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-180x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-180x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-180X#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-180X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "101",
+     "Rated Torque(N-m)": "851.8",
+     "Rated Torque(Kg-m)": "87.6",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "193.3",
+     "Rated Torque(N-m)": "852.4",
+     "Rated Torque(Kg-m)": "87.7",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "132",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "269.5",
+     "Rated Torque(N-m)": "833.9",
+     "Rated Torque(Kg-m)": "85.8",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "102",
+     "Rated Torque(N-m)": "700.3",
+     "Rated Torque(Kg-m)": "72.1",
+     "Rotor Inertial(Kg-m²)": "1.0479",
+     "Max. Speed(RPM)": "3500",
+     "Frame Size": "SA-180X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-225L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-225L",
+    "en": "SVMF Series IP23 SA-225L AC Servo Vector Motor",
+    "zh": "SVMF系列IP23 SA-225L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-225l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-225l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-225l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-225l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-225L#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-225L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "84",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "180",
+     "Rated Torque(N-m)": "1590",
+     "Rated Torque(Kg-m)": "163.6",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "167",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "330.7",
+     "Rated Torque(N-m)": "1580",
+     "Rated Torque(Kg-m)": "162.6",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "220",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "434.4",
+     "Rated Torque(N-m)": "1389",
+     "Rated Torque(Kg-m)": "142.9",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "130",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "262",
+     "Rated Torque(N-m)": "1367",
+     "Rated Torque(Kg-m)": "140.6",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "183",
+     "Rated Torque(N-m)": "1420",
+     "Rated Torque(Kg-m)": "146.1",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "197",
+     "Rated Torque(N-m)": "1420",
+     "Rated Torque(Kg-m)": "146.1",
+     "Rotor Inertial(Kg-m²)": "2.6569",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-225M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-225M",
+    "en": "SVMF Series IP23 SA-225M AC Servo Vector Motor",
+    "zh": "S V M F 系 列 IP23 SA-225M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-225m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-225m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-225m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-225m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-225M#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-225M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "67",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "137",
+     "Rated Torque(N-m)": "1268",
+     "Rated Torque(Kg-m)": "130.5",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "133",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "264.9",
+     "Rated Torque(N-m)": "1259",
+     "Rated Torque(Kg-m)": "129.5",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "185",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "359.9",
+     "Rated Torque(N-m)": "1168",
+     "Rated Torque(Kg-m)": "120.2",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "220",
+     "Rated Torque(N-m)": "1157",
+     "Rated Torque(Kg-m)": "119",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "152",
+     "Rated Torque(N-m)": "1183",
+     "Rated Torque(Kg-m)": "121.7",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "60",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "136",
+     "Rated Torque(N-m)": "1136",
+     "Rated Torque(Kg-m)": "116.8",
+     "Rotor Inertial(Kg-m²)": "2.1492",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-225S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-225S",
+    "en": "SVMF Series IP23 SA-225S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-225S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-225s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-225s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-225s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-225s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-225S#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-225S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "50",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "107",
+     "Rated Torque(N-m)": "946.7",
+     "Rated Torque(Kg-m)": "97.4",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "100",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "195.6",
+     "Rated Torque(N-m)": "946.7",
+     "Rated Torque(Kg-m)": "97.4",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "150",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "291.3",
+     "Rated Torque(N-m)": "946.7",
+     "Rated Torque(Kg-m)": "97.4",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "185",
+     "Rated Torque(N-m)": "946.4",
+     "Rated Torque(Kg-m)": "97.4",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "110",
+     "Rated Torque(N-m)": "867.5",
+     "Rated Torque(Kg-m)": "89.3",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "104",
+     "Rated Torque(N-m)": "851.8",
+     "Rated Torque(Kg-m)": "87.6",
+     "Rotor Inertial(Kg-m²)": "1.7946",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-225X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-225X",
+    "en": "SVMF Series IP23 SA-225X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-225X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-225x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-225x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-225x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-225x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-225X#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-225X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "100",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "202",
+     "Rated Torque(N-m)": "1892",
+     "Rated Torque(Kg-m)": "194.7",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "200",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "398.2",
+     "Rated Torque(N-m)": "1892",
+     "Rated Torque(Kg-m)": "194.7",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "300",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "571.6",
+     "Rated Torque(N-m)": "1892",
+     "Rated Torque(Kg-m)": "194.7",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "180",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "366",
+     "Rated Torque(N-m)": "1893",
+     "Rated Torque(Kg-m)": "194.7",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "239",
+     "Rated Torque(N-m)": "1735",
+     "Rated Torque(Kg-m)": "178.5",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "253",
+     "Rated Torque(N-m)": "1704",
+     "Rated Torque(Kg-m)": "175.3",
+     "Rotor Inertial(Kg-m²)": "3.1608",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-225X"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-280L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-280L",
+    "en": "SVMF Series IP23 SA-280L AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-280L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-280l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-280l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-280l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-280l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-280L#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-280L",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "165",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "334",
+     "Rated Torque(N-m)": "3126",
+     "Rated Torque(Kg-m)": "321.6",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "350",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "688",
+     "Rated Torque(N-m)": "3315",
+     "Rated Torque(Kg-m)": "341.1",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "500",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "994",
+     "Rated Torque(N-m)": "3150",
+     "Rated Torque(Kg-m)": "324.1",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "315",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "641",
+     "Rated Torque(N-m)": "3312",
+     "Rated Torque(Kg-m)": "340.8",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "195",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "373",
+     "Rated Torque(N-m)": "3078",
+     "Rated Torque(Kg-m)": "316.7",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "150",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "347",
+     "Rated Torque(N-m)": "2839",
+     "Rated Torque(Kg-m)": "292.1",
+     "Rotor Inertial(Kg-m²)": "7.4323",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-280M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-280M",
+    "en": "SVMF Series IP23 SA-280M AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-280M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-280m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-280m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-280m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-280m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-280M#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-280M",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "140",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "281",
+     "Rated Torque(N-m)": "2652",
+     "Rated Torque(Kg-m)": "272.8",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "300",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "574.2",
+     "Rated Torque(N-m)": "2841",
+     "Rated Torque(Kg-m)": "292.3",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "440",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "862",
+     "Rated Torque(N-m)": "2777",
+     "Rated Torque(Kg-m)": "285.7",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "270",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "549",
+     "Rated Torque(N-m)": "2839",
+     "Rated Torque(Kg-m)": "292.1",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "150",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "285",
+     "Rated Torque(N-m)": "2368",
+     "Rated Torque(Kg-m)": "243.6",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "130",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "271",
+     "Rated Torque(N-m)": "2461",
+     "Rated Torque(Kg-m)": "253.2",
+     "Rotor Inertial(Kg-m²)": "6.2986",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-280S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-280S",
+    "en": "SVMF Series IP23 SA-280S AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-280S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-280s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-280s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-280s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-280s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-280S#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-280S",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "120",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "245",
+     "Rated Torque(N-m)": "2273",
+     "Rated Torque(Kg-m)": "233.9",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "250",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "483.6",
+     "Rated Torque(N-m)": "2368",
+     "Rated Torque(Kg-m)": "243.6",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "370",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "734",
+     "Rated Torque(N-m)": "2336",
+     "Rated Torque(Kg-m)": "240.4",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "220",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "447",
+     "Rated Torque(N-m)": "2313",
+     "Rated Torque(Kg-m)": "238",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "125",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "243",
+     "Rated Torque(N-m)": "1973",
+     "Rated Torque(Kg-m)": "203",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "230",
+     "Rated Torque(N-m)": "2082",
+     "Rated Torque(Kg-m)": "214.2",
+     "Rotor Inertial(Kg-m²)": "5.291",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    }
+   ]
+  },
+  {
+   "code": "SVMF-IP23_SA-280X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMF IP23 SA-280X",
+    "en": "SVMF Series IP23 SA-280X AC Servo Vector Motor",
+    "zh": "SVMF系列 IP23 SA-280X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmf-ip23-sa-280x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmf-ip23-sa-280x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmf-ip23-sa-280x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmf-ip23-sa-280x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMF-IP23_SA-280X#quote",
+   "series": "SVMF IP23",
+   "frame": "SA-280X",
+   "ratings": [
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500",
+     "Rated Output(kW)": "180",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "361",
+     "Rated Torque(N-m)": "3410",
+     "Rated Torque(Kg-m)": "350.8",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "385",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "740.4",
+     "Rated Torque(N-m)": "3647",
+     "Rated Torque(Kg-m)": "375.2",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "550",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "1100",
+     "Rated Torque(N-m)": "3473",
+     "Rated Torque(Kg-m)": "357.3",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "900/1800",
+     "Rated Output(kW)": "345",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "702",
+     "Rated Torque(N-m)": "3628",
+     "Rated Torque(Kg-m)": "373.3",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "600/1800",
+     "Rated Output(kW)": "220",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "420",
+     "Rated Torque(N-m)": "3473",
+     "Rated Torque(Kg-m)": "357.3",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMF IP23",
+     "Rated Speed(RPM)": "500/2000",
+     "Rated Output(kW)": "165",
+     "Rated Voltage(V)": "360",
+     "Rated Current(A)": "350",
+     "Rated Torque(N-m)": "3123",
+     "Rated Torque(Kg-m)": "321.3",
+     "Rotor Inertial(Kg-m²)": "8.1881",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-100L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100L",
+    "en": "SVMJ Series IP54 SVM-100L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-100L 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-100l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-100l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-100l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-100l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-100L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-100L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "15.9",
+     "Rated Torque(N-m)": "71",
+     "Rated Torque(Kg-m)": "7.24",
+     "Rotor Inertial(Kg-m²)": "0.0405",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "23.4",
+     "Rated Torque(N-m)": "69.4",
+     "Rated Torque(Kg-m)": "7.08",
+     "Rotor Inertial(Kg-m²)": "0.0405",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "31.9",
+     "Rated Torque(N-m)": "71",
+     "Rated Torque(Kg-m)": "7.24",
+     "Rotor Inertial(Kg-m²)": "0.0405",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-100M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M",
+    "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-100m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-100m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-100m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-100m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-100M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-100M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "11.7",
+     "Rated Torque(N-m)": "52",
+     "Rated Torque(Kg-m)": "5.31",
+     "Rotor Inertial(Kg-m²)": "0.0353",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "15.9",
+     "Rated Torque(N-m)": "47.8",
+     "Rated Torque(Kg-m)": "4.88",
+     "Rotor Inertial(Kg-m²)": "0.0353",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "23.4",
+     "Rated Torque(N-m)": "52.06",
+     "Rated Torque(Kg-m)": "5.31",
+     "Rotor Inertial(Kg-m²)": "0.0353",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-100S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S",
+    "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-100s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-100s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-100s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-100s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-100S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-100S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "3.75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "8",
+     "Rated Torque(N-m)": "35.5",
+     "Rated Torque(Kg-m)": "3.62",
+     "Rotor Inertial(Kg-m²)": "0.0245",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "11.72",
+     "Rated Torque(N-m)": "35",
+     "Rated Torque(Kg-m)": "3.57",
+     "Rotor Inertial(Kg-m²)": "0.0245",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "7.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "15.9",
+     "Rated Torque(N-m)": "35.5",
+     "Rated Torque(Kg-m)": "3.62",
+     "Rotor Inertial(Kg-m²)": "0.0245",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-100S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-132L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L",
+    "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-132l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-132l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-132l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-132l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-132L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-132L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "35.9",
+     "Rated Torque(N-m)": "175.1",
+     "Rated Torque(Kg-m)": "17.87",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "42.7",
+     "Rated Torque(N-m)": "138.8",
+     "Rated Torque(Kg-m)": "14.16",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "58.3",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.49",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-132M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M",
+    "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-132m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-132m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-132m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-132m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-132M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-132M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "28.9",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.49",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "35.9",
+     "Rated Torque(N-m)": "116.7",
+     "Rated Torque(Kg-m)": "11.91",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "42.7",
+     "Rated Torque(N-m)": "104.1",
+     "Rated Torque(Kg-m)": "10.63",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-132S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S",
+    "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-132s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-132s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-132s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-132s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-132S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-132S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "11",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "21.36",
+     "Rated Torque(N-m)": "104.1",
+     "Rated Torque(Kg-m)": "10.63",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "28.9",
+     "Rated Torque(N-m)": "94.66",
+     "Rated Torque(Kg-m)": "9.66",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "18.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "35.9",
+     "Rated Torque(N-m)": "87.56",
+     "Rated Torque(Kg-m)": "8.93",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "6000",
+     "Frame Size": "SVM-132S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-132X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X",
+    "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-132x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-132x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-132x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-132x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-132X#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-132X",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "42.7",
+     "Rated Torque(N-m)": "208.3",
+     "Rated Torque(Kg-m)": "21.25",
+     "Rotor Inertial(Kg-m²)": "0.126",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SVM-132X"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "58.3",
+     "Rated Torque(N-m)": "189.3",
+     "Rated Torque(Kg-m)": "19.32",
+     "Rotor Inertial(Kg-m²)": "0.126",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SVM-132X"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "37.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "72.8",
+     "Rated Torque(N-m)": "177.5",
+     "Rated Torque(Kg-m)": "18.11",
+     "Rotor Inertial(Kg-m²)": "0.126",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SVM-132X"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-160L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L",
+    "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-160l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-160l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-160l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-160l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-160L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-160L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "40",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "79.4",
+     "Rated Torque(N-m)": "378.6",
+     "Rated Torque(Kg-m)": "38.63",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "50",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "99.2",
+     "Rated Torque(N-m)": "315.5",
+     "Rated Torque(Kg-m)": "32.19",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "62",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "123",
+     "Rated Torque(N-m)": "293.5",
+     "Rated Torque(Kg-m)": "29.95",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-160M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M",
+    "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-160m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-160m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-160m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-160m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-160M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-160M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "37.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "74.7",
+     "Rated Torque(N-m)": "355",
+     "Rated Torque(Kg-m)": "36.22",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "89.7",
+     "Rated Torque(N-m)": "284",
+     "Rated Torque(Kg-m)": "28.98",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "109.6",
+     "Rated Torque(N-m)": "260.3",
+     "Rated Torque(Kg-m)": "26.56",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-160S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S",
+    "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-160s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-160s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-160s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-160s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-160S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-160S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "59.8",
+     "Rated Torque(N-m)": "284",
+     "Rated Torque(Kg-m)": "28.98",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "37.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "74.7",
+     "Rated Torque(N-m)": "236.7",
+     "Rated Torque(Kg-m)": "24.15",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "89.7",
+     "Rated Torque(N-m)": "213",
+     "Rated Torque(Kg-m)": "21.73",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-160S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-180L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L",
+    "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-180l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-180l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-180l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-180l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-180L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-180L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "65",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "130.9",
+     "Rated Torque(N-m)": "615.3",
+     "Rated Torque(Kg-m)": "62.79",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "181.3",
+     "Rated Torque(N-m)": "568",
+     "Rated Torque(Kg-m)": "57.96",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "221.6",
+     "Rated Torque(N-m)": "520.6",
+     "Rated Torque(Kg-m)": "53.12",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-180M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M",
+    "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-180m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-180m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-180m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-180m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-180M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-180M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "110.3",
+     "Rated Torque(N-m)": "520.6",
+     "Rated Torque(Kg-m)": "53.12",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "150.4",
+     "Rated Torque(N-m)": "473.3",
+     "Rated Torque(Kg-m)": "48.3",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "100",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "200.6",
+     "Rated Torque(N-m)": "473.3",
+     "Rated Torque(Kg-m)": "48.3",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-180S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S",
+    "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-180s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-180s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-180s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-180s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-180S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-180S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "110.3",
+     "Rated Torque(N-m)": "347",
+     "Rated Torque(Kg-m)": "35.41",
+     "Rotor Inertial(Kg-m²)": "0.5",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "150.4",
+     "Rated Torque(N-m)": "355",
+     "Rated Torque(Kg-m)": "36.22",
+     "Rotor Inertial(Kg-m²)": "0.5",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-180S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-225L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L",
+    "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-225l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-225l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-225l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-225l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-225L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-225L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "113",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "214",
+     "Rated Torque(N-m)": "1069",
+     "Rated Torque(Kg-m)": "109.1",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "160",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "303",
+     "Rated Torque(N-m)": "1010",
+     "Rated Torque(Kg-m)": "103.1",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "180",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "340.9",
+     "Rated Torque(N-m)": "852",
+     "Rated Torque(Kg-m)": "86.94",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-225M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M",
+    "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-225m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-225m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-225m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-225m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-225M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-225M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "96",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "181.8",
+     "Rated Torque(N-m)": "908",
+     "Rated Torque(Kg-m)": "92.65",
+     "Rotor Inertial(Kg-m²)": "1.93",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "130",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "246.2",
+     "Rated Torque(N-m)": "820",
+     "Rated Torque(Kg-m)": "83.67",
+     "Rotor Inertial(Kg-m²)": "1.93",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "168",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "318.1",
+     "Rated Torque(N-m)": "795",
+     "Rated Torque(Kg-m)": "81.12",
+     "Rotor Inertial(Kg-m²)": "1.93",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-225S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S",
+    "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor",
+    "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-225s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-225s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-225s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-225s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-225S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-225S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "74",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "140.1",
+     "Rated Torque(N-m)": "700",
+     "Rated Torque(Kg-m)": "71.43",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "100",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "189.3",
+     "Rated Torque(N-m)": "631",
+     "Rated Torque(Kg-m)": "64.39",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "120",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "227.3",
+     "Rated Torque(N-m)": "568",
+     "Rated Torque(Kg-m)": "57.96",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4000",
+     "Frame Size": "SVM-225S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-80S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S",
+    "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-80s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-80s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-80s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-80s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-80S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-80S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "0.4",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "1.02",
+     "Rated Torque(N-m)": "3.8",
+     "Rated Torque(Kg-m)": "0.39",
+     "Rotor Inertial(Kg-m²)": "0.006",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-80S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "0.75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "1.89",
+     "Rated Torque(N-m)": "4.7",
+     "Rated Torque(Kg-m)": "0.48",
+     "Rotor Inertial(Kg-m²)": "0.006",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-80S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "1.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "3.7",
+     "Rated Torque(N-m)": "7.1",
+     "Rated Torque(Kg-m)": "0.72",
+     "Rotor Inertial(Kg-m²)": "0.006",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-80S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-90L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L",
+    "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-90l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-90l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-90l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-90l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-90L#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-90L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "2.2",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "5.5",
+     "Rated Torque(N-m)": "20.8",
+     "Rated Torque(Kg-m)": "2.12",
+     "Rotor Inertial(Kg-m²)": "0.0135",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "3.7",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "9.2",
+     "Rated Torque(N-m)": "23.3",
+     "Rated Torque(Kg-m)": "2.38",
+     "Rotor Inertial(Kg-m²)": "0.0135",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90L"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "5.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "11.72",
+     "Rated Torque(N-m)": "26.03",
+     "Rated Torque(Kg-m)": "2.66",
+     "Rotor Inertial(Kg-m²)": "0.0135",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-90M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M",
+    "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor",
+    "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-90m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-90m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-90m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-90m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-90M#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-90M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "1.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "3.7",
+     "Rated Torque(N-m)": "14.2",
+     "Rated Torque(Kg-m)": "1.45",
+     "Rotor Inertial(Kg-m²)": "0.0098",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "2.2",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "5.5",
+     "Rated Torque(N-m)": "13.8",
+     "Rated Torque(Kg-m)": "1.41",
+     "Rotor Inertial(Kg-m²)": "0.0098",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90M"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "3.7",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "9.2",
+     "Rated Torque(N-m)": "17.5",
+     "Rated Torque(Kg-m)": "1.79",
+     "Rotor Inertial(Kg-m²)": "0.0098",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP54_SVM-90S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S",
+    "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip54-svm-90s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip54-svm-90s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip54-svm-90s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip54-svm-90s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP54_SVM-90S#quote",
+   "series": "SVMJ IP54",
+   "frame": "SVM-90S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "0.75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "1.8",
+     "Rated Torque(N-m)": "7.1",
+     "Rated Torque(Kg-m)": "0.72",
+     "Rotor Inertial(Kg-m²)": "0.0079",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "1.5",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "3.7",
+     "Rated Torque(N-m)": "9.4",
+     "Rated Torque(Kg-m)": "0.96",
+     "Rotor Inertial(Kg-m²)": "0.0079",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90S"
+    },
+    {
+     "Product Series": "SVMJ IP54",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "2.2",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "5.5",
+     "Rated Torque(N-m)": "10.4",
+     "Rated Torque(Kg-m)": "1.06",
+     "Rotor Inertial(Kg-m²)": "0.0079",
+     "Max. Speed(RPM)": "8000",
+     "Frame Size": "SVM-90S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-132L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L",
+    "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-132l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-132l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-132l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-132l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-132L#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-132L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "61.3",
+     "Rated Torque(N-m)": "284",
+     "Rated Torque(Kg-m)": "28.98",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "75.4",
+     "Rated Torque(N-m)": "236.7",
+     "Rated Torque(Kg-m)": "24.15",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "92",
+     "Rated Torque(N-m)": "213",
+     "Rated Torque(Kg-m)": "21.73",
+     "Rotor Inertial(Kg-m²)": "0.101",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-132M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M",
+    "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-132m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-132m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-132m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-132m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-132M#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-132M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "45.5",
+     "Rated Torque(N-m)": "208",
+     "Rated Torque(Kg-m)": "21.22",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "61.3",
+     "Rated Torque(N-m)": "189.3",
+     "Rated Torque(Kg-m)": "19.32",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "75.4",
+     "Rated Torque(N-m)": "175",
+     "Rated Torque(Kg-m)": "17.86",
+     "Rotor Inertial(Kg-m²)": "0.077",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-132S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S",
+    "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-132s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-132s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-132s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-132s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-132S#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-132S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "15",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "31.2",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.49",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "22",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "45.8",
+     "Rated Torque(N-m)": "138",
+     "Rated Torque(Kg-m)": "14.08",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "30",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "61.3",
+     "Rated Torque(N-m)": "142",
+     "Rated Torque(Kg-m)": "14.49",
+     "Rotor Inertial(Kg-m²)": "0.065",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-132X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X",
+    "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-132x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-132x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-132x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-132x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-132X#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-132X",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "37",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "75.4",
+     "Rated Torque(N-m)": "350",
+     "Rated Torque(Kg-m)": "35.71",
+     "Rotor Inertial(Kg-m²)": "0.12",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132X"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "90.4",
+     "Rated Torque(N-m)": "284",
+     "Rated Torque(Kg-m)": "28.98",
+     "Rotor Inertial(Kg-m²)": "0.12",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132X"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "110.5",
+     "Rated Torque(N-m)": "260",
+     "Rated Torque(Kg-m)": "26.53",
+     "Rotor Inertial(Kg-m²)": "0.12",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132X"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-160L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L",
+    "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-160l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-160l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-160l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-160l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-160L#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-160L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "60",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "119.3",
+     "Rated Torque(N-m)": "572",
+     "Rated Torque(Kg-m)": "58.37",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "75",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "149.1",
+     "Rated Torque(N-m)": "477",
+     "Rated Torque(Kg-m)": "48.67",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "90",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "178.9",
+     "Rated Torque(N-m)": "429",
+     "Rated Torque(Kg-m)": "43.78",
+     "Rotor Inertial(Kg-m²)": "0.256",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-160M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M",
+    "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-160m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-160m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-160m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-160m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-160M#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-160M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "110.6",
+     "Rated Torque(N-m)": "525",
+     "Rated Torque(Kg-m)": "53.57",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "65",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "130.8",
+     "Rated Torque(N-m)": "414",
+     "Rated Torque(Kg-m)": "42.24",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "80",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "160.9",
+     "Rated Torque(N-m)": "381",
+     "Rated Torque(Kg-m)": "38.88",
+     "Rotor Inertial(Kg-m²)": "0.23",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-132M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-160S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S",
+    "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-160s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-160s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-160s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-160s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-160S#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-160S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "45",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "91.5",
+     "Rated Torque(N-m)": "429",
+     "Rated Torque(Kg-m)": "43.78",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "55",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "111.9",
+     "Rated Torque(N-m)": "350",
+     "Rated Torque(Kg-m)": "35.71",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "65",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "132.2",
+     "Rated Torque(N-m)": "309",
+     "Rated Torque(Kg-m)": "31.53",
+     "Rotor Inertial(Kg-m²)": "0.186",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-160S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-180L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L",
+    "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-180l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-180l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-180l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-180l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-180L#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-180L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "95",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "184.8",
+     "Rated Torque(N-m)": "906",
+     "Rated Torque(Kg-m)": "92.45",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "130",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "252.8",
+     "Rated Torque(N-m)": "827",
+     "Rated Torque(Kg-m)": "84.39",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "170",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "330.6",
+     "Rated Torque(N-m)": "811",
+     "Rated Torque(Kg-m)": "82.76",
+     "Rotor Inertial(Kg-m²)": "0.777",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-180M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M",
+    "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-180m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-180m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-180m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-180m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-180M#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-180M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "80",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "157.3",
+     "Rated Torque(N-m)": "762",
+     "Rated Torque(Kg-m)": "77.76",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "216.3",
+     "Rated Torque(N-m)": "699",
+     "Rated Torque(Kg-m)": "71.33",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "145",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "285.1",
+     "Rated Torque(N-m)": "691",
+     "Rated Torque(Kg-m)": "70.51",
+     "Rotor Inertial(Kg-m²)": "0.69",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-180S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S",
+    "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-180s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-180s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-180s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-180s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-180S#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-180S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "80",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "157.3",
+     "Rated Torque(N-m)": "508",
+     "Rated Torque(Kg-m)": "51.84",
+     "Rotor Inertial(Kg-m²)": "0.503",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "216.3",
+     "Rated Torque(N-m)": "525",
+     "Rated Torque(Kg-m)": "53.57",
+     "Rotor Inertial(Kg-m²)": "0.503",
+     "Max. Speed(RPM)": "5000",
+     "Frame Size": "SA-180S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-225L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L",
+    "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor",
+    "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-225l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-225l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-225l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-225l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-225L#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-225L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "165",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "308.1",
+     "Rated Torque(N-m)": "1573",
+     "Rated Torque(Kg-m)": "160.5",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "230",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "429.5",
+     "Rated Torque(N-m)": "1463",
+     "Rated Torque(Kg-m)": "149.3",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "288",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "537.9",
+     "Rated Torque(N-m)": "1374",
+     "Rated Torque(Kg-m)": "140.2",
+     "Rotor Inertial(Kg-m²)": "2.326",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-225M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M",
+    "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-225m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-225m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-225m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-225m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-225M#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-225M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "140",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "258.7",
+     "Rated Torque(N-m)": "1335",
+     "Rated Torque(Kg-m)": "136.2",
+     "Rotor Inertial(Kg-m²)": "1.938",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "190",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "351.1",
+     "Rated Torque(N-m)": "1208",
+     "Rated Torque(Kg-m)": "123.3",
+     "Rotor Inertial(Kg-m²)": "1.938",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "245",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "452.8",
+     "Rated Torque(N-m)": "1168",
+     "Rated Torque(Kg-m)": "119.2",
+     "Rotor Inertial(Kg-m²)": "1.938",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-225S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S",
+    "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-225s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-225s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-225s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-225s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-225S#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-225S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "110",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "204.4",
+     "Rated Torque(N-m)": "1050",
+     "Rated Torque(Kg-m)": "107.1",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "150",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "278.7",
+     "Rated Torque(N-m)": "954",
+     "Rated Torque(Kg-m)": "97.35",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225S"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "2000",
+     "Rated Output(kW)": "175",
+     "Rated Voltage(V)": "380",
+     "Rated Current(A)": "325.1",
+     "Rated Torque(N-m)": "834",
+     "Rated Torque(Kg-m)": "85.1",
+     "Rotor Inertial(Kg-m²)": "1.479",
+     "Max. Speed(RPM)": "4500",
+     "Frame Size": "SA-225S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-280L",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L",
+    "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-280l.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-280l.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-280l.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-280l.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-280L#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-280L",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "580",
+     "Rated Output(kW)": "140",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "286",
+     "Rated Torque(N-m)": "2311",
+     "Rated Torque(Kg-m)": "235.8",
+     "Rotor Inertial(Kg-m²)": "5.25",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "231",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "426",
+     "Rated Torque(N-m)": "2210",
+     "Rated Torque(Kg-m)": "225.5",
+     "Rotor Inertial(Kg-m²)": "5.25",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "330",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "590",
+     "Rated Torque(N-m)": "2210",
+     "Rated Torque(Kg-m)": "225.5",
+     "Rotor Inertial(Kg-m²)": "5.25",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280L"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-280M",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M",
+    "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-280m.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-280m.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-280m.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-280m.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-280M#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-280M",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "580",
+     "Rated Output(kW)": "119",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "245",
+     "Rated Torque(N-m)": "1960",
+     "Rated Torque(Kg-m)": "200",
+     "Rotor Inertial(Kg-m²)": "4.34",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "196",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "360",
+     "Rated Torque(N-m)": "1875",
+     "Rated Torque(Kg-m)": "191.3",
+     "Rotor Inertial(Kg-m²)": "4.34",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "280",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "502",
+     "Rated Torque(N-m)": "1788",
+     "Rated Torque(Kg-m)": "182.5",
+     "Rotor Inertial(Kg-m²)": "4.34",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280M"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-280S",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S",
+    "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-280s.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-280s.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-280s.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-280s.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-280S#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-280S",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "580",
+     "Rated Output(kW)": "98",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "197",
+     "Rated Torque(N-m)": "1612",
+     "Rated Torque(Kg-m)": "164.5",
+     "Rotor Inertial(Kg-m²)": "3.68",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280S"
+    }
+   ]
+  },
+  {
+   "code": "SVMJ-IP23_SA-280X",
+   "category": "AC Servo Motor",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X",
+    "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor",
+    "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達",
+    "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/svmj-ip23-sa-280x.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/svmj-ip23-sa-280x.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/svmj-ip23-sa-280x.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/svmj-ip23-sa-280x.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=SVMJ-IP23_SA-280X#quote",
+   "series": "SVMJ IP23",
+   "frame": "SA-280X",
+   "ratings": [
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "580",
+     "Rated Output(kW)": "153",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "308",
+     "Rated Torque(N-m)": "2519",
+     "Rated Torque(Kg-m)": "257",
+     "Rotor Inertial(Kg-m²)": "5.75",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1000",
+     "Rated Output(kW)": "252",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "465",
+     "Rated Torque(N-m)": "2405",
+     "Rated Torque(Kg-m)": "245.4",
+     "Rotor Inertial(Kg-m²)": "5.75",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    },
+    {
+     "Product Series": "SVMJ IP23",
+     "Rated Speed(RPM)": "1500",
+     "Rated Output(kW)": "360",
+     "Rated Voltage(V)": "400",
+     "Rated Current(A)": "644",
+     "Rated Torque(N-m)": "2290",
+     "Rated Torque(Kg-m)": "233.7",
+     "Rotor Inertial(Kg-m²)": "5.75",
+     "Max. Speed(RPM)": "3000",
+     "Frame Size": "SA-280X"
+    }
+   ]
+  },
+  {
+   "code": "CMG_DRU-2018C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 25HP",
+    "en": "VFI-CG80 Series 220V 25HP Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 25HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 25HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-2018c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-2018c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-2018c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-2018c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-2018C#quote",
+   "voltage": "220V",
+   "capacity": "25HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-21P5B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 2HP (có hãm)",
+    "en": "VFI-CG80 Series 220V 2HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 2HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 2HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-21p5b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-21p5b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-21p5b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-21p5b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-21P5B#quote",
+   "voltage": "220V",
+   "capacity": "2HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-22P2B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 3HP (có hãm)",
+    "en": "VFI-CG80 Series 220V 3HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 3HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 3HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-22p2b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-22p2b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-22p2b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-22p2b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-22P2B#quote",
+   "voltage": "220V",
+   "capacity": "3HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-23P7B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 5HP (có hãm)",
+    "en": "VFI-CG80 Series 220V 5HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 5HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 5HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-23p7b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-23p7b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-23p7b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-23p7b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-23P7B#quote",
+   "voltage": "220V",
+   "capacity": "5HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-25P5B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 7.5HP (có hãm)",
+    "en": "VFI-CG80 Series 220V 7.5HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 7.5HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 7.5HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-25p5b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-25p5b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-25p5b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-25p5b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-25P5B#quote",
+   "voltage": "220V",
+   "capacity": "7.5HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-27P5B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 220V 10HP (có hãm)",
+    "en": "VFI-CG80 Series 220V 10HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列220V 10HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 220V 10HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-27p5b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-27p5b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-27p5b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-27p5b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-27P5B#quote",
+   "voltage": "220V",
+   "capacity": "10HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4011BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 15HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 15HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 15HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 15HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4011bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4011bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4011bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4011bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4011BC#quote",
+   "voltage": "440V",
+   "capacity": "15HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4015BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 20HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 20HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 20HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 20HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4015bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4015bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4015bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4015bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4015BC#quote",
+   "voltage": "440V",
+   "capacity": "20HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4018BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 25HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 25HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 25HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 25HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4018bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4018bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4018bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4018bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4018BC#quote",
+   "voltage": "440V",
+   "capacity": "25HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4022C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 30HP",
+    "en": "VFI-CG80 Series 440V 30HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 30HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 30HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4022c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4022c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4022c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4022c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4022C#quote",
+   "voltage": "440V",
+   "capacity": "30HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4030C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 40HP",
+    "en": "VFI-CG80 Series 440V 40HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 40HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 40HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4030c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4030c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4030c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4030c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4030C#quote",
+   "voltage": "440V",
+   "capacity": "40HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4037C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 50HP",
+    "en": "VFI-CG80 Series 440V 50HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 50HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 50HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4037c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4037c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4037c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4037c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4037C#quote",
+   "voltage": "440V",
+   "capacity": "50HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4045C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 60HP",
+    "en": "VFI-CG80 Series 440V 60HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 60HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 60HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4045c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4045c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4045c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4045c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4045C#quote",
+   "voltage": "440V",
+   "capacity": "60HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4055C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 75HP",
+    "en": "VFI-CG80 Series 440V 75HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 75HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 75HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4055c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4055c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4055c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4055c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4055C#quote",
+   "voltage": "440V",
+   "capacity": "75HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4075C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 100HP",
+    "en": "VFI-CG80 Series 440V 100HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 100HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 100HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4075c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4075c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4075c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4075c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4075C#quote",
+   "voltage": "440V",
+   "capacity": "100HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4090C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 125HP",
+    "en": "VFI-CG80 Series 440V 125HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 125HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 125HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4090c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4090c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4090c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4090c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4090C#quote",
+   "voltage": "440V",
+   "capacity": "125HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4110C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 150HP",
+    "en": "VFI-CG80 Series 440V 150HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 150HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 150HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4110c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4110c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4110c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4110c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4110C#quote",
+   "voltage": "440V",
+   "capacity": "150HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4130C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 175HP",
+    "en": "VFI-CG80 Series 440V 175HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 175HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 175HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4130c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4130c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4130c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4130c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4130C#quote",
+   "voltage": "440V",
+   "capacity": "175HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4160C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 200HP",
+    "en": "VFI-CG80 Series 440V 200HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 200HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 200HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4160c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4160c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4160c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4160c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4160C#quote",
+   "voltage": "440V",
+   "capacity": "200HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4185C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 250HP",
+    "en": "VFI-CG80 Series 440V 250HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 250HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 250HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4185c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4185c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4185c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4185c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4185C#quote",
+   "voltage": "440V",
+   "capacity": "250HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-41P5B",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 2HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 2HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 2HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 2HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-41p5b.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-41p5b.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-41p5b.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-41p5b.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-41P5B#quote",
+   "voltage": "440V",
+   "capacity": "2HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4220C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 300HP",
+    "en": "VFI-CG80 Series 440V 300HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 300HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 300HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4220c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4220c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4220c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4220c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4220C#quote",
+   "voltage": "440V",
+   "capacity": "300HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-42P2BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 3HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 3HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 3HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 3HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-42p2bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-42p2bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-42p2bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-42p2bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-42P2BC#quote",
+   "voltage": "440V",
+   "capacity": "3HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-4315C",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 400HP",
+    "en": "VFI-CG80 Series 440V 400HP Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 400HP向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 400HP"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-4315c.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-4315c.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-4315c.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-4315c.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-4315C#quote",
+   "voltage": "440V",
+   "capacity": "400HP",
+   "brake": false,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-43P7BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 5HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 5HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 5HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 5HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-43p7bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-43p7bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-43p7bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-43p7bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-43P7BC#quote",
+   "voltage": "440V",
+   "capacity": "5HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-45P5BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 7.5HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 7.5HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 7.5HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 7.5HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-45p5bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-45p5bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-45p5bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-45p5bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-45P5BC#quote",
+   "voltage": "440V",
+   "capacity": "7.5HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-47P5BC",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Biến tần servo vector VFI-CG80 440V 10HP (có hãm)",
+    "en": "VFI-CG80 Series 440V 10HP(Brake) Vector Servo Drive",
+    "zh": "VFI-CG80系列440V 10HP(煞)向量伺服驅動器(變頻器)",
+    "ko": "벡터 서보 드라이브 VFI-CG80 440V 10HP (브레이크 내장)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-47p5bc.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-47p5bc.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-47p5bc.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-47p5bc.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-47P5BC#quote",
+   "voltage": "440V",
+   "capacity": "10HP",
+   "brake": true,
+   "brake_unit": false
+  },
+  {
+   "code": "CMG_DRU-BR2022",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ hãm VFI-CG80 220V 22K",
+    "en": "VFI-CG80 Series 220V 22K Brake",
+    "zh": "VFI-CG80系列220V 22K煞車器",
+    "ko": "브레이크 유닛 VFI-CG80 220V 22K"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-br2022.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-br2022.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-br2022.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-br2022.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-BR2022#quote",
+   "voltage": "220V",
+   "capacity": "22K",
+   "brake": false,
+   "brake_unit": true
+  },
+  {
+   "code": "CMG_DRU-BR4018",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ hãm VFI-CG80 440V 18K",
+    "en": "VFI-CG80 Series 440V 18K Brake",
+    "zh": "VFI-CG80系列440V 18K煞車器",
+    "ko": "브레이크 유닛 VFI-CG80 440V 18K"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-br4018.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-br4018.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-br4018.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-br4018.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-BR4018#quote",
+   "voltage": "440V",
+   "capacity": "18K",
+   "brake": false,
+   "brake_unit": true
+  },
+  {
+   "code": "CMG_DRU-BR4022",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ hãm VFI-CG80 440V 22K",
+    "en": "VFI-CG80 Series 440V 22K Brake",
+    "zh": "VFI-CG80系列440V 22K煞車器",
+    "ko": "브레이크 유닛 VFI-CG80 440V 22K"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-br4022.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-br4022.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-br4022.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-br4022.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-BR4022#quote",
+   "voltage": "440V",
+   "capacity": "22K",
+   "brake": false,
+   "brake_unit": true
+  },
+  {
+   "code": "CMG_DRU-BR4030",
+   "category": "Vector Servo Drive",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ hãm VFI-CG80 440V 30K",
+    "en": "VFI-CG80 Series 440V 30K Brake",
+    "zh": "VFI-CG80系列440V 30K煞車器",
+    "ko": "브레이크 유닛 VFI-CG80 440V 30K"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-dru-br4030.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-dru-br4030.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-dru-br4030.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-dru-br4030.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_DRU-BR4030#quote",
+   "voltage": "440V",
+   "capacity": "30K",
+   "brake": false,
+   "brake_unit": true
+  },
+  {
+   "code": "CMG_CTL02",
+   "category": "Full Digital Controller",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ điều khiển số CG – 2 trục",
+    "en": "Full Digital CG Controller - 2 Axis Series",
+    "zh": "全數位式CG控制器 - 2軸系列",
+    "ko": "CG 풀 디지털 컨트롤러 – 2축"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-ctl02.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-ctl02.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-ctl02.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-ctl02.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_CTL02#quote"
+  },
+  {
+   "code": "CMG_CTL04",
+   "category": "Full Digital Controller",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ điều khiển số CG – 4 trục",
+    "en": "Full Digital CG Controller - 4 Axis Series",
+    "zh": "全數位式CG控制器 - 4軸系列",
+    "ko": "CG 풀 디지털 컨트롤러 – 4축"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-ctl04.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-ctl04.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-ctl04.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-ctl04.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_CTL04#quote"
+  },
+  {
+   "code": "CMG_CTL08",
+   "category": "Full Digital Controller",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ điều khiển số CG – 8 trục",
+    "en": "Full Digital CG Controller - 8 Axis Series",
+    "zh": "全數位式CG控制器 - 8軸系列",
+    "ko": "CG 풀 디지털 컨트롤러 – 8축"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-ctl08.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-ctl08.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-ctl08.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-ctl08.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_CTL08#quote"
+  },
+  {
+   "code": "CMG_MPT01",
+   "category": "Other Products",
+   "brand": "NUSCO",
+   "name": {
+    "vi": "Tủ điều khiển NUSCO",
+    "en": "NUSCO Control Panel",
+    "zh": "NUSCO控制盤體",
+    "ko": "NUSCO 제어반"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt01.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt01.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt01.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt01.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT01#quote"
+  },
+  {
+   "code": "CMG_MPT02",
+   "category": "Other Products",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Tủ điều khiển CMC",
+    "en": "CMC Control Panel",
+    "zh": "CMC控制盤體",
+    "ko": "CMC 제어반"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt02.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt02.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt02.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt02.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT02#quote"
+  },
+  {
+   "code": "CMG_MPT03",
+   "category": "Other Products",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Encoder động cơ",
+    "en": "Motor Encoder",
+    "zh": "馬達編碼器",
+    "ko": "모터 엔코더"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt03.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt03.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt03.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt03.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT03#quote"
+  },
+  {
+   "code": "CMG_MPT04",
+   "category": "Other Products",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Khớp nối",
+    "en": "Coupling",
+    "zh": "聯軸器",
+    "ko": "커플링"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt04.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt04.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt04.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt04.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT04#quote"
+  },
+  {
+   "code": "CMG_MPT05",
+   "category": "Other Products",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Encoder bánh xe đo",
+    "en": "Measuring Roll Encoder",
+    "zh": "測量輪編碼器",
+    "ko": "측장 롤 엔코더"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt05.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt05.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt05.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt05.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT05#quote"
+  },
+  {
+   "code": "CMG_MPT06",
+   "category": "Other Products",
+   "brand": "Charger Mechatronic (CMC)",
+   "name": {
+    "vi": "Bộ điều khiển lập trình (PLC)",
+    "en": "Programmable Logic Controller",
+    "zh": "可程式控制器",
+    "ko": "PLC(프로그래머블 컨트롤러)"
+   },
+   "url": {
+    "vi": "https://mu4540.github.io/cmv-site/san-pham/cmg-mpt06.html",
+    "zh": "https://mu4540.github.io/cmv-site/zh-tw/products/cmg-mpt06.html",
+    "en": "https://mu4540.github.io/cmv-site/en/products/cmg-mpt06.html",
+    "ko": "https://mu4540.github.io/cmv-site/ko/products/cmg-mpt06.html"
+   },
+   "quote_url": "https://mu4540.github.io/cmv-site/en/contact.html?model=CMG_MPT06#quote"
+  }
+ ]
+}

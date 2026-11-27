@@ -1,0 +1,46 @@
+# Search engines and AI agents are welcome on every page.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: coccocbot
+Allow: /
+
+Sitemap: https://mu4540.github.io/cmv-site/sitemap.xml
+# Machine-readable summary: https://mu4540.github.io/cmv-site/llms.txt
+# Product data (JSON): https://mu4540.github.io/cmv-site/data/products.json
