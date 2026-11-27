@@ -1,130 +1,130 @@
 {
- "strings": [
-  {
-   "id": "b3f81de3",
-   "vi": "Chính sách bảo mật | Charger Mechatronic Việt Nam",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "93a8d170",
-   "vi": "Chính sách bảo mật của CÔNG TY TNHH CHARGER MECHATRONIC: thông tin thu thập qua biểu mẫu, mục đích, lưu trữ, quyền của chủ thể dữ liệu.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "28a32d00",
-   "vi": "Trang này giải thích CÔNG TY TNHH CHARGER MECHATRONIC (CMV) thu thập và sử dụng thông tin cá nhân gửi qua website như thế nào, theo Luật Bảo vệ dữ liệu cá nhân của Việt Nam.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "f83a8f63",
-   "vi": "Thông tin CMV thu thập",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "baf29b2e",
-   "vi": "Thông tin bạn tự nhập vào biểu mẫu: tên công ty, người liên hệ, số điện thoại, email, loại dây chuyền và nội dung yêu cầu. Website ghi nhận trang gửi biểu mẫu và thời điểm gửi.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "88592406",
-   "vi": "Mục đích sử dụng",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "60bedc86",
-   "vi": "Mỗi mục đích có ô đồng ý riêng, không đánh dấu sẵn:",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "fe8cb3d4",
-   "vi": "Liên hệ và lập báo giá theo yêu cầu của bạn (bắt buộc để gửi biểu mẫu).",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "2ef27b0b",
-   "vi": "Gửi bản tin kỹ thuật của CMV (không bắt buộc, có thể hủy bất cứ lúc nào).",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "dd1b797c",
-   "vi": "Lưu trữ và chia sẻ",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "6bd918b6",
-   "vi": "Thông tin được lưu trong hệ thống quản lý khách hàng của CMV. CMV có thể chia sẻ thông tin kỹ thuật với công ty mẹ Charger Mechatronic Co., Ltd. tại Đài Loan để lập đề xuất. CMV không bán hoặc cho thuê dữ liệu cá nhân.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "74d90af9",
-   "vi": "Nội dung biểu mẫu được chuyển tới hộp thư của CMV qua dịch vụ gửi biểu mẫu FormSubmit (formsubmit.co).",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "cac9ddce",
-   "vi": "Quyền của bạn",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "286ce334",
-   "vi": "Bạn có thể yêu cầu xem, sửa, xóa thông tin hoặc rút lại sự đồng ý bằng cách gửi email tới charger.vn@cgmco.com.tw hoặc gọi 028 7302 0998. CMV phản hồi trong thời hạn pháp luật quy định.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "e701e919",
-   "vi": "Cookie, phông chữ và đo lường",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "a26d516e",
-   "vi": "Website có thể dùng Google Analytics để đếm lượt truy cập ở chế độ không lưu cookie. CMV không đặt cookie đo lường hay quảng cáo khi chưa có sự đồng ý của bạn. Các trang tiếng Trung tải phông chữ từ Google Fonts.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "b586f21b",
-   "vi": "CÔNG TY TNHH CHARGER MECHATRONIC, Số 933, đường Tạ Quang Bửu, Phường Bình Đông, Thành phố Hồ Chí Minh, Việt Nam. Email: charger.vn@cgmco.com.tw.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "6f847441",
-   "vi": "Cập nhật: 11/2026.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  }
- ]
+  "strings": [
+    {
+      "id": "b3f81de3",
+      "vi": "Chính sách bảo mật | Charger Mechatronic Việt Nam",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "93a8d170",
+      "vi": "Chính sách bảo mật của CÔNG TY TNHH CHARGER MECHATRONIC: thông tin thu thập qua biểu mẫu, mục đích, lưu trữ, quyền của chủ thể dữ liệu.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "28a32d00",
+      "vi": "Trang này giải thích CÔNG TY TNHH CHARGER MECHATRONIC (CMV) thu thập và sử dụng thông tin cá nhân gửi qua website như thế nào, theo Luật Bảo vệ dữ liệu cá nhân của Việt Nam.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "f83a8f63",
+      "vi": "Thông tin CMV thu thập",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "baf29b2e",
+      "vi": "Thông tin bạn tự nhập vào biểu mẫu: tên công ty, người liên hệ, số điện thoại, email, loại dây chuyền và nội dung yêu cầu. Website ghi nhận trang gửi biểu mẫu và thời điểm gửi.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "88592406",
+      "vi": "Mục đích sử dụng",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "60bedc86",
+      "vi": "Mỗi mục đích có ô đồng ý riêng, không đánh dấu sẵn:",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "fe8cb3d4",
+      "vi": "Liên hệ và lập báo giá theo yêu cầu của bạn (bắt buộc để gửi biểu mẫu).",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "2ef27b0b",
+      "vi": "Gửi bản tin kỹ thuật của CMV (không bắt buộc, có thể hủy bất cứ lúc nào).",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "dd1b797c",
+      "vi": "Lưu trữ và chia sẻ",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "6bd918b6",
+      "vi": "Thông tin được lưu trong hệ thống quản lý khách hàng của CMV. CMV có thể chia sẻ thông tin kỹ thuật với công ty mẹ Charger Mechatronic Co., Ltd. tại Đài Loan để lập đề xuất. CMV không bán hoặc cho thuê dữ liệu cá nhân.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "74d90af9",
+      "vi": "Nội dung biểu mẫu được chuyển tới hộp thư của CMV qua dịch vụ gửi biểu mẫu FormSubmit (formsubmit.co).",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "cac9ddce",
+      "vi": "Quyền của bạn",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "286ce334",
+      "vi": "Bạn có thể yêu cầu xem, sửa, xóa thông tin hoặc rút lại sự đồng ý bằng cách gửi email tới charger.vn@cgmco.com.tw hoặc gọi 028 7302 0998. CMV phản hồi trong thời hạn pháp luật quy định.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "e701e919",
+      "vi": "Cookie, phông chữ và đo lường",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "a26d516e",
+      "vi": "Website có thể dùng Google Analytics để đếm lượt truy cập ở chế độ không lưu cookie. CMV không đặt cookie đo lường hay quảng cáo khi chưa có sự đồng ý của bạn. Các trang tiếng Trung tải phông chữ từ Google Fonts.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "b586f21b",
+      "vi": "CÔNG TY TNHH CHARGER MECHATRONIC, Số 933, đường Tạ Quang Bửu, Phường Bình Đông, Thành phố Hồ Chí Minh, Việt Nam. Email: charger.vn@cgmco.com.tw.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "6f847441",
+      "vi": "Cập nhật: 11/2026.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    }
+  ]
 }

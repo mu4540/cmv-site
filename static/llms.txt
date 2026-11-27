@@ -22,6 +22,9 @@ Contact: tel 028 7302 0998, mobile/Zalo +84 394 719 822, No. 933, Ta Quang Buu S
 - [Locations](https://mu4540.github.io/cmv-site/en/global-service.html)
 - [Contact and quote form](https://mu4540.github.io/cmv-site/en/contact.html)
 
+- [Mitsubishi Heavy Industries generators (MGS series): manufacturer's confirmation letter, services](https://mu4540.github.io/cmv-site/en/mitsubishi-generators.html)
+- [AI energy management system (behind-the-meter smart microgrid)](https://mu4540.github.io/cmv-site/en/ai-energy-management.html)
+
 ## Other languages
 
 - Vietnamese (primary): https://mu4540.github.io/cmv-site/

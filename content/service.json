@@ -1,95 +1,95 @@
 {
- "strings": [
-  {
-   "id": "66512213",
-   "vi": "Dịch vụ toàn cầu | Charger Mechatronic Việt Nam",
-   "zh": "全球服務 | Charger Mechatronic 越南",
-   "en": "Global service | Charger Mechatronic Vietnam",
-   "ko": "글로벌 서비스 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "42e6876d",
-   "vi": "Các điểm dịch vụ của Charger Mechatronic: trụ sở Tân Bắc, Quadrant Thượng Hải và CMV tại Thành phố Hồ Chí Minh.",
-   "zh": "甲子機電服務據點：新北總公司、上海廣權機電，以及胡志明市的 CMV。",
-   "en": "Charger Mechatronic service points: New Taipei headquarters, Quadrant Shanghai and CMV in Ho Chi Minh City.",
-   "ko": "Charger Mechatronic 서비스 거점: 신베이 본사, 상하이 Quadrant, 호찌민시 CMV."
-  },
-  {
-   "id": "9b2d37f5",
-   "vi": "Trụ sở tại Tân Bắc (Đài Loan), công ty liên kết tại Thượng Hải và công ty tại Thành phố Hồ Chí Minh phục vụ Việt Nam và Đông Nam Á.",
-   "zh": "總公司位於新北市，關係企業在上海，並以胡志明市的越南公司服務越南與東南亞。",
-   "en": "Headquarters in New Taipei (Taiwan), an affiliate in Shanghai and the company in Ho Chi Minh City serving Vietnam and Southeast Asia.",
-   "ko": "본사는 대만 신베이시, 관계사는 상하이에 있으며, 호찌민시의 베트남 법인이 베트남과 동남아시아를 담당합니다."
-  },
-  {
-   "id": "ff841e75",
-   "vi": "Các điểm dịch vụ",
-   "zh": "服務據點",
-   "en": "Service points",
-   "ko": "서비스 거점"
-  },
-  {
-   "id": "64be9cce",
-   "vi": "Việt Nam",
-   "zh": "越南",
-   "en": "Vietnam",
-   "ko": "베트남"
-  },
-  {
-   "id": "481558fa",
-   "vi": "Di động / Zalo: 0394 719 822",
-   "zh": "手機／Zalo：+84 394 719 822",
-   "en": "Mobile / Zalo: +84 394 719 822",
-   "ko": "휴대폰 / Zalo: +84 394 719 822"
-  },
-  {
-   "id": "33cbcd2b",
-   "vi": "Bản đồ châu Á với các điểm dịch vụ của Charger Mechatronic",
-   "zh": "亞洲地圖，標示甲子機電服務據點",
-   "en": "Map of Asia with Charger Mechatronic service points",
-   "ko": "Charger Mechatronic 서비스 거점을 표시한 아시아 지도"
-  },
-  {
-   "id": "c0e2a333",
-   "vi": "Hỗ trợ tại Việt Nam",
-   "zh": "越南當地支援",
-   "en": "Support in Vietnam",
-   "ko": "베트남 현지 지원"
-  },
-  {
-   "id": "0e04309e",
-   "vi": "Khảo sát dây chuyền tại nhà máy",
-   "zh": "到廠勘查產線",
-   "en": "On-site line surveys",
-   "ko": "공장 방문 라인 조사"
-  },
-  {
-   "id": "00171fe3",
-   "vi": "Lắp đặt, hiệu chỉnh và nghiệm thu",
-   "zh": "安裝、調試與驗收",
-   "en": "Installation, commissioning and acceptance",
-   "ko": "설치, 시운전, 검수"
-  },
-  {
-   "id": "383f1857",
-   "vi": "Phụ tùng thay thế cung cấp qua CMV",
-   "zh": "備品由 CMV 供應",
-   "en": "Spare parts supplied through CMV",
-   "ko": "예비 부품은 CMV를 통해 공급"
-  },
-  {
-   "id": "acf13785",
-   "vi": "Hợp đồng và hóa đơn với pháp nhân Việt Nam",
-   "zh": "與越南公司簽約並開立當地發票",
-   "en": "Contracts and invoices with the Vietnam entity",
-   "ko": "베트남 법인과 계약 및 세금계산서 발행"
-  },
-  {
-   "id": "11e1a724",
-   "vi": "Giao tiếp bằng tiếng Việt, tiếng Trung và tiếng Anh",
-   "zh": "可用越南文、中文、英文溝通",
-   "en": "Vietnamese, Chinese and English spoken",
-   "ko": "베트남어, 중국어, 영어로 상담 가능"
-  }
- ]
+  "strings": [
+    {
+      "id": "66512213",
+      "vi": "Dịch vụ toàn cầu | Charger Mechatronic Việt Nam",
+      "zh": "全球服務 | Charger Mechatronic 越南",
+      "en": "Global service | Charger Mechatronic Vietnam",
+      "ko": "글로벌 서비스 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "42e6876d",
+      "vi": "Các điểm dịch vụ của Charger Mechatronic: trụ sở Tân Bắc, Quadrant Thượng Hải và CMV tại Thành phố Hồ Chí Minh.",
+      "zh": "甲子機電服務據點：新北總公司、上海廣權機電，以及胡志明市的 CMV。",
+      "en": "Charger Mechatronic service points: New Taipei headquarters, Quadrant Shanghai and CMV in Ho Chi Minh City.",
+      "ko": "Charger Mechatronic 서비스 거점: 신베이 본사, 상하이 Quadrant, 호찌민시 CMV."
+    },
+    {
+      "id": "9b2d37f5",
+      "vi": "Trụ sở tại Tân Bắc (Đài Loan), công ty liên kết tại Thượng Hải và công ty tại Thành phố Hồ Chí Minh phục vụ Việt Nam và Đông Nam Á.",
+      "zh": "總公司位於新北市，關係企業在上海，並以胡志明市的越南公司服務越南與東南亞。",
+      "en": "Headquarters in New Taipei (Taiwan), an affiliate in Shanghai and the company in Ho Chi Minh City serving Vietnam and Southeast Asia.",
+      "ko": "본사는 대만 신베이시, 관계사는 상하이에 있으며, 호찌민시의 베트남 법인이 베트남과 동남아시아를 담당합니다."
+    },
+    {
+      "id": "ff841e75",
+      "vi": "Các điểm dịch vụ",
+      "zh": "服務據點",
+      "en": "Service points",
+      "ko": "서비스 거점"
+    },
+    {
+      "id": "64be9cce",
+      "vi": "Việt Nam",
+      "zh": "越南",
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    {
+      "id": "481558fa",
+      "vi": "Di động / Zalo: 0394 719 822",
+      "zh": "手機／Zalo：+84 394 719 822",
+      "en": "Mobile / Zalo: +84 394 719 822",
+      "ko": "휴대폰 / Zalo: +84 394 719 822"
+    },
+    {
+      "id": "33cbcd2b",
+      "vi": "Bản đồ châu Á với các điểm dịch vụ của Charger Mechatronic",
+      "zh": "亞洲地圖，標示甲子機電服務據點",
+      "en": "Map of Asia with Charger Mechatronic service points",
+      "ko": "Charger Mechatronic 서비스 거점을 표시한 아시아 지도"
+    },
+    {
+      "id": "c0e2a333",
+      "vi": "Hỗ trợ tại Việt Nam",
+      "zh": "越南當地支援",
+      "en": "Support in Vietnam",
+      "ko": "베트남 현지 지원"
+    },
+    {
+      "id": "0e04309e",
+      "vi": "Khảo sát dây chuyền tại nhà máy",
+      "zh": "到廠勘查產線",
+      "en": "On-site line surveys",
+      "ko": "공장 방문 라인 조사"
+    },
+    {
+      "id": "00171fe3",
+      "vi": "Lắp đặt, hiệu chỉnh và nghiệm thu",
+      "zh": "安裝、調試與驗收",
+      "en": "Installation, commissioning and acceptance",
+      "ko": "설치, 시운전, 검수"
+    },
+    {
+      "id": "383f1857",
+      "vi": "Phụ tùng thay thế cung cấp qua CMV",
+      "zh": "備品由 CMV 供應",
+      "en": "Spare parts supplied through CMV",
+      "ko": "예비 부품은 CMV를 통해 공급"
+    },
+    {
+      "id": "acf13785",
+      "vi": "Hợp đồng và hóa đơn với pháp nhân Việt Nam",
+      "zh": "與越南公司簽約並開立當地發票",
+      "en": "Contracts and invoices with the Vietnam entity",
+      "ko": "베트남 법인과 계약 및 세금계산서 발행"
+    },
+    {
+      "id": "11e1a724",
+      "vi": "Giao tiếp bằng tiếng Việt, tiếng Trung và tiếng Anh",
+      "zh": "可用越南文、中文、英文溝通",
+      "en": "Vietnamese, Chinese and English spoken",
+      "ko": "베트남어, 중국어, 영어로 상담 가능"
+    }
+  ]
 }

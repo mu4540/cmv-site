@@ -1,123 +1,123 @@
 {
- "strings": [
-  {
-   "id": "837f6f9b",
-   "vi": "Khách hàng | Charger Mechatronic Việt Nam",
-   "zh": "客戶群體 | Charger Mechatronic 越南",
-   "en": "Customers | Charger Mechatronic Vietnam",
-   "ko": "고객 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "9a852257",
-   "vi": "Charger Mechatronic phục vụ khách hàng tại Đông Nam Á, Đông Bắc Á, Trung Đông, châu Mỹ. Tại Việt Nam, CMV phục vụ trung tâm gia công thép cuộn, nhà máy tôn, thép ống và nhà chế tạo máy.",
-   "zh": "甲子機電服務東南亞、東北亞、中東與美洲客戶。在越南，CMV 服務鋼捲加工中心、鋼板與製管廠及機械製造商。",
-   "en": "Charger Mechatronic serves customers in Southeast and Northeast Asia, the Middle East and the Americas. In Vietnam, CMV serves coil centers, sheet and pipe mills and machine builders.",
-   "ko": "Charger Mechatronic은 동남아시아, 동북아시아, 중동, 미주 지역 고객에게 서비스합니다. 베트남에서는 CMV가 코일 센터, 강판·파이프 공장, 기계 제조사를 지원합니다."
-  },
-  {
-   "id": "a29eee00",
-   "vi": "Charger Mechatronic phát triển thị trường tại Đông Nam Á, Đông Bắc Á, Trung Đông, Trung và Nam Mỹ, Bắc Mỹ và châu Âu, với mong muốn cung cấp dịch vụ hệ thống phù hợp nhu cầu từng nơi.",
-   "zh": "甲子機電實業致力於開發東南亞、東北亞、中東、中南美洲、北美、歐洲等地區市場，期望提供符合在地需求之系統服務。",
-   "en": "Charger Mechatronic develops markets in Southeast Asia, Northeast Asia, the Middle East, Central and South America, North America and Europe, aiming to provide system services that fit local needs.",
-   "ko": "Charger Mechatronic은 동남아시아, 동북아시아, 중동, 중남미, 북미, 유럽 시장을 개척하며 현지 요구에 맞는 시스템 서비스를 제공하고자 합니다."
-  },
-  {
-   "id": "9ccac972",
-   "vi": "Bản đồ thế giới đánh dấu các khu vực có khách hàng của Charger Mechatronic",
-   "zh": "世界地圖，標示甲子機電客戶所在地區",
-   "en": "World map marking the regions where Charger Mechatronic has customers",
-   "ko": "Charger Mechatronic 고객이 있는 지역을 표시한 세계 지도"
-  },
-  {
-   "id": "06f1c61f",
-   "vi": "Khu vực",
-   "zh": "服務地區",
-   "en": "Regions",
-   "ko": "서비스 지역"
-  },
-  {
-   "id": "64f3aa99",
-   "vi": "Đông Nam Á",
-   "zh": "東南亞",
-   "en": "Southeast Asia",
-   "ko": "동남아시아"
-  },
-  {
-   "id": "58a02507",
-   "vi": "Đông Bắc Á",
-   "zh": "東北亞",
-   "en": "Northeast Asia",
-   "ko": "동북아시아"
-  },
-  {
-   "id": "d06dbe5e",
-   "vi": "Trung Đông",
-   "zh": "中東",
-   "en": "Middle East",
-   "ko": "중동"
-  },
-  {
-   "id": "4245546e",
-   "vi": "Trung và Nam Mỹ",
-   "zh": "中南美洲",
-   "en": "Central and South America",
-   "ko": "중남미"
-  },
-  {
-   "id": "62c3336b",
-   "vi": "Bắc Mỹ",
-   "zh": "北美",
-   "en": "North America",
-   "ko": "북미"
-  },
-  {
-   "id": "4364bd7a",
-   "vi": "Châu Âu",
-   "zh": "歐洲",
-   "en": "Europe",
-   "ko": "유럽"
-  },
-  {
-   "id": "b98ab6d8",
-   "vi": "Ngành CMV phục vụ tại Việt Nam",
-   "zh": "CMV 在越南服務的產業",
-   "en": "Industries CMV serves in Vietnam",
-   "ko": "CMV가 베트남에서 서비스하는 산업"
-  },
-  {
-   "id": "f9bb0f83",
-   "vi": "Trung tâm gia công thép cuộn (coil center)",
-   "zh": "鋼捲加工中心（coil center）",
-   "en": "Coil service centers",
-   "ko": "코일 서비스 센터"
-  },
-  {
-   "id": "df558214",
-   "vi": "Nhà máy tôn mạ, tôn màu, thép tấm",
-   "zh": "鍍面鋼板、鋼板工廠",
-   "en": "Coated sheet and plate mills",
-   "ko": "도금 강판·강판 공장"
-  },
-  {
-   "id": "ae51b9f2",
-   "vi": "Nhà máy thép ống",
-   "zh": "製管廠",
-   "en": "Pipe and tube mills",
-   "ko": "파이프 공장"
-  },
-  {
-   "id": "d12a1fd2",
-   "vi": "Nhà chế tạo máy cán, máy cắt, máy uốn ống",
-   "zh": "成型機、裁切機、彎管機製造商",
-   "en": "Builders of roll-forming, cutting and tube-bending machines",
-   "ko": "롤 포밍기, 절단기, 파이프 벤더 제조사"
-  },
-  {
-   "id": "7c9decf2",
-   "vi": "Nhà máy bao bì carton",
-   "zh": "瓦楞紙箱工廠",
-   "en": "Corrugated packaging plants",
-   "ko": "골판지 포장 공장"
-  }
- ]
+  "strings": [
+    {
+      "id": "837f6f9b",
+      "vi": "Khách hàng | Charger Mechatronic Việt Nam",
+      "zh": "客戶群體 | Charger Mechatronic 越南",
+      "en": "Customers | Charger Mechatronic Vietnam",
+      "ko": "고객 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "9a852257",
+      "vi": "Charger Mechatronic phục vụ khách hàng tại Đông Nam Á, Đông Bắc Á, Trung Đông, châu Mỹ. Tại Việt Nam, CMV phục vụ trung tâm gia công thép cuộn, nhà máy tôn, thép ống và nhà chế tạo máy.",
+      "zh": "甲子機電服務東南亞、東北亞、中東與美洲客戶。在越南，CMV 服務鋼捲加工中心、鋼板與製管廠及機械製造商。",
+      "en": "Charger Mechatronic serves customers in Southeast and Northeast Asia, the Middle East and the Americas. In Vietnam, CMV serves coil centers, sheet and pipe mills and machine builders.",
+      "ko": "Charger Mechatronic은 동남아시아, 동북아시아, 중동, 미주 지역 고객에게 서비스합니다. 베트남에서는 CMV가 코일 센터, 강판·파이프 공장, 기계 제조사를 지원합니다."
+    },
+    {
+      "id": "a29eee00",
+      "vi": "Charger Mechatronic phát triển thị trường tại Đông Nam Á, Đông Bắc Á, Trung Đông, Trung và Nam Mỹ, Bắc Mỹ và châu Âu, với mong muốn cung cấp dịch vụ hệ thống phù hợp nhu cầu từng nơi.",
+      "zh": "甲子機電實業致力於開發東南亞、東北亞、中東、中南美洲、北美、歐洲等地區市場，期望提供符合在地需求之系統服務。",
+      "en": "Charger Mechatronic develops markets in Southeast Asia, Northeast Asia, the Middle East, Central and South America, North America and Europe, aiming to provide system services that fit local needs.",
+      "ko": "Charger Mechatronic은 동남아시아, 동북아시아, 중동, 중남미, 북미, 유럽 시장을 개척하며 현지 요구에 맞는 시스템 서비스를 제공하고자 합니다."
+    },
+    {
+      "id": "9ccac972",
+      "vi": "Bản đồ thế giới đánh dấu các khu vực có khách hàng của Charger Mechatronic",
+      "zh": "世界地圖，標示甲子機電客戶所在地區",
+      "en": "World map marking the regions where Charger Mechatronic has customers",
+      "ko": "Charger Mechatronic 고객이 있는 지역을 표시한 세계 지도"
+    },
+    {
+      "id": "06f1c61f",
+      "vi": "Khu vực",
+      "zh": "服務地區",
+      "en": "Regions",
+      "ko": "서비스 지역"
+    },
+    {
+      "id": "64f3aa99",
+      "vi": "Đông Nam Á",
+      "zh": "東南亞",
+      "en": "Southeast Asia",
+      "ko": "동남아시아"
+    },
+    {
+      "id": "58a02507",
+      "vi": "Đông Bắc Á",
+      "zh": "東北亞",
+      "en": "Northeast Asia",
+      "ko": "동북아시아"
+    },
+    {
+      "id": "d06dbe5e",
+      "vi": "Trung Đông",
+      "zh": "中東",
+      "en": "Middle East",
+      "ko": "중동"
+    },
+    {
+      "id": "4245546e",
+      "vi": "Trung và Nam Mỹ",
+      "zh": "中南美洲",
+      "en": "Central and South America",
+      "ko": "중남미"
+    },
+    {
+      "id": "62c3336b",
+      "vi": "Bắc Mỹ",
+      "zh": "北美",
+      "en": "North America",
+      "ko": "북미"
+    },
+    {
+      "id": "4364bd7a",
+      "vi": "Châu Âu",
+      "zh": "歐洲",
+      "en": "Europe",
+      "ko": "유럽"
+    },
+    {
+      "id": "b98ab6d8",
+      "vi": "Ngành CMV phục vụ tại Việt Nam",
+      "zh": "CMV 在越南服務的產業",
+      "en": "Industries CMV serves in Vietnam",
+      "ko": "CMV가 베트남에서 서비스하는 산업"
+    },
+    {
+      "id": "f9bb0f83",
+      "vi": "Trung tâm gia công thép cuộn (coil center)",
+      "zh": "鋼捲加工中心（coil center）",
+      "en": "Coil service centers",
+      "ko": "코일 서비스 센터"
+    },
+    {
+      "id": "df558214",
+      "vi": "Nhà máy tôn mạ, tôn màu, thép tấm",
+      "zh": "鍍面鋼板、鋼板工廠",
+      "en": "Coated sheet and plate mills",
+      "ko": "도금 강판·강판 공장"
+    },
+    {
+      "id": "ae51b9f2",
+      "vi": "Nhà máy thép ống",
+      "zh": "製管廠",
+      "en": "Pipe and tube mills",
+      "ko": "파이프 공장"
+    },
+    {
+      "id": "d12a1fd2",
+      "vi": "Nhà chế tạo máy cán, máy cắt, máy uốn ống",
+      "zh": "成型機、裁切機、彎管機製造商",
+      "en": "Builders of roll-forming, cutting and tube-bending machines",
+      "ko": "롤 포밍기, 절단기, 파이프 벤더 제조사"
+    },
+    {
+      "id": "7c9decf2",
+      "vi": "Nhà máy bao bì carton",
+      "zh": "瓦楞紙箱工廠",
+      "en": "Corrugated packaging plants",
+      "ko": "골판지 포장 공장"
+    }
+  ]
 }

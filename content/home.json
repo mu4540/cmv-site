@@ -2,17 +2,17 @@
   "strings": [
     {
       "id": "4adadccb",
-      "vi": "Charger Mechatronic Việt Nam (CMV) | Servo, biến tần, điện điều khiển dây chuyền thép cuộn",
+      "vi": "Charger Mechatronic Việt Nam (CMV) | Tích hợp cơ điện, hệ thống PLC, biến tần và điện điều khiển",
       "zh": "Charger Mechatronic Vietnam（CMV 甲子機電越南）｜機電整合、PLC系統、驅動器與電控",
-      "en": "Charger Mechatronic Vietnam (CMV) | Servo, drives and line controls for steel coil processing",
-      "ko": "Charger Mechatronic Vietnam(CMV) | 코일 가공 라인용 서보, 드라이브, 전기 제어"
+      "en": "Charger Mechatronic Vietnam (CMV) | Mechatronic integration, PLC systems, drives and electrical controls",
+      "ko": "Charger Mechatronic Vietnam(CMV) | 메카트로닉스 통합, PLC 시스템, 드라이브, 전기 제어"
     },
     {
       "id": "d8caa770",
-      "vi": "CMV cung cấp động cơ servo SVMF/SVMJ, biến tần VFI-CG80, bộ điều khiển CG và tủ điện cho máy cắt bay, cắt tấm, xả băng, cắt ống; cải tạo dây chuyền và hỗ trợ kỹ thuật tại Việt Nam.",
+      "vi": "CMV cung cấp động cơ servo SVMF/SVMJ, biến tần VFI-CG80, bộ điều khiển đa trục CG và thiết kế tủ điện điều khiển cho hệ thống điện điều khiển của nhiều loại dây chuyền như cắt bay, cắt tấm, xả băng, cắt ống; cải tạo và hỗ trợ kỹ thuật tại Việt Nam.",
       "zh": "CMV 供應 SVMF／SVMJ 伺服馬達、VFI-CG80 驅動器、CG 多軸控制器與電控盤設計，用於各式產線電控系統, 如飛剪、停剪、分條、切管產線，並在越南提供改造與技術支援。",
-      "en": "CMV supplies SVMF/SVMJ servo motors, VFI-CG80 drives, CG controllers and panels for flying shear, cut-to-length, slitting and tube lines, with retrofits and engineering support in Vietnam.",
-      "ko": "CMV는 플라잉 시어, 정척 절단, 슬리팅, 파이프 라인용 SVMF/SVMJ 서보 모터, VFI-CG80 드라이브, CG 컨트롤러, 제어반을 공급하고 베트남에서 개조와 기술 지원을 제공합니다."
+      "en": "CMV supplies SVMF/SVMJ servo motors, VFI-CG80 drives, CG multi-axis controllers and control panel design for the control systems of all kinds of production lines, such as flying shear, cut-to-length, slitting and tube lines, with retrofits and engineering support in Vietnam.",
+      "ko": "CMV는 플라잉 시어, 정척 절단, 슬리팅, 파이프 라인 등 각종 생산 라인의 전기 제어 시스템에 쓰이는 SVMF/SVMJ 서보 모터, VFI-CG80 드라이브, CG 다축 컨트롤러와 제어반 설계를 공급하고 베트남에서 개조와 기술 지원을 제공합니다."
     },
     {
       "id": "351e185b",
@@ -23,38 +23,38 @@
     },
     {
       "id": "232bad7b",
-      "vi": "CMV cung cấp động cơ servo, biến tần, bộ điều khiển và tủ điện cho dây chuyền gia công thép cuộn, cải tạo dây chuyền cũ và hỗ trợ kỹ thuật tại Việt Nam.",
+      "vi": "CMV cung cấp hệ thống PLC, động cơ servo, biến tần, bộ điều khiển đa trục và tủ điện phù hợp với nhiều loại dây chuyền, cải tạo dây chuyền cũ và hỗ trợ kỹ thuật tại Việt Nam.",
       "zh": "CMV 供應適合各式產線的PLC系統、伺服馬達、驅動器、多軸控制器與電控盤，改造舊產線，並在越南提供技術支援。",
-      "en": "CMV supplies servo motors, drives, controllers and panels for steel coil processing lines, retrofits older lines and provides engineering support in Vietnam.",
-      "ko": "CMV는 코일 가공 라인용 서보 모터, 드라이브, 컨트롤러, 제어반을 공급하고, 노후 라인을 개조하며, 베트남에서 기술 지원을 제공합니다."
+      "en": "CMV supplies PLC systems, servo motors, drives, multi-axis controllers and control panels for all kinds of production lines, retrofits older lines and provides engineering support in Vietnam.",
+      "ko": "CMV는 각종 생산 라인에 맞는 PLC 시스템, 서보 모터, 드라이브, 다축 컨트롤러, 제어반을 공급하고, 노후 라인을 개조하며, 베트남에서 기술 지원을 제공합니다."
     },
     {
       "id": "f7d035bd",
-      "vi": "CMV làm cho những dây chuyền nào?",
+      "vi": "CMV hỗ trợ kỹ thuật và sửa chữa hệ thống PLC, động cơ, biến tần và điện điều khiển cho mọi loại thiết bị dây chuyền",
       "zh": "CMV 能處理各種產線設備的PLC系統、馬達、驅動器、電控系統技術支援與維修",
-      "en": "Which lines does CMV work on?",
-      "ko": "CMV는 어떤 라인을 다룹니까?"
+      "en": "CMV provides technical support and repair for PLC systems, motors, drives and electrical controls on all kinds of line equipment",
+      "ko": "CMV는 각종 생산 라인 설비의 PLC 시스템, 모터, 드라이브, 전기 제어에 대한 기술 지원과 수리를 제공합니다"
     },
     {
       "id": "abd8107f",
-      "vi": "Máy cắt bay, dây chuyền cắt tấm, dây chuyền xả băng, máy cắt và uốn ống, và hệ thống điều khiển cho toàn nhà máy.",
+      "vi": "Máy cắt bay, dây chuyền cắt tấm, dây chuyền xả băng, máy cắt ống và hệ thống điều khiển cho toàn nhà máy.",
       "zh": "飛剪機、停剪（定尺橫切）線、分條線、切管，以及整廠控制系統。",
-      "en": "Flying shears, cut-to-length lines, slitting lines, tube cutting and bending machines, and whole-plant control systems.",
-      "ko": "플라잉 시어, 정척 절단 라인, 슬리팅 라인, 파이프 절단·벤딩기, 공장 전체 제어 시스템입니다."
+      "en": "Flying shears, cut-to-length lines, slitting lines, tube cutting, and whole-plant control systems.",
+      "ko": "플라잉 시어, 정척 절단 라인, 슬리팅 라인, 파이프 절단, 공장 전체 제어 시스템입니다."
     },
     {
       "id": "2b2779ce",
-      "vi": "Làm thế nào để yêu cầu báo giá?",
+      "vi": "Làm thế nào để nhận báo giá?",
       "zh": "如何得到報價？",
-      "en": "How do I request a quote?",
-      "ko": "견적은 어떻게 요청합니까?"
+      "en": "How do I get a quote?",
+      "ko": "견적은 어떻게 받습니까?"
     },
     {
       "id": "173e09c6",
-      "vi": "Gửi biểu mẫu trên website, nhắn Zalo hoặc gọi điện. Nên gửi kèm tốc độ dây chuyền, độ dày, khổ rộng, sai số hiện tại và ảnh hoặc video dây chuyền.",
+      "vi": "Gửi biểu mẫu trên website, nhắn Zalo hoặc gọi điện. Khi cần nâng cấp điện điều khiển, vui lòng gửi kèm tốc độ dây chuyền, độ dày, khổ rộng và sai số hiện tại.",
       "zh": "填寫網站表單、用 Zalo 傳訊或來電。\n電控更新請附上線速、板厚、板寬、目前公差",
-      "en": "Send the form on this site, message on Zalo or call. Include line speed, thickness, width, current tolerance and photos or video of the line.",
-      "ko": "이 사이트의 양식을 보내거나 Zalo 메시지 또는 전화로 문의해 주십시오. 라인 속도, 두께, 폭, 현재 공차와 라인 사진 또는 영상을 함께 보내 주시면 좋습니다."
+      "en": "Send the form on this site, message on Zalo or call. For a control upgrade, please include line speed, thickness, width and current tolerance.",
+      "ko": "이 사이트의 양식을 보내거나 Zalo 메시지 또는 전화로 문의해 주십시오. 전기 제어 업그레이드의 경우 라인 속도, 두께, 폭, 현재 공차를 함께 보내 주십시오."
     },
     {
       "id": "413ccd70",
@@ -65,31 +65,17 @@
     },
     {
       "id": "3f1d739e",
-      "vi": "CMV đặt tại Thành phố Hồ Chí Minh, làm việc từ thứ Hai đến thứ Sáu, hỗ trợ tiếng Việt, tiếng Trung và tiếng Anh.",
+      "vi": "CMV đặt tại Thành phố Hồ Chí Minh, làm việc từ thứ Hai đến thứ Bảy, giao tiếp được bằng tiếng Việt, tiếng Trung và tiếng Anh.",
       "zh": "CMV 位於胡志明市，營業時間週一至週六，越南文、中文、英文溝通皆可。",
-      "en": "CMV is in Ho Chi Minh City, open Monday to Friday, and works in Vietnamese, Chinese and English.",
-      "ko": "CMV는 호찌민시에 있으며 월요일부터 금요일까지 근무하고, 베트남어, 중국어, 영어로 상담합니다."
-    },
-    {
-      "id": "aca70e3e",
-      "vi": "CMV liên quan thế nào đến Charger Mechatronic và NUSCO?",
-      "zh": "CMV 與甲子機電、NUSCO 的關係？",
-      "en": "How is CMV related to Charger Mechatronic and NUSCO?",
-      "ko": "CMV는 Charger Mechatronic, NUSCO와 어떤 관계입니까?"
-    },
-    {
-      "id": "0d97ee01",
-      "vi": "CMV là công ty tại Việt Nam của Charger Mechatronic Co., Ltd. (Đài Loan, thành lập năm 2005) và là nhà phân phối độc quyền chính thức của NUSCO (Nhật Bản) tại Việt Nam.",
-      "zh": "CMV 是灣甲子機電來越南成立的分公司，NUSCO與台灣甲子有合資一家叫日華自動化(Fasi Automation)的公司, 服務日本、韓國、泰國以外的亞洲客戶們。CMV也是 NUSCO在越南的獨家官方代理商。",
-      "en": "CMV is the Vietnam company of Charger Mechatronic Co., Ltd. (Taiwan, founded 2005) and the exclusive official distributor of NUSCO (Japan) in Vietnam.",
-      "ko": "CMV는 Charger Mechatronic Co., Ltd.(대만, 2005년 설립)의 베트남 법인이며, NUSCO(일본)의 베트남 독점 공식 대리점입니다."
+      "en": "CMV is in Ho Chi Minh City, open Monday to Saturday. Vietnamese, Chinese and English are all fine.",
+      "ko": "CMV는 호찌민시에 있으며 영업 시간은 월요일부터 토요일까지입니다. 베트남어, 중국어, 영어 모두 가능합니다."
     },
     {
       "id": "4ff2ee5f",
-      "vi": "Hệ thống điện điều khiển cho dây chuyền gia công thép cuộn",
+      "vi": "Tích hợp hệ thống điện điều khiển PLC, điều khiển động cơ servo và các loại máy móc; chuyên về dây chuyền cắt như cắt bay, xả băng, cắt ống",
       "zh": "專業系統整合PLC電控系統、伺服馬達控制與各式機械, 專長於各式剪切線, 如飛剪、分條、切管等等",
-      "en": "PLC control system for production lines. Specialize cutting lines, including steel coil processing lines, papar/corrugated cardboard",
-      "ko": "코일 가공 라인을 위한 전기 제어 시스템"
+      "en": "PLC control system integration, servo motor control and machinery. Specialists in cutting lines: flying shear, slitting, tube cutting and more",
+      "ko": "PLC 전기 제어 시스템 통합, 서보 모터 제어, 각종 기계. 플라잉 시어, 슬리팅, 파이프 절단 등 절단 라인 전문"
     },
     {
       "id": "8033f0a6",
@@ -107,17 +93,17 @@
     },
     {
       "id": "d2aeb29c",
-      "vi": "Nhà tích hợp tự động hóa từ Đài Loan, có mặt tại Thành phố Hồ Chí Minh",
+      "vi": "Nhà tích hợp tự động hóa từ Đài Loan, phục vụ tại chỗ ở Thành phố Hồ Chí Minh",
       "zh": "來自台灣的自動化系統整合商，在胡志明市在地服務",
-      "en": "A Taiwanese automation integrator, now in Ho Chi Minh City",
-      "ko": "대만의 자동화 시스템 통합 업체, 이제 호찌민시에서"
+      "en": "A Taiwanese automation integrator with local service in Ho Chi Minh City",
+      "ko": "대만의 자동화 시스템 통합 업체, 호찌민시에서 현지 서비스"
     },
     {
       "id": "32cdf129",
-      "vi": "Charger Mechatronic (甲子機電) thiết kế, chế tạo, lắp đặt và hiệu chỉnh hệ thống điều khiển tự động cho ngành sản xuất từ năm 2005. CMV là công ty của tập đoàn tại Việt Nam: ký hợp đồng, xuất hóa đơn và cử kỹ sư từ Thành phố Hồ Chí Minh.",
+      "vi": "Charger Mechatronic (甲子機電) thiết kế, chế tạo, lắp đặt và hiệu chỉnh hệ thống điều khiển tự động cho ngành sản xuất từ năm 2005; hơn 100 hệ thống điện điều khiển dây chuyền cắt đã vận hành tại Việt Nam hơn 15 năm. Để phục vụ khách hàng cũ và mới tại chỗ với giá trị cao hơn và thuận tiện hơn, năm 2025 công ty thành lập CMV, chi nhánh đầu tiên tại Việt Nam, ở Thành phố Hồ Chí Minh.",
       "zh": "甲子機電自 2005 年起為製造業設計、製造、安裝與調試自動控制系統, 已有100+套剪切線電控系統於越南運作超過15年。為了提供老客戶與新客戶更高價值、更方便的在地化服務, 在2025於胡志明市設立的第一家越南分公司CMV",
-      "en": "Charger Mechatronic (甲子機電) has designed, built, installed and commissioned automatic control systems for manufacturers since 2005. CMV is the group's company in Vietnam: contracts, invoices and engineers come from Ho Chi Minh City.",
-      "ko": "Charger Mechatronic(甲子機電)은 2005년부터 제조업을 위한 자동 제어 시스템을 설계, 제작, 설치, 시운전해 왔습니다. CMV는 그룹의 베트남 법인으로, 계약과 세금계산서 발행, 엔지니어 파견을 호찌민시에서 수행합니다."
+      "en": "Charger Mechatronic (甲子機電) has designed, built, installed and commissioned automatic control systems for manufacturers since 2005, and more than 100 of its cutting-line control systems have been running in Vietnam for over 15 years. To give existing and new customers higher-value, more convenient local service, it set up CMV, its first Vietnam branch, in Ho Chi Minh City in 2025.",
+      "ko": "Charger Mechatronic(甲子機電)은 2005년부터 제조업을 위한 자동 제어 시스템을 설계, 제작, 설치, 시운전해 왔으며, 100세트가 넘는 절단 라인 전기 제어 시스템이 베트남에서 15년 이상 가동되고 있습니다. 기존 고객과 신규 고객에게 더 가치 있고 편리한 현지 서비스를 제공하기 위해 2025년 호찌민시에 첫 베트남 지사 CMV를 설립했습니다."
     },
     {
       "id": "0989e3d0",
@@ -127,116 +113,32 @@
       "ko": "회사 연혁"
     },
     {
-      "id": "f8e224fc",
-      "vi": "Lĩnh vực hoạt động",
-      "zh": "營業項目",
-      "en": "What CMV does",
-      "ko": "사업 분야"
-    },
-    {
-      "id": "418ed3ee",
-      "vi": "Hệ thống điều khiển tự động",
-      "zh": "PLC自動控制系統",
-      "en": "Automatic control systems",
-      "ko": "자동 제어 시스템"
-    },
-    {
-      "id": "34949925",
-      "vi": "Tủ điện cao thế, hạ thế, tủ MCC",
-      "zh": "低壓配電盤、PLC控制箱、MCC 盤",
-      "en": "High- and low-voltage switchboards, MCC panels",
-      "ko": "고압·저압 배전반, 제어함, MCC반"
-    },
-    {
-      "id": "fc2b4c56",
-      "vi": "Điện điều khiển cho dây chuyền cắt kim loại",
-      "zh": "金屬裁切產線電控",
-      "en": "Electrical control for metal cutting lines",
-      "ko": "금속 절단 라인 전기 제어"
-    },
-    {
-      "id": "edd3ad8f",
-      "vi": "Dịch vụ kỹ thuật tại nhà máy",
-      "zh": "現場自動控制系統技術服務, 各式PLC系統、馬達驅動器查修, 升級, 驅動器升級與更換。",
-      "en": "On-site engineering service",
-      "ko": "현장 엔지니어링 서비스"
-    },
-    {
-      "id": "1167311f",
-      "vi": "Đại lý ủy quyền máy phát điện Mitsubishi",
-      "zh": "三菱重工發電機(MGS系列)授權代理",
-      "en": "Authorised agent for Mitsubishi generators",
-      "ko": "미쓰비시 발전기 공인 대리점"
-    },
-    {
-      "id": "f46393c9",
-      "vi": "Quản lý năng lượng bằng AI",
-      "zh": "AI-based 能源管理系統(表後智慧微電網)",
-      "en": "AI energy management",
-      "ko": "AI 에너지 관리"
-    },
-    {
       "id": "3d8d12a7",
       "vi": "Đại lý máy gia công thép và giấy",
-      "zh": "鋼鐵與紙業加工機械代理\n鋼鐵飛剪、分條、追剪產線: 台灣威泰鋼鐵(Welltime)\n瓦楞紙箱、紙板印刷機: 台灣長聲工業",
+      "zh": "鋼鐵與紙業加工機械代理",
       "en": "Agency for steel and paper processing machinery",
       "ko": "철강·제지 가공 기계 대리점"
     },
     {
-      "id": "cec8813b",
-      "vi": "Thông số từng model đều có dạng văn bản, tra cứu và sao chép được.",
-      "zh": "每個型號的規格都以文字呈現，可搜尋、可複製。",
-      "en": "Every model has its specifications as text you can search and copy.",
-      "ko": "모든 모델의 사양을 검색하고 복사할 수 있는 텍스트로 제공합니다."
-    },
-    {
-      "id": "18bf4f9e",
-      "vi": "75 model",
-      "zh": "75 個型號",
-      "en": "75 models",
-      "ko": "75개 모델"
-    },
-    {
       "id": "2b6f6cf6",
-      "vi": "SVMF, SVMJ · IP54, IP23",
-      "zh": "SVMF、SVMJ · IP54、IP23",
-      "en": "SVMF, SVMJ · IP54, IP23",
-      "ko": "SVMF, SVMJ · IP54, IP23"
-    },
-    {
-      "id": "778ed5de",
-      "vi": "31 model",
-      "zh": "31 個型號",
-      "en": "31 models",
-      "ko": "31개 모델"
+      "vi": "Dòng SVMF, SVMJ｜Cấp bảo vệ IP54, IP23",
+      "zh": "SVMF、SVMJ 系列｜防護等級 IP54、IP23",
+      "en": "SVMF and SVMJ series | Protection IP54, IP23",
+      "ko": "SVMF, SVMJ 시리즈｜보호 등급 IP54, IP23"
     },
     {
       "id": "b8700a88",
-      "vi": "VFI-CG80 · 220 V, 440 V",
-      "zh": "VFI-CG80 · 220 V、440 V",
-      "en": "VFI-CG80 · 220 V, 440 V",
-      "ko": "VFI-CG80 · 220 V, 440 V"
-    },
-    {
-      "id": "fe007fa1",
-      "vi": "3 model",
-      "zh": "3 個型號",
-      "en": "3 models",
-      "ko": "3개 모델"
+      "vi": "Dòng VFI-CG80｜Cấp điện áp 220 V, 440 V",
+      "zh": "VFI-CG80 系列｜電壓等級 220 V、440 V",
+      "en": "VFI-CG80 series | 220 V and 440 V classes",
+      "ko": "VFI-CG80 시리즈｜전압 등급 220 V, 440 V"
     },
     {
       "id": "328ff8fe",
-      "vi": "CG · 2, 4, 8 trục",
-      "zh": "CG · 2、4、8 軸",
-      "en": "CG · 2, 4, 8 axis",
-      "ko": "CG · 2, 4, 8축"
-    },
-    {
-      "id": "269f6726",
-      "vi": "6 model",
-      "zh": "6 個型號",
-      "en": "6 models",
-      "ko": "6개 모델"
+      "vi": "Dòng CG｜2, 4, 8 trục",
+      "zh": "CG 系列｜2、4、8 軸",
+      "en": "CG series | 2, 4 and 8 axes",
+      "ko": "CG 시리즈｜2, 4, 8축"
     },
     {
       "id": "f72c2f8f",
@@ -246,81 +148,88 @@
       "ko": "제어반, 엔코더, 커플링, PLC"
     },
     {
-      "id": "d7fcc599",
-      "vi": "Ứng dụng theo dây chuyền",
-      "zh": "產品應用",
-      "en": "Applications by line",
-      "ko": "라인별 응용"
-    },
-    {
-      "id": "dc4dd716",
-      "vi": "Chọn dây chuyền của bạn để xem phạm vi cung cấp và thông tin cần gửi khi hỏi giá.",
-      "zh": "選擇您的產線，查看供應範圍與詢價時需要提供的資料。",
-      "en": "Pick your line to see the supply scope and what to send for a quote.",
-      "ko": "귀사의 라인을 선택하면 공급 범위와 견적에 필요한 자료를 볼 수 있습니다."
-    },
-    {
-      "id": "be00dae9",
-      "vi": "Máy cắt bay trên dây chuyền gia công thép cuộn",
-      "zh": "適用於各式產線的飛剪控制, 如鋼鐵、瓦楞紙版等等",
-      "en": "Rotary shear on a coil processing line",
-      "ko": "코일 가공 라인의 로터리 시어"
-    },
-    {
-      "id": "5918bc0a",
-      "vi": "Dự án cải tạo điển hình: sai số chiều dài cắt từ trên ±0,3 mm xuống trong khoảng ±0,1 mm, năng suất tăng từ 20% trở lên. Phần cơ khí còn tốt được giữ lại.",
-      "zh": "典型改造案例：裁切長度公差由 ±0.3 mm 以上降到 ±0.1 mm 以內，產量提升 20% 以上。狀況良好的機構部分予以保留。",
-      "en": "A typical retrofit: cut-length tolerance from over ±0.3 mm to within ±0.1 mm, output up 20% or more. Sound mechanical parts stay in place.",
-      "ko": "대표적인 개조 사례: 절단 길이 공차가 ±0.3 mm 초과에서 ±0.1 mm 이내로 줄고 생산량이 20% 이상 증가했습니다. 상태가 양호한 기계부는 그대로 둡니다."
-    },
-    {
       "id": "45154b5d",
-      "vi": "Tính đến năm 2014, Charger Mechatronic đã bán 200 bộ servo cho máy cắt bay.",
+      "vi": "Tính đến năm 2026, Charger Mechatronic đã bán hơn 300 hệ thống cắt bay.",
       "zh": "截至 2026 年，甲子機電的飛剪系統已累計銷售 300+ 套。",
-      "en": "By 2014 Charger Mechatronic had sold 200 flying shear servo systems.",
-      "ko": "2014년까지 Charger Mechatronic은 플라잉 시어 서보 시스템을 200세트 판매했습니다."
+      "en": "As of 2026, Charger Mechatronic has sold more than 300 flying shear systems.",
+      "ko": "2026년 기준 Charger Mechatronic의 플라잉 시어 시스템 누적 판매는 300세트를 넘었습니다."
     },
     {
-      "id": "0cb77301",
-      "vi": "Xem phạm vi cải tạo",
-      "zh": "查看改造範圍",
-      "en": "See the retrofit scope",
-      "ko": "개조 범위 보기"
+      "id": "03cd266a",
+      "vi": "Lĩnh vực hoạt động",
+      "zh": "服務項目",
+      "en": "What we do",
+      "ko": "사업 분야"
     },
     {
-      "id": "68fbc2c6",
-      "vi": "Dây chuyền gia công thép cuộn trong nhà xưởng",
-      "zh": "廠房內的鋼捲加工產線",
-      "en": "Coil processing line inside a plant",
-      "ko": "공장 내 코일 가공 라인"
+      "id": "e6e78af5",
+      "vi": "Hệ thống điều khiển tự động PLC và điện điều khiển dây chuyền",
+      "zh": "PLC 自動控制系統與產線電控",
+      "en": "PLC automatic control systems and line controls",
+      "ko": "PLC 자동 제어 시스템과 라인 전기 제어"
     },
     {
-      "id": "37bd0bf1",
-      "vi": "Máy móc cho ngành thép và bao bì giấy",
-      "zh": "鋼鐵與紙業加工機械",
-      "en": "Machinery for steel and corrugated packaging",
-      "ko": "철강 및 골판지 포장 산업용 기계"
+      "id": "6e6be24e",
+      "vi": "Tủ phân phối hạ thế, tủ điều khiển PLC, tủ MCC và điện điều khiển cho dây chuyền cắt bay, cắt tấm, xả băng, cắt ống.",
+      "zh": "低壓配電盤、PLC 控制箱、MCC 盤，以及飛剪、停剪、分條、切管等產線電控。",
+      "en": "Low-voltage switchboards, PLC control cabinets, MCC panels and controls for flying shear, cut-to-length, slitting and tube lines.",
+      "ko": "저압 배전반, PLC 제어함, MCC반, 그리고 플라잉 시어, 정척 절단, 슬리팅, 파이프 라인의 전기 제어."
     },
     {
-      "id": "96048eb2",
-      "vi": "CMV phân phối dây chuyền gia công nguội từ Đài Loan và Trung Quốc (cắt bay, xả băng, cắt tấm) và là đại lý độc quyền thiết bị bao bì carton của Sunrise Machinery (長聲工業).",
-      "zh": "CMV 代理台灣與中國大陸的冷加工產線（飛剪、分條、停剪），並為長聲工業（Sunrise Machinery）瓦楞紙箱設備的獨家代理。",
-      "en": "CMV distributes cold-processing lines from Taiwan and China (rotary shear, slitting, cut-to-length) and is the exclusive agent for Sunrise Machinery (長聲工業) corrugated box equipment.",
-      "ko": "CMV는 대만과 중국의 냉간 가공 라인(로터리 시어, 슬리팅, 정척 절단)을 판매하며, Sunrise Machinery(長聲工業) 골판지 상자 설비의 독점 대리점입니다."
+      "id": "cf30fbfb",
+      "vi": "Dịch vụ kỹ thuật tại hiện trường và cải tạo dây chuyền",
+      "zh": "現場技術服務與舊線改造",
+      "en": "On-site technical service and line retrofits",
+      "ko": "현장 기술 서비스와 노후 라인 개조"
     },
     {
-      "id": "5012569e",
-      "vi": "Xem máy móc thiết bị",
-      "zh": "查看機械設備",
-      "en": "See machinery",
-      "ko": "기계 설비 보기"
+      "id": "d5613d5c",
+      "vi": "Kiểm tra, sửa chữa và nâng cấp các hệ thống PLC, động cơ và biến tần; thay thế biến tần; cải tạo máy cắt bay.",
+      "zh": "各式 PLC 系統、馬達驅動器查修與升級，驅動器更換，飛剪改造。",
+      "en": "Troubleshooting, repair and upgrade of PLC systems, motors and drives; drive replacement; flying shear retrofits.",
+      "ko": "각종 PLC 시스템, 모터, 드라이브의 점검·수리·업그레이드, 드라이브 교체, 플라잉 시어 개조."
     },
     {
-      "id": "1e44279f",
-      "vi": "Hình ảnh thực tế",
-      "zh": "實境應用",
-      "en": "Photos on site",
-      "ko": "현장 사진"
+      "id": "cd0a7870",
+      "vi": "Động cơ servo, biến tần và bộ điều khiển",
+      "zh": "伺服馬達、驅動器與控制器",
+      "en": "Servo motors, drives and controllers",
+      "ko": "서보 모터, 드라이브, 컨트롤러"
+    },
+    {
+      "id": "d18c3d9f",
+      "vi": "Động cơ servo dòng SVMF, SVMJ, biến tần VFI-CG80, bộ điều khiển đa trục CG.",
+      "zh": "SVMF、SVMJ 系列伺服馬達，VFI-CG80 驅動器，CG 多軸控制器。",
+      "en": "SVMF and SVMJ series servo motors, VFI-CG80 drives, CG multi-axis controllers.",
+      "ko": "SVMF, SVMJ 시리즈 서보 모터, VFI-CG80 드라이브, CG 다축 컨트롤러."
+    },
+    {
+      "id": "625ff857",
+      "vi": "Charger Mechatronic là đối tác dự án MGS được Mitsubishi Heavy Industries Engine System Asia xác nhận.",
+      "zh": "甲子機電為三菱重工引擎系統亞洲公司確認的 MGS 專案合作夥伴。",
+      "en": "Charger Mechatronic is the MGS project partner confirmed by Mitsubishi Heavy Industries Engine System Asia.",
+      "ko": "Charger Mechatronic은 Mitsubishi Heavy Industries Engine System Asia가 확인한 MGS 프로젝트 파트너입니다."
+    },
+    {
+      "id": "9dc95175",
+      "vi": "Microgrid thông minh sau công tơ: dự báo phát điện và phụ tải, tự động điều độ lưu trữ.",
+      "zh": "表後智慧微電網：預測發電與用電，自動調度儲能。",
+      "en": "Behind-the-meter smart microgrid: forecasts generation and load, schedules storage automatically.",
+      "ko": "수용가 측 스마트 마이크로그리드: 발전량과 부하를 예측하고 저장 장치를 자동 운용."
+    },
+    {
+      "id": "79db4912",
+      "vi": "Dây chuyền cắt bay, xả băng, cắt bám cho thép: Welltime (威泰鋼鐵, Đài Loan). Máy thùng carton sóng và máy in giấy bìa: Sunrise Machinery (長聲工業, Đài Loan).",
+      "zh": "鋼鐵飛剪、分條、追剪產線：台灣威泰鋼鐵（Welltime）。瓦楞紙箱、紙板印刷機：台灣長聲工業。",
+      "en": "Steel flying shear, slitting and flying cut-off lines: Welltime (威泰鋼鐵, Taiwan). Corrugated box and board printing machines: Sunrise Machinery (長聲工業, Taiwan).",
+      "ko": "철강 플라잉 시어, 슬리팅, 추종 절단 라인: 대만 Welltime(威泰鋼鐵). 골판지 상자·판지 인쇄기: 대만 Sunrise Machinery(長聲工業)."
+    },
+    {
+      "id": "e7f1214f",
+      "vi": "Hệ thống điện điều khiển trên các dây chuyền cắt thép cuộn của Welltime (威泰鋼鐵) đều do Charger Mechatronic thực hiện.",
+      "zh": "威泰鋼鐵（Welltime）鋼捲裁切產線的電控系統，皆由甲子機電製作。",
+      "en": "The electrical control systems on Welltime (威泰鋼鐵) steel coil cutting lines are all built by Charger Mechatronic.",
+      "ko": "Welltime(威泰鋼鐵) 코일 절단 라인의 전기 제어 시스템은 모두 Charger Mechatronic이 제작합니다."
     }
   ]
 }

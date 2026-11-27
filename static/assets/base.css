@@ -427,3 +427,13 @@ h2.sec-head { display: block; }
 @media (min-width: 60rem) { .strip a img { mix-blend-mode: multiply; } }
 table.motor td:last-child, table.motor tbody th { white-space: nowrap; }
 input::placeholder, textarea::placeholder { color: #9aa3ad; }
+
+/* ---------- additions 2026-11-27: plain tiles, letter figure ---------- */
+.tile--plain { background: var(--blue-deep); }
+.tile--plain::before { background: linear-gradient(0deg, rgba(8,11,15,.55), rgba(8,11,15,0) 70%); }
+.tile--plain:hover, .tile--plain:focus-visible { background: var(--blue); }
+.tile--plain .go { background: #fff; color: var(--blue); }
+.drawing.letter { display: block; max-width: 30rem; border: 1px solid var(--plate-line); background: #fff; }
+.drawing.letter img { width: 100%; height: auto; display: block; }
+.hero h1 { font-size: clamp(1.8rem, 4vw, 3.1rem); max-width: 24ch; }
+html[lang^="zh"] .hero h1, html[lang="ko"] .hero h1 { max-width: 20em; }

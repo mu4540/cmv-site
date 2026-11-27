@@ -1,403 +1,403 @@
 {
- "strings": [
-  {
-   "id": "806ea85b",
-   "vi": "Bộ điều khiển số CG – 2 trục | Charger Mechatronic Việt Nam",
-   "zh": "全數位式CG控制器 - 2軸系列 | Charger Mechatronic 越南",
-   "en": "Full Digital CG Controller - 2 Axis Series | Charger Mechatronic Vietnam",
-   "ko": "CG 풀 디지털 컨트롤러 – 2축 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "c401ad21",
-   "vi": "Bộ điều khiển số CG của Charger Mechatronic điều khiển chuyển động nhiều trục cho máy cắt và dây chuyền gia công kim loại, có bản 2, 4 và 8 trục.",
-   "zh": "甲子機電 CG 全數位式控制器，提供 2 軸、4 軸、8 軸系列，用於裁切機與金屬加工產線的多軸運動控制。",
-   "en": "The Charger Mechatronic CG full digital controller runs multi-axis motion for cutting machines and metal-processing lines, in 2, 4 and 8 axis versions.",
-   "ko": "Charger Mechatronic CG 풀 디지털 컨트롤러는 절단기와 금속 가공 라인의 다축 모션을 제어하며 2축, 4축, 8축 모델이 있습니다."
-  },
-  {
-   "id": "1d866d0e",
-   "vi": "Bộ điều khiển số CG – 2 trục",
-   "zh": "全數位式CG控制器 - 2軸系列",
-   "en": "Full Digital CG Controller - 2 Axis Series",
-   "ko": "CG 풀 디지털 컨트롤러 – 2축"
-  },
-  {
-   "id": "c37263aa",
-   "vi": "Ưu điểm",
-   "zh": "產品優勢",
-   "en": "Advantages",
-   "ko": "제품 장점"
-  },
-  {
-   "id": "8e305c00",
-   "vi": "Hai cổng nối tiếp RS-232, tốc độ truyền tối đa 115.200 bps",
-   "zh": "兩組串列傳輸埠RS-232，最高傳輸速率可達 115200bps",
-   "en": "Two RS-232 serial ports, up to 115,200 bps",
-   "ko": "RS-232 직렬 포트 2개, 최대 115,200 bps"
-  },
-  {
-   "id": "4e2b7b6d",
-   "vi": "I/O cách ly quang tích hợp, có thể gắn thêm nhiều bo mở rộng",
-   "zh": "內建光偶合隔離I/O，並可外接多片擴充板",
-   "en": "Built-in opto-isolated I/O, with room for several expansion boards",
-   "ko": "광절연 I/O 내장, 확장 보드 여러 장 추가 가능"
-  },
-  {
-   "id": "501eb3ef",
-   "vi": "Giới hạn hành trình dương/âm bằng phần mềm và phần cứng, ngõ vào tín hiệu gốc",
-   "zh": "軟硬體正負行程極限，原點信號輸入",
-   "en": "Software and hardware positive/negative travel limits and home signal input",
-   "ko": "소프트웨어·하드웨어 정/부 방향 스트로크 리밋, 원점 신호 입력"
-  },
-  {
-   "id": "35fe07e0",
-   "vi": "Bộ nhớ tổng 4 Mbit, mở rộng được tới 16 Mbit",
-   "zh": "總記憶容量4M Bits，可擴增為 16M Bits",
-   "en": "4 Mbit total memory, expandable to 16 Mbit",
-   "ko": "총 메모리 4 Mbit, 16 Mbit까지 확장 가능"
-  },
-  {
-   "id": "81799356",
-   "vi": "Bộ nhớ flash 4 Mbit và pin dự phòng, sao lưu kép",
-   "zh": "4M Bits 快閃記憶體及後援電池雙重備份裝置",
-   "en": "4 Mbit flash memory plus backup battery for double protection",
-   "ko": "4 Mbit 플래시 메모리와 백업 배터리의 이중 보호"
-  },
-  {
-   "id": "9af62893",
-   "vi": "Hai ngõ ra/vào tương tự ±10 V",
-   "zh": "兩組+/- 10V 類比信號輸出/輸入",
-   "en": "Two ±10 V analog outputs/inputs",
-   "ko": "±10 V 아날로그 출력/입력 2조"
-  },
-  {
-   "id": "f4e23299",
-   "vi": "Tập lệnh mã ASCII, cú pháp lập trình bậc cao",
-   "zh": "ASCII 碼指令集，高階程式語法",
-   "en": "ASCII command set with high-level program syntax",
-   "ko": "ASCII 명령 세트, 고급 프로그램 문법"
-  },
-  {
-   "id": "ada4abfb",
-   "vi": "8 bộ định thời và 4.096 biến tích hợp",
-   "zh": "內建有8 組計時器(Timers)及4096 個變數",
-   "en": "8 built-in timers and 4,096 variables",
-   "ko": "타이머 8개와 변수 4,096개 내장"
-  },
-  {
-   "id": "42ba4996",
-   "vi": "Lưu được 256 chương trình chuyển động và 16 chương trình PLC",
-   "zh": "可內存256 組運動程式，16 組PLC 程式",
-   "en": "Stores 256 motion programs and 16 PLC programs",
-   "ko": "모션 프로그램 256개, PLC 프로그램 16개 저장"
-  },
-  {
-   "id": "14d5cbd2",
-   "vi": "Cấu trúc điều khiển servo tiên tiến, giảm sai số bám khi chuyển động và khi đứng yên",
-   "zh": "先進伺服控制架構，可有效抑制運動中及靜止時之跟隨誤差及穩定度",
-   "en": "Advanced servo control structure that suppresses following error in motion and at rest",
-   "ko": "운전 중과 정지 시의 추종 오차를 억제하는 고급 서보 제어 구조"
-  },
-  {
-   "id": "dae3a1c6",
-   "vi": "Tần số làm việc của hệ thống: 32 MHz",
-   "zh": "系統工作頻率:32MHZ",
-   "en": "System clock: 32 MHz",
-   "ko": "시스템 클록: 32 MHz"
-  },
-  {
-   "id": "06976cb8",
-   "vi": "Chu kỳ lấy mẫu servo: 1 ms",
-   "zh": "伺服取樣時間:1ms",
-   "en": "Servo update time: 1 ms",
-   "ko": "서보 샘플링 시간: 1 ms"
-  },
-  {
-   "id": "eadf8fe8",
-   "vi": "Tốc độ xung ra tối đa: 2 M pps",
-   "zh": "最高輸出脈衝速率:2M pps",
-   "en": "Maximum pulse output rate: 2 M pps",
-   "ko": "최대 펄스 출력: 2 M pps"
-  },
-  {
-   "id": "b65e45a9",
-   "vi": "Chức năng hộp số điện tử và cam điện tử",
-   "zh": "電子齒/凸輪應用功能",
-   "en": "Electronic gear and cam functions",
-   "ko": "전자 기어 및 전자 캠 기능"
-  },
-  {
-   "id": "654dba43",
-   "vi": "Định nghĩa hệ tọa độ độc lập hoặc dùng chung",
-   "zh": "可定義獨立或共用座標系統",
-   "en": "Independent or shared coordinate systems",
-   "ko": "독립 또는 공용 좌표계 정의 가능"
-  },
-  {
-   "id": "7b790baa",
-   "vi": "Tăng giảm tốc đường cong S, chạy nhanh, nội suy thẳng, tròn, xoắn ốc, spline, chuyển động trộn (blend)",
-   "zh": "具 S-曲線加減速，快速位移，直線、圓弧、螺旋、Spline 補間，Blend 運動功能",
-   "en": "S-curve acceleration/deceleration, rapid traverse, linear, circular, helical and spline interpolation, blended moves",
-   "ko": "S자 가감속, 급속 이송, 직선·원호·나선·스플라인 보간, 블렌드 동작"
-  },
-  {
-   "id": "ba193a0e",
-   "vi": "Chức năng Look Ahead",
-   "zh": "具 Look Ahead 功能",
-   "en": "Look-ahead function",
-   "ko": "룩어헤드 기능"
-  },
-  {
-   "id": "826d535e",
-   "vi": "Bù khe hở",
-   "zh": "具間隙補償功能",
-   "en": "Backlash compensation",
-   "ko": "백래시 보정"
-  },
-  {
-   "id": "e748634f",
-   "vi": "Cấu trúc điều khiển hồi tiếp kép",
-   "zh": "具雙回授控制架構",
-   "en": "Dual-feedback control structure",
-   "ko": "이중 피드백 제어 구조"
-  },
-  {
-   "id": "f9fadee9",
-   "vi": "DNC và nhóm lệnh trực tiếp, bảo vệ cấu hình hệ thống bằng mật khẩu",
-   "zh": "具 DNC 及直接命令指令群、Password 系統規劃保護功能",
-   "en": "DNC and direct command set; password protection for system configuration",
-   "ko": "DNC 및 직접 명령 세트, 시스템 설정 비밀번호 보호"
-  },
-  {
-   "id": "61d6cacf",
-   "vi": "Charger Mechatronic công bố bảng thông số cho bản 4 trục; thông số của bản này được xác nhận khi báo giá.",
-   "zh": "甲子機電公開的規格表為 4 軸系列；本系列規格於報價時確認。",
-   "en": "Charger Mechatronic publishes the specification table for the 4-axis version; figures for this version are confirmed in the quotation.",
-   "ko": "Charger Mechatronic이 공개한 사양표는 4축 모델 기준입니다. 이 모델의 사양은 견적 시 확인해 드립니다."
-  },
-  {
-   "id": "c845922d",
-   "vi": "Bộ điều khiển số CG – 4 trục",
-   "zh": "全數位式CG控制器 - 4軸系列",
-   "en": "Full Digital CG Controller - 4 Axis Series",
-   "ko": "CG 풀 디지털 컨트롤러 – 4축"
-  },
-  {
-   "id": "3f0b898e",
-   "vi": "Bộ điều khiển số CG – 4 trục →",
-   "zh": "全數位式CG控制器 - 4軸系列 →",
-   "en": "Full Digital CG Controller - 4 Axis Series →",
-   "ko": "CG 풀 디지털 컨트롤러 – 4축 →"
-  },
-  {
-   "id": "bb7a5054",
-   "vi": "Bộ điều khiển số CG – 4 trục | Charger Mechatronic Việt Nam",
-   "zh": "全數位式CG控制器 - 4軸系列 | Charger Mechatronic 越南",
-   "en": "Full Digital CG Controller - 4 Axis Series | Charger Mechatronic Vietnam",
-   "ko": "CG 풀 디지털 컨트롤러 – 4축 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "a17385bb",
-   "vi": "← Bộ điều khiển số CG – 2 trục",
-   "zh": "← 全數位式CG控制器 - 2軸系列",
-   "en": "← Full Digital CG Controller - 2 Axis Series",
-   "ko": "← CG 풀 디지털 컨트롤러 – 2축"
-  },
-  {
-   "id": "31587fc9",
-   "vi": "Bộ điều khiển số CG – 8 trục →",
-   "zh": "全數位式CG控制器 - 8軸系列 →",
-   "en": "Full Digital CG Controller - 8 Axis Series →",
-   "ko": "CG 풀 디지털 컨트롤러 – 8축 →"
-  },
-  {
-   "id": "4ebb48b6",
-   "vi": "Bộ điều khiển số CG – 8 trục | Charger Mechatronic Việt Nam",
-   "zh": "全數位式CG控制器 - 8軸系列 | Charger Mechatronic 越南",
-   "en": "Full Digital CG Controller - 8 Axis Series | Charger Mechatronic Vietnam",
-   "ko": "CG 풀 디지털 컨트롤러 – 8축 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "6b2454f7",
-   "vi": "Bộ điều khiển số CG – 8 trục",
-   "zh": "全數位式CG控制器 - 8軸系列",
-   "en": "Full Digital CG Controller - 8 Axis Series",
-   "ko": "CG 풀 디지털 컨트롤러 – 8축"
-  },
-  {
-   "id": "b599531d",
-   "vi": "← Bộ điều khiển số CG – 4 trục",
-   "zh": "← 全數位式CG控制器 - 4軸系列",
-   "en": "← Full Digital CG Controller - 4 Axis Series",
-   "ko": "← CG 풀 디지털 컨트롤러 – 4축"
-  },
-  {
-   "id": "55a586cf",
-   "vi": "Tủ điều khiển NUSCO | Charger Mechatronic Việt Nam",
-   "zh": "NUSCO控制盤體 | Charger Mechatronic 越南",
-   "en": "NUSCO Control Panel | Charger Mechatronic Vietnam",
-   "ko": "NUSCO 제어반 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "ae476b62",
-   "vi": "Tủ điều khiển, encoder, khớp nối và PLC dùng cùng hệ thống servo và biến tần của Charger Mechatronic.",
-   "zh": "搭配甲子機電伺服與驅動系統使用的控制盤體、編碼器、聯軸器與可程式控制器。",
-   "en": "Control panels, encoders, couplings and PLCs used with Charger Mechatronic servo and drive systems.",
-   "ko": "Charger Mechatronic 서보 및 드라이브 시스템과 함께 쓰는 제어반, 엔코더, 커플링, PLC입니다."
-  },
-  {
-   "id": "66713aa1",
-   "vi": "Tủ điều khiển NUSCO",
-   "zh": "NUSCO控制盤體",
-   "en": "NUSCO Control Panel",
-   "ko": "NUSCO 제어반"
-  },
-  {
-   "id": "f7c1d7d9",
-   "vi": "Thông số và cấu hình được xác nhận theo từng dự án. Gửi yêu cầu để CMV đề xuất.",
-   "zh": "規格與配置依專案確認。歡迎來信，由 CMV 提出建議。",
-   "en": "Specifications and configuration are confirmed per project. Send a request and CMV will propose one.",
-   "ko": "사양과 구성은 프로젝트별로 확인합니다. 요청을 보내 주시면 CMV가 제안해 드립니다."
-  },
-  {
-   "id": "cbc14f4a",
-   "vi": "Tủ điều khiển CMC →",
-   "zh": "CMC控制盤體 →",
-   "en": "CMC Control Panel →",
-   "ko": "CMC 제어반 →"
-  },
-  {
-   "id": "3c661adf",
-   "vi": "Tủ điều khiển CMC | Charger Mechatronic Việt Nam",
-   "zh": "CMC控制盤體 | Charger Mechatronic 越南",
-   "en": "CMC Control Panel | Charger Mechatronic Vietnam",
-   "ko": "CMC 제어반 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "dbca93f6",
-   "vi": "Tủ điều khiển CMC",
-   "zh": "CMC控制盤體",
-   "en": "CMC Control Panel",
-   "ko": "CMC 제어반"
-  },
-  {
-   "id": "c21c585c",
-   "vi": "← Tủ điều khiển NUSCO",
-   "zh": "← NUSCO控制盤體",
-   "en": "← NUSCO Control Panel",
-   "ko": "← NUSCO 제어반"
-  },
-  {
-   "id": "34a6f16e",
-   "vi": "Encoder động cơ →",
-   "zh": "馬達編碼器 →",
-   "en": "Motor Encoder →",
-   "ko": "모터 엔코더 →"
-  },
-  {
-   "id": "0f08caae",
-   "vi": "Encoder động cơ | Charger Mechatronic Việt Nam",
-   "zh": "馬達編碼器 | Charger Mechatronic 越南",
-   "en": "Motor Encoder | Charger Mechatronic Vietnam",
-   "ko": "모터 엔코더 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "b718159a",
-   "vi": "Encoder động cơ",
-   "zh": "馬達編碼器",
-   "en": "Motor Encoder",
-   "ko": "모터 엔코더"
-  },
-  {
-   "id": "255bbbc3",
-   "vi": "← Tủ điều khiển CMC",
-   "zh": "← CMC控制盤體",
-   "en": "← CMC Control Panel",
-   "ko": "← CMC 제어반"
-  },
-  {
-   "id": "5e16aca6",
-   "vi": "Khớp nối →",
-   "zh": "聯軸器 →",
-   "en": "Coupling →",
-   "ko": "커플링 →"
-  },
-  {
-   "id": "a6c55006",
-   "vi": "Khớp nối | Charger Mechatronic Việt Nam",
-   "zh": "聯軸器 | Charger Mechatronic 越南",
-   "en": "Coupling | Charger Mechatronic Vietnam",
-   "ko": "커플링 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "1873810e",
-   "vi": "Khớp nối",
-   "zh": "聯軸器",
-   "en": "Coupling",
-   "ko": "커플링"
-  },
-  {
-   "id": "ff705580",
-   "vi": "← Encoder động cơ",
-   "zh": "← 馬達編碼器",
-   "en": "← Motor Encoder",
-   "ko": "← 모터 엔코더"
-  },
-  {
-   "id": "684edffd",
-   "vi": "Encoder bánh xe đo →",
-   "zh": "測量輪編碼器 →",
-   "en": "Measuring Roll Encoder →",
-   "ko": "측장 롤 엔코더 →"
-  },
-  {
-   "id": "6be2ab84",
-   "vi": "Encoder bánh xe đo | Charger Mechatronic Việt Nam",
-   "zh": "測量輪編碼器 | Charger Mechatronic 越南",
-   "en": "Measuring Roll Encoder | Charger Mechatronic Vietnam",
-   "ko": "측장 롤 엔코더 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "cb69aaf4",
-   "vi": "Encoder bánh xe đo",
-   "zh": "測量輪編碼器",
-   "en": "Measuring Roll Encoder",
-   "ko": "측장 롤 엔코더"
-  },
-  {
-   "id": "ab36ad05",
-   "vi": "← Khớp nối",
-   "zh": "← 聯軸器",
-   "en": "← Coupling",
-   "ko": "← 커플링"
-  },
-  {
-   "id": "92583a7e",
-   "vi": "Bộ điều khiển lập trình (PLC) →",
-   "zh": "可程式控制器 →",
-   "en": "Programmable Logic Controller →",
-   "ko": "PLC(프로그래머블 컨트롤러) →"
-  },
-  {
-   "id": "8f8e27e5",
-   "vi": "Bộ điều khiển lập trình (PLC) | Charger Mechatronic Việt Nam",
-   "zh": "可程式控制器 | Charger Mechatronic 越南",
-   "en": "Programmable Logic Controller | Charger Mechatronic Vietnam",
-   "ko": "PLC(프로그래머블 컨트롤러) | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "fa9814ba",
-   "vi": "Bộ điều khiển lập trình (PLC)",
-   "zh": "可程式控制器",
-   "en": "Programmable Logic Controller",
-   "ko": "PLC(프로그래머블 컨트롤러)"
-  },
-  {
-   "id": "0d85ed7b",
-   "vi": "← Encoder bánh xe đo",
-   "zh": "← 測量輪編碼器",
-   "en": "← Measuring Roll Encoder",
-   "ko": "← 측장 롤 엔코더"
-  }
- ]
+  "strings": [
+    {
+      "id": "806ea85b",
+      "vi": "Bộ điều khiển số CG – 2 trục | Charger Mechatronic Việt Nam",
+      "zh": "全數位式CG控制器 - 2軸系列 | Charger Mechatronic 越南",
+      "en": "Full Digital CG Controller - 2 Axis Series | Charger Mechatronic Vietnam",
+      "ko": "CG 풀 디지털 컨트롤러 – 2축 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "c401ad21",
+      "vi": "Bộ điều khiển số CG của Charger Mechatronic điều khiển chuyển động nhiều trục cho máy cắt và dây chuyền gia công kim loại, có bản 2, 4 và 8 trục.",
+      "zh": "甲子機電 CG 全數位式控制器，提供 2 軸、4 軸、8 軸系列，用於裁切機與金屬加工產線的多軸運動控制。",
+      "en": "The Charger Mechatronic CG full digital controller runs multi-axis motion for cutting machines and metal-processing lines, in 2, 4 and 8 axis versions.",
+      "ko": "Charger Mechatronic CG 풀 디지털 컨트롤러는 절단기와 금속 가공 라인의 다축 모션을 제어하며 2축, 4축, 8축 모델이 있습니다."
+    },
+    {
+      "id": "1d866d0e",
+      "vi": "Bộ điều khiển số CG – 2 trục",
+      "zh": "全數位式CG控制器 - 2軸系列",
+      "en": "Full Digital CG Controller - 2 Axis Series",
+      "ko": "CG 풀 디지털 컨트롤러 – 2축"
+    },
+    {
+      "id": "c37263aa",
+      "vi": "Ưu điểm",
+      "zh": "產品優勢",
+      "en": "Advantages",
+      "ko": "제품 장점"
+    },
+    {
+      "id": "8e305c00",
+      "vi": "Hai cổng nối tiếp RS-232, tốc độ truyền tối đa 115.200 bps",
+      "zh": "兩組串列傳輸埠RS-232，最高傳輸速率可達 115200bps",
+      "en": "Two RS-232 serial ports, up to 115,200 bps",
+      "ko": "RS-232 직렬 포트 2개, 최대 115,200 bps"
+    },
+    {
+      "id": "4e2b7b6d",
+      "vi": "I/O cách ly quang tích hợp, có thể gắn thêm nhiều bo mở rộng",
+      "zh": "內建光偶合隔離I/O，並可外接多片擴充板",
+      "en": "Built-in opto-isolated I/O, with room for several expansion boards",
+      "ko": "광절연 I/O 내장, 확장 보드 여러 장 추가 가능"
+    },
+    {
+      "id": "501eb3ef",
+      "vi": "Giới hạn hành trình dương/âm bằng phần mềm và phần cứng, ngõ vào tín hiệu gốc",
+      "zh": "軟硬體正負行程極限，原點信號輸入",
+      "en": "Software and hardware positive/negative travel limits and home signal input",
+      "ko": "소프트웨어·하드웨어 정/부 방향 스트로크 리밋, 원점 신호 입력"
+    },
+    {
+      "id": "35fe07e0",
+      "vi": "Bộ nhớ tổng 4 Mbit, mở rộng được tới 16 Mbit",
+      "zh": "總記憶容量4M Bits，可擴增為 16M Bits",
+      "en": "4 Mbit total memory, expandable to 16 Mbit",
+      "ko": "총 메모리 4 Mbit, 16 Mbit까지 확장 가능"
+    },
+    {
+      "id": "81799356",
+      "vi": "Bộ nhớ flash 4 Mbit và pin dự phòng, sao lưu kép",
+      "zh": "4M Bits 快閃記憶體及後援電池雙重備份裝置",
+      "en": "4 Mbit flash memory plus backup battery for double protection",
+      "ko": "4 Mbit 플래시 메모리와 백업 배터리의 이중 보호"
+    },
+    {
+      "id": "9af62893",
+      "vi": "Hai ngõ ra/vào tương tự ±10 V",
+      "zh": "兩組+/- 10V 類比信號輸出/輸入",
+      "en": "Two ±10 V analog outputs/inputs",
+      "ko": "±10 V 아날로그 출력/입력 2조"
+    },
+    {
+      "id": "f4e23299",
+      "vi": "Tập lệnh mã ASCII, cú pháp lập trình bậc cao",
+      "zh": "ASCII 碼指令集，高階程式語法",
+      "en": "ASCII command set with high-level program syntax",
+      "ko": "ASCII 명령 세트, 고급 프로그램 문법"
+    },
+    {
+      "id": "ada4abfb",
+      "vi": "8 bộ định thời và 4.096 biến tích hợp",
+      "zh": "內建有8 組計時器(Timers)及4096 個變數",
+      "en": "8 built-in timers and 4,096 variables",
+      "ko": "타이머 8개와 변수 4,096개 내장"
+    },
+    {
+      "id": "42ba4996",
+      "vi": "Lưu được 256 chương trình chuyển động và 16 chương trình PLC",
+      "zh": "可內存256 組運動程式，16 組PLC 程式",
+      "en": "Stores 256 motion programs and 16 PLC programs",
+      "ko": "모션 프로그램 256개, PLC 프로그램 16개 저장"
+    },
+    {
+      "id": "14d5cbd2",
+      "vi": "Cấu trúc điều khiển servo tiên tiến, giảm sai số bám khi chuyển động và khi đứng yên",
+      "zh": "先進伺服控制架構，可有效抑制運動中及靜止時之跟隨誤差及穩定度",
+      "en": "Advanced servo control structure that suppresses following error in motion and at rest",
+      "ko": "운전 중과 정지 시의 추종 오차를 억제하는 고급 서보 제어 구조"
+    },
+    {
+      "id": "dae3a1c6",
+      "vi": "Tần số làm việc của hệ thống: 32 MHz",
+      "zh": "系統工作頻率:32MHZ",
+      "en": "System clock: 32 MHz",
+      "ko": "시스템 클록: 32 MHz"
+    },
+    {
+      "id": "06976cb8",
+      "vi": "Chu kỳ lấy mẫu servo: 1 ms",
+      "zh": "伺服取樣時間:1ms",
+      "en": "Servo update time: 1 ms",
+      "ko": "서보 샘플링 시간: 1 ms"
+    },
+    {
+      "id": "eadf8fe8",
+      "vi": "Tốc độ xung ra tối đa: 2 M pps",
+      "zh": "最高輸出脈衝速率:2M pps",
+      "en": "Maximum pulse output rate: 2 M pps",
+      "ko": "최대 펄스 출력: 2 M pps"
+    },
+    {
+      "id": "b65e45a9",
+      "vi": "Chức năng hộp số điện tử và cam điện tử",
+      "zh": "電子齒/凸輪應用功能",
+      "en": "Electronic gear and cam functions",
+      "ko": "전자 기어 및 전자 캠 기능"
+    },
+    {
+      "id": "654dba43",
+      "vi": "Định nghĩa hệ tọa độ độc lập hoặc dùng chung",
+      "zh": "可定義獨立或共用座標系統",
+      "en": "Independent or shared coordinate systems",
+      "ko": "독립 또는 공용 좌표계 정의 가능"
+    },
+    {
+      "id": "7b790baa",
+      "vi": "Tăng giảm tốc đường cong S, chạy nhanh, nội suy thẳng, tròn, xoắn ốc, spline, chuyển động trộn (blend)",
+      "zh": "具 S-曲線加減速，快速位移，直線、圓弧、螺旋、Spline 補間，Blend 運動功能",
+      "en": "S-curve acceleration/deceleration, rapid traverse, linear, circular, helical and spline interpolation, blended moves",
+      "ko": "S자 가감속, 급속 이송, 직선·원호·나선·스플라인 보간, 블렌드 동작"
+    },
+    {
+      "id": "ba193a0e",
+      "vi": "Chức năng Look Ahead",
+      "zh": "具 Look Ahead 功能",
+      "en": "Look-ahead function",
+      "ko": "룩어헤드 기능"
+    },
+    {
+      "id": "826d535e",
+      "vi": "Bù khe hở",
+      "zh": "具間隙補償功能",
+      "en": "Backlash compensation",
+      "ko": "백래시 보정"
+    },
+    {
+      "id": "e748634f",
+      "vi": "Cấu trúc điều khiển hồi tiếp kép",
+      "zh": "具雙回授控制架構",
+      "en": "Dual-feedback control structure",
+      "ko": "이중 피드백 제어 구조"
+    },
+    {
+      "id": "f9fadee9",
+      "vi": "DNC và nhóm lệnh trực tiếp, bảo vệ cấu hình hệ thống bằng mật khẩu",
+      "zh": "具 DNC 及直接命令指令群、Password 系統規劃保護功能",
+      "en": "DNC and direct command set; password protection for system configuration",
+      "ko": "DNC 및 직접 명령 세트, 시스템 설정 비밀번호 보호"
+    },
+    {
+      "id": "61d6cacf",
+      "vi": "Charger Mechatronic công bố bảng thông số cho bản 4 trục; thông số của bản này được xác nhận khi báo giá.",
+      "zh": "甲子機電公開的規格表為 4 軸系列；本系列規格於報價時確認。",
+      "en": "Charger Mechatronic publishes the specification table for the 4-axis version; figures for this version are confirmed in the quotation.",
+      "ko": "Charger Mechatronic이 공개한 사양표는 4축 모델 기준입니다. 이 모델의 사양은 견적 시 확인해 드립니다."
+    },
+    {
+      "id": "c845922d",
+      "vi": "Bộ điều khiển số CG – 4 trục",
+      "zh": "全數位式CG控制器 - 4軸系列",
+      "en": "Full Digital CG Controller - 4 Axis Series",
+      "ko": "CG 풀 디지털 컨트롤러 – 4축"
+    },
+    {
+      "id": "3f0b898e",
+      "vi": "Bộ điều khiển số CG – 4 trục →",
+      "zh": "全數位式CG控制器 - 4軸系列 →",
+      "en": "Full Digital CG Controller - 4 Axis Series →",
+      "ko": "CG 풀 디지털 컨트롤러 – 4축 →"
+    },
+    {
+      "id": "bb7a5054",
+      "vi": "Bộ điều khiển số CG – 4 trục | Charger Mechatronic Việt Nam",
+      "zh": "全數位式CG控制器 - 4軸系列 | Charger Mechatronic 越南",
+      "en": "Full Digital CG Controller - 4 Axis Series | Charger Mechatronic Vietnam",
+      "ko": "CG 풀 디지털 컨트롤러 – 4축 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "a17385bb",
+      "vi": "← Bộ điều khiển số CG – 2 trục",
+      "zh": "← 全數位式CG控制器 - 2軸系列",
+      "en": "← Full Digital CG Controller - 2 Axis Series",
+      "ko": "← CG 풀 디지털 컨트롤러 – 2축"
+    },
+    {
+      "id": "31587fc9",
+      "vi": "Bộ điều khiển số CG – 8 trục →",
+      "zh": "全數位式CG控制器 - 8軸系列 →",
+      "en": "Full Digital CG Controller - 8 Axis Series →",
+      "ko": "CG 풀 디지털 컨트롤러 – 8축 →"
+    },
+    {
+      "id": "4ebb48b6",
+      "vi": "Bộ điều khiển số CG – 8 trục | Charger Mechatronic Việt Nam",
+      "zh": "全數位式CG控制器 - 8軸系列 | Charger Mechatronic 越南",
+      "en": "Full Digital CG Controller - 8 Axis Series | Charger Mechatronic Vietnam",
+      "ko": "CG 풀 디지털 컨트롤러 – 8축 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "6b2454f7",
+      "vi": "Bộ điều khiển số CG – 8 trục",
+      "zh": "全數位式CG控制器 - 8軸系列",
+      "en": "Full Digital CG Controller - 8 Axis Series",
+      "ko": "CG 풀 디지털 컨트롤러 – 8축"
+    },
+    {
+      "id": "b599531d",
+      "vi": "← Bộ điều khiển số CG – 4 trục",
+      "zh": "← 全數位式CG控制器 - 4軸系列",
+      "en": "← Full Digital CG Controller - 4 Axis Series",
+      "ko": "← CG 풀 디지털 컨트롤러 – 4축"
+    },
+    {
+      "id": "55a586cf",
+      "vi": "Tủ điều khiển NUSCO | Charger Mechatronic Việt Nam",
+      "zh": "NUSCO控制盤體 | Charger Mechatronic 越南",
+      "en": "NUSCO Control Panel | Charger Mechatronic Vietnam",
+      "ko": "NUSCO 제어반 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "ae476b62",
+      "vi": "Tủ điều khiển, encoder, khớp nối và PLC dùng cùng hệ thống servo và biến tần của Charger Mechatronic.",
+      "zh": "搭配甲子機電伺服與驅動系統使用的控制盤體、編碼器、聯軸器與可程式控制器。",
+      "en": "Control panels, encoders, couplings and PLCs used with Charger Mechatronic servo and drive systems.",
+      "ko": "Charger Mechatronic 서보 및 드라이브 시스템과 함께 쓰는 제어반, 엔코더, 커플링, PLC입니다."
+    },
+    {
+      "id": "66713aa1",
+      "vi": "Tủ điều khiển NUSCO",
+      "zh": "NUSCO控制盤體",
+      "en": "NUSCO Control Panel",
+      "ko": "NUSCO 제어반"
+    },
+    {
+      "id": "f7c1d7d9",
+      "vi": "Thông số và cấu hình được xác nhận theo từng dự án. Gửi yêu cầu để CMV đề xuất.",
+      "zh": "規格與配置依專案確認。歡迎來信，由 CMV 提出建議。",
+      "en": "Specifications and configuration are confirmed per project. Send a request and CMV will propose one.",
+      "ko": "사양과 구성은 프로젝트별로 확인합니다. 요청을 보내 주시면 CMV가 제안해 드립니다."
+    },
+    {
+      "id": "cbc14f4a",
+      "vi": "Tủ điều khiển CMC →",
+      "zh": "CMC控制盤體 →",
+      "en": "CMC Control Panel →",
+      "ko": "CMC 제어반 →"
+    },
+    {
+      "id": "3c661adf",
+      "vi": "Tủ điều khiển CMC | Charger Mechatronic Việt Nam",
+      "zh": "CMC控制盤體 | Charger Mechatronic 越南",
+      "en": "CMC Control Panel | Charger Mechatronic Vietnam",
+      "ko": "CMC 제어반 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "dbca93f6",
+      "vi": "Tủ điều khiển CMC",
+      "zh": "CMC控制盤體",
+      "en": "CMC Control Panel",
+      "ko": "CMC 제어반"
+    },
+    {
+      "id": "c21c585c",
+      "vi": "← Tủ điều khiển NUSCO",
+      "zh": "← NUSCO控制盤體",
+      "en": "← NUSCO Control Panel",
+      "ko": "← NUSCO 제어반"
+    },
+    {
+      "id": "34a6f16e",
+      "vi": "Encoder động cơ →",
+      "zh": "馬達編碼器 →",
+      "en": "Motor Encoder →",
+      "ko": "모터 엔코더 →"
+    },
+    {
+      "id": "0f08caae",
+      "vi": "Encoder động cơ | Charger Mechatronic Việt Nam",
+      "zh": "馬達編碼器 | Charger Mechatronic 越南",
+      "en": "Motor Encoder | Charger Mechatronic Vietnam",
+      "ko": "모터 엔코더 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "b718159a",
+      "vi": "Encoder động cơ",
+      "zh": "馬達編碼器",
+      "en": "Motor Encoder",
+      "ko": "모터 엔코더"
+    },
+    {
+      "id": "255bbbc3",
+      "vi": "← Tủ điều khiển CMC",
+      "zh": "← CMC控制盤體",
+      "en": "← CMC Control Panel",
+      "ko": "← CMC 제어반"
+    },
+    {
+      "id": "5e16aca6",
+      "vi": "Khớp nối →",
+      "zh": "聯軸器 →",
+      "en": "Coupling →",
+      "ko": "커플링 →"
+    },
+    {
+      "id": "a6c55006",
+      "vi": "Khớp nối | Charger Mechatronic Việt Nam",
+      "zh": "聯軸器 | Charger Mechatronic 越南",
+      "en": "Coupling | Charger Mechatronic Vietnam",
+      "ko": "커플링 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "1873810e",
+      "vi": "Khớp nối",
+      "zh": "聯軸器",
+      "en": "Coupling",
+      "ko": "커플링"
+    },
+    {
+      "id": "ff705580",
+      "vi": "← Encoder động cơ",
+      "zh": "← 馬達編碼器",
+      "en": "← Motor Encoder",
+      "ko": "← 모터 엔코더"
+    },
+    {
+      "id": "684edffd",
+      "vi": "Encoder bánh xe đo →",
+      "zh": "測量輪編碼器 →",
+      "en": "Measuring Roll Encoder →",
+      "ko": "측장 롤 엔코더 →"
+    },
+    {
+      "id": "6be2ab84",
+      "vi": "Encoder bánh xe đo | Charger Mechatronic Việt Nam",
+      "zh": "測量輪編碼器 | Charger Mechatronic 越南",
+      "en": "Measuring Roll Encoder | Charger Mechatronic Vietnam",
+      "ko": "측장 롤 엔코더 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "cb69aaf4",
+      "vi": "Encoder bánh xe đo",
+      "zh": "測量輪編碼器",
+      "en": "Measuring Roll Encoder",
+      "ko": "측장 롤 엔코더"
+    },
+    {
+      "id": "ab36ad05",
+      "vi": "← Khớp nối",
+      "zh": "← 聯軸器",
+      "en": "← Coupling",
+      "ko": "← 커플링"
+    },
+    {
+      "id": "92583a7e",
+      "vi": "Bộ điều khiển lập trình (PLC) →",
+      "zh": "可程式控制器 →",
+      "en": "Programmable Logic Controller →",
+      "ko": "PLC(프로그래머블 컨트롤러) →"
+    },
+    {
+      "id": "8f8e27e5",
+      "vi": "Bộ điều khiển lập trình (PLC) | Charger Mechatronic Việt Nam",
+      "zh": "可程式控制器 | Charger Mechatronic 越南",
+      "en": "Programmable Logic Controller | Charger Mechatronic Vietnam",
+      "ko": "PLC(프로그래머블 컨트롤러) | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "fa9814ba",
+      "vi": "Bộ điều khiển lập trình (PLC)",
+      "zh": "可程式控制器",
+      "en": "Programmable Logic Controller",
+      "ko": "PLC(프로그래머블 컨트롤러)"
+    },
+    {
+      "id": "0d85ed7b",
+      "vi": "← Encoder bánh xe đo",
+      "zh": "← 測量輪編碼器",
+      "en": "← Measuring Roll Encoder",
+      "ko": "← 측장 롤 엔코더"
+    }
+  ]
 }

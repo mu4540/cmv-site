@@ -1,256 +1,256 @@
 {
- "strings": [
-  {
-   "id": "ea0b1361",
-   "vi": "Điều khiển dây chuyền cắt tấm (cut-to-length) | Charger Mechatronic Việt Nam",
-   "zh": "停剪機（定尺橫切線）電控 | Charger Mechatronic 越南",
-   "en": "Cut-to-length line control | Charger Mechatronic Vietnam",
-   "ko": "정척 절단 라인 제어 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "674e5829",
-   "vi": "Hệ điều khiển cho dây chuyền cắt tấm theo chiều dài (cut-to-length): xả cuộn, nắn phẳng, cấp phôi bằng servo và cắt khi tấm dừng. Cụm nắn phẳng phù hợp cho tấm dày cần độ phẳng cao.",
-   "zh": "停剪機（定尺橫切線）電控系統：開捲、整平、伺服送料，板材停止時裁切。整平段適合需要高平坦度的厚板。",
-   "en": "Control system for cut-to-length (stop shear) lines: uncoiling, levelling, servo feeding and cutting with the sheet at rest. The levelling section suits thick plate that needs high flatness.",
-   "ko": "정척 절단(스톱 시어) 라인 제어 시스템: 언코일링, 레벨링, 서보 피딩을 거쳐 판재가 정지한 상태에서 절단합니다. 레벨링부는 높은 평탄도가 필요한 후판에 적합합니다."
-  },
-  {
-   "id": "5ed23523",
-   "vi": "Dây chuyền cắt tấm khác máy cắt bay thế nào?",
-   "zh": "停剪和飛剪有什麼不同？",
-   "en": "How does a cut-to-length line differ from a flying shear?",
-   "ko": "정척 절단 라인과 플라잉 시어는 어떻게 다릅니까?"
-  },
-  {
-   "id": "ace2e3d3",
-   "vi": "Cắt tấm cắt khi tấm dừng; máy cắt bay cắt khi vật liệu vẫn chạy. CMV có hệ điều khiển cho cả hai.",
-   "zh": "停剪在板材停止時裁切；飛剪在材料行進中裁切。兩種電控 CMV 都提供。",
-   "en": "A cut-to-length line cuts with the sheet at rest; a flying shear cuts while the material keeps moving. CMV supplies controls for both.",
-   "ko": "정척 절단 라인은 판재가 정지한 상태에서 절단하고, 플라잉 시어는 소재가 이동하는 중에 절단합니다. CMV는 두 가지 모두의 제어를 공급합니다."
-  },
-  {
-   "id": "35103b8c",
-   "vi": "Có thể chỉ nâng cấp phần cấp phôi không?",
-   "zh": "可以只升級送料段嗎？",
-   "en": "Can only the feeder be upgraded?",
-   "ko": "피더만 업그레이드할 수 있습니까?"
-  },
-  {
-   "id": "455661d6",
-   "vi": "Có thể. CMV đánh giá hiện trạng và đề xuất phạm vi thay thế phù hợp.",
-   "zh": "可以。CMV 評估現況後提出合適的更換範圍。",
-   "en": "Yes. CMV reviews the line and proposes a suitable scope.",
-   "ko": "가능합니다. CMV가 라인을 검토한 뒤 적합한 범위를 제안합니다."
-  },
-  {
-   "id": "6346d888",
-   "vi": "Trung tâm gia công thép cuộn cắt tấm theo chiều dài",
-   "zh": "定尺裁切板材的鋼捲加工中心",
-   "en": "Coil service centers cutting sheet to length",
-   "ko": "판재를 정척 절단하는 코일 서비스 센터"
-  },
-  {
-   "id": "9ce70f67",
-   "vi": "Nhà máy cắt tấm dày cần độ phẳng cao",
-   "zh": "裁切厚板、要求高平坦度的工廠",
-   "en": "Plants cutting thick plate that needs high flatness",
-   "ko": "높은 평탄도가 필요한 후판을 절단하는 공장"
-  },
-  {
-   "id": "4950485e",
-   "vi": "Dây chuyền cắt tấm cũ cần nâng cấp cấp phôi và điều khiển",
-   "zh": "需要升級送料與電控的舊橫切線",
-   "en": "Older cut-to-length lines that need a feeder and control upgrade",
-   "ko": "피더와 제어 업그레이드가 필요한 노후 정척 절단 라인"
-  },
-  {
-   "id": "9cf81bfd",
-   "vi": "Vật liệu, độ dày và khổ rộng",
-   "zh": "材質、板厚與板寬",
-   "en": "Material, thickness and width",
-   "ko": "소재, 두께, 폭"
-  },
-  {
-   "id": "3911edd6",
-   "vi": "Chiều dài tấm thường dùng, sai số hiện tại và sai số mong muốn",
-   "zh": "常用板長、目前公差與目標公差",
-   "en": "Typical sheet lengths, current and target tolerance",
-   "ko": "주로 쓰는 판 길이, 현재 공차와 목표 공차"
-  },
-  {
-   "id": "48ebf123",
-   "vi": "Tốc độ hoặc số tấm mỗi phút",
-   "zh": "線速或每分鐘片數",
-   "en": "Speed or sheets per minute",
-   "ko": "속도 또는 분당 매수"
-  },
-  {
-   "id": "75fe0a52",
-   "vi": "Bộ điều khiển, động cơ, biến tần đang dùng (nếu có)",
-   "zh": "現有控制器、馬達、驅動器（如有）",
-   "en": "Existing controller, motors and drives (if any)",
-   "ko": "기존 컨트롤러, 모터, 드라이브(있는 경우)"
-  },
-  {
-   "id": "146a86cd",
-   "vi": "Ảnh hoặc video dây chuyền đang chạy",
-   "zh": "產線運轉中的照片或影片",
-   "en": "Photos or video of the line running",
-   "ko": "라인이 가동 중인 사진 또는 영상"
-  },
-  {
-   "id": "8cfe35c3",
-   "vi": "Định vị cấp phôi",
-   "zh": "送料定位",
-   "en": "Feed positioning",
-   "ko": "피딩 위치 결정"
-  },
-  {
-   "id": "df273d27",
-   "vi": "Trượt, định vị chậm",
-   "zh": "打滑、定位慢",
-   "en": "Slip, slow positioning",
-   "ko": "슬립 발생, 위치 결정이 느림"
-  },
-  {
-   "id": "b87fdabb",
-   "vi": "Servo cấp phôi định vị theo chiều dài cài đặt",
-   "zh": "伺服送料依設定長度定位",
-   "en": "Servo feeder positions to the set length",
-   "ko": "서보 피더가 설정 길이대로 위치 결정"
-  },
-  {
-   "id": "1bcc2e47",
-   "vi": "Độ phẳng tấm dày",
-   "zh": "厚板平坦度",
-   "en": "Thick-plate flatness",
-   "ko": "후판 평탄도"
-  },
-  {
-   "id": "2ed8b2ca",
-   "vi": "Chưa đủ phẳng sau nắn",
-   "zh": "整平後仍不夠平",
-   "en": "Not flat enough after levelling",
-   "ko": "레벨링 후에도 평탄도 부족"
-  },
-  {
-   "id": "c6c39c5e",
-   "vi": "Cụm nắn phẳng cho tấm dày",
-   "zh": "厚板整平段",
-   "en": "Levelling section for thick plate",
-   "ko": "후판용 레벨링부"
-  },
-  {
-   "id": "71932e87",
-   "vi": "Chu kỳ cắt",
-   "zh": "剪切週期",
-   "en": "Cut cycle",
-   "ko": "절단 사이클"
-  },
-  {
-   "id": "327cf5d9",
-   "vi": "Dài, giảm sản lượng",
-   "zh": "週期長、產量低",
-   "en": "Long, lowers output",
-   "ko": "길어서 생산량 저하"
-  },
-  {
-   "id": "4fa34a82",
-   "vi": "Servo vector tăng, giảm tốc nhanh",
-   "zh": "向量伺服加減速快",
-   "en": "Servo vector drive accelerates and decelerates quickly",
-   "ko": "서보 벡터 드라이브로 빠른 가감속"
-  },
-  {
-   "id": "e378aa28",
-   "vi": "Cấp phôi",
-   "zh": "送料",
-   "en": "Feeder",
-   "ko": "피더"
-  },
-  {
-   "id": "eaf78c9d",
-   "vi": "Servo SVMF, biến tần VFI-CG80",
-   "zh": "SVMF 伺服、VFI-CG80 驅動器",
-   "en": "SVMF servo, VFI-CG80 drive",
-   "ko": "SVMF 서보, VFI-CG80 드라이브"
-  },
-  {
-   "id": "8efc6620",
-   "vi": "CG định vị chiều dài",
-   "zh": "CG 長度定位",
-   "en": "CG length positioning",
-   "ko": "CG 길이 위치 결정"
-  },
-  {
-   "id": "5dfdb949",
-   "vi": "Xả cuộn, nắn phẳng",
-   "zh": "開捲、整平",
-   "en": "Uncoiler, leveller",
-   "ko": "언코일러, 레벨러"
-  },
-  {
-   "id": "678873bd",
-   "vi": "Điều khiển theo cấu hình dây chuyền",
-   "zh": "依產線配置控制",
-   "en": "Controlled to suit the line layout",
-   "ko": "라인 구성에 맞춰 제어"
-  },
-  {
-   "id": "a1c3c9fb",
-   "vi": "Tủ điều khiển, tủ MCC",
-   "zh": "控制盤、MCC 盤",
-   "en": "Control panel, MCC panel",
-   "ko": "제어반, MCC반"
-  },
-  {
-   "id": "848bd65f",
-   "vi": "Sơ đồ hệ thống điều khiển: Dây chuyền cắt tấm. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
-   "zh": "停剪機 控制系統架構圖. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
-   "en": "Control system diagram: Cut-to-length (stop shear) line. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
-   "ko": "정척 절단(스톱 시어) 라인 제어 시스템 구성도. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI."
-  },
-  {
-   "id": "974a661f",
-   "vi": "Dây chuyền cắt tấm: Ứng dụng rộng rãi trong nhiều ngành",
-   "zh": "停剪機: 廣泛應用於各產業",
-   "en": "Cut-to-length (stop shear) line: Used widely across industries",
-   "ko": "정척 절단(스톱 시어) 라인: 다양한 산업에 폭넓게 적용"
-  },
-  {
-   "id": "0132059d",
-   "vi": "Dây chuyền cắt tấm: Tiết kiệm thời gian, công sức và chi phí",
-   "zh": "停剪機: 具省時、省力、低成本優勢",
-   "en": "Cut-to-length (stop shear) line: Saves time, labour and cost",
-   "ko": "정척 절단(스톱 시어) 라인: 시간, 인력, 비용 절감"
-  },
-  {
-   "id": "b913beef",
-   "vi": "Dây chuyền cắt tấm: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
-   "zh": "停剪機: 結合電腦網路設備，快速演算",
-   "en": "Cut-to-length (stop shear) line: Fast computation with networked computer equipment",
-   "ko": "정척 절단(스톱 시어) 라인: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
-  },
-  {
-   "id": "8a891356",
-   "vi": "Dây chuyền cắt tấm: Chất lượng sản phẩm ổn định",
-   "zh": "停剪機: 生產產品品質穩定",
-   "en": "Cut-to-length (stop shear) line: Stable product quality",
-   "ko": "정척 절단(스톱 시어) 라인: 안정된 제품 품질"
-  },
-  {
-   "id": "626452ad",
-   "vi": "Dây chuyền cắt tấm: Giảm nhân lực vận hành",
-   "zh": "停剪機: 有效降低人力使用",
-   "en": "Cut-to-length (stop shear) line: Fewer operators needed",
-   "ko": "정척 절단(스톱 시어) 라인: 운전 인력 절감"
-  },
-  {
-   "id": "9f8d7beb",
-   "vi": "Dây chuyền cắt tấm: Thao tác đơn giản",
-   "zh": "停剪機: 簡單的操作模式",
-   "en": "Cut-to-length (stop shear) line: Simple operation",
-   "ko": "정척 절단(스톱 시어) 라인: 간단한 조작"
-  }
- ]
+  "strings": [
+    {
+      "id": "ea0b1361",
+      "vi": "Điều khiển dây chuyền cắt tấm (cut-to-length) | Charger Mechatronic Việt Nam",
+      "zh": "停剪機（定尺橫切線）電控 | Charger Mechatronic 越南",
+      "en": "Cut-to-length line control | Charger Mechatronic Vietnam",
+      "ko": "정척 절단 라인 제어 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "674e5829",
+      "vi": "Hệ điều khiển cho dây chuyền cắt tấm theo chiều dài (cut-to-length): xả cuộn, nắn phẳng, cấp phôi bằng servo và cắt khi tấm dừng. Cụm nắn phẳng phù hợp cho tấm dày cần độ phẳng cao.",
+      "zh": "停剪機（定尺橫切線）電控系統：開捲、整平、伺服送料，板材停止時裁切。整平段適合需要高平坦度的厚板。",
+      "en": "Control system for cut-to-length (stop shear) lines: uncoiling, levelling, servo feeding and cutting with the sheet at rest. The levelling section suits thick plate that needs high flatness.",
+      "ko": "정척 절단(스톱 시어) 라인 제어 시스템: 언코일링, 레벨링, 서보 피딩을 거쳐 판재가 정지한 상태에서 절단합니다. 레벨링부는 높은 평탄도가 필요한 후판에 적합합니다."
+    },
+    {
+      "id": "5ed23523",
+      "vi": "Dây chuyền cắt tấm khác máy cắt bay thế nào?",
+      "zh": "停剪和飛剪有什麼不同？",
+      "en": "How does a cut-to-length line differ from a flying shear?",
+      "ko": "정척 절단 라인과 플라잉 시어는 어떻게 다릅니까?"
+    },
+    {
+      "id": "ace2e3d3",
+      "vi": "Cắt tấm cắt khi tấm dừng; máy cắt bay cắt khi vật liệu vẫn chạy. CMV có hệ điều khiển cho cả hai.",
+      "zh": "停剪在板材停止時裁切；飛剪在材料行進中裁切。兩種電控 CMV 都提供。",
+      "en": "A cut-to-length line cuts with the sheet at rest; a flying shear cuts while the material keeps moving. CMV supplies controls for both.",
+      "ko": "정척 절단 라인은 판재가 정지한 상태에서 절단하고, 플라잉 시어는 소재가 이동하는 중에 절단합니다. CMV는 두 가지 모두의 제어를 공급합니다."
+    },
+    {
+      "id": "35103b8c",
+      "vi": "Có thể chỉ nâng cấp phần cấp phôi không?",
+      "zh": "可以只升級送料段嗎？",
+      "en": "Can only the feeder be upgraded?",
+      "ko": "피더만 업그레이드할 수 있습니까?"
+    },
+    {
+      "id": "455661d6",
+      "vi": "Có thể. CMV đánh giá hiện trạng và đề xuất phạm vi thay thế phù hợp.",
+      "zh": "可以。CMV 評估現況後提出合適的更換範圍。",
+      "en": "Yes. CMV reviews the line and proposes a suitable scope.",
+      "ko": "가능합니다. CMV가 라인을 검토한 뒤 적합한 범위를 제안합니다."
+    },
+    {
+      "id": "6346d888",
+      "vi": "Trung tâm gia công thép cuộn cắt tấm theo chiều dài",
+      "zh": "定尺裁切板材的鋼捲加工中心",
+      "en": "Coil service centers cutting sheet to length",
+      "ko": "판재를 정척 절단하는 코일 서비스 센터"
+    },
+    {
+      "id": "9ce70f67",
+      "vi": "Nhà máy cắt tấm dày cần độ phẳng cao",
+      "zh": "裁切厚板、要求高平坦度的工廠",
+      "en": "Plants cutting thick plate that needs high flatness",
+      "ko": "높은 평탄도가 필요한 후판을 절단하는 공장"
+    },
+    {
+      "id": "4950485e",
+      "vi": "Dây chuyền cắt tấm cũ cần nâng cấp cấp phôi và điều khiển",
+      "zh": "需要升級送料與電控的舊橫切線",
+      "en": "Older cut-to-length lines that need a feeder and control upgrade",
+      "ko": "피더와 제어 업그레이드가 필요한 노후 정척 절단 라인"
+    },
+    {
+      "id": "9cf81bfd",
+      "vi": "Vật liệu, độ dày và khổ rộng",
+      "zh": "材質、板厚與板寬",
+      "en": "Material, thickness and width",
+      "ko": "소재, 두께, 폭"
+    },
+    {
+      "id": "3911edd6",
+      "vi": "Chiều dài tấm thường dùng, sai số hiện tại và sai số mong muốn",
+      "zh": "常用板長、目前公差與目標公差",
+      "en": "Typical sheet lengths, current and target tolerance",
+      "ko": "주로 쓰는 판 길이, 현재 공차와 목표 공차"
+    },
+    {
+      "id": "48ebf123",
+      "vi": "Tốc độ hoặc số tấm mỗi phút",
+      "zh": "線速或每分鐘片數",
+      "en": "Speed or sheets per minute",
+      "ko": "속도 또는 분당 매수"
+    },
+    {
+      "id": "75fe0a52",
+      "vi": "Bộ điều khiển, động cơ, biến tần đang dùng (nếu có)",
+      "zh": "現有控制器、馬達、驅動器（如有）",
+      "en": "Existing controller, motors and drives (if any)",
+      "ko": "기존 컨트롤러, 모터, 드라이브(있는 경우)"
+    },
+    {
+      "id": "146a86cd",
+      "vi": "Ảnh hoặc video dây chuyền đang chạy",
+      "zh": "產線運轉中的照片或影片",
+      "en": "Photos or video of the line running",
+      "ko": "라인이 가동 중인 사진 또는 영상"
+    },
+    {
+      "id": "8cfe35c3",
+      "vi": "Định vị cấp phôi",
+      "zh": "送料定位",
+      "en": "Feed positioning",
+      "ko": "피딩 위치 결정"
+    },
+    {
+      "id": "df273d27",
+      "vi": "Trượt, định vị chậm",
+      "zh": "打滑、定位慢",
+      "en": "Slip, slow positioning",
+      "ko": "슬립 발생, 위치 결정이 느림"
+    },
+    {
+      "id": "b87fdabb",
+      "vi": "Servo cấp phôi định vị theo chiều dài cài đặt",
+      "zh": "伺服送料依設定長度定位",
+      "en": "Servo feeder positions to the set length",
+      "ko": "서보 피더가 설정 길이대로 위치 결정"
+    },
+    {
+      "id": "1bcc2e47",
+      "vi": "Độ phẳng tấm dày",
+      "zh": "厚板平坦度",
+      "en": "Thick-plate flatness",
+      "ko": "후판 평탄도"
+    },
+    {
+      "id": "2ed8b2ca",
+      "vi": "Chưa đủ phẳng sau nắn",
+      "zh": "整平後仍不夠平",
+      "en": "Not flat enough after levelling",
+      "ko": "레벨링 후에도 평탄도 부족"
+    },
+    {
+      "id": "c6c39c5e",
+      "vi": "Cụm nắn phẳng cho tấm dày",
+      "zh": "厚板整平段",
+      "en": "Levelling section for thick plate",
+      "ko": "후판용 레벨링부"
+    },
+    {
+      "id": "71932e87",
+      "vi": "Chu kỳ cắt",
+      "zh": "剪切週期",
+      "en": "Cut cycle",
+      "ko": "절단 사이클"
+    },
+    {
+      "id": "327cf5d9",
+      "vi": "Dài, giảm sản lượng",
+      "zh": "週期長、產量低",
+      "en": "Long, lowers output",
+      "ko": "길어서 생산량 저하"
+    },
+    {
+      "id": "4fa34a82",
+      "vi": "Servo vector tăng, giảm tốc nhanh",
+      "zh": "向量伺服加減速快",
+      "en": "Servo vector drive accelerates and decelerates quickly",
+      "ko": "서보 벡터 드라이브로 빠른 가감속"
+    },
+    {
+      "id": "e378aa28",
+      "vi": "Cấp phôi",
+      "zh": "送料",
+      "en": "Feeder",
+      "ko": "피더"
+    },
+    {
+      "id": "eaf78c9d",
+      "vi": "Servo SVMF, biến tần VFI-CG80",
+      "zh": "SVMF 伺服、VFI-CG80 驅動器",
+      "en": "SVMF servo, VFI-CG80 drive",
+      "ko": "SVMF 서보, VFI-CG80 드라이브"
+    },
+    {
+      "id": "8efc6620",
+      "vi": "CG định vị chiều dài",
+      "zh": "CG 長度定位",
+      "en": "CG length positioning",
+      "ko": "CG 길이 위치 결정"
+    },
+    {
+      "id": "5dfdb949",
+      "vi": "Xả cuộn, nắn phẳng",
+      "zh": "開捲、整平",
+      "en": "Uncoiler, leveller",
+      "ko": "언코일러, 레벨러"
+    },
+    {
+      "id": "678873bd",
+      "vi": "Điều khiển theo cấu hình dây chuyền",
+      "zh": "依產線配置控制",
+      "en": "Controlled to suit the line layout",
+      "ko": "라인 구성에 맞춰 제어"
+    },
+    {
+      "id": "a1c3c9fb",
+      "vi": "Tủ điều khiển, tủ MCC",
+      "zh": "控制盤、MCC 盤",
+      "en": "Control panel, MCC panel",
+      "ko": "제어반, MCC반"
+    },
+    {
+      "id": "848bd65f",
+      "vi": "Sơ đồ hệ thống điều khiển: Dây chuyền cắt tấm. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
+      "zh": "停剪機 控制系統架構圖. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
+      "en": "Control system diagram: Cut-to-length (stop shear) line. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI.",
+      "ko": "정척 절단(스톱 시어) 라인 제어 시스템 구성도. 停剪機 (stop shear / cut-to-length) system diagram: Uncoiler, Leveller, loop, Feed Roll, Shear, motors, DRIVEs, Controller, HMI."
+    },
+    {
+      "id": "974a661f",
+      "vi": "Dây chuyền cắt tấm: Ứng dụng rộng rãi trong nhiều ngành",
+      "zh": "停剪機: 廣泛應用於各產業",
+      "en": "Cut-to-length (stop shear) line: Used widely across industries",
+      "ko": "정척 절단(스톱 시어) 라인: 다양한 산업에 폭넓게 적용"
+    },
+    {
+      "id": "0132059d",
+      "vi": "Dây chuyền cắt tấm: Tiết kiệm thời gian, công sức và chi phí",
+      "zh": "停剪機: 具省時、省力、低成本優勢",
+      "en": "Cut-to-length (stop shear) line: Saves time, labour and cost",
+      "ko": "정척 절단(스톱 시어) 라인: 시간, 인력, 비용 절감"
+    },
+    {
+      "id": "b913beef",
+      "vi": "Dây chuyền cắt tấm: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+      "zh": "停剪機: 結合電腦網路設備，快速演算",
+      "en": "Cut-to-length (stop shear) line: Fast computation with networked computer equipment",
+      "ko": "정척 절단(스톱 시어) 라인: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+    },
+    {
+      "id": "8a891356",
+      "vi": "Dây chuyền cắt tấm: Chất lượng sản phẩm ổn định",
+      "zh": "停剪機: 生產產品品質穩定",
+      "en": "Cut-to-length (stop shear) line: Stable product quality",
+      "ko": "정척 절단(스톱 시어) 라인: 안정된 제품 품질"
+    },
+    {
+      "id": "626452ad",
+      "vi": "Dây chuyền cắt tấm: Giảm nhân lực vận hành",
+      "zh": "停剪機: 有效降低人力使用",
+      "en": "Cut-to-length (stop shear) line: Fewer operators needed",
+      "ko": "정척 절단(스톱 시어) 라인: 운전 인력 절감"
+    },
+    {
+      "id": "9f8d7beb",
+      "vi": "Dây chuyền cắt tấm: Thao tác đơn giản",
+      "zh": "停剪機: 簡單的操作模式",
+      "en": "Cut-to-length (stop shear) line: Simple operation",
+      "ko": "정척 절단(스톱 시어) 라인: 간단한 조작"
+    }
+  ]
 }

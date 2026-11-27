@@ -174,6 +174,15 @@ content:
       - name: strings
         label: 文字（每一筆是一句，四種語言並排）
         component: sentence
+  - name: energy
+    label: "能源方案（三菱發電機、AI 能源管理）"
+    type: file
+    path: content/energy.json
+    format: json
+    fields:
+      - name: strings
+        label: 文字（每一筆是一句，四種語言並排）
+        component: sentence
   - name: machinery
     label: "機械設備"
     type: file

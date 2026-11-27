@@ -1,46 +1,46 @@
 {
- "strings": [
-  {
-   "id": "507976c9",
-   "vi": "Hình ảnh thực tế | Charger Mechatronic Việt Nam",
-   "zh": "實境應用 | Charger Mechatronic 越南",
-   "en": "On site | Charger Mechatronic Vietnam",
-   "ko": "현장 사진 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "2c4704cd",
-   "vi": "Hình ảnh thực tế máy cắt bay, dây chuyền cắt tấm, xả băng, cắt ống dùng hệ thống servo và điều khiển Charger Mechatronic.",
-   "zh": "飛剪、停剪、分條、切管產線採用甲子機電伺服與控制系統的現場照片。",
-   "en": "On-site photographs of flying shears, cut-to-length, slitting and tube lines running Charger Mechatronic servo and control systems.",
-   "ko": "Charger Mechatronic 서보·제어 시스템을 적용한 플라잉 시어, 정척 절단, 슬리팅, 파이프 라인의 현장 사진."
-  },
-  {
-   "id": "a2650c6f",
-   "vi": "Ảnh chụp thiết bị và dây chuyền dùng hệ thống điều khiển của Charger Mechatronic.",
-   "zh": "採用甲子機電控制系統的設備與產線實拍。",
-   "en": "Photographs of equipment and lines running Charger Mechatronic control systems.",
-   "ko": "Charger Mechatronic 제어 시스템을 적용한 설비와 라인의 사진입니다."
-  },
-  {
-   "id": "175cd92e",
-   "vi": "Xem trang ứng dụng",
-   "zh": "查看應用頁",
-   "en": "See the application page",
-   "ko": "응용 페이지 보기"
-  },
-  {
-   "id": "85965c19",
-   "vi": "Dây chuyền cắt tấm, xả băng",
-   "zh": "停剪、分條產線",
-   "en": "Cut-to-length and slitting lines",
-   "ko": "정척 절단·슬리팅 라인"
-  },
-  {
-   "id": "f67d976d",
-   "vi": "Ảnh do Charger Mechatronic cung cấp. Ảnh và video các dây chuyền tại Việt Nam sẽ được bổ sung khi có sự đồng ý của khách hàng.",
-   "zh": "照片由甲子機電提供。越南當地產線的照片與影片，將於取得客戶同意後補充。",
-   "en": "Photographs supplied by Charger Mechatronic. Photos and video of lines in Vietnam will be added with customers' permission.",
-   "ko": "사진은 Charger Mechatronic이 제공했습니다. 베트남 현지 라인의 사진과 영상은 고객 동의를 받은 뒤 추가할 예정입니다."
-  }
- ]
+  "strings": [
+    {
+      "id": "507976c9",
+      "vi": "Hình ảnh thực tế | Charger Mechatronic Việt Nam",
+      "zh": "實境應用 | Charger Mechatronic 越南",
+      "en": "On site | Charger Mechatronic Vietnam",
+      "ko": "현장 사진 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "2c4704cd",
+      "vi": "Hình ảnh thực tế máy cắt bay, dây chuyền cắt tấm, xả băng, cắt ống dùng hệ thống servo và điều khiển Charger Mechatronic.",
+      "zh": "飛剪、停剪、分條、切管產線採用甲子機電伺服與控制系統的現場照片。",
+      "en": "On-site photographs of flying shears, cut-to-length, slitting and tube lines running Charger Mechatronic servo and control systems.",
+      "ko": "Charger Mechatronic 서보·제어 시스템을 적용한 플라잉 시어, 정척 절단, 슬리팅, 파이프 라인의 현장 사진."
+    },
+    {
+      "id": "a2650c6f",
+      "vi": "Ảnh chụp thiết bị và dây chuyền dùng hệ thống điều khiển của Charger Mechatronic.",
+      "zh": "採用甲子機電控制系統的設備與產線實拍。",
+      "en": "Photographs of equipment and lines running Charger Mechatronic control systems.",
+      "ko": "Charger Mechatronic 제어 시스템을 적용한 설비와 라인의 사진입니다."
+    },
+    {
+      "id": "175cd92e",
+      "vi": "Xem trang ứng dụng",
+      "zh": "查看應用頁",
+      "en": "See the application page",
+      "ko": "응용 페이지 보기"
+    },
+    {
+      "id": "85965c19",
+      "vi": "Dây chuyền cắt tấm, xả băng",
+      "zh": "停剪、分條產線",
+      "en": "Cut-to-length and slitting lines",
+      "ko": "정척 절단·슬리팅 라인"
+    },
+    {
+      "id": "f67d976d",
+      "vi": "Ảnh do Charger Mechatronic cung cấp. Ảnh và video các dây chuyền tại Việt Nam sẽ được bổ sung khi có sự đồng ý của khách hàng.",
+      "zh": "照片由甲子機電提供。越南當地產線的照片與影片，將於取得客戶同意後補充。",
+      "en": "Photographs supplied by Charger Mechatronic. Photos and video of lines in Vietnam will be added with customers' permission.",
+      "ko": "사진은 Charger Mechatronic이 제공했습니다. 베트남 현지 라인의 사진과 영상은 고객 동의를 받은 뒤 추가할 예정입니다."
+    }
+  ]
 }

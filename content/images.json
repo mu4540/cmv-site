@@ -1,244 +1,249 @@
 {
- "images": [
-  {
-   "where": "首頁、產品應用、其他應用、實境應用",
-   "original": "assets/img/app_other_img_201701.webp",
-   "image": "/assets/img/app_other_img_201701.webp"
-  },
-  {
-   "where": "首頁、產品應用、飛剪機、機械設備、實境應用",
-   "original": "assets/img/app_rotary_img_2361.webp",
-   "image": "/assets/img/app_rotary_img_2361.webp"
-  },
-  {
-   "where": "首頁主圖（也是全站分享縮圖）",
-   "original": "assets/img/app_sics_img_2337.webp",
-   "image": "/assets/img/app_sics_img_2337.webp"
-  },
-  {
-   "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
-   "original": "assets/img/app_sics_img_3355.webp",
-   "image": "/assets/img/app_sics_img_3355.webp"
-  },
-  {
-   "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
-   "original": "assets/img/app_sics_img_3366.webp",
-   "image": "/assets/img/app_sics_img_3366.webp"
-  },
-  {
-   "where": "首頁、整廠自動化、停剪機、分條機、實境應用",
-   "original": "assets/img/app_sics_img_3375.webp",
-   "image": "/assets/img/app_sics_img_3375.webp"
-  },
-  {
-   "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
-   "original": "assets/img/app_sics_img_3380.webp",
-   "image": "/assets/img/app_sics_img_3380.webp"
-  },
-  {
-   "where": "首頁、產品應用、切管機",
-   "original": "assets/img/home_p_04.webp",
-   "image": "/assets/img/home_p_04.webp"
-  },
-  {
-   "where": "頁尾 Logo（全站）",
-   "original": "assets/img/logo_logo.webp",
-   "image": "/assets/img/logo_logo.webp"
-  },
-  {
-   "where": "首頁、產品介紹",
-   "original": "assets/img/photo_977a8807_60.webp",
-   "image": "/assets/img/photo_977a8807_60.webp"
-  },
-  {
-   "where": "首頁、產品介紹、其他產品列表",
-   "original": "assets/img/photo_977a8965_20.webp",
-   "image": "/assets/img/photo_977a8965_20.webp"
-  },
-  {
-   "where": "首頁、產品介紹、驅動器列表",
-   "original": "assets/img/proddesc_977a8880_21.webp",
-   "image": "/assets/img/proddesc_977a8880_21.webp"
-  },
-  {
-   "where": "首頁、產品介紹、控制器列表",
-   "original": "assets/img/proddesc_977a8903_16.webp",
-   "image": "/assets/img/proddesc_977a8903_16.webp"
-  },
-  {
-   "where": "公司沿革",
-   "original": "assets/img/profile_profile_02.webp",
-   "image": "/assets/img/profile_profile_02.webp"
-  },
-  {
-   "where": "公司沿革",
-   "original": "assets/img/profile_profile_977a8843.webp",
-   "image": "/assets/img/profile_profile_977a8843.webp"
-  },
-  {
-   "where": "公司沿革",
-   "original": "assets/img/profile_profile_977a8893.webp",
-   "image": "/assets/img/profile_profile_977a8893.webp"
-  },
-  {
-   "where": "產品應用、飛剪機、實境應用",
-   "original": "assets/img/app_rotary_img_2364.webp",
-   "image": "/assets/img/app_rotary_img_2364.webp"
-  },
-  {
-   "where": "整廠自動化、停剪機、分條機、切管機、實境應用",
-   "original": "assets/img/app_sics_img_3374.webp",
-   "image": "/assets/img/app_sics_img_3374.webp"
-  },
-  {
-   "where": "整廠自動化、其他應用",
-   "original": "assets/img/diagram_cmg_rgb-10_logo.webp",
-   "image": "/assets/img/diagram_cmg_rgb-10_logo.webp"
-  },
-  {
-   "where": "停剪機",
-   "original": "assets/img/diagram_sad_rgb-06_44_logo.webp",
-   "image": "/assets/img/diagram_sad_rgb-06_44_logo.webp"
-  },
-  {
-   "where": "分條機",
-   "original": "assets/img/diagram_sad_rgb-07_40_logo.webp",
-   "image": "/assets/img/diagram_sad_rgb-07_40_logo.webp"
-  },
-  {
-   "where": "飛剪機、飛剪改造、實境應用",
-   "original": "assets/img/app_rotary_img_2365.webp",
-   "image": "/assets/img/app_rotary_img_2365.webp"
-  },
-  {
-   "where": "飛剪機、實境應用",
-   "original": "assets/img/app_rotary_img_2374.webp",
-   "image": "/assets/img/app_rotary_img_2374.webp"
-  },
-  {
-   "where": "飛剪機、實境應用",
-   "original": "assets/img/app_rotary_img_2375.webp",
-   "image": "/assets/img/app_rotary_img_2375.webp"
-  },
-  {
-   "where": "飛剪機、實境應用",
-   "original": "assets/img/app_rotary_img_2376.webp",
-   "image": "/assets/img/app_rotary_img_2376.webp"
-  },
-  {
-   "where": "飛剪機",
-   "original": "assets/img/diagram_sad_rgb-08_41_logo.webp",
-   "image": "/assets/img/diagram_sad_rgb-08_41_logo.webp"
-  },
-  {
-   "where": "切管機、實境應用",
-   "original": "assets/img/app_cut-off_img_201701.webp",
-   "image": "/assets/img/app_cut-off_img_201701.webp"
-  },
-  {
-   "where": "切管機、實境應用",
-   "original": "assets/img/app_cut-off_img_201702.webp",
-   "image": "/assets/img/app_cut-off_img_201702.webp"
-  },
-  {
-   "where": "切管機、實境應用",
-   "original": "assets/img/app_cut-off_img_201703.webp",
-   "image": "/assets/img/app_cut-off_img_201703.webp"
-  },
-  {
-   "where": "切管機、實境應用",
-   "original": "assets/img/app_cut-off_img_201704.webp",
-   "image": "/assets/img/app_cut-off_img_201704.webp"
-  },
-  {
-   "where": "切管機",
-   "original": "assets/img/diagram_sad_rgb-09_50_logo.webp",
-   "image": "/assets/img/diagram_sad_rgb-09_50_logo.webp"
-  },
-  {
-   "where": "其他應用、實境應用",
-   "original": "assets/img/app_other_img_201702.webp",
-   "image": "/assets/img/app_other_img_201702.webp"
-  },
-  {
-   "where": "其他應用、實境應用",
-   "original": "assets/img/app_other_img_201703.webp",
-   "image": "/assets/img/app_other_img_201703.webp"
-  },
-  {
-   "where": "其他應用、實境應用",
-   "original": "assets/img/app_other_img_201704.webp",
-   "image": "/assets/img/app_other_img_201704.webp"
-  },
-  {
-   "where": "其他應用、實境應用",
-   "original": "assets/img/app_other_img_201705.webp",
-   "image": "/assets/img/app_other_img_201705.webp"
-  },
-  {
-   "where": "其他應用、實境應用",
-   "original": "assets/img/app_other_img_201706.webp",
-   "image": "/assets/img/app_other_img_201706.webp"
-  },
-  {
-   "where": "客戶群體",
-   "original": "assets/img/customers_customers_map.webp",
-   "image": "/assets/img/customers_customers_map.webp"
-  },
-  {
-   "where": "全球服務",
-   "original": "assets/img/global_service_global_service_map.webp",
-   "image": "/assets/img/global_service_global_service_map.webp"
-  },
-  {
-   "where": "聯絡我們",
-   "original": "assets/img/home_service_1.webp",
-   "image": "/assets/img/home_service_1.webp"
-  },
-  {
-   "where": "聯絡我們",
-   "original": "assets/img/home_service_2.webp",
-   "image": "/assets/img/home_service_2.webp"
-  },
-  {
-   "where": "伺服馬達列表",
-   "original": "assets/img/photo_977a8804_60.webp",
-   "image": "/assets/img/photo_977a8804_60.webp"
-  },
-  {
-   "where": "伺服馬達列表",
-   "original": "assets/img/photo_977a8868_50.webp",
-   "image": "/assets/img/photo_977a8868_50.webp"
-  },
-  {
-   "where": "伺服馬達列表",
-   "original": "assets/img/photo_tsvmf-ip54_sf-100lb.webp",
-   "image": "/assets/img/photo_tsvmf-ip54_sf-100lb.webp"
-  },
-  {
-   "where": "其他產品列表",
-   "original": "assets/img/photo_977a8915_50.webp",
-   "image": "/assets/img/photo_977a8915_50.webp"
-  },
-  {
-   "where": "其他產品列表",
-   "original": "assets/img/photo_977a8953_50.webp",
-   "image": "/assets/img/photo_977a8953_50.webp"
-  },
-  {
-   "where": "其他產品列表",
-   "original": "assets/img/photo_977a89832_20.webp",
-   "image": "/assets/img/photo_977a89832_20.webp"
-  },
-  {
-   "where": "其他產品列表",
-   "original": "assets/img/photo_coupling.webp",
-   "image": "/assets/img/photo_coupling.webp"
-  },
-  {
-   "where": "其他產品列表",
-   "original": "assets/img/photo_encoder.webp",
-   "image": "/assets/img/photo_encoder.webp"
-  }
- ]
+  "images": [
+    {
+      "where": "首頁、產品應用、其他應用、實境應用",
+      "original": "assets/img/app_other_img_201701.webp",
+      "image": "/assets/img/app_other_img_201701.webp"
+    },
+    {
+      "where": "首頁、產品應用、飛剪機、機械設備、實境應用",
+      "original": "assets/img/app_rotary_img_2361.webp",
+      "image": "/assets/img/app_rotary_img_2361.webp"
+    },
+    {
+      "where": "首頁主圖（也是全站分享縮圖）",
+      "original": "assets/img/app_sics_img_2337.webp",
+      "image": "/assets/img/app_sics_img_2337.webp"
+    },
+    {
+      "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
+      "original": "assets/img/app_sics_img_3355.webp",
+      "image": "/assets/img/app_sics_img_3355.webp"
+    },
+    {
+      "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
+      "original": "assets/img/app_sics_img_3366.webp",
+      "image": "/assets/img/app_sics_img_3366.webp"
+    },
+    {
+      "where": "首頁、整廠自動化、停剪機、分條機、實境應用",
+      "original": "assets/img/app_sics_img_3375.webp",
+      "image": "/assets/img/app_sics_img_3375.webp"
+    },
+    {
+      "where": "首頁、產品應用、整廠自動化、停剪機、分條機、機械設備、實境應用",
+      "original": "assets/img/app_sics_img_3380.webp",
+      "image": "/assets/img/app_sics_img_3380.webp"
+    },
+    {
+      "where": "首頁、產品應用、切管機",
+      "original": "assets/img/home_p_04.webp",
+      "image": "/assets/img/home_p_04.webp"
+    },
+    {
+      "where": "頁尾 Logo（全站）",
+      "original": "assets/img/logo_logo.webp",
+      "image": "/assets/img/logo_logo.webp"
+    },
+    {
+      "where": "首頁、產品介紹",
+      "original": "assets/img/photo_977a8807_60.webp",
+      "image": "/assets/img/photo_977a8807_60.webp"
+    },
+    {
+      "where": "首頁、產品介紹、其他產品列表",
+      "original": "assets/img/photo_977a8965_20.webp",
+      "image": "/assets/img/photo_977a8965_20.webp"
+    },
+    {
+      "where": "首頁、產品介紹、驅動器列表",
+      "original": "assets/img/proddesc_977a8880_21.webp",
+      "image": "/assets/img/proddesc_977a8880_21.webp"
+    },
+    {
+      "where": "首頁、產品介紹、控制器列表",
+      "original": "assets/img/proddesc_977a8903_16.webp",
+      "image": "/assets/img/proddesc_977a8903_16.webp"
+    },
+    {
+      "where": "公司沿革",
+      "original": "assets/img/profile_profile_02.webp",
+      "image": "/assets/img/profile_profile_02.webp"
+    },
+    {
+      "where": "公司沿革",
+      "original": "assets/img/profile_profile_977a8843.webp",
+      "image": "/assets/img/profile_profile_977a8843.webp"
+    },
+    {
+      "where": "公司沿革",
+      "original": "assets/img/profile_profile_977a8893.webp",
+      "image": "/assets/img/profile_profile_977a8893.webp"
+    },
+    {
+      "where": "產品應用、飛剪機、實境應用",
+      "original": "assets/img/app_rotary_img_2364.webp",
+      "image": "/assets/img/app_rotary_img_2364.webp"
+    },
+    {
+      "where": "整廠自動化、停剪機、分條機、切管機、實境應用",
+      "original": "assets/img/app_sics_img_3374.webp",
+      "image": "/assets/img/app_sics_img_3374.webp"
+    },
+    {
+      "where": "整廠自動化、其他應用",
+      "original": "assets/img/diagram_cmg_rgb-10_logo.webp",
+      "image": "/assets/img/diagram_cmg_rgb-10_logo.webp"
+    },
+    {
+      "where": "停剪機",
+      "original": "assets/img/diagram_sad_rgb-06_44_logo.webp",
+      "image": "/assets/img/diagram_sad_rgb-06_44_logo.webp"
+    },
+    {
+      "where": "分條機",
+      "original": "assets/img/diagram_sad_rgb-07_40_logo.webp",
+      "image": "/assets/img/diagram_sad_rgb-07_40_logo.webp"
+    },
+    {
+      "where": "飛剪機、飛剪改造、實境應用",
+      "original": "assets/img/app_rotary_img_2365.webp",
+      "image": "/assets/img/app_rotary_img_2365.webp"
+    },
+    {
+      "where": "飛剪機、實境應用",
+      "original": "assets/img/app_rotary_img_2374.webp",
+      "image": "/assets/img/app_rotary_img_2374.webp"
+    },
+    {
+      "where": "飛剪機、實境應用",
+      "original": "assets/img/app_rotary_img_2375.webp",
+      "image": "/assets/img/app_rotary_img_2375.webp"
+    },
+    {
+      "where": "飛剪機、實境應用",
+      "original": "assets/img/app_rotary_img_2376.webp",
+      "image": "/assets/img/app_rotary_img_2376.webp"
+    },
+    {
+      "where": "飛剪機",
+      "original": "assets/img/diagram_sad_rgb-08_41_logo.webp",
+      "image": "/assets/img/diagram_sad_rgb-08_41_logo.webp"
+    },
+    {
+      "where": "切管機、實境應用",
+      "original": "assets/img/app_cut-off_img_201701.webp",
+      "image": "/assets/img/app_cut-off_img_201701.webp"
+    },
+    {
+      "where": "切管機、實境應用",
+      "original": "assets/img/app_cut-off_img_201702.webp",
+      "image": "/assets/img/app_cut-off_img_201702.webp"
+    },
+    {
+      "where": "切管機、實境應用",
+      "original": "assets/img/app_cut-off_img_201703.webp",
+      "image": "/assets/img/app_cut-off_img_201703.webp"
+    },
+    {
+      "where": "切管機、實境應用",
+      "original": "assets/img/app_cut-off_img_201704.webp",
+      "image": "/assets/img/app_cut-off_img_201704.webp"
+    },
+    {
+      "where": "切管機",
+      "original": "assets/img/diagram_sad_rgb-09_50_logo.webp",
+      "image": "/assets/img/diagram_sad_rgb-09_50_logo.webp"
+    },
+    {
+      "where": "其他應用、實境應用",
+      "original": "assets/img/app_other_img_201702.webp",
+      "image": "/assets/img/app_other_img_201702.webp"
+    },
+    {
+      "where": "其他應用、實境應用",
+      "original": "assets/img/app_other_img_201703.webp",
+      "image": "/assets/img/app_other_img_201703.webp"
+    },
+    {
+      "where": "其他應用、實境應用",
+      "original": "assets/img/app_other_img_201704.webp",
+      "image": "/assets/img/app_other_img_201704.webp"
+    },
+    {
+      "where": "其他應用、實境應用",
+      "original": "assets/img/app_other_img_201705.webp",
+      "image": "/assets/img/app_other_img_201705.webp"
+    },
+    {
+      "where": "其他應用、實境應用",
+      "original": "assets/img/app_other_img_201706.webp",
+      "image": "/assets/img/app_other_img_201706.webp"
+    },
+    {
+      "where": "客戶群體",
+      "original": "assets/img/customers_customers_map.webp",
+      "image": "/assets/img/customers_customers_map.webp"
+    },
+    {
+      "where": "全球服務",
+      "original": "assets/img/global_service_global_service_map.webp",
+      "image": "/assets/img/global_service_global_service_map.webp"
+    },
+    {
+      "where": "聯絡我們",
+      "original": "assets/img/home_service_1.webp",
+      "image": "/assets/img/home_service_1.webp"
+    },
+    {
+      "where": "聯絡我們",
+      "original": "assets/img/home_service_2.webp",
+      "image": "/assets/img/home_service_2.webp"
+    },
+    {
+      "where": "伺服馬達列表",
+      "original": "assets/img/photo_977a8804_60.webp",
+      "image": "/assets/img/photo_977a8804_60.webp"
+    },
+    {
+      "where": "伺服馬達列表",
+      "original": "assets/img/photo_977a8868_50.webp",
+      "image": "/assets/img/photo_977a8868_50.webp"
+    },
+    {
+      "where": "伺服馬達列表",
+      "original": "assets/img/photo_tsvmf-ip54_sf-100lb.webp",
+      "image": "/assets/img/photo_tsvmf-ip54_sf-100lb.webp"
+    },
+    {
+      "where": "其他產品列表",
+      "original": "assets/img/photo_977a8915_50.webp",
+      "image": "/assets/img/photo_977a8915_50.webp"
+    },
+    {
+      "where": "其他產品列表",
+      "original": "assets/img/photo_977a8953_50.webp",
+      "image": "/assets/img/photo_977a8953_50.webp"
+    },
+    {
+      "where": "其他產品列表",
+      "original": "assets/img/photo_977a89832_20.webp",
+      "image": "/assets/img/photo_977a89832_20.webp"
+    },
+    {
+      "where": "其他產品列表",
+      "original": "assets/img/photo_coupling.webp",
+      "image": "/assets/img/photo_coupling.webp"
+    },
+    {
+      "where": "其他產品列表",
+      "original": "assets/img/photo_encoder.webp",
+      "image": "/assets/img/photo_encoder.webp"
+    },
+    {
+      "where": "三菱發電機頁：原廠確認函",
+      "original": "assets/img/mgs_project_basis_partner_letter.webp",
+      "image": "/assets/img/mgs_project_basis_partner_letter.webp"
+    }
+  ]
 }

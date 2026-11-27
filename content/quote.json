@@ -1,123 +1,123 @@
 {
- "strings": [
-  {
-   "id": "0310c6b5",
-   "vi": "Yêu cầu báo giá | Charger Mechatronic Việt Nam",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "4be41a7d",
-   "vi": "Gửi yêu cầu báo giá cải tạo máy cắt bay, hệ điều khiển dây chuyền, động cơ servo, biến tần cho CMV qua biểu mẫu, Zalo hoặc điện thoại.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "5f84a18c",
-   "vi": "Điền biểu mẫu hoặc gửi thông số qua Zalo. Thông tin càng đủ, báo giá càng nhanh và sát thực tế.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "b438c9bc",
-   "vi": "Biểu mẫu yêu cầu báo giá",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "1f804809",
-   "vi": "Người liên hệ",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "e3827e17",
-   "vi": "Điện thoại",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "ecd49c01",
-   "vi": "Dây chuyền",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "050a03bd",
-   "vi": "Đồng ý báo giá",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "d4a4399b",
-   "vi": "Gửi yêu cầu báo giá",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "24402849",
-   "vi": "Thông tin nên gửi kèm",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "574d6320",
-   "vi": "Sau khi gửi",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "3ba93445",
-   "vi": "CMV liên hệ lại",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "85da20d7",
-   "vi": "Trong giờ làm việc, thứ Hai đến thứ Sáu.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "2cf3a436",
-   "vi": "Khảo sát",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "93288db1",
-   "vi": "Tại nhà máy hoặc từ ảnh, video và thông số.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "a8b2b8a4",
-   "vi": "Đề xuất kỹ thuật và báo giá",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  },
-  {
-   "id": "18ac8eb3",
-   "vi": "Ghi rõ phạm vi, thời gian và bảo hành.",
-   "zh": "",
-   "en": "",
-   "ko": ""
-  }
- ]
+  "strings": [
+    {
+      "id": "0310c6b5",
+      "vi": "Yêu cầu báo giá | Charger Mechatronic Việt Nam",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "4be41a7d",
+      "vi": "Gửi yêu cầu báo giá cải tạo máy cắt bay, hệ điều khiển dây chuyền, động cơ servo, biến tần cho CMV qua biểu mẫu, Zalo hoặc điện thoại.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "5f84a18c",
+      "vi": "Điền biểu mẫu hoặc gửi thông số qua Zalo. Thông tin càng đủ, báo giá càng nhanh và sát thực tế.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "b438c9bc",
+      "vi": "Biểu mẫu yêu cầu báo giá",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "1f804809",
+      "vi": "Người liên hệ",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "e3827e17",
+      "vi": "Điện thoại",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "ecd49c01",
+      "vi": "Dây chuyền",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "050a03bd",
+      "vi": "Đồng ý báo giá",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "d4a4399b",
+      "vi": "Gửi yêu cầu báo giá",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "24402849",
+      "vi": "Thông tin nên gửi kèm",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "574d6320",
+      "vi": "Sau khi gửi",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "3ba93445",
+      "vi": "CMV liên hệ lại",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "85da20d7",
+      "vi": "Trong giờ làm việc, thứ Hai đến thứ Bảy.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "2cf3a436",
+      "vi": "Khảo sát",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "93288db1",
+      "vi": "Tại nhà máy hoặc từ ảnh, video và thông số.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "a8b2b8a4",
+      "vi": "Đề xuất kỹ thuật và báo giá",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    },
+    {
+      "id": "18ac8eb3",
+      "vi": "Ghi rõ phạm vi, thời gian và bảo hành.",
+      "zh": "",
+      "en": "",
+      "ko": ""
+    }
+  ]
 }

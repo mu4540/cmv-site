@@ -1,0 +1,410 @@
+{
+  "strings": [
+    {
+      "id": "6294d4be",
+      "vi": "Máy phát điện Mitsubishi Heavy Industries (dòng MGS) | Charger Mechatronic Việt Nam",
+      "zh": "三菱重工發電機（MGS 系列）｜甲子機電越南",
+      "en": "Mitsubishi Heavy Industries generators (MGS series) | Charger Mechatronic Vietnam",
+      "ko": "미쓰비시중공업 발전기(MGS 시리즈) | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "5e8f4457",
+      "vi": "Charger Mechatronic được Mitsubishi Heavy Industries Engine System Asia (MHIESA) xác nhận bằng văn bản là đối tác dự án (Project Basis Partner) của dòng máy phát điện MGS tại Đài Loan. CMV tiếp nhận yêu cầu về dự án máy phát điện tại Việt Nam.",
+      "zh": "甲子機電為三菱重工引擎系統亞洲公司（MHIESA）書面確認的 MGS（Mitsubishi Generator Series）台灣專案合作夥伴（Project Basis Partner）。越南的發電機專案洽詢由 CMV 受理。",
+      "en": "Charger Mechatronic is confirmed in writing by Mitsubishi Heavy Industries Engine System Asia (MHIESA) as the MGS (Mitsubishi Generator Series) Project Basis Partner in Taiwan. CMV takes enquiries for generator projects in Vietnam.",
+      "ko": "Charger Mechatronic은 Mitsubishi Heavy Industries Engine System Asia(MHIESA)가 서면으로 확인한 MGS(Mitsubishi Generator Series) 대만 프로젝트 파트너(Project Basis Partner)입니다. 베트남의 발전기 프로젝트 문의는 CMV가 접수합니다."
+    },
+    {
+      "id": "c0c50445",
+      "vi": "Máy phát điện Mitsubishi Heavy Industries (dòng MGS)",
+      "zh": "三菱重工發電機（MGS 系列）",
+      "en": "Mitsubishi Heavy Industries generators (MGS series)",
+      "ko": "미쓰비시중공업 발전기(MGS 시리즈)"
+    },
+    {
+      "id": "838d5356",
+      "vi": "Thư xác nhận của nhà sản xuất",
+      "zh": "原廠確認函",
+      "en": "Manufacturer's confirmation letter",
+      "ko": "제조사 확인서"
+    },
+    {
+      "id": "6b5b499d",
+      "vi": "Ngày 4 tháng 6 năm 2025, Mitsubishi Heavy Industries Engine System Asia Pte. Ltd. (MHIESA) gửi thư xác nhận Charger Mechatronic Co., Ltd. là MGS Project Basis Partner tại Đài Loan và sẽ hỗ trợ đầy đủ cho các hoạt động liên quan đến MGS.",
+      "zh": "三菱重工引擎系統亞洲公司（Mitsubishi Heavy Industries Engine System Asia Pte. Ltd.，MHIESA）於 2025 年 6 月 4 日發函，確認 Charger Mechatronic Co., Ltd. 為 MGS 在台灣的 Project Basis Partner，並將對 MGS 相關業務提供全力支援。",
+      "en": "On 4 June 2025, Mitsubishi Heavy Industries Engine System Asia Pte. Ltd. (MHIESA) confirmed in a letter that Charger Mechatronic Co., Ltd. is the MGS Project Basis Partner in Taiwan and will provide full support towards MGS related activities.",
+      "ko": "2025년 6월 4일 Mitsubishi Heavy Industries Engine System Asia Pte. Ltd.(MHIESA)는 서한을 통해 Charger Mechatronic Co., Ltd.가 대만의 MGS Project Basis Partner이며 MGS 관련 업무를 전폭 지원한다고 확인했습니다."
+    },
+    {
+      "id": "5c3164b1",
+      "vi": "Đơn vị phát hành",
+      "zh": "發函單位",
+      "en": "Issued by",
+      "ko": "발신"
+    },
+    {
+      "id": "df08cf76",
+      "vi": "Mitsubishi Heavy Industries Engine System Asia Pte. Ltd. (MHIESA), Singapore",
+      "zh": "Mitsubishi Heavy Industries Engine System Asia Pte. Ltd.（MHIESA），新加坡",
+      "en": "Mitsubishi Heavy Industries Engine System Asia Pte. Ltd. (MHIESA), Singapore",
+      "ko": "Mitsubishi Heavy Industries Engine System Asia Pte. Ltd.(MHIESA), 싱가포르"
+    },
+    {
+      "id": "beed2ebf",
+      "vi": "Ngày",
+      "zh": "日期",
+      "en": "Date",
+      "ko": "일자"
+    },
+    {
+      "id": "9d37224a",
+      "vi": "04/06/2025",
+      "zh": "2025 年 6 月 4 日",
+      "en": "4 June 2025",
+      "ko": "2025년 6월 4일"
+    },
+    {
+      "id": "61f0e723",
+      "vi": "Số tham chiếu",
+      "zh": "文號",
+      "en": "Reference number",
+      "ko": "문서 번호"
+    },
+    {
+      "id": "72d2e1cc",
+      "vi": "Gửi tới",
+      "zh": "受文者",
+      "en": "Addressed to",
+      "ko": "수신"
+    },
+    {
+      "id": "0a37843e",
+      "vi": "Charger Mechatronic Co., Ltd. (甲子機電), Tân Bắc, Đài Loan",
+      "zh": "Charger Mechatronic Co., Ltd.（甲子機電），台灣新北市",
+      "en": "Charger Mechatronic Co., Ltd. (甲子機電), New Taipei City, Taiwan",
+      "ko": "Charger Mechatronic Co., Ltd.(甲子機電), 대만 신베이시"
+    },
+    {
+      "id": "d5836bb0",
+      "vi": "Nội dung",
+      "zh": "內容",
+      "en": "Subject",
+      "ko": "내용"
+    },
+    {
+      "id": "4235d751",
+      "vi": "MGS Project Basis Partner tại Đài Loan",
+      "zh": "MGS Project Basis Partner（台灣）",
+      "en": "MGS Project Basis Partner in Taiwan",
+      "ko": "대만 MGS Project Basis Partner"
+    },
+    {
+      "id": "3a02d169",
+      "vi": "Thư của MHIESA xác nhận Charger Mechatronic là MGS Project Basis Partner, ngày 4 tháng 6 năm 2025",
+      "zh": "MHIESA 致甲子機電的 MGS Project Basis Partner 確認函（2025 年 6 月 4 日）",
+      "en": "Letter from MHIESA confirming Charger Mechatronic as MGS Project Basis Partner, 4 June 2025",
+      "ko": "Charger Mechatronic을 MGS Project Basis Partner로 확인한 MHIESA 서한(2025년 6월 4일)"
+    },
+    {
+      "id": "f88e85d7",
+      "vi": "Bấm vào thư để mở ảnh cỡ đầy đủ.",
+      "zh": "點選確認函可開啟原尺寸。",
+      "en": "Select the letter to open it at full size.",
+      "ko": "서한을 선택하면 원본 크기로 열립니다."
+    },
+    {
+      "id": "1899ef55",
+      "vi": "Dịch vụ của chúng tôi",
+      "zh": "我們提供的服務",
+      "en": "What we provide",
+      "ko": "제공 서비스"
+    },
+    {
+      "id": "eae646ec",
+      "vi": "Tiếp nhận yêu cầu và xác nhận thông số cho dự án máy phát điện MGS",
+      "zh": "MGS 發電機組專案洽詢與規格確認",
+      "en": "Enquiries and specification review for MGS generator projects",
+      "ko": "MGS 발전기 프로젝트 문의 및 사양 확인"
+    },
+    {
+      "id": "46e14676",
+      "vi": "Thiết kế, chế tạo tủ phân phối hạ thế và tủ điều khiển",
+      "zh": "低壓配電盤與控制盤的設計製作",
+      "en": "Design and build of low-voltage switchboards and control panels",
+      "ko": "저압 배전반과 제어반의 설계·제작"
+    },
+    {
+      "id": "37c44445",
+      "vi": "Lắp đặt, hiệu chỉnh và dịch vụ kỹ thuật tại hiện trường",
+      "zh": "現場安裝、調試與技術服務",
+      "en": "On-site installation, commissioning and technical service",
+      "ko": "현장 설치, 시운전, 기술 서비스"
+    },
+    {
+      "id": "d1c08675",
+      "vi": "Tích hợp với hệ thống điều khiển tự động của nhà máy",
+      "zh": "與廠內自動控制系統的整合",
+      "en": "Integration with the plant's automatic control system",
+      "ko": "공장 자동 제어 시스템과의 통합"
+    },
+    {
+      "id": "aefd232d",
+      "vi": "Công suất cần (kVA / kW), điện áp và tần số",
+      "zh": "所需容量（kVA／kW）、電壓與頻率",
+      "en": "Required capacity (kVA / kW), voltage and frequency",
+      "ko": "필요 용량(kVA / kW), 전압, 주파수"
+    },
+    {
+      "id": "ae00def8",
+      "vi": "Mục đích: dự phòng, chạy thường xuyên hoặc hòa đồng bộ",
+      "zh": "用途：備用、常用或併聯",
+      "en": "Duty: standby, prime or parallel operation",
+      "ko": "용도: 비상용, 상용 또는 병렬 운전"
+    },
+    {
+      "id": "f5a9707e",
+      "vi": "Địa điểm và điều kiện lắp đặt",
+      "zh": "安裝地點與環境",
+      "en": "Installation site and conditions",
+      "ko": "설치 장소와 환경"
+    },
+    {
+      "id": "96097d81",
+      "vi": "Tiến độ dự kiến",
+      "zh": "預計時程",
+      "en": "Planned schedule",
+      "ko": "예상 일정"
+    },
+    {
+      "id": "c6ec705d",
+      "vi": "Model và thông số theo tài liệu của Mitsubishi Heavy Industries, được cung cấp khi báo giá.",
+      "zh": "機型與規格依三菱重工原廠資料為準，於報價時提供。",
+      "en": "Models and specifications follow Mitsubishi Heavy Industries documentation and are provided with the quotation.",
+      "ko": "기종과 사양은 미쓰비시중공업 자료를 따르며 견적 시 제공합니다."
+    },
+    {
+      "id": "4c0197f6",
+      "vi": "Hệ thống quản lý năng lượng bằng AI (microgrid sau công tơ) | Charger Mechatronic Việt Nam",
+      "zh": "AI 能源管理系統（表後智慧微電網）｜甲子機電越南",
+      "en": "AI energy management system (behind-the-meter smart microgrid) | Charger Mechatronic Vietnam",
+      "ko": "AI 에너지 관리 시스템(수용가 측 스마트 마이크로그리드) | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "f5fdebf1",
+      "vi": "Hệ thống quản lý năng lượng (EMS) dùng AI để dự báo sản lượng điện mặt trời và phụ tải, tự động điều độ sạc xả của hệ thống lưu trữ; dành cho nhà máy và cơ sở thương mại có điện mặt trời và lưu trữ.",
+      "zh": "以 AI 預測太陽能發電與用電負載、自動調度儲能充放電的能源管理系統（EMS），適用於設有太陽能與儲能的工廠與商業用戶。",
+      "en": "An energy management system (EMS) that uses AI to forecast solar generation and load and to schedule battery charging and discharging automatically, for factories and commercial sites with solar and storage.",
+      "ko": "AI로 태양광 발전량과 부하를 예측하고 저장 장치의 충방전을 자동으로 운용하는 에너지 관리 시스템(EMS). 태양광과 저장 장치를 갖춘 공장과 상업 시설에 적합합니다."
+    },
+    {
+      "id": "bab66dbf",
+      "vi": "Hệ thống quản lý năng lượng bằng AI",
+      "zh": "AI 能源管理系統",
+      "en": "AI energy management system",
+      "ko": "AI 에너지 관리 시스템"
+    },
+    {
+      "id": "e9dcfceb",
+      "vi": "Hệ thống quản lý năng lượng (EMS) cho microgrid thông minh sau công tơ: AI dự báo sản lượng điện mặt trời và phụ tải, tự quyết định khi nào sạc, khi nào xả hệ thống lưu trữ, giúp nhà máy giảm tiền điện và dùng nhiều điện xanh hơn.",
+      "zh": "表後智慧微電網的能源管理系統（EMS）：以 AI 預測太陽能發電與用電負載，自動決定儲能何時充電、何時放電，幫工廠降低電費並提高綠電使用率。",
+      "en": "An energy management system (EMS) for behind-the-meter smart microgrids: AI forecasts solar generation and load and decides when the battery charges and discharges, so a plant pays less for electricity and uses more of its green power.",
+      "ko": "수용가 측 스마트 마이크로그리드를 위한 에너지 관리 시스템(EMS): AI가 태양광 발전량과 부하를 예측하여 저장 장치의 충전과 방전 시점을 자동으로 결정해 공장의 전기 요금을 줄이고 녹색 전력 사용률을 높입니다."
+    },
+    {
+      "id": "e443d3ba",
+      "vi": "Hệ thống làm gì",
+      "zh": "系統做什麼",
+      "en": "What the system does",
+      "ko": "시스템이 하는 일"
+    },
+    {
+      "id": "d22439d8",
+      "vi": "Quy hoạch và đánh giá",
+      "zh": "規劃評估",
+      "en": "Planning and assessment",
+      "ko": "계획과 평가"
+    },
+    {
+      "id": "5779252f",
+      "vi": "Mô phỏng công trình trước khi đầu tư: tính dung lượng lưu trữ, chiến lược vận hành và thời gian hoàn vốn.",
+      "zh": "導入前先模擬案場，試算儲能容量、運轉策略與投資回收。",
+      "en": "The site is simulated before investment: storage size, operating strategy and payback are estimated.",
+      "ko": "도입 전에 현장을 시뮬레이션하여 저장 용량, 운전 전략, 투자 회수를 산정합니다."
+    },
+    {
+      "id": "7117fb87",
+      "vi": "Dự báo phát điện và phụ tải",
+      "zh": "發電與負載預測",
+      "en": "Generation and load forecasting",
+      "ko": "발전량과 부하 예측"
+    },
+    {
+      "id": "70aa0f56",
+      "vi": "Mô hình AI dự báo sản lượng điện mặt trời và nhu cầu điện của nhà máy, làm cơ sở cho điều độ.",
+      "zh": "以 AI 模型預測太陽能發電量與廠區用電，作為調度依據。",
+      "en": "AI models forecast solar output and the plant's demand as the basis for scheduling.",
+      "ko": "AI 모델이 태양광 발전량과 공장 전력 수요를 예측하여 운용의 근거로 삼습니다."
+    },
+    {
+      "id": "29384451",
+      "vi": "Điều khiển tối ưu theo thời gian thực",
+      "zh": "即時最佳化控制",
+      "en": "Real-time optimised control",
+      "ko": "실시간 최적 제어"
+    },
+    {
+      "id": "626ceb41",
+      "vi": "Tự động lập lịch sạc xả theo dự báo và giá điện, điều khiển công suất theo thời gian thực.",
+      "zh": "依預測與電價自動排定充放電，並即時控制功率輸出。",
+      "en": "Charging and discharging are scheduled automatically from the forecast and tariff, with real-time power control.",
+      "ko": "예측과 전기 요금에 따라 충방전을 자동으로 계획하고 출력을 실시간으로 제어합니다."
+    },
+    {
+      "id": "4f6a53b6",
+      "vi": "Vận hành và bảo trì",
+      "zh": "營運與維護",
+      "en": "Operation and maintenance",
+      "ko": "운영과 유지보수"
+    },
+    {
+      "id": "379e3e0d",
+      "vi": "Theo dõi liên tục tình trạng thiết bị, phát hiện sớm bất thường và lên kế hoạch bảo trì phòng ngừa.",
+      "zh": "持續監控設備狀態，提早發現異常，安排預防性維護。",
+      "en": "Equipment condition is monitored continuously, faults are caught early and preventive maintenance is planned.",
+      "ko": "설비 상태를 지속적으로 모니터링하여 이상을 조기에 발견하고 예방 정비를 계획합니다."
+    },
+    {
+      "id": "7de0c4f8",
+      "vi": "Nhà máy và cơ sở thương mại đã có hoặc đang lên kế hoạch lắp điện mặt trời, lưu trữ",
+      "zh": "已裝設或規劃太陽能、儲能的工廠與商業用戶",
+      "en": "Factories and commercial sites that have or plan solar and storage",
+      "ko": "태양광·저장 장치를 설치했거나 계획 중인 공장과 상업 시설"
+    },
+    {
+      "id": "91af93cd",
+      "vi": "Nhà máy có phụ tải đỉnh cao, muốn giảm tiền điện",
+      "zh": "尖峰用電高、想降低電費的工廠",
+      "en": "Plants with high peak demand that want a lower electricity bill",
+      "ko": "피크 전력이 높아 전기 요금을 줄이려는 공장"
+    },
+    {
+      "id": "dee85ebf",
+      "vi": "Doanh nghiệp có mục tiêu RE100, ESG hoặc giảm phát thải carbon",
+      "zh": "有 RE100、ESG 或減碳目標的企業",
+      "en": "Companies with RE100, ESG or carbon-reduction targets",
+      "ko": "RE100, ESG 또는 탄소 감축 목표가 있는 기업"
+    },
+    {
+      "id": "fd7adba5",
+      "vi": "Công trình microgrid cần phối hợp nhiều nguồn điện",
+      "zh": "需要整合多種電源的微電網案場",
+      "en": "Microgrid sites that combine several power sources",
+      "ko": "여러 전원을 통합해야 하는 마이크로그리드 현장"
+    },
+    {
+      "id": "5e1eebb5",
+      "vi": "Quy trình triển khai",
+      "zh": "導入流程",
+      "en": "How a project runs",
+      "ko": "도입 절차"
+    },
+    {
+      "id": "e7c8533d",
+      "vi": "Thu thập dữ liệu sử dụng điện",
+      "zh": "蒐集用電資料",
+      "en": "Collect energy data",
+      "ko": "전력 사용 자료 수집"
+    },
+    {
+      "id": "614109f8",
+      "vi": "Hóa đơn điện hoặc biểu đồ phụ tải 12 tháng, thiết bị điện mặt trời và lưu trữ hiện có.",
+      "zh": "12 個月電費單或用電曲線、現有太陽能與儲能設備。",
+      "en": "Twelve months of bills or load curves, plus the existing solar and storage equipment.",
+      "ko": "12개월 전기 요금 고지서 또는 부하 곡선, 기존 태양광·저장 설비."
+    },
+    {
+      "id": "95cea38c",
+      "vi": "Mô phỏng và quy hoạch",
+      "zh": "模擬與規劃",
+      "en": "Simulate and plan",
+      "ko": "시뮬레이션과 계획"
+    },
+    {
+      "id": "25c65c01",
+      "vi": "Tính dung lượng, chiến lược và thời gian hoàn vốn, rồi đề xuất phương án.",
+      "zh": "試算容量、策略與回收年限，提出方案。",
+      "en": "Capacity, strategy and payback are estimated and a proposal is made.",
+      "ko": "용량, 전략, 회수 기간을 산정하여 방안을 제안합니다."
+    },
+    {
+      "id": "78719afa",
+      "vi": "Lắp đặt và tích hợp",
+      "zh": "安裝與整合",
+      "en": "Install and integrate",
+      "ko": "설치와 통합"
+    },
+    {
+      "id": "3dd7e602",
+      "vi": "Tích hợp lưu trữ, bộ điều khiển với hệ thống phân phối và điện điều khiển của nhà máy.",
+      "zh": "儲能、控制器與廠內配電、電控系統整合。",
+      "en": "Storage and controllers are integrated with the plant's distribution and control systems.",
+      "ko": "저장 장치와 컨트롤러를 공장의 배전·전기 제어 시스템과 통합합니다."
+    },
+    {
+      "id": "4d67eace",
+      "vi": "Vận hành và điều chỉnh",
+      "zh": "上線與調整",
+      "en": "Run and adjust",
+      "ko": "가동과 조정"
+    },
+    {
+      "id": "a6d5005a",
+      "vi": "Theo dõi liên tục sau khi vận hành; điều chỉnh chiến lược khi giá điện hoặc chính sách thay đổi.",
+      "zh": "上線後持續監控，電價或政策改變時重新調整策略。",
+      "en": "The system is monitored after go-live and the strategy is adjusted when tariffs or policy change.",
+      "ko": "가동 후 지속적으로 모니터링하고 전기 요금이나 정책이 바뀌면 전략을 다시 조정합니다."
+    },
+    {
+      "id": "ef4b2069",
+      "vi": "Có bắt buộc phải có sẵn điện mặt trời hoặc lưu trữ không?",
+      "zh": "一定要先有太陽能或儲能嗎？",
+      "en": "Do we need solar or storage already?",
+      "ko": "태양광이나 저장 장치가 먼저 있어야 합니까?"
+    },
+    {
+      "id": "162eba15",
+      "vi": "Không bắt buộc. Có thể bắt đầu từ bước quy hoạch và đánh giá để tính dung lượng và thời gian hoàn vốn phù hợp, rồi mới quyết định đầu tư.",
+      "zh": "不一定。可以從規劃評估開始，先試算適合的容量與回收，再決定是否建置。",
+      "en": "No. A project can start with planning and assessment, to size the system and estimate payback before deciding to build.",
+      "ko": "아닙니다. 계획과 평가부터 시작하여 적정 용량과 회수를 산정한 뒤 구축 여부를 결정할 수 있습니다."
+    },
+    {
+      "id": "ad11d4c2",
+      "vi": "Cần những dữ liệu gì để báo giá?",
+      "zh": "詢價需要哪些資料？",
+      "en": "What data is needed for a quote?",
+      "ko": "견적에 필요한 자료는 무엇입니까?"
+    },
+    {
+      "id": "865a9005",
+      "vi": "Hóa đơn điện hoặc dữ liệu sử dụng điện 12 tháng gần nhất, công suất hợp đồng, công suất điện mặt trời và lưu trữ hiện có, vị trí nhà máy.",
+      "zh": "近 12 個月的電費單或用電資料、契約容量、現有太陽能與儲能容量，以及廠區位置。",
+      "en": "The last twelve months of bills or consumption data, contracted capacity, existing solar and storage capacity, and the plant location.",
+      "ko": "최근 12개월 전기 요금 고지서 또는 사용 자료, 계약 용량, 기존 태양광·저장 용량, 공장 위치입니다."
+    },
+    {
+      "id": "94a7c275",
+      "vi": "Tiết kiệm được bao nhiêu?",
+      "zh": "節省效果有多少？",
+      "en": "How much can be saved?",
+      "ko": "절감 효과는 어느 정도입니까?"
+    },
+    {
+      "id": "845671c2",
+      "vi": "Tùy theo đặc điểm phụ tải, giá điện và dung lượng thiết bị; con số được tính ở bước quy hoạch bằng dữ liệu thực tế của nhà máy.",
+      "zh": "依用電型態、電價與設備容量而定，會在規劃評估階段以您的實際資料試算。",
+      "en": "It depends on the load profile, tariff and equipment size; the figure is calculated at the planning stage from your own data.",
+      "ko": "부하 형태, 전기 요금, 설비 용량에 따라 다르며, 계획 단계에서 귀사의 실제 자료로 산정합니다."
+    }
+  ]
+}

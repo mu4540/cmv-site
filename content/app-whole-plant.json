@@ -1,60 +1,60 @@
 {
- "strings": [
-  {
-   "id": "ffc60c68",
-   "vi": "Tự động hóa toàn nhà máy | Charger Mechatronic Việt Nam",
-   "zh": "整廠自動化生產線 | Charger Mechatronic 越南",
-   "en": "Whole-plant automation lines | Charger Mechatronic Vietnam",
-   "ko": "공장 전체 자동화 라인 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "49e2efc9",
-   "vi": "Sơ đồ hệ thống điều khiển: Tự động hóa toàn nhà máy. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
-   "zh": "整廠自動化生產線 控制系統架構圖. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
-   "en": "Control system diagram: Whole-plant automation lines. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
-   "ko": "공장 전체 자동화 라인 제어 시스템 구성도. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels."
-  },
-  {
-   "id": "a3fb5eb0",
-   "vi": "Tự động hóa toàn nhà máy: Ứng dụng rộng rãi trong nhiều ngành",
-   "zh": "整廠自動化生產線: 廣泛應用於各產業",
-   "en": "Whole-plant automation lines: Used widely across industries",
-   "ko": "공장 전체 자동화 라인: 다양한 산업에 폭넓게 적용"
-  },
-  {
-   "id": "ee7bd234",
-   "vi": "Tự động hóa toàn nhà máy: Tiết kiệm thời gian, công sức và chi phí",
-   "zh": "整廠自動化生產線: 具省時、省力、低成本優勢",
-   "en": "Whole-plant automation lines: Saves time, labour and cost",
-   "ko": "공장 전체 자동화 라인: 시간, 인력, 비용 절감"
-  },
-  {
-   "id": "118974b9",
-   "vi": "Tự động hóa toàn nhà máy: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
-   "zh": "整廠自動化生產線: 結合電腦網路設備，快速演算",
-   "en": "Whole-plant automation lines: Fast computation with networked computer equipment",
-   "ko": "공장 전체 자동화 라인: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
-  },
-  {
-   "id": "2ef928df",
-   "vi": "Tự động hóa toàn nhà máy: Chất lượng sản phẩm ổn định",
-   "zh": "整廠自動化生產線: 生產產品品質穩定",
-   "en": "Whole-plant automation lines: Stable product quality",
-   "ko": "공장 전체 자동화 라인: 안정된 제품 품질"
-  },
-  {
-   "id": "48420d9b",
-   "vi": "Tự động hóa toàn nhà máy: Giảm nhân lực vận hành",
-   "zh": "整廠自動化生產線: 有效降低人力使用",
-   "en": "Whole-plant automation lines: Fewer operators needed",
-   "ko": "공장 전체 자동화 라인: 운전 인력 절감"
-  },
-  {
-   "id": "4b473b10",
-   "vi": "Tự động hóa toàn nhà máy: Thao tác đơn giản",
-   "zh": "整廠自動化生產線: 簡單的操作模式",
-   "en": "Whole-plant automation lines: Simple operation",
-   "ko": "공장 전체 자동화 라인: 간단한 조작"
-  }
- ]
+  "strings": [
+    {
+      "id": "ffc60c68",
+      "vi": "Tự động hóa toàn nhà máy | Charger Mechatronic Việt Nam",
+      "zh": "整廠自動化生產線 | Charger Mechatronic 越南",
+      "en": "Whole-plant automation lines | Charger Mechatronic Vietnam",
+      "ko": "공장 전체 자동화 라인 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "49e2efc9",
+      "vi": "Sơ đồ hệ thống điều khiển: Tự động hóa toàn nhà máy. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+      "zh": "整廠自動化生產線 控制系統架構圖. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+      "en": "Control system diagram: Whole-plant automation lines. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels.",
+      "ko": "공장 전체 자동화 라인 제어 시스템 구성도. Wide illustration of a whole-plant continuous strip processing line (uncoilers, accumulator loops, rollers, treatment box, slitting, recoiler) with small CMC 甲子機電 logo; no labels."
+    },
+    {
+      "id": "a3fb5eb0",
+      "vi": "Tự động hóa toàn nhà máy: Ứng dụng rộng rãi trong nhiều ngành",
+      "zh": "整廠自動化生產線: 廣泛應用於各產業",
+      "en": "Whole-plant automation lines: Used widely across industries",
+      "ko": "공장 전체 자동화 라인: 다양한 산업에 폭넓게 적용"
+    },
+    {
+      "id": "ee7bd234",
+      "vi": "Tự động hóa toàn nhà máy: Tiết kiệm thời gian, công sức và chi phí",
+      "zh": "整廠自動化生產線: 具省時、省力、低成本優勢",
+      "en": "Whole-plant automation lines: Saves time, labour and cost",
+      "ko": "공장 전체 자동화 라인: 시간, 인력, 비용 절감"
+    },
+    {
+      "id": "118974b9",
+      "vi": "Tự động hóa toàn nhà máy: Kết hợp thiết bị máy tính, mạng để tính toán nhanh",
+      "zh": "整廠自動化生產線: 結合電腦網路設備，快速演算",
+      "en": "Whole-plant automation lines: Fast computation with networked computer equipment",
+      "ko": "공장 전체 자동화 라인: 컴퓨터 네트워크 장비와 연계한 빠른 연산"
+    },
+    {
+      "id": "2ef928df",
+      "vi": "Tự động hóa toàn nhà máy: Chất lượng sản phẩm ổn định",
+      "zh": "整廠自動化生產線: 生產產品品質穩定",
+      "en": "Whole-plant automation lines: Stable product quality",
+      "ko": "공장 전체 자동화 라인: 안정된 제품 품질"
+    },
+    {
+      "id": "48420d9b",
+      "vi": "Tự động hóa toàn nhà máy: Giảm nhân lực vận hành",
+      "zh": "整廠自動化生產線: 有效降低人力使用",
+      "en": "Whole-plant automation lines: Fewer operators needed",
+      "ko": "공장 전체 자동화 라인: 운전 인력 절감"
+    },
+    {
+      "id": "4b473b10",
+      "vi": "Tự động hóa toàn nhà máy: Thao tác đơn giản",
+      "zh": "整廠自動化生產線: 簡單的操作模式",
+      "en": "Whole-plant automation lines: Simple operation",
+      "ko": "공장 전체 자동화 라인: 간단한 조작"
+    }
+  ]
 }

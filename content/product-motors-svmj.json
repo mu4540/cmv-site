@@ -1,1299 +1,1299 @@
 {
- "strings": [
-  {
-   "id": "37fa5d61",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "66683b51",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132L, công suất định mức 30–45 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132L，額定輸出 30–45 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-132L, rated output 30–45 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132L, 정격 출력 30–45 kW."
-  },
-  {
-   "id": "aae76071",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-132L",
-   "zh": "SVMJ IP23 SA-132L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-132L",
-   "ko": "SVMJ IP23 SA-132L 외형 치수도"
-  },
-  {
-   "id": "bb8c51ad",
-   "vi": "Bảng chọn động cơ theo tốc độ định mức, dòng SVMJ (14)",
-   "zh": "SVMJ 系列各額定轉速選型表 (14)",
-   "en": "Selection tables by rated speed, SVMJ series (14)",
-   "ko": "SVMJ 시리즈 정격 속도별 선정표 (14)"
-  },
-  {
-   "id": "e5a99f59",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90S",
-   "zh": "← SVMJ系列 IP54 SVM-90S交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-90S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90S"
-  },
-  {
-   "id": "92d88286",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M →",
-   "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M →"
-  },
-  {
-   "id": "2161d17f",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "e91f617b",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132M, công suất định mức 22–37 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132M，額定輸出 22–37 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-132M, rated output 22–37 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132M, 정격 출력 22–37 kW."
-  },
-  {
-   "id": "ef24ab80",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-132M",
-   "zh": "SVMJ IP23 SA-132M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-132M",
-   "ko": "SVMJ IP23 SA-132M 외형 치수도"
-  },
-  {
-   "id": "766d797c",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132L",
-   "zh": "← SVMJ系列 IP23 SA-132L交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-132L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132L"
-  },
-  {
-   "id": "edf8f848",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S →",
-   "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S →"
-  },
-  {
-   "id": "61df9587",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "52e3b683",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132S, công suất định mức 15–30 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132S，額定輸出 15–30 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-132S, rated output 15–30 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132S, 정격 출력 15–30 kW."
-  },
-  {
-   "id": "1d43d9ca",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-132S",
-   "zh": "SVMJ IP23 SA-132S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-132S",
-   "ko": "SVMJ IP23 SA-132S 외형 치수도"
-  },
-  {
-   "id": "1f97be32",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132M",
-   "zh": "← SVMJ系列 IP23 SA-132M交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-132M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132M"
-  },
-  {
-   "id": "53913b3d",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X →",
-   "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X →"
-  },
-  {
-   "id": "bee81d10",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "9339d38e",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132X, công suất định mức 37–55 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132X，額定輸出 37–55 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-132X, rated output 37–55 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132X, 정격 출력 37–55 kW."
-  },
-  {
-   "id": "17ee5088",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-132X",
-   "zh": "SVMJ IP23 SA-132X 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-132X",
-   "ko": "SVMJ IP23 SA-132X 외형 치수도"
-  },
-  {
-   "id": "52972c59",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132S",
-   "zh": "← SVMJ系列 IP23 SA-132S交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-132S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132S"
-  },
-  {
-   "id": "e6a3d635",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L →",
-   "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L →"
-  },
-  {
-   "id": "a225feb6",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "6446598f",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160L, công suất định mức 60–90 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160L，額定輸出 60–90 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-160L, rated output 60–90 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160L, 정격 출력 60–90 kW."
-  },
-  {
-   "id": "12dc7ce8",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-160L",
-   "zh": "SVMJ IP23 SA-160L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-160L",
-   "ko": "SVMJ IP23 SA-160L 외형 치수도"
-  },
-  {
-   "id": "a6d9475f",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132X",
-   "zh": "← SVMJ系列 IP23 SA-132X交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-132X AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132X"
-  },
-  {
-   "id": "d4243c41",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M →",
-   "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M →"
-  },
-  {
-   "id": "5d765631",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "7b2dd084",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160M, công suất định mức 55–80 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160M，額定輸出 55–80 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-160M, rated output 55–80 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160M, 정격 출력 55–80 kW."
-  },
-  {
-   "id": "b3c711a0",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-160M",
-   "zh": "SVMJ IP23 SA-160M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-160M",
-   "ko": "SVMJ IP23 SA-160M 외형 치수도"
-  },
-  {
-   "id": "76598b7c",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160L",
-   "zh": "← SVMJ系列 IP23 SA-160L交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-160L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160L"
-  },
-  {
-   "id": "a64ea936",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S →",
-   "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S →"
-  },
-  {
-   "id": "4a178625",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "64d6505a",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160S, công suất định mức 45–65 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160S，額定輸出 45–65 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-160S, rated output 45–65 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160S, 정격 출력 45–65 kW."
-  },
-  {
-   "id": "21aa1373",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-160S",
-   "zh": "SVMJ IP23 SA-160S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-160S",
-   "ko": "SVMJ IP23 SA-160S 외형 치수도"
-  },
-  {
-   "id": "574d4514",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160M",
-   "zh": "← SVMJ系列 IP23 SA-160M交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-160M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160M"
-  },
-  {
-   "id": "94109779",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L →",
-   "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L →"
-  },
-  {
-   "id": "cd388dc2",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "5f3c6f72",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180L, công suất định mức 95–170 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180L，額定輸出 95–170 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-180L, rated output 95–170 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180L, 정격 출력 95–170 kW."
-  },
-  {
-   "id": "dd3ef92e",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-180L",
-   "zh": "SVMJ IP23 SA-180L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-180L",
-   "ko": "SVMJ IP23 SA-180L 외형 치수도"
-  },
-  {
-   "id": "82258007",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160S",
-   "zh": "← SVMJ系列 IP23 SA-160S交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-160S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160S"
-  },
-  {
-   "id": "b3f055c4",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M →",
-   "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M →"
-  },
-  {
-   "id": "5cb11b47",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "524c19d4",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180M, công suất định mức 80–145 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180M，額定輸出 80–145 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-180M, rated output 80–145 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180M, 정격 출력 80–145 kW."
-  },
-  {
-   "id": "5d687fee",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-180M",
-   "zh": "SVMJ IP23 SA-180M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-180M",
-   "ko": "SVMJ IP23 SA-180M 외형 치수도"
-  },
-  {
-   "id": "01f2e763",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180L",
-   "zh": "← SVMJ系列 IP23 SA-180L交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-180L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180L"
-  },
-  {
-   "id": "99b7c66f",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S →",
-   "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S →"
-  },
-  {
-   "id": "5ab51095",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "cd951401",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180S, công suất định mức 80–110 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180S，額定輸出 80–110 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-180S, rated output 80–110 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180S, 정격 출력 80–110 kW."
-  },
-  {
-   "id": "c8890411",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-180S",
-   "zh": "SVMJ IP23 SA-180S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-180S",
-   "ko": "SVMJ IP23 SA-180S 외형 치수도"
-  },
-  {
-   "id": "b47591b0",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180M",
-   "zh": "← SVMJ系列 IP23 SA-180M交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-180M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180M"
-  },
-  {
-   "id": "1ec5ef03",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L →",
-   "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L →"
-  },
-  {
-   "id": "d586d27b",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "8a19fddf",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225L, công suất định mức 165–288 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225L，額定輸出 165–288 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-225L, rated output 165–288 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225L, 정격 출력 165–288 kW."
-  },
-  {
-   "id": "c06c9be2",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-225L",
-   "zh": "SVMJ IP23 SA-225L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-225L",
-   "ko": "SVMJ IP23 SA-225L 외형 치수도"
-  },
-  {
-   "id": "d23359c1",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180S",
-   "zh": "← SVMJ系列 IP23 SA-180S交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-180S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180S"
-  },
-  {
-   "id": "a0fec944",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M →",
-   "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M →"
-  },
-  {
-   "id": "1999740b",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "7a2cdf7f",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225M, công suất định mức 140–245 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225M，額定輸出 140–245 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-225M, rated output 140–245 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225M, 정격 출력 140–245 kW."
-  },
-  {
-   "id": "36c0eb31",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-225M",
-   "zh": "SVMJ IP23 SA-225M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-225M",
-   "ko": "SVMJ IP23 SA-225M 외형 치수도"
-  },
-  {
-   "id": "fe09e33a",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225L",
-   "zh": "← SVMJ系列IP23 SA-225L交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-225L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225L"
-  },
-  {
-   "id": "3b0d3d73",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S →",
-   "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S →"
-  },
-  {
-   "id": "17b68a7b",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "55a2f167",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225S, công suất định mức 110–175 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225S，額定輸出 110–175 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-225S, rated output 110–175 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225S, 정격 출력 110–175 kW."
-  },
-  {
-   "id": "061dbe75",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-225S",
-   "zh": "SVMJ IP23 SA-225S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-225S",
-   "ko": "SVMJ IP23 SA-225S 외형 치수도"
-  },
-  {
-   "id": "686ceb10",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225M",
-   "zh": "← SVMJ系列 IP23 SA-225M交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-225M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225M"
-  },
-  {
-   "id": "db6d83f3",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L →",
-   "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L →"
-  },
-  {
-   "id": "bb9db8d0",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "2bb2ac7b",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280L, công suất định mức 140–330 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280L，額定輸出 140–330 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-280L, rated output 140–330 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280L, 정격 출력 140–330 kW."
-  },
-  {
-   "id": "e86c8f43",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-280L",
-   "zh": "SVMJ IP23 SA-280L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-280L",
-   "ko": "SVMJ IP23 SA-280L 외형 치수도"
-  },
-  {
-   "id": "69248a1a",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225S",
-   "zh": "← SVMJ系列 IP23 SA-225S交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-225S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225S"
-  },
-  {
-   "id": "ee84d788",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M →",
-   "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M →"
-  },
-  {
-   "id": "c06ecf38",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "17233442",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280M, công suất định mức 119–280 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280M，額定輸出 119–280 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-280M, rated output 119–280 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280M, 정격 출력 119–280 kW."
-  },
-  {
-   "id": "ceadf8fe",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-280M",
-   "zh": "SVMJ IP23 SA-280M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-280M",
-   "ko": "SVMJ IP23 SA-280M 외형 치수도"
-  },
-  {
-   "id": "22d3a869",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280L",
-   "zh": "← SVMJ系列 IP23 SA-280L交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-280L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280L"
-  },
-  {
-   "id": "974f7287",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S →",
-   "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S →"
-  },
-  {
-   "id": "497543f8",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "a6b1dd8c",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280S, công suất định mức 98 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280S，額定輸出 98 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-280S, rated output 98 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280S, 정격 출력 98 kW."
-  },
-  {
-   "id": "16867a77",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-280S",
-   "zh": "SVMJ IP23 SA-280S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-280S",
-   "ko": "SVMJ IP23 SA-280S 외형 치수도"
-  },
-  {
-   "id": "84d8d0c7",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280M",
-   "zh": "← SVMJ系列 IP23 SA-280M交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-280M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280M"
-  },
-  {
-   "id": "d3c66f4b",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X →",
-   "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X →"
-  },
-  {
-   "id": "26b136fa",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "e9226df1",
-   "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280X, công suất định mức 153–360 kW.",
-   "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280X，額定輸出 153–360 kW。",
-   "en": "SVMJ IP23 AC servo vector motor, frame SA-280X, rated output 153–360 kW.",
-   "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280X, 정격 출력 153–360 kW."
-  },
-  {
-   "id": "b171c580",
-   "vi": "Bản vẽ kích thước SVMJ IP23 SA-280X",
-   "zh": "SVMJ IP23 SA-280X 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP23 SA-280X",
-   "ko": "SVMJ IP23 SA-280X 외형 치수도"
-  },
-  {
-   "id": "751cfb02",
-   "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280S",
-   "zh": "← SVMJ系列 IP23 SA-280S交流伺服向量馬達",
-   "en": "← SVMJ Series IP23 SA-280S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280S"
-  },
-  {
-   "id": "802e55f8",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-100L 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-100L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "10a39125",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100L, công suất định mức 7.5–15 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100L，額定輸出 7.5–15 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-100L, rated output 7.5–15 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100L, 정격 출력 7.5–15 kW."
-  },
-  {
-   "id": "89c5fbb2",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100L",
-   "zh": "SVMJ IP54 SVM-100L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-100L",
-   "ko": "SVMJ IP54 SVM-100L 외형 치수도"
-  },
-  {
-   "id": "fda8ab73",
-   "vi": "← Động cơ servo vector AC SVMF IP23 SA-280X",
-   "zh": "← SVMF系列 IP23 SA-280X交流伺服向量馬達",
-   "en": "← SVMF Series IP23 SA-280X AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMF IP23 SA-280X"
-  },
-  {
-   "id": "fef8c0c9",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M →",
-   "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M →"
-  },
-  {
-   "id": "278f05c5",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "06462baf",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100M, công suất định mức 5.5–11 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100M，額定輸出 5.5–11 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-100M, rated output 5.5–11 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100M, 정격 출력 5.5–11 kW."
-  },
-  {
-   "id": "e93f0c26",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100M",
-   "zh": "SVMJ IP54 SVM-100M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-100M",
-   "ko": "SVMJ IP54 SVM-100M 외형 치수도"
-  },
-  {
-   "id": "4e9b6f86",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100L",
-   "zh": "← SVMJ系列 IP54 SVM-100L 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-100L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100L"
-  },
-  {
-   "id": "52a09e4a",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S →",
-   "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S →"
-  },
-  {
-   "id": "f4923504",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "154de529",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100S, công suất định mức 3.75–7.5 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100S，額定輸出 3.75–7.5 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-100S, rated output 3.75–7.5 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100S, 정격 출력 3.75–7.5 kW."
-  },
-  {
-   "id": "9580a58a",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100S",
-   "zh": "SVMJ IP54 SVM-100S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-100S",
-   "ko": "SVMJ IP54 SVM-100S 외형 치수도"
-  },
-  {
-   "id": "84a904f6",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100M",
-   "zh": "← SVMJ系列 IP54 SVM-100M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-100M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100M"
-  },
-  {
-   "id": "e5fdc113",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L →",
-   "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L →"
-  },
-  {
-   "id": "2437739d",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "a9e5538c",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132L, công suất định mức 18.5–30 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132L，額定輸出 18.5–30 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-132L, rated output 18.5–30 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132L, 정격 출력 18.5–30 kW."
-  },
-  {
-   "id": "a69877af",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132L",
-   "zh": "SVMJ IP54 SVM-132L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-132L",
-   "ko": "SVMJ IP54 SVM-132L 외형 치수도"
-  },
-  {
-   "id": "e767c537",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100S",
-   "zh": "← SVMJ系列 IP54 SVM-100S 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-100S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100S"
-  },
-  {
-   "id": "419dac21",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M →",
-   "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M →"
-  },
-  {
-   "id": "8c195d85",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "fa5679f9",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132M, công suất định mức 15–22 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132M，額定輸出 15–22 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-132M, rated output 15–22 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132M, 정격 출력 15–22 kW."
-  },
-  {
-   "id": "51f0bce4",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132M",
-   "zh": "SVMJ IP54 SVM-132M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-132M",
-   "ko": "SVMJ IP54 SVM-132M 외형 치수도"
-  },
-  {
-   "id": "9457e67d",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132L",
-   "zh": "← SVMJ系列 IP54 SVM-132L 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-132L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132L"
-  },
-  {
-   "id": "704efc9f",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S →",
-   "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S →"
-  },
-  {
-   "id": "64ba9d94",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "75bb5c6c",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132S, công suất định mức 11–18.5 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132S，額定輸出 11–18.5 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-132S, rated output 11–18.5 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132S, 정격 출력 11–18.5 kW."
-  },
-  {
-   "id": "48bed4af",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132S",
-   "zh": "SVMJ IP54 SVM-132S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-132S",
-   "ko": "SVMJ IP54 SVM-132S 외형 치수도"
-  },
-  {
-   "id": "0bc9690d",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132M",
-   "zh": "← SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-132M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132M"
-  },
-  {
-   "id": "0bfe19fc",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X →",
-   "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X →"
-  },
-  {
-   "id": "7a9eb389",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "d3cf6979",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132X, công suất định mức 22–37.5 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132X，額定輸出 22–37.5 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-132X, rated output 22–37.5 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132X, 정격 출력 22–37.5 kW."
-  },
-  {
-   "id": "121c0e48",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132X",
-   "zh": "SVMJ IP54 SVM-132X 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-132X",
-   "ko": "SVMJ IP54 SVM-132X 외형 치수도"
-  },
-  {
-   "id": "8c5e4440",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132S",
-   "zh": "← SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-132S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132S"
-  },
-  {
-   "id": "bd83fd7e",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L →",
-   "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L →"
-  },
-  {
-   "id": "e4b61fcc",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "03b1364d",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160L, công suất định mức 40–62 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160L，額定輸出 40–62 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-160L, rated output 40–62 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160L, 정격 출력 40–62 kW."
-  },
-  {
-   "id": "a4047f61",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160L",
-   "zh": "SVMJ IP54 SVM-160L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-160L",
-   "ko": "SVMJ IP54 SVM-160L 외형 치수도"
-  },
-  {
-   "id": "c84ae6fa",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132X",
-   "zh": "← SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-132X AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132X"
-  },
-  {
-   "id": "fe333983",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M →",
-   "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M →"
-  },
-  {
-   "id": "054f69d6",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "18a46438",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160M, công suất định mức 37.5–55 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160M，額定輸出 37.5–55 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-160M, rated output 37.5–55 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160M, 정격 출력 37.5–55 kW."
-  },
-  {
-   "id": "08bd87fe",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160M",
-   "zh": "SVMJ IP54 SVM-160M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-160M",
-   "ko": "SVMJ IP54 SVM-160M 외형 치수도"
-  },
-  {
-   "id": "8e335d8b",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160L",
-   "zh": "← SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-160L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160L"
-  },
-  {
-   "id": "de4e68a2",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S →",
-   "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S →"
-  },
-  {
-   "id": "b1ad8b08",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "3932b43a",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160S, công suất định mức 30–45 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160S，額定輸出 30–45 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-160S, rated output 30–45 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160S, 정격 출력 30–45 kW."
-  },
-  {
-   "id": "ee8b8d9e",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160S",
-   "zh": "SVMJ IP54 SVM-160S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-160S",
-   "ko": "SVMJ IP54 SVM-160S 외형 치수도"
-  },
-  {
-   "id": "1f151e82",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160M",
-   "zh": "← SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-160M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160M"
-  },
-  {
-   "id": "e49341fd",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L →",
-   "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L →"
-  },
-  {
-   "id": "8df2def9",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "f23a0ff7",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180L, công suất định mức 65–110 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180L，額定輸出 65–110 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-180L, rated output 65–110 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180L, 정격 출력 65–110 kW."
-  },
-  {
-   "id": "3a755694",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180L",
-   "zh": "SVMJ IP54 SVM-180L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-180L",
-   "ko": "SVMJ IP54 SVM-180L 외형 치수도"
-  },
-  {
-   "id": "e86ff1dc",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160S",
-   "zh": "← SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-160S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160S"
-  },
-  {
-   "id": "3bbe67da",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M →",
-   "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M →"
-  },
-  {
-   "id": "f61ce346",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "94b210ce",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180M, công suất định mức 55–100 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180M，額定輸出 55–100 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-180M, rated output 55–100 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180M, 정격 출력 55–100 kW."
-  },
-  {
-   "id": "88c8f4d8",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180M",
-   "zh": "SVMJ IP54 SVM-180M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-180M",
-   "ko": "SVMJ IP54 SVM-180M 외형 치수도"
-  },
-  {
-   "id": "1ab41429",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180L",
-   "zh": "← SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-180L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180L"
-  },
-  {
-   "id": "ead9ccc2",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S →",
-   "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S →"
-  },
-  {
-   "id": "a150117e",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "b1a49a11",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180S, công suất định mức 55–75 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180S，額定輸出 55–75 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-180S, rated output 55–75 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180S, 정격 출력 55–75 kW."
-  },
-  {
-   "id": "e5625e9a",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180S",
-   "zh": "SVMJ IP54 SVM-180S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-180S",
-   "ko": "SVMJ IP54 SVM-180S 외형 치수도"
-  },
-  {
-   "id": "135973db",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180M",
-   "zh": "← SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-180M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180M"
-  },
-  {
-   "id": "c4a3c6ec",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L →",
-   "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L →"
-  },
-  {
-   "id": "2519e779",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "45935c14",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225L, công suất định mức 113–180 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225L，額定輸出 113–180 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-225L, rated output 113–180 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225L, 정격 출력 113–180 kW."
-  },
-  {
-   "id": "1e54a997",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225L",
-   "zh": "SVMJ IP54 SVM-225L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-225L",
-   "ko": "SVMJ IP54 SVM-225L 외형 치수도"
-  },
-  {
-   "id": "31f5c384",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180S",
-   "zh": "← SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-180S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180S"
-  },
-  {
-   "id": "7b15431e",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M →",
-   "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M →"
-  },
-  {
-   "id": "77a32ccc",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "faebf9e4",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225M, công suất định mức 96–168 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225M，額定輸出 96–168 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-225M, rated output 96–168 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225M, 정격 출력 96–168 kW."
-  },
-  {
-   "id": "f0daad6d",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225M",
-   "zh": "SVMJ IP54 SVM-225M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-225M",
-   "ko": "SVMJ IP54 SVM-225M 외형 치수도"
-  },
-  {
-   "id": "8093ee8f",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225L",
-   "zh": "← SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-225L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225L"
-  },
-  {
-   "id": "5d6610f7",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S →",
-   "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S →"
-  },
-  {
-   "id": "3db1f912",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "a0144eb2",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225S, công suất định mức 74–120 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225S，額定輸出 74–120 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-225S, rated output 74–120 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225S, 정격 출력 74–120 kW."
-  },
-  {
-   "id": "af2d080f",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225S",
-   "zh": "SVMJ IP54 SVM-225S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-225S",
-   "ko": "SVMJ IP54 SVM-225S 외형 치수도"
-  },
-  {
-   "id": "222a76be",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225M",
-   "zh": "← SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-225M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225M"
-  },
-  {
-   "id": "b64e4832",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S →",
-   "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S →"
-  },
-  {
-   "id": "4b585cde",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "fc32eab1",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-80S, công suất định mức 0.4–1.5 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-80S，額定輸出 0.4–1.5 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-80S, rated output 0.4–1.5 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-80S, 정격 출력 0.4–1.5 kW."
-  },
-  {
-   "id": "74a1704c",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-80S",
-   "zh": "SVMJ IP54 SVM-80S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-80S",
-   "ko": "SVMJ IP54 SVM-80S 외형 치수도"
-  },
-  {
-   "id": "e7fb3972",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225S",
-   "zh": "← SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-225S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225S"
-  },
-  {
-   "id": "85aa5f75",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L →",
-   "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L →"
-  },
-  {
-   "id": "2460723f",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "bf61fcf0",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90L, công suất định mức 2.2–5.5 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90L，額定輸出 2.2–5.5 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-90L, rated output 2.2–5.5 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90L, 정격 출력 2.2–5.5 kW."
-  },
-  {
-   "id": "49a89906",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90L",
-   "zh": "SVMJ IP54 SVM-90L 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-90L",
-   "ko": "SVMJ IP54 SVM-90L 외형 치수도"
-  },
-  {
-   "id": "9a4003d8",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-80S",
-   "zh": "← SVMJ系列 IP54 SVM-80S交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-80S AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-80S"
-  },
-  {
-   "id": "7ce2c2f5",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M →",
-   "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M →"
-  },
-  {
-   "id": "6dc87ac4",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "296a0f8d",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90M, công suất định mức 1.5–3.7 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90M，額定輸出 1.5–3.7 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-90M, rated output 1.5–3.7 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90M, 정격 출력 1.5–3.7 kW."
-  },
-  {
-   "id": "f3398b10",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90M",
-   "zh": "SVMJ IP54 SVM-90M 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-90M",
-   "ko": "SVMJ IP54 SVM-90M 외형 치수도"
-  },
-  {
-   "id": "a4519972",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90L",
-   "zh": "← SVMJ系列 IP54 SVM-90L交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-90L AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90L"
-  },
-  {
-   "id": "8076e8ff",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S →",
-   "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達 →",
-   "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S →"
-  },
-  {
-   "id": "f6a3337c",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S | Charger Mechatronic Việt Nam",
-   "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達 | Charger Mechatronic 越南",
-   "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "b226193f",
-   "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90S, công suất định mức 0.75–2.2 kW.",
-   "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90S，額定輸出 0.75–2.2 kW。",
-   "en": "SVMJ IP54 AC servo vector motor, frame SVM-90S, rated output 0.75–2.2 kW.",
-   "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90S, 정격 출력 0.75–2.2 kW."
-  },
-  {
-   "id": "f8f38623",
-   "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90S",
-   "zh": "SVMJ IP54 SVM-90S 外形尺寸圖",
-   "en": "Dimension drawing, SVMJ IP54 SVM-90S",
-   "ko": "SVMJ IP54 SVM-90S 외형 치수도"
-  },
-  {
-   "id": "3869ebf2",
-   "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90M",
-   "zh": "← SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達",
-   "en": "← SVMJ Series IP54 SVM-90M AC Servo Vector Motor",
-   "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90M"
-  },
-  {
-   "id": "debd8bfd",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L →",
-   "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達 →",
-   "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor →",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L →"
-  }
- ]
+  "strings": [
+    {
+      "id": "37fa5d61",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "66683b51",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132L, công suất định mức 30–45 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132L，額定輸出 30–45 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-132L, rated output 30–45 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132L, 정격 출력 30–45 kW."
+    },
+    {
+      "id": "aae76071",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-132L",
+      "zh": "SVMJ IP23 SA-132L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-132L",
+      "ko": "SVMJ IP23 SA-132L 외형 치수도"
+    },
+    {
+      "id": "bb8c51ad",
+      "vi": "Bảng chọn động cơ theo tốc độ định mức, dòng SVMJ (14)",
+      "zh": "SVMJ 系列各額定轉速選型表 (14)",
+      "en": "Selection tables by rated speed, SVMJ series (14)",
+      "ko": "SVMJ 시리즈 정격 속도별 선정표 (14)"
+    },
+    {
+      "id": "e5a99f59",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90S",
+      "zh": "← SVMJ系列 IP54 SVM-90S交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-90S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90S"
+    },
+    {
+      "id": "92d88286",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M →",
+      "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M →"
+    },
+    {
+      "id": "2161d17f",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "e91f617b",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132M, công suất định mức 22–37 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132M，額定輸出 22–37 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-132M, rated output 22–37 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132M, 정격 출력 22–37 kW."
+    },
+    {
+      "id": "ef24ab80",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-132M",
+      "zh": "SVMJ IP23 SA-132M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-132M",
+      "ko": "SVMJ IP23 SA-132M 외형 치수도"
+    },
+    {
+      "id": "766d797c",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132L",
+      "zh": "← SVMJ系列 IP23 SA-132L交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-132L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132L"
+    },
+    {
+      "id": "edf8f848",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S →",
+      "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S →"
+    },
+    {
+      "id": "61df9587",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "52e3b683",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132S, công suất định mức 15–30 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132S，額定輸出 15–30 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-132S, rated output 15–30 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132S, 정격 출력 15–30 kW."
+    },
+    {
+      "id": "1d43d9ca",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-132S",
+      "zh": "SVMJ IP23 SA-132S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-132S",
+      "ko": "SVMJ IP23 SA-132S 외형 치수도"
+    },
+    {
+      "id": "1f97be32",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132M",
+      "zh": "← SVMJ系列 IP23 SA-132M交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-132M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132M"
+    },
+    {
+      "id": "53913b3d",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X →",
+      "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X →"
+    },
+    {
+      "id": "bee81d10",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "9339d38e",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-132X, công suất định mức 37–55 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-132X，額定輸出 37–55 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-132X, rated output 37–55 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-132X, 정격 출력 37–55 kW."
+    },
+    {
+      "id": "17ee5088",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-132X",
+      "zh": "SVMJ IP23 SA-132X 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-132X",
+      "ko": "SVMJ IP23 SA-132X 외형 치수도"
+    },
+    {
+      "id": "52972c59",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132S",
+      "zh": "← SVMJ系列 IP23 SA-132S交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-132S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132S"
+    },
+    {
+      "id": "e6a3d635",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L →",
+      "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L →"
+    },
+    {
+      "id": "a225feb6",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "6446598f",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160L, công suất định mức 60–90 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160L，額定輸出 60–90 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-160L, rated output 60–90 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160L, 정격 출력 60–90 kW."
+    },
+    {
+      "id": "12dc7ce8",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-160L",
+      "zh": "SVMJ IP23 SA-160L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-160L",
+      "ko": "SVMJ IP23 SA-160L 외형 치수도"
+    },
+    {
+      "id": "a6d9475f",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-132X",
+      "zh": "← SVMJ系列 IP23 SA-132X交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-132X AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-132X"
+    },
+    {
+      "id": "d4243c41",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M →",
+      "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M →"
+    },
+    {
+      "id": "5d765631",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "7b2dd084",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160M, công suất định mức 55–80 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160M，額定輸出 55–80 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-160M, rated output 55–80 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160M, 정격 출력 55–80 kW."
+    },
+    {
+      "id": "b3c711a0",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-160M",
+      "zh": "SVMJ IP23 SA-160M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-160M",
+      "ko": "SVMJ IP23 SA-160M 외형 치수도"
+    },
+    {
+      "id": "76598b7c",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160L",
+      "zh": "← SVMJ系列 IP23 SA-160L交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-160L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160L"
+    },
+    {
+      "id": "a64ea936",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S →",
+      "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S →"
+    },
+    {
+      "id": "4a178625",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "64d6505a",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-160S, công suất định mức 45–65 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-160S，額定輸出 45–65 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-160S, rated output 45–65 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-160S, 정격 출력 45–65 kW."
+    },
+    {
+      "id": "21aa1373",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-160S",
+      "zh": "SVMJ IP23 SA-160S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-160S",
+      "ko": "SVMJ IP23 SA-160S 외형 치수도"
+    },
+    {
+      "id": "574d4514",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160M",
+      "zh": "← SVMJ系列 IP23 SA-160M交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-160M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160M"
+    },
+    {
+      "id": "94109779",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L →",
+      "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L →"
+    },
+    {
+      "id": "cd388dc2",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "5f3c6f72",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180L, công suất định mức 95–170 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180L，額定輸出 95–170 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-180L, rated output 95–170 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180L, 정격 출력 95–170 kW."
+    },
+    {
+      "id": "dd3ef92e",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-180L",
+      "zh": "SVMJ IP23 SA-180L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-180L",
+      "ko": "SVMJ IP23 SA-180L 외형 치수도"
+    },
+    {
+      "id": "82258007",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-160S",
+      "zh": "← SVMJ系列 IP23 SA-160S交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-160S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-160S"
+    },
+    {
+      "id": "b3f055c4",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M →",
+      "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M →"
+    },
+    {
+      "id": "5cb11b47",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "524c19d4",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180M, công suất định mức 80–145 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180M，額定輸出 80–145 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-180M, rated output 80–145 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180M, 정격 출력 80–145 kW."
+    },
+    {
+      "id": "5d687fee",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-180M",
+      "zh": "SVMJ IP23 SA-180M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-180M",
+      "ko": "SVMJ IP23 SA-180M 외형 치수도"
+    },
+    {
+      "id": "01f2e763",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180L",
+      "zh": "← SVMJ系列 IP23 SA-180L交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-180L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180L"
+    },
+    {
+      "id": "99b7c66f",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S →",
+      "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S →"
+    },
+    {
+      "id": "5ab51095",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "cd951401",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-180S, công suất định mức 80–110 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-180S，額定輸出 80–110 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-180S, rated output 80–110 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-180S, 정격 출력 80–110 kW."
+    },
+    {
+      "id": "c8890411",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-180S",
+      "zh": "SVMJ IP23 SA-180S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-180S",
+      "ko": "SVMJ IP23 SA-180S 외형 치수도"
+    },
+    {
+      "id": "b47591b0",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180M",
+      "zh": "← SVMJ系列 IP23 SA-180M交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-180M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180M"
+    },
+    {
+      "id": "1ec5ef03",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L →",
+      "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L →"
+    },
+    {
+      "id": "d586d27b",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "8a19fddf",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225L, công suất định mức 165–288 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225L，額定輸出 165–288 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-225L, rated output 165–288 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225L, 정격 출력 165–288 kW."
+    },
+    {
+      "id": "c06c9be2",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-225L",
+      "zh": "SVMJ IP23 SA-225L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-225L",
+      "ko": "SVMJ IP23 SA-225L 외형 치수도"
+    },
+    {
+      "id": "d23359c1",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-180S",
+      "zh": "← SVMJ系列 IP23 SA-180S交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-180S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-180S"
+    },
+    {
+      "id": "a0fec944",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M →",
+      "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M →"
+    },
+    {
+      "id": "1999740b",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "7a2cdf7f",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225M, công suất định mức 140–245 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225M，額定輸出 140–245 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-225M, rated output 140–245 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225M, 정격 출력 140–245 kW."
+    },
+    {
+      "id": "36c0eb31",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-225M",
+      "zh": "SVMJ IP23 SA-225M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-225M",
+      "ko": "SVMJ IP23 SA-225M 외형 치수도"
+    },
+    {
+      "id": "fe09e33a",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225L",
+      "zh": "← SVMJ系列IP23 SA-225L交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-225L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225L"
+    },
+    {
+      "id": "3b0d3d73",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S →",
+      "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S →"
+    },
+    {
+      "id": "17b68a7b",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "55a2f167",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-225S, công suất định mức 110–175 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-225S，額定輸出 110–175 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-225S, rated output 110–175 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-225S, 정격 출력 110–175 kW."
+    },
+    {
+      "id": "061dbe75",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-225S",
+      "zh": "SVMJ IP23 SA-225S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-225S",
+      "ko": "SVMJ IP23 SA-225S 외형 치수도"
+    },
+    {
+      "id": "686ceb10",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225M",
+      "zh": "← SVMJ系列 IP23 SA-225M交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-225M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225M"
+    },
+    {
+      "id": "db6d83f3",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L →",
+      "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L →"
+    },
+    {
+      "id": "bb9db8d0",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "2bb2ac7b",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280L, công suất định mức 140–330 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280L，額定輸出 140–330 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-280L, rated output 140–330 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280L, 정격 출력 140–330 kW."
+    },
+    {
+      "id": "e86c8f43",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-280L",
+      "zh": "SVMJ IP23 SA-280L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-280L",
+      "ko": "SVMJ IP23 SA-280L 외형 치수도"
+    },
+    {
+      "id": "69248a1a",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-225S",
+      "zh": "← SVMJ系列 IP23 SA-225S交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-225S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-225S"
+    },
+    {
+      "id": "ee84d788",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M →",
+      "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M →"
+    },
+    {
+      "id": "c06ecf38",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "17233442",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280M, công suất định mức 119–280 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280M，額定輸出 119–280 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-280M, rated output 119–280 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280M, 정격 출력 119–280 kW."
+    },
+    {
+      "id": "ceadf8fe",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-280M",
+      "zh": "SVMJ IP23 SA-280M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-280M",
+      "ko": "SVMJ IP23 SA-280M 외형 치수도"
+    },
+    {
+      "id": "22d3a869",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280L",
+      "zh": "← SVMJ系列 IP23 SA-280L交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-280L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280L"
+    },
+    {
+      "id": "974f7287",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S →",
+      "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S →"
+    },
+    {
+      "id": "497543f8",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "a6b1dd8c",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280S, công suất định mức 98 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280S，額定輸出 98 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-280S, rated output 98 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280S, 정격 출력 98 kW."
+    },
+    {
+      "id": "16867a77",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-280S",
+      "zh": "SVMJ IP23 SA-280S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-280S",
+      "ko": "SVMJ IP23 SA-280S 외형 치수도"
+    },
+    {
+      "id": "84d8d0c7",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280M",
+      "zh": "← SVMJ系列 IP23 SA-280M交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-280M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280M"
+    },
+    {
+      "id": "d3c66f4b",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X →",
+      "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X →"
+    },
+    {
+      "id": "26b136fa",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "e9226df1",
+      "vi": "Động cơ servo vector AC SVMJ IP23, cỡ khung SA-280X, công suất định mức 153–360 kW.",
+      "zh": "SVMJ IP23 交流伺服向量馬達，機框 SA-280X，額定輸出 153–360 kW。",
+      "en": "SVMJ IP23 AC servo vector motor, frame SA-280X, rated output 153–360 kW.",
+      "ko": "SVMJ IP23 AC 서보 벡터 모터, 프레임 SA-280X, 정격 출력 153–360 kW."
+    },
+    {
+      "id": "b171c580",
+      "vi": "Bản vẽ kích thước SVMJ IP23 SA-280X",
+      "zh": "SVMJ IP23 SA-280X 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP23 SA-280X",
+      "ko": "SVMJ IP23 SA-280X 외형 치수도"
+    },
+    {
+      "id": "751cfb02",
+      "vi": "← Động cơ servo vector AC SVMJ IP23 SA-280S",
+      "zh": "← SVMJ系列 IP23 SA-280S交流伺服向量馬達",
+      "en": "← SVMJ Series IP23 SA-280S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP23 SA-280S"
+    },
+    {
+      "id": "802e55f8",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-100L 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-100L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "10a39125",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100L, công suất định mức 7.5–15 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100L，額定輸出 7.5–15 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-100L, rated output 7.5–15 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100L, 정격 출력 7.5–15 kW."
+    },
+    {
+      "id": "89c5fbb2",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100L",
+      "zh": "SVMJ IP54 SVM-100L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-100L",
+      "ko": "SVMJ IP54 SVM-100L 외형 치수도"
+    },
+    {
+      "id": "fda8ab73",
+      "vi": "← Động cơ servo vector AC SVMF IP23 SA-280X",
+      "zh": "← SVMF系列 IP23 SA-280X交流伺服向量馬達",
+      "en": "← SVMF Series IP23 SA-280X AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMF IP23 SA-280X"
+    },
+    {
+      "id": "fef8c0c9",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M →",
+      "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M →"
+    },
+    {
+      "id": "278f05c5",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "06462baf",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100M, công suất định mức 5.5–11 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100M，額定輸出 5.5–11 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-100M, rated output 5.5–11 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100M, 정격 출력 5.5–11 kW."
+    },
+    {
+      "id": "e93f0c26",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100M",
+      "zh": "SVMJ IP54 SVM-100M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-100M",
+      "ko": "SVMJ IP54 SVM-100M 외형 치수도"
+    },
+    {
+      "id": "4e9b6f86",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100L",
+      "zh": "← SVMJ系列 IP54 SVM-100L 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-100L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100L"
+    },
+    {
+      "id": "52a09e4a",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S →",
+      "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S →"
+    },
+    {
+      "id": "f4923504",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "154de529",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-100S, công suất định mức 3.75–7.5 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-100S，額定輸出 3.75–7.5 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-100S, rated output 3.75–7.5 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-100S, 정격 출력 3.75–7.5 kW."
+    },
+    {
+      "id": "9580a58a",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-100S",
+      "zh": "SVMJ IP54 SVM-100S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-100S",
+      "ko": "SVMJ IP54 SVM-100S 외형 치수도"
+    },
+    {
+      "id": "84a904f6",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100M",
+      "zh": "← SVMJ系列 IP54 SVM-100M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-100M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100M"
+    },
+    {
+      "id": "e5fdc113",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L →",
+      "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L →"
+    },
+    {
+      "id": "2437739d",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "a9e5538c",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132L, công suất định mức 18.5–30 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132L，額定輸出 18.5–30 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-132L, rated output 18.5–30 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132L, 정격 출력 18.5–30 kW."
+    },
+    {
+      "id": "a69877af",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132L",
+      "zh": "SVMJ IP54 SVM-132L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-132L",
+      "ko": "SVMJ IP54 SVM-132L 외형 치수도"
+    },
+    {
+      "id": "e767c537",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-100S",
+      "zh": "← SVMJ系列 IP54 SVM-100S 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-100S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-100S"
+    },
+    {
+      "id": "419dac21",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M →",
+      "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M →"
+    },
+    {
+      "id": "8c195d85",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "fa5679f9",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132M, công suất định mức 15–22 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132M，額定輸出 15–22 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-132M, rated output 15–22 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132M, 정격 출력 15–22 kW."
+    },
+    {
+      "id": "51f0bce4",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132M",
+      "zh": "SVMJ IP54 SVM-132M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-132M",
+      "ko": "SVMJ IP54 SVM-132M 외형 치수도"
+    },
+    {
+      "id": "9457e67d",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132L",
+      "zh": "← SVMJ系列 IP54 SVM-132L 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-132L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132L"
+    },
+    {
+      "id": "704efc9f",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S →",
+      "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S →"
+    },
+    {
+      "id": "64ba9d94",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "75bb5c6c",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132S, công suất định mức 11–18.5 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132S，額定輸出 11–18.5 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-132S, rated output 11–18.5 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132S, 정격 출력 11–18.5 kW."
+    },
+    {
+      "id": "48bed4af",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132S",
+      "zh": "SVMJ IP54 SVM-132S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-132S",
+      "ko": "SVMJ IP54 SVM-132S 외형 치수도"
+    },
+    {
+      "id": "0bc9690d",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132M",
+      "zh": "← SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-132M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132M"
+    },
+    {
+      "id": "0bfe19fc",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X →",
+      "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X →"
+    },
+    {
+      "id": "7a9eb389",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "d3cf6979",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-132X, công suất định mức 22–37.5 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-132X，額定輸出 22–37.5 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-132X, rated output 22–37.5 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-132X, 정격 출력 22–37.5 kW."
+    },
+    {
+      "id": "121c0e48",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-132X",
+      "zh": "SVMJ IP54 SVM-132X 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-132X",
+      "ko": "SVMJ IP54 SVM-132X 외형 치수도"
+    },
+    {
+      "id": "8c5e4440",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132S",
+      "zh": "← SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-132S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132S"
+    },
+    {
+      "id": "bd83fd7e",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L →",
+      "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L →"
+    },
+    {
+      "id": "e4b61fcc",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "03b1364d",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160L, công suất định mức 40–62 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160L，額定輸出 40–62 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-160L, rated output 40–62 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160L, 정격 출력 40–62 kW."
+    },
+    {
+      "id": "a4047f61",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160L",
+      "zh": "SVMJ IP54 SVM-160L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-160L",
+      "ko": "SVMJ IP54 SVM-160L 외형 치수도"
+    },
+    {
+      "id": "c84ae6fa",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-132X",
+      "zh": "← SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-132X AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-132X"
+    },
+    {
+      "id": "fe333983",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M →",
+      "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M →"
+    },
+    {
+      "id": "054f69d6",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "18a46438",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160M, công suất định mức 37.5–55 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160M，額定輸出 37.5–55 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-160M, rated output 37.5–55 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160M, 정격 출력 37.5–55 kW."
+    },
+    {
+      "id": "08bd87fe",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160M",
+      "zh": "SVMJ IP54 SVM-160M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-160M",
+      "ko": "SVMJ IP54 SVM-160M 외형 치수도"
+    },
+    {
+      "id": "8e335d8b",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160L",
+      "zh": "← SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-160L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160L"
+    },
+    {
+      "id": "de4e68a2",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S →",
+      "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S →"
+    },
+    {
+      "id": "b1ad8b08",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "3932b43a",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-160S, công suất định mức 30–45 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-160S，額定輸出 30–45 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-160S, rated output 30–45 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-160S, 정격 출력 30–45 kW."
+    },
+    {
+      "id": "ee8b8d9e",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-160S",
+      "zh": "SVMJ IP54 SVM-160S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-160S",
+      "ko": "SVMJ IP54 SVM-160S 외형 치수도"
+    },
+    {
+      "id": "1f151e82",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160M",
+      "zh": "← SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-160M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160M"
+    },
+    {
+      "id": "e49341fd",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L →",
+      "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L →"
+    },
+    {
+      "id": "8df2def9",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "f23a0ff7",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180L, công suất định mức 65–110 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180L，額定輸出 65–110 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-180L, rated output 65–110 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180L, 정격 출력 65–110 kW."
+    },
+    {
+      "id": "3a755694",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180L",
+      "zh": "SVMJ IP54 SVM-180L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-180L",
+      "ko": "SVMJ IP54 SVM-180L 외형 치수도"
+    },
+    {
+      "id": "e86ff1dc",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-160S",
+      "zh": "← SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-160S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-160S"
+    },
+    {
+      "id": "3bbe67da",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M →",
+      "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M →"
+    },
+    {
+      "id": "f61ce346",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "94b210ce",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180M, công suất định mức 55–100 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180M，額定輸出 55–100 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-180M, rated output 55–100 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180M, 정격 출력 55–100 kW."
+    },
+    {
+      "id": "88c8f4d8",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180M",
+      "zh": "SVMJ IP54 SVM-180M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-180M",
+      "ko": "SVMJ IP54 SVM-180M 외형 치수도"
+    },
+    {
+      "id": "1ab41429",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180L",
+      "zh": "← SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-180L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180L"
+    },
+    {
+      "id": "ead9ccc2",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S →",
+      "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S →"
+    },
+    {
+      "id": "a150117e",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "b1a49a11",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-180S, công suất định mức 55–75 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-180S，額定輸出 55–75 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-180S, rated output 55–75 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-180S, 정격 출력 55–75 kW."
+    },
+    {
+      "id": "e5625e9a",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-180S",
+      "zh": "SVMJ IP54 SVM-180S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-180S",
+      "ko": "SVMJ IP54 SVM-180S 외형 치수도"
+    },
+    {
+      "id": "135973db",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180M",
+      "zh": "← SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-180M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180M"
+    },
+    {
+      "id": "c4a3c6ec",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L →",
+      "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L →"
+    },
+    {
+      "id": "2519e779",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "45935c14",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225L, công suất định mức 113–180 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225L，額定輸出 113–180 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-225L, rated output 113–180 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225L, 정격 출력 113–180 kW."
+    },
+    {
+      "id": "1e54a997",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225L",
+      "zh": "SVMJ IP54 SVM-225L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-225L",
+      "ko": "SVMJ IP54 SVM-225L 외형 치수도"
+    },
+    {
+      "id": "31f5c384",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-180S",
+      "zh": "← SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-180S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-180S"
+    },
+    {
+      "id": "7b15431e",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M →",
+      "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M →"
+    },
+    {
+      "id": "77a32ccc",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "faebf9e4",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225M, công suất định mức 96–168 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225M，額定輸出 96–168 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-225M, rated output 96–168 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225M, 정격 출력 96–168 kW."
+    },
+    {
+      "id": "f0daad6d",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225M",
+      "zh": "SVMJ IP54 SVM-225M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-225M",
+      "ko": "SVMJ IP54 SVM-225M 외형 치수도"
+    },
+    {
+      "id": "8093ee8f",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225L",
+      "zh": "← SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-225L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225L"
+    },
+    {
+      "id": "5d6610f7",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S →",
+      "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S →"
+    },
+    {
+      "id": "3db1f912",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "a0144eb2",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-225S, công suất định mức 74–120 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-225S，額定輸出 74–120 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-225S, rated output 74–120 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-225S, 정격 출력 74–120 kW."
+    },
+    {
+      "id": "af2d080f",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-225S",
+      "zh": "SVMJ IP54 SVM-225S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-225S",
+      "ko": "SVMJ IP54 SVM-225S 외형 치수도"
+    },
+    {
+      "id": "222a76be",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225M",
+      "zh": "← SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-225M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225M"
+    },
+    {
+      "id": "b64e4832",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S →",
+      "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S →"
+    },
+    {
+      "id": "4b585cde",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "fc32eab1",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-80S, công suất định mức 0.4–1.5 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-80S，額定輸出 0.4–1.5 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-80S, rated output 0.4–1.5 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-80S, 정격 출력 0.4–1.5 kW."
+    },
+    {
+      "id": "74a1704c",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-80S",
+      "zh": "SVMJ IP54 SVM-80S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-80S",
+      "ko": "SVMJ IP54 SVM-80S 외형 치수도"
+    },
+    {
+      "id": "e7fb3972",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-225S",
+      "zh": "← SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-225S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-225S"
+    },
+    {
+      "id": "85aa5f75",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L →",
+      "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L →"
+    },
+    {
+      "id": "2460723f",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "bf61fcf0",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90L, công suất định mức 2.2–5.5 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90L，額定輸出 2.2–5.5 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-90L, rated output 2.2–5.5 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90L, 정격 출력 2.2–5.5 kW."
+    },
+    {
+      "id": "49a89906",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90L",
+      "zh": "SVMJ IP54 SVM-90L 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-90L",
+      "ko": "SVMJ IP54 SVM-90L 외형 치수도"
+    },
+    {
+      "id": "9a4003d8",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-80S",
+      "zh": "← SVMJ系列 IP54 SVM-80S交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-80S AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-80S"
+    },
+    {
+      "id": "7ce2c2f5",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M →",
+      "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M →"
+    },
+    {
+      "id": "6dc87ac4",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "296a0f8d",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90M, công suất định mức 1.5–3.7 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90M，額定輸出 1.5–3.7 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-90M, rated output 1.5–3.7 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90M, 정격 출력 1.5–3.7 kW."
+    },
+    {
+      "id": "f3398b10",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90M",
+      "zh": "SVMJ IP54 SVM-90M 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-90M",
+      "ko": "SVMJ IP54 SVM-90M 외형 치수도"
+    },
+    {
+      "id": "a4519972",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90L",
+      "zh": "← SVMJ系列 IP54 SVM-90L交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-90L AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90L"
+    },
+    {
+      "id": "8076e8ff",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S →",
+      "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達 →",
+      "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S →"
+    },
+    {
+      "id": "f6a3337c",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S | Charger Mechatronic Việt Nam",
+      "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達 | Charger Mechatronic 越南",
+      "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "b226193f",
+      "vi": "Động cơ servo vector AC SVMJ IP54, cỡ khung SVM-90S, công suất định mức 0.75–2.2 kW.",
+      "zh": "SVMJ IP54 交流伺服向量馬達，機框 SVM-90S，額定輸出 0.75–2.2 kW。",
+      "en": "SVMJ IP54 AC servo vector motor, frame SVM-90S, rated output 0.75–2.2 kW.",
+      "ko": "SVMJ IP54 AC 서보 벡터 모터, 프레임 SVM-90S, 정격 출력 0.75–2.2 kW."
+    },
+    {
+      "id": "f8f38623",
+      "vi": "Bản vẽ kích thước SVMJ IP54 SVM-90S",
+      "zh": "SVMJ IP54 SVM-90S 外形尺寸圖",
+      "en": "Dimension drawing, SVMJ IP54 SVM-90S",
+      "ko": "SVMJ IP54 SVM-90S 외형 치수도"
+    },
+    {
+      "id": "3869ebf2",
+      "vi": "← Động cơ servo vector AC SVMJ IP54 SVM-90M",
+      "zh": "← SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達",
+      "en": "← SVMJ Series IP54 SVM-90M AC Servo Vector Motor",
+      "ko": "← AC 서보 벡터 모터 SVMJ IP54 SVM-90M"
+    },
+    {
+      "id": "debd8bfd",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L →",
+      "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達 →",
+      "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor →",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L →"
+    }
+  ]
 }

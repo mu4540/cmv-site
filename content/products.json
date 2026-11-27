@@ -1,907 +1,907 @@
 {
- "strings": [
-  {
-   "id": "0597525a",
-   "vi": "Bộ điều khiển số | Charger Mechatronic Việt Nam",
-   "zh": "全數位式控制器 | Charger Mechatronic 越南",
-   "en": "Full Digital Controller | Charger Mechatronic Vietnam",
-   "ko": "풀 디지털 컨트롤러 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "3932f407",
-   "vi": "Bộ điều khiển CG có mấy trục?",
-   "zh": "CG 控制器有幾軸？",
-   "en": "How many axes does the CG controller have?",
-   "ko": "CG 컨트롤러는 몇 축입니까?"
-  },
-  {
-   "id": "15d92bc0",
-   "vi": "Có ba bản: 2 trục, 4 trục và 8 trục.",
-   "zh": "有 2 軸、4 軸、8 軸三種系列。",
-   "en": "Three versions: 2, 4 and 8 axes.",
-   "ko": "2축, 4축, 8축의 세 가지 모델이 있습니다."
-  },
-  {
-   "id": "901c6822",
-   "vi": "Bộ điều khiển CG dùng cho máy nào?",
-   "zh": "CG 控制器用在哪些機器？",
-   "en": "Which machines is the CG controller used on?",
-   "ko": "CG 컨트롤러는 어떤 장비에 사용합니까?"
-  },
-  {
-   "id": "0e7e4b7e",
-   "vi": "Máy cắt và dây chuyền gia công kim loại cần điều khiển chuyển động nhiều trục, ví dụ máy cắt bay và dây chuyền cắt tấm.",
-   "zh": "需要多軸運動控制的裁切機與金屬加工產線，例如飛剪機與停剪線。",
-   "en": "Cutting machines and metal-processing lines that need multi-axis motion control, such as flying shears and cut-to-length lines.",
-   "ko": "플라잉 시어, 정척 절단 라인처럼 다축 모션 제어가 필요한 절단기와 금속 가공 라인에 사용합니다."
-  },
-  {
-   "id": "93338693",
-   "vi": "Thông số bản 4 trục",
-   "zh": "規格（4 軸系列）",
-   "en": "Specifications, 4-axis version",
-   "ko": "사양(4축 모델)"
-  },
-  {
-   "id": "7e7ed74c",
-   "vi": "Sản phẩm: servo, biến tần, bộ điều khiển | Charger Mechatronic Việt Nam",
-   "zh": "產品介紹：伺服馬達、驅動器、控制器｜甲子機電越南",
-   "en": "Products: servo motors, drives, controllers | Charger Mechatronic Vietnam",
-   "ko": "제품: 서보 모터, 드라이브, 컨트롤러 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "03597a8a",
-   "vi": "115 model: động cơ servo SVMF/SVMJ 0,75–132 kW, biến tần VFI-CG80 220/440 V, bộ điều khiển CG 2/4/8 trục, tủ điều khiển, encoder, khớp nối, PLC.",
-   "zh": "115 個型號：SVMF／SVMJ 伺服馬達、VFI-CG80 220／440 V 驅動器、CG 2／4／8 軸控制器、控制盤體、編碼器、聯軸器、PLC。",
-   "en": "115 models: SVMF/SVMJ servo motors, VFI-CG80 drives 220/440 V, CG controllers with 2/4/8 axes, control panels, encoders, couplings and PLCs.",
-   "ko": "115개 모델: SVMF/SVMJ 서보 모터, VFI-CG80 220/440 V 드라이브, CG 2/4/8축 컨트롤러, 제어반, 엔코더, 커플링, PLC."
-  },
-  {
-   "id": "5176fbec",
-   "vi": "Thông số kỹ thuật xem ở đâu?",
-   "zh": "規格在哪裡看？",
-   "en": "Where are the specifications?",
-   "ko": "사양은 어디에서 볼 수 있습니까?"
-  },
-  {
-   "id": "514c8253",
-   "vi": "Mỗi model có một trang riêng với bảng thông số dạng văn bản; động cơ servo có thêm bản vẽ kích thước. Toàn bộ danh mục cũng có ở dạng dữ liệu JSON tại /data/products.json.",
-   "zh": "每個型號都有獨立頁面與文字規格表，伺服馬達另附外形尺寸圖。全部型號也提供 JSON 資料：/data/products.json。",
-   "en": "Each model has its own page with a text specification table; servo motors also have a dimension drawing. The whole range is also available as JSON data at /data/products.json.",
-   "ko": "모델마다 텍스트 사양표가 있는 개별 페이지가 있으며, 서보 모터에는 외형 치수도가 함께 있습니다. 전체 제품은 /data/products.json 에서 JSON 데이터로도 제공합니다."
-  },
-  {
-   "id": "82cde92f",
-   "vi": "Ai hỗ trợ sản phẩm tại Việt Nam?",
-   "zh": "越南當地由誰提供支援？",
-   "en": "Who supports the products in Vietnam?",
-   "ko": "베트남에서는 누가 제품을 지원합니까?"
-  },
-  {
-   "id": "d904ece1",
-   "vi": "CMV tại Thành phố Hồ Chí Minh: khảo sát, lắp đặt, hiệu chỉnh và cung cấp phụ tùng. Hợp đồng và hóa đơn do pháp nhân Việt Nam ký, xuất.",
-   "zh": "由胡志明市的 CMV 負責：勘查、安裝、調試與備品供應。合約與發票由越南公司簽署、開立。",
-   "en": "CMV in Ho Chi Minh City: survey, installation, commissioning and spare parts. Contracts and invoices are issued by the Vietnam entity.",
-   "ko": "호찌민시의 CMV가 현장 조사, 설치, 시운전, 예비 부품 공급을 담당합니다. 계약과 세금계산서는 베트남 법인이 체결·발행합니다."
-  },
-  {
-   "id": "72015e9b",
-   "vi": "Động cơ servo vector AC, biến tần servo vector, bộ điều khiển số và thiết bị đi kèm của Charger Mechatronic (CMC), cung cấp và hỗ trợ tại Việt Nam qua CMV.",
-   "zh": "甲子機電（CMC）交流伺服向量馬達、向量伺服驅動器、全數位式控制器與周邊設備，由 CMV 在越南供應與支援。",
-   "en": "Charger Mechatronic (CMC) AC servo vector motors, vector servo drives, digital controllers and accessories, supplied and supported in Vietnam by CMV.",
-   "ko": "Charger Mechatronic(CMC)의 AC 서보 벡터 모터, 벡터 서보 드라이브, 디지털 컨트롤러와 주변 기기를 CMV가 베트남에서 공급하고 지원합니다."
-  },
-  {
-   "id": "4865f546",
-   "vi": "Động cơ servo vector AC là động cơ cảm ứng xoay chiều cho mô-men lớn ở tốc độ thấp.",
-   "zh": "AC交流伺服向量馬達，低轉速高扭力的交流感應馬達。高性能的電機特性，不論高低轉速都有完美的表現。高精度的機械設計，大大提高交流伺服馬達的穩定性和壽命。具定轉矩輸出，符合高精度自動動作控制需求。改進對衝擊負荷的反應，不論皮帶輪傳動或聯軸器直傳，切削性能明顯提升。用電量低，低噪音伺服馬達設計；高品質鑄鐵製成，強化絕緣，延長使用壽命。高速運轉維持定馬力輸出，低速運轉保持平穩性磁場。可在整個頻率範圍內運轉、馬達零速時可輸出額定轉矩、且可以快速的加減速。馬達體積小，成本及能耗都較低",
-   "en": "The AC servo vector motor is an AC induction motor that delivers high torque at low speed.",
-   "ko": "AC 서보 벡터 모터는 저속에서 높은 토크를 내는 AC 유도 모터입니다."
-  },
-  {
-   "id": "f691b74f",
-   "vi": "Xem danh sách",
-   "zh": "查看型號",
-   "en": "View the range",
-   "ko": "모델 보기"
-  },
-  {
-   "id": "5208e891",
-   "vi": "VFI-CG80 là biến tần servo vector hiệu suất cao với bốn chế độ điều khiển: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG.",
-   "zh": "VFI-CG80 向量伺服驅動器是高性能變頻器，提供四種控制模式：開環矢量，磁通矢量，V / f控制和帶PG反饋的V / f控制。控制方法可以根據用戶的應用，通過使用操作員來輕鬆選擇。多種規格可供選配，符合客戶需求",
-   "en": "The VFI-CG80 vector servo drive is a high-performance inverter with four control modes: open-loop vector, flux vector, V/f control and V/f control with PG feedback.",
-   "ko": "VFI-CG80 벡터 서보 드라이브는 오픈 루프 벡터, 자속 벡터, V/f 제어, PG 피드백 V/f 제어의 네 가지 제어 모드를 갖춘 고성능 인버터입니다."
-  },
-  {
-   "id": "ee085c55",
-   "vi": "Bộ điều khiển số CG của Charger Mechatronic điều khiển chuyển động nhiều trục cho máy cắt và dây chuyền gia công kim loại, có bản 2, 4 và 8 trục.",
-   "zh": "甲子機電 CG 全數位式控制器，提供 2 軸、4 軸、8 軸系列，用於裁切機與金屬加工產線的多軸運動控制",
-   "en": "The Charger Mechatronic CG full digital controller runs multi-axis motion for cutting machines and metal-processing lines, in 2, 4 and 8 axis versions.",
-   "ko": "Charger Mechatronic CG 풀 디지털 컨트롤러는 절단기와 금속 가공 라인의 다축 모션을 제어하며 2축, 4축, 8축 모델이 있습니다."
-  },
-  {
-   "id": "50bbdaac",
-   "vi": "Tủ điều khiển, encoder, khớp nối và PLC dùng cùng hệ thống servo và biến tần của Charger Mechatronic.",
-   "zh": "搭配甲子機電伺服與驅動系統使用的控制盤體、編碼器、聯軸器與可程式控制器",
-   "en": "Control panels, encoders, couplings and PLCs used with Charger Mechatronic servo and drive systems.",
-   "ko": "Charger Mechatronic 서보 및 드라이브 시스템과 함께 쓰는 제어반, 엔코더, 커플링, PLC입니다."
-  },
-  {
-   "id": "33e26e69",
-   "vi": "Sản phẩm khác | Charger Mechatronic Việt Nam",
-   "zh": "其他 | Charger Mechatronic 越南",
-   "en": "Other Products | Charger Mechatronic Vietnam",
-   "ko": "기타 제품 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "2bcdbee9",
-   "vi": "Nhóm này gồm những gì?",
-   "zh": "這一類包含哪些產品？",
-   "en": "What does this group include?",
-   "ko": "이 분류에는 어떤 제품이 있습니까?"
-  },
-  {
-   "id": "f8f3999a",
-   "vi": "Tủ điều khiển NUSCO và CMC, encoder động cơ, encoder bánh xe đo, khớp nối và PLC, dùng cùng hệ thống servo và biến tần.",
-   "zh": "NUSCO 與 CMC 控制盤體、馬達編碼器、量測輪編碼器、聯軸器與 PLC，搭配伺服與驅動系統使用。",
-   "en": "NUSCO and CMC control panels, motor encoders, measuring-roll encoders, couplings and PLCs, used with the servo and drive systems.",
-   "ko": "NUSCO 및 CMC 제어반, 모터 엔코더, 측장 롤 엔코더, 커플링, PLC로, 서보·드라이브 시스템과 함께 사용합니다."
-  },
-  {
-   "id": "ee324ae0",
-   "vi": "Thông số được xác định thế nào?",
-   "zh": "規格如何確定？",
-   "en": "How are the specifications set?",
-   "ko": "사양은 어떻게 정합니까?"
-  },
-  {
-   "id": "9956baaf",
-   "vi": "Thông số và cấu hình được xác nhận theo từng dự án và ghi trong đề xuất kỹ thuật.",
-   "zh": "規格與配置依專案確認，並寫入技術提案。",
-   "en": "Specifications and configuration are confirmed per project and written into the technical proposal.",
-   "ko": "사양과 구성은 프로젝트별로 확인하여 기술 제안서에 명시합니다."
-  },
-  {
-   "id": "640213c9",
-   "vi": "Động cơ servo AC | Charger Mechatronic Việt Nam",
-   "zh": "交流伺服馬達 | Charger Mechatronic 越南",
-   "en": "AC Servo Motor | Charger Mechatronic Vietnam",
-   "ko": "AC 서보 모터 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "7e7c5c20",
-   "vi": "Động cơ cảm ứng servo vector AC dòng SVMF và SVMJ, cấp bảo vệ IP54 và IP23, mô-men lớn ở tốc độ thấp.",
-   "zh": "SVMF、SVMJ 系列交流伺服向量感應馬達，IP54 與 IP23 防護等級，低轉速高扭力。",
-   "en": "SVMF and SVMJ AC servo vector induction motors in IP54 and IP23, with high torque at low speed.",
-   "ko": "SVMF, SVMJ 시리즈 AC 서보 벡터 유도 모터. IP54와 IP23 보호 등급, 저속 고토크."
-  },
-  {
-   "id": "d8da678c",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-100LB",
-   "zh": "SVMF系列 IP54 SF-100LB交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-100LB AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-100LB"
-  },
-  {
-   "id": "6e34217a",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-112L",
-   "zh": "SVMF系列 IP54 SF-112L交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-112L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112L"
-  },
-  {
-   "id": "53cddaf6",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-112XA",
-   "zh": "S V M F系 列 IP54 SF-112XA 交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-112XA AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XA"
-  },
-  {
-   "id": "f8735897",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-112XB",
-   "zh": "S V M F 系 列 IP54 SF-112XB 交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-112XB AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XB"
-  },
-  {
-   "id": "f57a6b87",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-132L",
-   "zh": "SVMF系列 IP54 SF-132L交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-132L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132L"
-  },
-  {
-   "id": "5b5ff0cc",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-132LA",
-   "zh": "SVMF系列 IP54 SF-132LA交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-132LA AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132LA"
-  },
-  {
-   "id": "e7c2430a",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-132MB",
-   "zh": "SVMF 系 列 IP54 SF-132MB 交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-132MB AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132MB"
-  },
-  {
-   "id": "2be6f195",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-160L",
-   "zh": "SVMF系列 IP54 SF-160L交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-160L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160L"
-  },
-  {
-   "id": "6dab5444",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-160M",
-   "zh": "SVMF系列 IP54 SF-160M交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-160M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160M"
-  },
-  {
-   "id": "7539271c",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-160S",
-   "zh": "SVMF系列 IP54 SF-160S交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-160S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160S"
-  },
-  {
-   "id": "89479a9a",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-160X",
-   "zh": "SVMF系列 IP54 SF-160X交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-160X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160X"
-  },
-  {
-   "id": "fa8a8838",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-180L",
-   "zh": "SVMF系列 IP54 SF-180L交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-180L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180L"
-  },
-  {
-   "id": "1992e2bb",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-180M",
-   "zh": "SVMF系列 IP54 SF-180M交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-180M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180M"
-  },
-  {
-   "id": "c5249cad",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-180P",
-   "zh": "SVMF系列 IP54 SF-180P交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-180P AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180P"
-  },
-  {
-   "id": "5d799222",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-180S",
-   "zh": "SVMF系列 IP54 SF-180S交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-180S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180S"
-  },
-  {
-   "id": "015417be",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-180X",
-   "zh": "SVMF系列 IP54 SF-180X交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-180X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180X"
-  },
-  {
-   "id": "54469864",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-90L",
-   "zh": "SVMF系列 IP54 SF-90L交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-90L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90L"
-  },
-  {
-   "id": "3a694692",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-90MA",
-   "zh": "SVMF系列 IP54 SF-90MA交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-90MA AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MA"
-  },
-  {
-   "id": "69718fdd",
-   "vi": "Động cơ servo vector AC SVMF IP54 SF-90MB",
-   "zh": "SVMF系列 IP54 SF-90MB交流伺服向量馬達",
-   "en": "SVMF Series IP54 SF-90MB AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MB"
-  },
-  {
-   "id": "1fd511f6",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-132L",
-   "zh": "SVMF系列 IP23 SA-132L交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-132L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132L"
-  },
-  {
-   "id": "b640252f",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-132M",
-   "zh": "SVMF系列 IP23 SA-132M交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-132M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132M"
-  },
-  {
-   "id": "b6a716b2",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-132S",
-   "zh": "SVMF系列 IP23 SA-132S交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-132S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132S"
-  },
-  {
-   "id": "3c2ccc8d",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-132X",
-   "zh": "SVMF系列 IP23 SA-132X交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-132X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132X"
-  },
-  {
-   "id": "c19f12d4",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-160L",
-   "zh": "SVMF系列 IP23 SA-160L交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-160L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160L"
-  },
-  {
-   "id": "15bec39d",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-160M",
-   "zh": "SVMF系列 IP23 SA-160M交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-160M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160M"
-  },
-  {
-   "id": "f236b724",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-160X",
-   "zh": "SVMF系列 IP23 SA-160X交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-160X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160X"
-  },
-  {
-   "id": "6a911a0d",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-180L",
-   "zh": "SVMF系列 IP23 SA-180L交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-180L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180L"
-  },
-  {
-   "id": "c92f3a97",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-180M",
-   "zh": "SVMF系列 IP23 SA-180M交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-180M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180M"
-  },
-  {
-   "id": "e4686293",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-180S",
-   "zh": "SVMF系列 IP23 SA-180S交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-180S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180S"
-  },
-  {
-   "id": "73153162",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-180X",
-   "zh": "SVMF系列 IP23 SA-180X交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-180X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180X"
-  },
-  {
-   "id": "7db5c1da",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-225L",
-   "zh": "SVMF系列IP23 SA-225L交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-225L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225L"
-  },
-  {
-   "id": "9558612e",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-225M",
-   "zh": "S V M F 系 列 IP23 SA-225M 交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-225M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225M"
-  },
-  {
-   "id": "99e825fe",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-225S",
-   "zh": "SVMF系列 IP23 SA-225S交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-225S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225S"
-  },
-  {
-   "id": "ab2dd2a0",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-225X",
-   "zh": "SVMF系列 IP23 SA-225X交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-225X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225X"
-  },
-  {
-   "id": "1d212e44",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-280L",
-   "zh": "SVMF系列 IP23 SA-280L交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-280L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280L"
-  },
-  {
-   "id": "e15fe585",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-280M",
-   "zh": "SVMF系列 IP23 SA-280M交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-280M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280M"
-  },
-  {
-   "id": "6f55696e",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-280S",
-   "zh": "SVMF系列 IP23 SA-280S交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-280S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280S"
-  },
-  {
-   "id": "6248ff63",
-   "vi": "Động cơ servo vector AC SVMF IP23 SA-280X",
-   "zh": "SVMF系列 IP23 SA-280X交流伺服向量馬達",
-   "en": "SVMF Series IP23 SA-280X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280X"
-  },
-  {
-   "id": "b02e3098",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100L",
-   "zh": "SVMJ系列 IP54 SVM-100L 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-100L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100L"
-  },
-  {
-   "id": "78444cac",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M",
-   "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M"
-  },
-  {
-   "id": "c339efba",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S",
-   "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S"
-  },
-  {
-   "id": "db368932",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L",
-   "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L"
-  },
-  {
-   "id": "da323987",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M",
-   "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M"
-  },
-  {
-   "id": "0cd4f8b8",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S",
-   "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S"
-  },
-  {
-   "id": "d082473c",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X",
-   "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X"
-  },
-  {
-   "id": "81bcdd7c",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L",
-   "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L"
-  },
-  {
-   "id": "258ecec5",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M",
-   "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M"
-  },
-  {
-   "id": "82a4365f",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S",
-   "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S"
-  },
-  {
-   "id": "8fb80ed5",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L",
-   "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L"
-  },
-  {
-   "id": "419ec64d",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M",
-   "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M"
-  },
-  {
-   "id": "b41d9f65",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S",
-   "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S"
-  },
-  {
-   "id": "04773e25",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L",
-   "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L"
-  },
-  {
-   "id": "63a2fe50",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M",
-   "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M"
-  },
-  {
-   "id": "4aaa18fe",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S",
-   "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S"
-  },
-  {
-   "id": "521cf727",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S",
-   "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S"
-  },
-  {
-   "id": "d9074b06",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L",
-   "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L"
-  },
-  {
-   "id": "dfa774ed",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M",
-   "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M"
-  },
-  {
-   "id": "7a07a336",
-   "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S",
-   "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達",
-   "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S"
-  },
-  {
-   "id": "3252776b",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L",
-   "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L"
-  },
-  {
-   "id": "b1445fd1",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M",
-   "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M"
-  },
-  {
-   "id": "0d2e6e72",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S",
-   "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S"
-  },
-  {
-   "id": "b56e6d13",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X",
-   "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X"
-  },
-  {
-   "id": "5b98f4a2",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L",
-   "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L"
-  },
-  {
-   "id": "a24a64be",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M",
-   "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M"
-  },
-  {
-   "id": "d1c8b08e",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S",
-   "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S"
-  },
-  {
-   "id": "1f02a495",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L",
-   "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L"
-  },
-  {
-   "id": "8cd0abcf",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M",
-   "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M"
-  },
-  {
-   "id": "dc327ac6",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S",
-   "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S"
-  },
-  {
-   "id": "a38892ac",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L",
-   "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L"
-  },
-  {
-   "id": "b6507c6d",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M",
-   "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M"
-  },
-  {
-   "id": "9b82f81f",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S",
-   "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S"
-  },
-  {
-   "id": "8d06adeb",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L",
-   "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L"
-  },
-  {
-   "id": "bdc61178",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M",
-   "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M"
-  },
-  {
-   "id": "17124169",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S",
-   "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S"
-  },
-  {
-   "id": "c5a6858f",
-   "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X",
-   "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達",
-   "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor",
-   "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X"
-  },
-  {
-   "id": "e36ee931",
-   "vi": "IP54 và IP23 khác nhau thế nào?",
-   "zh": "IP54 和 IP23 有什麼不同？",
-   "en": "What is the difference between IP54 and IP23?",
-   "ko": "IP54와 IP23은 어떻게 다릅니까?"
-  },
-  {
-   "id": "48a96e15",
-   "vi": "IP54 chống bụi và chống nước bắn từ mọi hướng, hợp với môi trường nhiều bụi. IP23 chống vật rắn lớn hơn 12,5 mm và nước phun xiên, dùng cho nơi sạch và khô hơn. Chọn theo môi trường lắp đặt.",
-   "zh": "IP54 防塵並可防任意方向的濺水，適合粉塵較多的環境；IP23 可防大於 12.5 mm 的固體與斜向噴水，適合較乾淨乾燥的場所。請依安裝環境選擇。",
-   "en": "IP54 is protected against dust and water splashing from any direction, for dusty environments. IP23 is protected against solid objects over 12.5 mm and sprayed water, for cleaner, drier locations. Choose by the installation environment.",
-   "ko": "IP54는 분진과 모든 방향의 물 튀김으로부터 보호되어 분진이 많은 환경에 적합합니다. IP23은 12.5 mm 초과 고형물과 분사되는 물로부터 보호되며 비교적 깨끗하고 건조한 장소에 사용합니다. 설치 환경에 따라 선택하십시오."
-  },
-  {
-   "id": "216f0537",
-   "vi": "Có bản vẽ kích thước không?",
-   "zh": "有外形尺寸圖嗎？",
-   "en": "Are dimension drawings available?",
-   "ko": "외형 치수도가 있습니까?"
-  },
-  {
-   "id": "dfff2138",
-   "vi": "Có. Trang của mỗi cỡ khung có bản vẽ kích thước (đơn vị mm) và bảng thông số theo từng tốc độ định mức.",
-   "zh": "有。每個機框的頁面都有外形尺寸圖（單位 mm）與各額定轉速的規格表。",
-   "en": "Yes. Each frame size page has a dimension drawing (in mm) and a specification table for each rated speed.",
-   "ko": "예. 프레임별 페이지에 외형 치수도(단위 mm)와 정격 속도별 사양표가 있습니다."
-  },
-  {
-   "id": "4f8fcaa7",
-   "vi": "Động cơ servo vector AC là động cơ cảm ứng xoay chiều cho mô-men lớn ở tốc độ thấp. Đặc tính điện hiệu suất cao giúp động cơ làm việc tốt ở cả tốc độ cao và thấp; thiết kế cơ khí chính xác nâng cao độ ổn định và tuổi thọ. Mô-men đầu ra không đổi đáp ứng yêu cầu điều khiển chuyển động chính xác cao. Đáp ứng với tải va đập được cải thiện, nên dù truyền động bằng đai hay khớp nối trực tiếp, hiệu suất cắt đều tăng rõ rệt. Tiêu thụ điện thấp, thiết kế ít ồn; thân gang đúc chất lượng cao, cách điện tăng cường, kéo dài tuổi thọ. Khi chạy tốc độ cao động cơ giữ công suất không đổi, khi chạy tốc độ thấp từ trường vẫn ổn định. Động cơ làm việc trên toàn dải tần số, cho mô-men định mức ngay ở tốc độ bằng không và tăng giảm tốc nhanh. Kích thước gọn, chi phí và mức tiêu thụ năng lượng thấp.",
-   "zh": "AC交流伺服向量馬達，低轉速高扭力的交流感應馬達。高性能的電機特性，不論高低轉速都有完美的表現。高精度的機械設計，大大提高交流伺服馬達的穩定性和壽命。具定轉矩輸出，符合高精度自動動作控制需求。改進對衝擊負荷的反應，不論皮帶輪傳動或聯軸器直傳，切削性能明顯提升。用電量低，低噪音伺服馬達設計；高品質鑄鐵製成，強化絕緣，延長使用壽命。高速運轉維持定馬力輸出，低速運轉保持平穩性磁場。可在整個頻率範圍內運轉、馬達零速時可輸出額定轉矩、且可以快速的加減速。馬達體積小，成本及能耗都較低。",
-   "en": "The AC servo vector motor is an AC induction motor that delivers high torque at low speed. Its electrical characteristics keep performance high at both low and high speed, and the precise mechanical design improves stability and service life. Constant torque output meets the needs of high-precision motion control. Response to impact load is improved, so cutting performance rises clearly with either belt drive or direct coupling. Low power consumption and a low-noise design; a high-quality cast-iron frame with reinforced insulation extends service life. The motor holds constant horsepower at high speed and a stable magnetic field at low speed. It runs across the whole frequency range, delivers rated torque at zero speed, and accelerates and decelerates quickly. Compact size, with lower cost and energy use.",
-   "ko": "AC 서보 벡터 모터는 저속에서 높은 토크를 내는 AC 유도 모터입니다. 우수한 전기적 특성으로 저속과 고속 모두에서 높은 성능을 유지하며, 정밀한 기계 설계로 안정성과 수명을 높였습니다. 정토크 출력으로 고정밀 모션 제어 요구를 충족합니다. 충격 부하에 대한 응답이 개선되어 벨트 구동이든 커플링 직결이든 절단 성능이 뚜렷이 향상됩니다. 소비 전력이 낮고 저소음으로 설계되었으며, 고품질 주철 프레임과 강화 절연으로 수명이 깁니다. 고속에서는 정출력을, 저속에서는 안정된 자계를 유지합니다. 전 주파수 범위에서 운전할 수 있고 영속도에서도 정격 토크를 내며 가감속이 빠릅니다. 크기가 작고 비용과 에너지 소비가 낮습니다."
-  },
-  {
-   "id": "b47e4ed4",
-   "vi": "Dòng sản phẩm",
-   "zh": "系列",
-   "en": "Series",
-   "ko": "시리즈"
-  },
-  {
-   "id": "f5e787bf",
-   "vi": "19 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
-   "zh": "19 種機框。點選型號可查看完整規格表與外形尺寸圖。",
-   "en": "19 frame sizes. Open a model for the full table and dimension drawing.",
-   "ko": "프레임 19종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
-  },
-  {
-   "id": "e3b127b7",
-   "vi": "Cỡ khung (model)",
-   "zh": "機框（型號）",
-   "en": "Frame (model)",
-   "ko": "프레임(모델)"
-  },
-  {
-   "id": "b95f944f",
-   "vi": "Công suất định mức (kW)",
-   "zh": "額定輸出（kW）",
-   "en": "Rated output (kW)",
-   "ko": "정격 출력(kW)"
-  },
-  {
-   "id": "b5330a66",
-   "vi": "Tốc độ định mức (RPM)",
-   "zh": "額定轉速（RPM）",
-   "en": "Rated speed (RPM)",
-   "ko": "정격 속도(RPM)"
-  },
-  {
-   "id": "1099e998",
-   "vi": "Mô-men định mức (N·m)",
-   "zh": "額定轉矩（N·m）",
-   "en": "Rated torque (N·m)",
-   "ko": "정격 토크(N·m)"
-  },
-  {
-   "id": "915cc0fe",
-   "vi": "Dòng định mức (A)",
-   "zh": "額定電流（A）",
-   "en": "Rated current (A)",
-   "ko": "정격 전류(A)"
-  },
-  {
-   "id": "90ee76c6",
-   "vi": "20 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
-   "zh": "20 種機框。點選型號可查看完整規格表與外形尺寸圖。",
-   "en": "20 frame sizes. Open a model for the full table and dimension drawing.",
-   "ko": "프레임 20종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
-  },
-  {
-   "id": "60c02296",
-   "vi": "17 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
-   "zh": "17 種機框。點選型號可查看完整規格表與外形尺寸圖。",
-   "en": "17 frame sizes. Open a model for the full table and dimension drawing.",
-   "ko": "프레임 17종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
-  },
-  {
-   "id": "fffd8d5a",
-   "vi": "Biến tần servo vector | Charger Mechatronic Việt Nam",
-   "zh": "向量伺服驅動器 | Charger Mechatronic 越南",
-   "en": "Vector Servo Drive | Charger Mechatronic Vietnam",
-   "ko": "벡터 서보 드라이브 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "5d79b0ad",
-   "vi": "Biến tần servo vector VFI-CG80 với bốn chế độ điều khiển, cấp 220 V và 440 V.",
-   "zh": "VFI-CG80 向量伺服驅動器，四種控制模式，220 V 與 440 V 級。",
-   "en": "VFI-CG80 vector servo drives with four control modes, in 220 V and 440 V classes.",
-   "ko": "네 가지 제어 모드를 갖춘 VFI-CG80 벡터 서보 드라이브, 220 V급과 440 V급."
-  },
-  {
-   "id": "7babd4ee",
-   "vi": "VFI-CG80 có những chế độ điều khiển nào?",
-   "zh": "VFI-CG80 有哪些控制模式？",
-   "en": "Which control modes does the VFI-CG80 have?",
-   "ko": "VFI-CG80에는 어떤 제어 모드가 있습니까?"
-  },
-  {
-   "id": "c54468a9",
-   "vi": "Bốn chế độ: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG, chọn trên bàn phím vận hành.",
-   "zh": "四種：開環向量、磁通向量、V/f，以及帶 PG 回授的 V/f，可在操作面板上選擇。",
-   "en": "Four: open-loop vector, flux vector, V/f and V/f with PG feedback, selected on the operator keypad.",
-   "ko": "네 가지입니다: 오픈 루프 벡터, 자속 벡터, V/f, PG 피드백 V/f. 조작 키패드에서 선택합니다."
-  },
-  {
-   "id": "8d7b4df2",
-   "vi": "Có những cấp điện áp và công suất nào?",
-   "zh": "有哪些電壓等級與容量？",
-   "en": "Which voltage classes and capacities are available?",
-   "ko": "어떤 전압 등급과 용량이 있습니까?"
-  },
-  {
-   "id": "e18a01b7",
-   "vi": "Cấp 220 V từ 2 đến 25 HP và cấp 440 V từ 2 đến 400 HP, kèm bộ hãm cho từng cấp.",
-   "zh": "220 V 級 2–25 HP，440 V 級 2–400 HP，並有對應的煞車器。",
-   "en": "220 V class from 2 to 25 HP and 440 V class from 2 to 400 HP, with brake units for each class.",
-   "ko": "220 V급 2–25 HP, 440 V급 2–400 HP이며 등급별 브레이크 유닛이 있습니다."
-  },
-  {
-   "id": "5b3becee",
-   "vi": "Biến tần servo vector VFI-CG80",
-   "zh": "VFI-CG80 向量伺服驅動器",
-   "en": "VFI-CG80 vector servo drive",
-   "ko": "VFI-CG80 벡터 서보 드라이브"
-  },
-  {
-   "id": "eb3be135",
-   "vi": "Cấp điện áp",
-   "zh": "電壓等級",
-   "en": "Voltage class",
-   "ko": "전압 등급"
-  },
-  {
-   "id": "8a61c87a",
-   "vi": "Bộ hãm",
-   "zh": "煞車器",
-   "en": "Brake units",
-   "ko": "브레이크 유닛"
-  },
-  {
-   "id": "ec9cb4e5",
-   "vi": "Thông số chung",
-   "zh": "一般規格",
-   "en": "General specifications",
-   "ko": "일반 사양"
-  },
-  {
-   "id": "c3562237",
-   "vi": "Cấp 220 V",
-   "zh": "220 V 級",
-   "en": "220 V class",
-   "ko": "220 V급"
-  },
-  {
-   "id": "2963b781",
-   "vi": "Model",
-   "zh": "型號",
-   "en": "Model",
-   "ko": "모델"
-  },
-  {
-   "id": "38c4408c",
-   "vi": "Mã",
-   "zh": "代碼",
-   "en": "Code",
-   "ko": "코드"
-  },
-  {
-   "id": "0885ef25",
-   "vi": "Điện áp",
-   "zh": "電壓",
-   "en": "Voltage",
-   "ko": "전압"
-  },
-  {
-   "id": "d093441e",
-   "vi": "Cấp 440 V",
-   "zh": "440 V 級",
-   "en": "440 V class",
-   "ko": "440 V급"
-  }
- ]
+  "strings": [
+    {
+      "id": "0597525a",
+      "vi": "Bộ điều khiển số | Charger Mechatronic Việt Nam",
+      "zh": "全數位式控制器 | Charger Mechatronic 越南",
+      "en": "Full Digital Controller | Charger Mechatronic Vietnam",
+      "ko": "풀 디지털 컨트롤러 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "3932f407",
+      "vi": "Bộ điều khiển CG có mấy trục?",
+      "zh": "CG 控制器有幾軸？",
+      "en": "How many axes does the CG controller have?",
+      "ko": "CG 컨트롤러는 몇 축입니까?"
+    },
+    {
+      "id": "15d92bc0",
+      "vi": "Có ba bản: 2 trục, 4 trục và 8 trục.",
+      "zh": "有 2 軸、4 軸、8 軸三種系列。",
+      "en": "Three versions: 2, 4 and 8 axes.",
+      "ko": "2축, 4축, 8축의 세 가지 모델이 있습니다."
+    },
+    {
+      "id": "901c6822",
+      "vi": "Bộ điều khiển CG dùng cho máy nào?",
+      "zh": "CG 控制器用在哪些機器？",
+      "en": "Which machines is the CG controller used on?",
+      "ko": "CG 컨트롤러는 어떤 장비에 사용합니까?"
+    },
+    {
+      "id": "0e7e4b7e",
+      "vi": "Máy cắt và dây chuyền gia công kim loại cần điều khiển chuyển động nhiều trục, ví dụ máy cắt bay và dây chuyền cắt tấm.",
+      "zh": "需要多軸運動控制的裁切機與金屬加工產線，例如飛剪機與停剪線。",
+      "en": "Cutting machines and metal-processing lines that need multi-axis motion control, such as flying shears and cut-to-length lines.",
+      "ko": "플라잉 시어, 정척 절단 라인처럼 다축 모션 제어가 필요한 절단기와 금속 가공 라인에 사용합니다."
+    },
+    {
+      "id": "93338693",
+      "vi": "Thông số bản 4 trục",
+      "zh": "規格（4 軸系列）",
+      "en": "Specifications, 4-axis version",
+      "ko": "사양(4축 모델)"
+    },
+    {
+      "id": "7e7ed74c",
+      "vi": "Sản phẩm: servo, biến tần, bộ điều khiển | Charger Mechatronic Việt Nam",
+      "zh": "產品介紹：伺服馬達、驅動器、控制器｜甲子機電越南",
+      "en": "Products: servo motors, drives, controllers | Charger Mechatronic Vietnam",
+      "ko": "제품: 서보 모터, 드라이브, 컨트롤러 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "03597a8a",
+      "vi": "Động cơ servo SVMF/SVMJ 0,75–132 kW, biến tần VFI-CG80 220/440 V, bộ điều khiển CG 2/4/8 trục, tủ điều khiển, encoder, khớp nối, PLC.",
+      "zh": "SVMF／SVMJ 伺服馬達、VFI-CG80 220／440 V 驅動器、CG 2／4／8 軸控制器、控制盤體、編碼器、聯軸器、PLC。",
+      "en": "SVMF/SVMJ servo motors, VFI-CG80 drives 220/440 V, CG controllers with 2/4/8 axes, control panels, encoders, couplings and PLCs.",
+      "ko": "SVMF/SVMJ 서보 모터, VFI-CG80 220/440 V 드라이브, CG 2/4/8축 컨트롤러, 제어반, 엔코더, 커플링, PLC."
+    },
+    {
+      "id": "5176fbec",
+      "vi": "Thông số kỹ thuật xem ở đâu?",
+      "zh": "規格在哪裡看？",
+      "en": "Where are the specifications?",
+      "ko": "사양은 어디에서 볼 수 있습니까?"
+    },
+    {
+      "id": "514c8253",
+      "vi": "Mỗi model có một trang riêng với bảng thông số dạng văn bản; động cơ servo có thêm bản vẽ kích thước. Toàn bộ danh mục cũng có ở dạng dữ liệu JSON tại /data/products.json.",
+      "zh": "每個型號都有獨立頁面與文字規格表，伺服馬達另附外形尺寸圖。全部型號也提供 JSON 資料：/data/products.json。",
+      "en": "Each model has its own page with a text specification table; servo motors also have a dimension drawing. The whole range is also available as JSON data at /data/products.json.",
+      "ko": "모델마다 텍스트 사양표가 있는 개별 페이지가 있으며, 서보 모터에는 외형 치수도가 함께 있습니다. 전체 제품은 /data/products.json 에서 JSON 데이터로도 제공합니다."
+    },
+    {
+      "id": "82cde92f",
+      "vi": "Ai hỗ trợ sản phẩm tại Việt Nam?",
+      "zh": "越南當地由誰提供支援？",
+      "en": "Who supports the products in Vietnam?",
+      "ko": "베트남에서는 누가 제품을 지원합니까?"
+    },
+    {
+      "id": "d904ece1",
+      "vi": "CMV tại Thành phố Hồ Chí Minh: khảo sát, lắp đặt, hiệu chỉnh và cung cấp phụ tùng. Hợp đồng và hóa đơn do pháp nhân Việt Nam ký, xuất.",
+      "zh": "由胡志明市的 CMV 負責：勘查、安裝、調試與備品供應。合約與發票由越南公司簽署、開立。",
+      "en": "CMV in Ho Chi Minh City: survey, installation, commissioning and spare parts. Contracts and invoices are issued by the Vietnam entity.",
+      "ko": "호찌민시의 CMV가 현장 조사, 설치, 시운전, 예비 부품 공급을 담당합니다. 계약과 세금계산서는 베트남 법인이 체결·발행합니다."
+    },
+    {
+      "id": "72015e9b",
+      "vi": "Động cơ servo vector AC, biến tần servo vector, bộ điều khiển số và thiết bị đi kèm của Charger Mechatronic (CMC), cung cấp và hỗ trợ tại Việt Nam qua CMV.",
+      "zh": "甲子機電（CMC）交流伺服向量馬達、向量伺服驅動器、全數位式控制器與周邊設備，由 CMV 在越南供應與支援。",
+      "en": "Charger Mechatronic (CMC) AC servo vector motors, vector servo drives, digital controllers and accessories, supplied and supported in Vietnam by CMV.",
+      "ko": "Charger Mechatronic(CMC)의 AC 서보 벡터 모터, 벡터 서보 드라이브, 디지털 컨트롤러와 주변 기기를 CMV가 베트남에서 공급하고 지원합니다."
+    },
+    {
+      "id": "4865f546",
+      "vi": "Động cơ servo vector AC là động cơ cảm ứng xoay chiều cho mô-men lớn ở tốc độ thấp.",
+      "zh": "AC交流伺服向量馬達，低轉速高扭力的交流感應馬達。高性能的電機特性，不論高低轉速都有完美的表現。高精度的機械設計，大大提高交流伺服馬達的穩定性和壽命。具定轉矩輸出，符合高精度自動動作控制需求。改進對衝擊負荷的反應，不論皮帶輪傳動或聯軸器直傳，切削性能明顯提升。用電量低，低噪音伺服馬達設計；高品質鑄鐵製成，強化絕緣，延長使用壽命。高速運轉維持定馬力輸出，低速運轉保持平穩性磁場。可在整個頻率範圍內運轉、馬達零速時可輸出額定轉矩、且可以快速的加減速。馬達體積小，成本及能耗都較低",
+      "en": "The AC servo vector motor is an AC induction motor that delivers high torque at low speed.",
+      "ko": "AC 서보 벡터 모터는 저속에서 높은 토크를 내는 AC 유도 모터입니다."
+    },
+    {
+      "id": "f691b74f",
+      "vi": "Xem danh sách",
+      "zh": "查看型號",
+      "en": "View the range",
+      "ko": "모델 보기"
+    },
+    {
+      "id": "5208e891",
+      "vi": "VFI-CG80 là biến tần servo vector hiệu suất cao với bốn chế độ điều khiển: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG.",
+      "zh": "VFI-CG80 向量伺服驅動器是高性能變頻器，提供四種控制模式：開環矢量，磁通矢量，V / f控制和帶PG反饋的V / f控制。控制方法可以根據用戶的應用，通過使用操作員來輕鬆選擇。多種規格可供選配，符合客戶需求",
+      "en": "The VFI-CG80 vector servo drive is a high-performance inverter with four control modes: open-loop vector, flux vector, V/f control and V/f control with PG feedback.",
+      "ko": "VFI-CG80 벡터 서보 드라이브는 오픈 루프 벡터, 자속 벡터, V/f 제어, PG 피드백 V/f 제어의 네 가지 제어 모드를 갖춘 고성능 인버터입니다."
+    },
+    {
+      "id": "ee085c55",
+      "vi": "Bộ điều khiển số CG của Charger Mechatronic điều khiển chuyển động nhiều trục cho máy cắt và dây chuyền gia công kim loại, có bản 2, 4 và 8 trục.",
+      "zh": "甲子機電 CG 全數位式控制器，提供 2 軸、4 軸、8 軸系列，用於裁切機與金屬加工產線的多軸運動控制",
+      "en": "The Charger Mechatronic CG full digital controller runs multi-axis motion for cutting machines and metal-processing lines, in 2, 4 and 8 axis versions.",
+      "ko": "Charger Mechatronic CG 풀 디지털 컨트롤러는 절단기와 금속 가공 라인의 다축 모션을 제어하며 2축, 4축, 8축 모델이 있습니다."
+    },
+    {
+      "id": "50bbdaac",
+      "vi": "Tủ điều khiển, encoder, khớp nối và PLC dùng cùng hệ thống servo và biến tần của Charger Mechatronic.",
+      "zh": "搭配甲子機電伺服與驅動系統使用的控制盤體、編碼器、聯軸器與可程式控制器",
+      "en": "Control panels, encoders, couplings and PLCs used with Charger Mechatronic servo and drive systems.",
+      "ko": "Charger Mechatronic 서보 및 드라이브 시스템과 함께 쓰는 제어반, 엔코더, 커플링, PLC입니다."
+    },
+    {
+      "id": "33e26e69",
+      "vi": "Sản phẩm khác | Charger Mechatronic Việt Nam",
+      "zh": "其他 | Charger Mechatronic 越南",
+      "en": "Other Products | Charger Mechatronic Vietnam",
+      "ko": "기타 제품 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "2bcdbee9",
+      "vi": "Nhóm này gồm những gì?",
+      "zh": "這一類包含哪些產品？",
+      "en": "What does this group include?",
+      "ko": "이 분류에는 어떤 제품이 있습니까?"
+    },
+    {
+      "id": "f8f3999a",
+      "vi": "Tủ điều khiển NUSCO và CMC, encoder động cơ, encoder bánh xe đo, khớp nối và PLC, dùng cùng hệ thống servo và biến tần.",
+      "zh": "NUSCO 與 CMC 控制盤體、馬達編碼器、量測輪編碼器、聯軸器與 PLC，搭配伺服與驅動系統使用。",
+      "en": "NUSCO and CMC control panels, motor encoders, measuring-roll encoders, couplings and PLCs, used with the servo and drive systems.",
+      "ko": "NUSCO 및 CMC 제어반, 모터 엔코더, 측장 롤 엔코더, 커플링, PLC로, 서보·드라이브 시스템과 함께 사용합니다."
+    },
+    {
+      "id": "ee324ae0",
+      "vi": "Thông số được xác định thế nào?",
+      "zh": "規格如何確定？",
+      "en": "How are the specifications set?",
+      "ko": "사양은 어떻게 정합니까?"
+    },
+    {
+      "id": "9956baaf",
+      "vi": "Thông số và cấu hình được xác nhận theo từng dự án và ghi trong đề xuất kỹ thuật.",
+      "zh": "規格與配置依專案確認，並寫入技術提案。",
+      "en": "Specifications and configuration are confirmed per project and written into the technical proposal.",
+      "ko": "사양과 구성은 프로젝트별로 확인하여 기술 제안서에 명시합니다."
+    },
+    {
+      "id": "640213c9",
+      "vi": "Động cơ servo AC | Charger Mechatronic Việt Nam",
+      "zh": "交流伺服馬達 | Charger Mechatronic 越南",
+      "en": "AC Servo Motor | Charger Mechatronic Vietnam",
+      "ko": "AC 서보 모터 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "7e7c5c20",
+      "vi": "Động cơ cảm ứng servo vector AC dòng SVMF và SVMJ, cấp bảo vệ IP54 và IP23, mô-men lớn ở tốc độ thấp.",
+      "zh": "SVMF、SVMJ 系列交流伺服向量感應馬達，IP54 與 IP23 防護等級，低轉速高扭力。",
+      "en": "SVMF and SVMJ AC servo vector induction motors in IP54 and IP23, with high torque at low speed.",
+      "ko": "SVMF, SVMJ 시리즈 AC 서보 벡터 유도 모터. IP54와 IP23 보호 등급, 저속 고토크."
+    },
+    {
+      "id": "d8da678c",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-100LB",
+      "zh": "SVMF系列 IP54 SF-100LB交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-100LB AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-100LB"
+    },
+    {
+      "id": "6e34217a",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-112L",
+      "zh": "SVMF系列 IP54 SF-112L交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-112L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112L"
+    },
+    {
+      "id": "53cddaf6",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-112XA",
+      "zh": "S V M F系 列 IP54 SF-112XA 交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-112XA AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XA"
+    },
+    {
+      "id": "f8735897",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-112XB",
+      "zh": "S V M F 系 列 IP54 SF-112XB 交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-112XB AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-112XB"
+    },
+    {
+      "id": "f57a6b87",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-132L",
+      "zh": "SVMF系列 IP54 SF-132L交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-132L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132L"
+    },
+    {
+      "id": "5b5ff0cc",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-132LA",
+      "zh": "SVMF系列 IP54 SF-132LA交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-132LA AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132LA"
+    },
+    {
+      "id": "e7c2430a",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-132MB",
+      "zh": "SVMF 系 列 IP54 SF-132MB 交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-132MB AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-132MB"
+    },
+    {
+      "id": "2be6f195",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-160L",
+      "zh": "SVMF系列 IP54 SF-160L交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-160L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160L"
+    },
+    {
+      "id": "6dab5444",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-160M",
+      "zh": "SVMF系列 IP54 SF-160M交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-160M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160M"
+    },
+    {
+      "id": "7539271c",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-160S",
+      "zh": "SVMF系列 IP54 SF-160S交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-160S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160S"
+    },
+    {
+      "id": "89479a9a",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-160X",
+      "zh": "SVMF系列 IP54 SF-160X交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-160X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-160X"
+    },
+    {
+      "id": "fa8a8838",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-180L",
+      "zh": "SVMF系列 IP54 SF-180L交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-180L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180L"
+    },
+    {
+      "id": "1992e2bb",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-180M",
+      "zh": "SVMF系列 IP54 SF-180M交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-180M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180M"
+    },
+    {
+      "id": "c5249cad",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-180P",
+      "zh": "SVMF系列 IP54 SF-180P交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-180P AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180P"
+    },
+    {
+      "id": "5d799222",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-180S",
+      "zh": "SVMF系列 IP54 SF-180S交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-180S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180S"
+    },
+    {
+      "id": "015417be",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-180X",
+      "zh": "SVMF系列 IP54 SF-180X交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-180X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-180X"
+    },
+    {
+      "id": "54469864",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-90L",
+      "zh": "SVMF系列 IP54 SF-90L交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-90L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90L"
+    },
+    {
+      "id": "3a694692",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-90MA",
+      "zh": "SVMF系列 IP54 SF-90MA交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-90MA AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MA"
+    },
+    {
+      "id": "69718fdd",
+      "vi": "Động cơ servo vector AC SVMF IP54 SF-90MB",
+      "zh": "SVMF系列 IP54 SF-90MB交流伺服向量馬達",
+      "en": "SVMF Series IP54 SF-90MB AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP54 SF-90MB"
+    },
+    {
+      "id": "1fd511f6",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-132L",
+      "zh": "SVMF系列 IP23 SA-132L交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-132L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132L"
+    },
+    {
+      "id": "b640252f",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-132M",
+      "zh": "SVMF系列 IP23 SA-132M交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-132M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132M"
+    },
+    {
+      "id": "b6a716b2",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-132S",
+      "zh": "SVMF系列 IP23 SA-132S交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-132S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132S"
+    },
+    {
+      "id": "3c2ccc8d",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-132X",
+      "zh": "SVMF系列 IP23 SA-132X交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-132X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-132X"
+    },
+    {
+      "id": "c19f12d4",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-160L",
+      "zh": "SVMF系列 IP23 SA-160L交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-160L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160L"
+    },
+    {
+      "id": "15bec39d",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-160M",
+      "zh": "SVMF系列 IP23 SA-160M交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-160M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160M"
+    },
+    {
+      "id": "f236b724",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-160X",
+      "zh": "SVMF系列 IP23 SA-160X交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-160X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-160X"
+    },
+    {
+      "id": "6a911a0d",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-180L",
+      "zh": "SVMF系列 IP23 SA-180L交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-180L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180L"
+    },
+    {
+      "id": "c92f3a97",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-180M",
+      "zh": "SVMF系列 IP23 SA-180M交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-180M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180M"
+    },
+    {
+      "id": "e4686293",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-180S",
+      "zh": "SVMF系列 IP23 SA-180S交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-180S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180S"
+    },
+    {
+      "id": "73153162",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-180X",
+      "zh": "SVMF系列 IP23 SA-180X交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-180X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-180X"
+    },
+    {
+      "id": "7db5c1da",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-225L",
+      "zh": "SVMF系列IP23 SA-225L交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-225L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225L"
+    },
+    {
+      "id": "9558612e",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-225M",
+      "zh": "S V M F 系 列 IP23 SA-225M 交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-225M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225M"
+    },
+    {
+      "id": "99e825fe",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-225S",
+      "zh": "SVMF系列 IP23 SA-225S交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-225S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225S"
+    },
+    {
+      "id": "ab2dd2a0",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-225X",
+      "zh": "SVMF系列 IP23 SA-225X交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-225X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-225X"
+    },
+    {
+      "id": "1d212e44",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-280L",
+      "zh": "SVMF系列 IP23 SA-280L交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-280L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280L"
+    },
+    {
+      "id": "e15fe585",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-280M",
+      "zh": "SVMF系列 IP23 SA-280M交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-280M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280M"
+    },
+    {
+      "id": "6f55696e",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-280S",
+      "zh": "SVMF系列 IP23 SA-280S交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-280S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280S"
+    },
+    {
+      "id": "6248ff63",
+      "vi": "Động cơ servo vector AC SVMF IP23 SA-280X",
+      "zh": "SVMF系列 IP23 SA-280X交流伺服向量馬達",
+      "en": "SVMF Series IP23 SA-280X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMF IP23 SA-280X"
+    },
+    {
+      "id": "b02e3098",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100L",
+      "zh": "SVMJ系列 IP54 SVM-100L 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-100L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100L"
+    },
+    {
+      "id": "78444cac",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100M",
+      "zh": "SVMJ系列 IP54 SVM-100M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-100M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100M"
+    },
+    {
+      "id": "c339efba",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-100S",
+      "zh": "SVMJ系列 IP54 SVM-100S 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-100S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-100S"
+    },
+    {
+      "id": "db368932",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132L",
+      "zh": "SVMJ系列 IP54 SVM-132L 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-132L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132L"
+    },
+    {
+      "id": "da323987",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132M",
+      "zh": "SVMJ 系 列 IP54 SVM-132M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-132M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132M"
+    },
+    {
+      "id": "0cd4f8b8",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132S",
+      "zh": "SVMJ 系 列 IP54 SVM-132S 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-132S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132S"
+    },
+    {
+      "id": "d082473c",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-132X",
+      "zh": "SVMJ 系 列 IP54 SVM-132X 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-132X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-132X"
+    },
+    {
+      "id": "81bcdd7c",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160L",
+      "zh": "SVMJ 系 列 IP54 SVM-160L 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-160L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160L"
+    },
+    {
+      "id": "258ecec5",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160M",
+      "zh": "SVMJ 系 列 IP54 SVM-160M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-160M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160M"
+    },
+    {
+      "id": "82a4365f",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-160S",
+      "zh": "SVMJ 系 列 IP54 SVM-160S 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-160S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-160S"
+    },
+    {
+      "id": "8fb80ed5",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180L",
+      "zh": "SVMJ 系 列 IP54 SVM-180L 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-180L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180L"
+    },
+    {
+      "id": "419ec64d",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180M",
+      "zh": "SVMJ 系 列 IP54 SVM-180M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-180M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180M"
+    },
+    {
+      "id": "b41d9f65",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-180S",
+      "zh": "SVMJ 系 列 IP54 SVM-180S 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-180S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-180S"
+    },
+    {
+      "id": "04773e25",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225L",
+      "zh": "SVMJ 系 列 IP54 SVM-225L 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-225L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225L"
+    },
+    {
+      "id": "63a2fe50",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225M",
+      "zh": "SVMJ 系 列 IP54 SVM-225M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-225M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225M"
+    },
+    {
+      "id": "4aaa18fe",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-225S",
+      "zh": "SVMJ 系 列 IP54 SVM-225S 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-225S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-225S"
+    },
+    {
+      "id": "521cf727",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-80S",
+      "zh": "SVMJ系列 IP54 SVM-80S交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-80S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-80S"
+    },
+    {
+      "id": "d9074b06",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90L",
+      "zh": "SVMJ系列 IP54 SVM-90L交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-90L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90L"
+    },
+    {
+      "id": "dfa774ed",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90M",
+      "zh": "SVMJ系 列 IP54 SVM-90M 交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-90M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90M"
+    },
+    {
+      "id": "7a07a336",
+      "vi": "Động cơ servo vector AC SVMJ IP54 SVM-90S",
+      "zh": "SVMJ系列 IP54 SVM-90S交流伺服向量馬達",
+      "en": "SVMJ Series IP54 SVM-90S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP54 SVM-90S"
+    },
+    {
+      "id": "3252776b",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132L",
+      "zh": "SVMJ系列 IP23 SA-132L交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-132L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132L"
+    },
+    {
+      "id": "b1445fd1",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132M",
+      "zh": "SVMJ系列 IP23 SA-132M交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-132M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132M"
+    },
+    {
+      "id": "0d2e6e72",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132S",
+      "zh": "SVMJ系列 IP23 SA-132S交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-132S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132S"
+    },
+    {
+      "id": "b56e6d13",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-132X",
+      "zh": "SVMJ系列 IP23 SA-132X交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-132X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-132X"
+    },
+    {
+      "id": "5b98f4a2",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160L",
+      "zh": "SVMJ系列 IP23 SA-160L交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-160L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160L"
+    },
+    {
+      "id": "a24a64be",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160M",
+      "zh": "SVMJ系列 IP23 SA-160M交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-160M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160M"
+    },
+    {
+      "id": "d1c8b08e",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-160S",
+      "zh": "SVMJ系列 IP23 SA-160S交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-160S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-160S"
+    },
+    {
+      "id": "1f02a495",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180L",
+      "zh": "SVMJ系列 IP23 SA-180L交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-180L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180L"
+    },
+    {
+      "id": "8cd0abcf",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180M",
+      "zh": "SVMJ系列 IP23 SA-180M交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-180M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180M"
+    },
+    {
+      "id": "dc327ac6",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-180S",
+      "zh": "SVMJ系列 IP23 SA-180S交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-180S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-180S"
+    },
+    {
+      "id": "a38892ac",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225L",
+      "zh": "SVMJ系列IP23 SA-225L交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-225L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225L"
+    },
+    {
+      "id": "b6507c6d",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225M",
+      "zh": "SVMJ系列 IP23 SA-225M交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-225M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225M"
+    },
+    {
+      "id": "9b82f81f",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-225S",
+      "zh": "SVMJ系列 IP23 SA-225S交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-225S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-225S"
+    },
+    {
+      "id": "8d06adeb",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280L",
+      "zh": "SVMJ系列 IP23 SA-280L交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-280L AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280L"
+    },
+    {
+      "id": "bdc61178",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280M",
+      "zh": "SVMJ系列 IP23 SA-280M交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-280M AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280M"
+    },
+    {
+      "id": "17124169",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280S",
+      "zh": "SVMJ系列 IP23 SA-280S交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-280S AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280S"
+    },
+    {
+      "id": "c5a6858f",
+      "vi": "Động cơ servo vector AC SVMJ IP23 SA-280X",
+      "zh": "SVMJ系列 IP23 SA-280X交流伺服向量馬達",
+      "en": "SVMJ Series IP23 SA-280X AC Servo Vector Motor",
+      "ko": "AC 서보 벡터 모터 SVMJ IP23 SA-280X"
+    },
+    {
+      "id": "e36ee931",
+      "vi": "IP54 và IP23 khác nhau thế nào?",
+      "zh": "IP54 和 IP23 有什麼不同？",
+      "en": "What is the difference between IP54 and IP23?",
+      "ko": "IP54와 IP23은 어떻게 다릅니까?"
+    },
+    {
+      "id": "48a96e15",
+      "vi": "IP54 chống bụi và chống nước bắn từ mọi hướng, hợp với môi trường nhiều bụi. IP23 chống vật rắn lớn hơn 12,5 mm và nước phun xiên, dùng cho nơi sạch và khô hơn. Chọn theo môi trường lắp đặt.",
+      "zh": "IP54 防塵並可防任意方向的濺水，適合粉塵較多的環境；IP23 可防大於 12.5 mm 的固體與斜向噴水，適合較乾淨乾燥的場所。請依安裝環境選擇。",
+      "en": "IP54 is protected against dust and water splashing from any direction, for dusty environments. IP23 is protected against solid objects over 12.5 mm and sprayed water, for cleaner, drier locations. Choose by the installation environment.",
+      "ko": "IP54는 분진과 모든 방향의 물 튀김으로부터 보호되어 분진이 많은 환경에 적합합니다. IP23은 12.5 mm 초과 고형물과 분사되는 물로부터 보호되며 비교적 깨끗하고 건조한 장소에 사용합니다. 설치 환경에 따라 선택하십시오."
+    },
+    {
+      "id": "216f0537",
+      "vi": "Có bản vẽ kích thước không?",
+      "zh": "有外形尺寸圖嗎？",
+      "en": "Are dimension drawings available?",
+      "ko": "외형 치수도가 있습니까?"
+    },
+    {
+      "id": "dfff2138",
+      "vi": "Có. Trang của mỗi cỡ khung có bản vẽ kích thước (đơn vị mm) và bảng thông số theo từng tốc độ định mức.",
+      "zh": "有。每個機框的頁面都有外形尺寸圖（單位 mm）與各額定轉速的規格表。",
+      "en": "Yes. Each frame size page has a dimension drawing (in mm) and a specification table for each rated speed.",
+      "ko": "예. 프레임별 페이지에 외형 치수도(단위 mm)와 정격 속도별 사양표가 있습니다."
+    },
+    {
+      "id": "4f8fcaa7",
+      "vi": "Động cơ servo vector AC là động cơ cảm ứng xoay chiều cho mô-men lớn ở tốc độ thấp. Đặc tính điện hiệu suất cao giúp động cơ làm việc tốt ở cả tốc độ cao và thấp; thiết kế cơ khí chính xác nâng cao độ ổn định và tuổi thọ. Mô-men đầu ra không đổi đáp ứng yêu cầu điều khiển chuyển động chính xác cao. Đáp ứng với tải va đập được cải thiện, nên dù truyền động bằng đai hay khớp nối trực tiếp, hiệu suất cắt đều tăng rõ rệt. Tiêu thụ điện thấp, thiết kế ít ồn; thân gang đúc chất lượng cao, cách điện tăng cường, kéo dài tuổi thọ. Khi chạy tốc độ cao động cơ giữ công suất không đổi, khi chạy tốc độ thấp từ trường vẫn ổn định. Động cơ làm việc trên toàn dải tần số, cho mô-men định mức ngay ở tốc độ bằng không và tăng giảm tốc nhanh. Kích thước gọn, chi phí và mức tiêu thụ năng lượng thấp.",
+      "zh": "AC交流伺服向量馬達，低轉速高扭力的交流感應馬達。高性能的電機特性，不論高低轉速都有完美的表現。高精度的機械設計，大大提高交流伺服馬達的穩定性和壽命。具定轉矩輸出，符合高精度自動動作控制需求。改進對衝擊負荷的反應，不論皮帶輪傳動或聯軸器直傳，切削性能明顯提升。用電量低，低噪音伺服馬達設計；高品質鑄鐵製成，強化絕緣，延長使用壽命。高速運轉維持定馬力輸出，低速運轉保持平穩性磁場。可在整個頻率範圍內運轉、馬達零速時可輸出額定轉矩、且可以快速的加減速。馬達體積小，成本及能耗都較低。",
+      "en": "The AC servo vector motor is an AC induction motor that delivers high torque at low speed. Its electrical characteristics keep performance high at both low and high speed, and the precise mechanical design improves stability and service life. Constant torque output meets the needs of high-precision motion control. Response to impact load is improved, so cutting performance rises clearly with either belt drive or direct coupling. Low power consumption and a low-noise design; a high-quality cast-iron frame with reinforced insulation extends service life. The motor holds constant horsepower at high speed and a stable magnetic field at low speed. It runs across the whole frequency range, delivers rated torque at zero speed, and accelerates and decelerates quickly. Compact size, with lower cost and energy use.",
+      "ko": "AC 서보 벡터 모터는 저속에서 높은 토크를 내는 AC 유도 모터입니다. 우수한 전기적 특성으로 저속과 고속 모두에서 높은 성능을 유지하며, 정밀한 기계 설계로 안정성과 수명을 높였습니다. 정토크 출력으로 고정밀 모션 제어 요구를 충족합니다. 충격 부하에 대한 응답이 개선되어 벨트 구동이든 커플링 직결이든 절단 성능이 뚜렷이 향상됩니다. 소비 전력이 낮고 저소음으로 설계되었으며, 고품질 주철 프레임과 강화 절연으로 수명이 깁니다. 고속에서는 정출력을, 저속에서는 안정된 자계를 유지합니다. 전 주파수 범위에서 운전할 수 있고 영속도에서도 정격 토크를 내며 가감속이 빠릅니다. 크기가 작고 비용과 에너지 소비가 낮습니다."
+    },
+    {
+      "id": "b47e4ed4",
+      "vi": "Dòng sản phẩm",
+      "zh": "系列",
+      "en": "Series",
+      "ko": "시리즈"
+    },
+    {
+      "id": "f5e787bf",
+      "vi": "19 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
+      "zh": "19 種機框。點選型號可查看完整規格表與外形尺寸圖。",
+      "en": "19 frame sizes. Open a model for the full table and dimension drawing.",
+      "ko": "프레임 19종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
+    },
+    {
+      "id": "e3b127b7",
+      "vi": "Cỡ khung (model)",
+      "zh": "機框（型號）",
+      "en": "Frame (model)",
+      "ko": "프레임(모델)"
+    },
+    {
+      "id": "b95f944f",
+      "vi": "Công suất định mức (kW)",
+      "zh": "額定輸出（kW）",
+      "en": "Rated output (kW)",
+      "ko": "정격 출력(kW)"
+    },
+    {
+      "id": "b5330a66",
+      "vi": "Tốc độ định mức (RPM)",
+      "zh": "額定轉速（RPM）",
+      "en": "Rated speed (RPM)",
+      "ko": "정격 속도(RPM)"
+    },
+    {
+      "id": "1099e998",
+      "vi": "Mô-men định mức (N·m)",
+      "zh": "額定轉矩（N·m）",
+      "en": "Rated torque (N·m)",
+      "ko": "정격 토크(N·m)"
+    },
+    {
+      "id": "915cc0fe",
+      "vi": "Dòng định mức (A)",
+      "zh": "額定電流（A）",
+      "en": "Rated current (A)",
+      "ko": "정격 전류(A)"
+    },
+    {
+      "id": "90ee76c6",
+      "vi": "20 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
+      "zh": "20 種機框。點選型號可查看完整規格表與外形尺寸圖。",
+      "en": "20 frame sizes. Open a model for the full table and dimension drawing.",
+      "ko": "프레임 20종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
+    },
+    {
+      "id": "60c02296",
+      "vi": "17 cỡ khung. Chọn model để xem bảng thông số đầy đủ và bản vẽ kích thước.",
+      "zh": "17 種機框。點選型號可查看完整規格表與外形尺寸圖。",
+      "en": "17 frame sizes. Open a model for the full table and dimension drawing.",
+      "ko": "프레임 17종. 모델을 선택하면 전체 사양표와 외형 치수도를 볼 수 있습니다."
+    },
+    {
+      "id": "fffd8d5a",
+      "vi": "Biến tần servo vector | Charger Mechatronic Việt Nam",
+      "zh": "向量伺服驅動器 | Charger Mechatronic 越南",
+      "en": "Vector Servo Drive | Charger Mechatronic Vietnam",
+      "ko": "벡터 서보 드라이브 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "5d79b0ad",
+      "vi": "Biến tần servo vector VFI-CG80 với bốn chế độ điều khiển, cấp 220 V và 440 V.",
+      "zh": "VFI-CG80 向量伺服驅動器，四種控制模式，220 V 與 440 V 級。",
+      "en": "VFI-CG80 vector servo drives with four control modes, in 220 V and 440 V classes.",
+      "ko": "네 가지 제어 모드를 갖춘 VFI-CG80 벡터 서보 드라이브, 220 V급과 440 V급."
+    },
+    {
+      "id": "7babd4ee",
+      "vi": "VFI-CG80 có những chế độ điều khiển nào?",
+      "zh": "VFI-CG80 有哪些控制模式？",
+      "en": "Which control modes does the VFI-CG80 have?",
+      "ko": "VFI-CG80에는 어떤 제어 모드가 있습니까?"
+    },
+    {
+      "id": "c54468a9",
+      "vi": "Bốn chế độ: vector vòng hở, vector từ thông, V/f và V/f có phản hồi PG, chọn trên bàn phím vận hành.",
+      "zh": "四種：開環向量、磁通向量、V/f，以及帶 PG 回授的 V/f，可在操作面板上選擇。",
+      "en": "Four: open-loop vector, flux vector, V/f and V/f with PG feedback, selected on the operator keypad.",
+      "ko": "네 가지입니다: 오픈 루프 벡터, 자속 벡터, V/f, PG 피드백 V/f. 조작 키패드에서 선택합니다."
+    },
+    {
+      "id": "8d7b4df2",
+      "vi": "Có những cấp điện áp và công suất nào?",
+      "zh": "有哪些電壓等級與容量？",
+      "en": "Which voltage classes and capacities are available?",
+      "ko": "어떤 전압 등급과 용량이 있습니까?"
+    },
+    {
+      "id": "e18a01b7",
+      "vi": "Cấp 220 V từ 2 đến 25 HP và cấp 440 V từ 2 đến 400 HP, kèm bộ hãm cho từng cấp.",
+      "zh": "220 V 級 2–25 HP，440 V 級 2–400 HP，並有對應的煞車器。",
+      "en": "220 V class from 2 to 25 HP and 440 V class from 2 to 400 HP, with brake units for each class.",
+      "ko": "220 V급 2–25 HP, 440 V급 2–400 HP이며 등급별 브레이크 유닛이 있습니다."
+    },
+    {
+      "id": "5b3becee",
+      "vi": "Biến tần servo vector VFI-CG80",
+      "zh": "VFI-CG80 向量伺服驅動器",
+      "en": "VFI-CG80 vector servo drive",
+      "ko": "VFI-CG80 벡터 서보 드라이브"
+    },
+    {
+      "id": "eb3be135",
+      "vi": "Cấp điện áp",
+      "zh": "電壓等級",
+      "en": "Voltage class",
+      "ko": "전압 등급"
+    },
+    {
+      "id": "8a61c87a",
+      "vi": "Bộ hãm",
+      "zh": "煞車器",
+      "en": "Brake units",
+      "ko": "브레이크 유닛"
+    },
+    {
+      "id": "ec9cb4e5",
+      "vi": "Thông số chung",
+      "zh": "一般規格",
+      "en": "General specifications",
+      "ko": "일반 사양"
+    },
+    {
+      "id": "c3562237",
+      "vi": "Cấp 220 V",
+      "zh": "220 V 級",
+      "en": "220 V class",
+      "ko": "220 V급"
+    },
+    {
+      "id": "2963b781",
+      "vi": "Model",
+      "zh": "型號",
+      "en": "Model",
+      "ko": "모델"
+    },
+    {
+      "id": "38c4408c",
+      "vi": "Mã",
+      "zh": "代碼",
+      "en": "Code",
+      "ko": "코드"
+    },
+    {
+      "id": "0885ef25",
+      "vi": "Điện áp",
+      "zh": "電壓",
+      "en": "Voltage",
+      "ko": "전압"
+    },
+    {
+      "id": "d093441e",
+      "vi": "Cấp 440 V",
+      "zh": "440 V 級",
+      "en": "440 V class",
+      "ko": "440 V급"
+    }
+  ]
 }

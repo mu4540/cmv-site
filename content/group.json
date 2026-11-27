@@ -1,67 +1,67 @@
 {
- "strings": [
-  {
-   "id": "ffd176b4",
-   "vi": "Công ty trong tập đoàn | Charger Mechatronic Việt Nam",
-   "zh": "集團據點 | Charger Mechatronic 越南",
-   "en": "Group companies | Charger Mechatronic Vietnam",
-   "ko": "그룹 거점 | Charger Mechatronic 베트남"
-  },
-  {
-   "id": "cefb582e",
-   "vi": "Thông tin liên hệ trụ sở chính Charger Mechatronic tại Đài Loan, công ty Quadrant tại Thượng Hải và chi nhánh Thái Lan.",
-   "zh": "甲子機電台灣總公司、上海廣權機電與泰國分公司的聯絡資訊。",
-   "en": "Contact details for the Charger Mechatronic headquarters in Taiwan, Quadrant in Shanghai and the Thailand branch.",
-   "ko": "Charger Mechatronic 대만 본사, 상하이 Quadrant, 태국 지사의 연락처."
-  },
-  {
-   "id": "1d64accf",
-   "vi": "Charger Mechatronic có trụ sở chính tại Đài Loan, công ty liên kết Quadrant tại Thượng Hải và các chi nhánh tại Thái Lan, Việt Nam.",
-   "zh": "甲子機電總公司位於台灣，關係企業廣權機電位於上海，並在泰國與越南設有分公司。",
-   "en": "Charger Mechatronic has its headquarters in Taiwan, the affiliate Quadrant in Shanghai, and branches in Thailand and Vietnam.",
-   "ko": "Charger Mechatronic은 대만에 본사, 상하이에 관계사 Quadrant, 태국과 베트남에 지사를 두고 있습니다."
-  },
-  {
-   "id": "4ae408dd",
-   "vi": "Trụ sở chính và chi nhánh",
-   "zh": "總公司與分公司",
-   "en": "Headquarters and branches",
-   "ko": "본사와 지사"
-  },
-  {
-   "id": "8de4fef2",
-   "vi": "Chi nhánh Thái Lan",
-   "zh": "泰國分公司",
-   "en": "Thailand branch",
-   "ko": "태국 지사"
-  },
-  {
-   "id": "698b6ed0",
-   "vi": "Chi nhánh, Thái Lan",
-   "zh": "分公司・泰國",
-   "en": "Branch, Thailand",
-   "ko": "지사, 태국"
-  },
-  {
-   "id": "eac5e23c",
-   "vi": "Thông tin liên hệ của chi nhánh Thái Lan đang được cập nhật. Trong thời gian này, vui lòng liên hệ trụ sở chính tại Đài Loan hoặc CMV.",
-   "zh": "泰國分公司的聯絡資訊更新中，目前請洽台灣總公司或 CMV。",
-   "en": "Contact details for the Thailand branch are being updated. Until then, please contact the Taiwan headquarters or CMV.",
-   "ko": "태국 지사 연락처는 업데이트 중입니다. 그동안은 대만 본사 또는 CMV로 문의해 주십시오."
-  },
-  {
-   "id": "cb0543a4",
-   "vi": "Khách hàng tại Việt Nam vui lòng liên hệ CMV tại Thành phố Hồ Chí Minh.",
-   "zh": "越南客戶請洽胡志明市的 CMV。",
-   "en": "Customers in Vietnam: please contact CMV in Ho Chi Minh City.",
-   "ko": "베트남 고객은 호찌민시의 CMV로 문의해 주십시오."
-  },
-  {
-   "id": "78a87a62",
-   "vi": "Liên hệ CMV",
-   "zh": "聯絡 CMV",
-   "en": "Contact CMV",
-   "ko": "CMV에 문의"
-  }
- ]
+  "strings": [
+    {
+      "id": "ffd176b4",
+      "vi": "Công ty trong tập đoàn | Charger Mechatronic Việt Nam",
+      "zh": "集團據點 | Charger Mechatronic 越南",
+      "en": "Group companies | Charger Mechatronic Vietnam",
+      "ko": "그룹 거점 | Charger Mechatronic 베트남"
+    },
+    {
+      "id": "cefb582e",
+      "vi": "Thông tin liên hệ trụ sở chính Charger Mechatronic tại Đài Loan, công ty Quadrant tại Thượng Hải và chi nhánh Thái Lan.",
+      "zh": "甲子機電台灣總公司、上海廣權機電與泰國分公司的聯絡資訊。",
+      "en": "Contact details for the Charger Mechatronic headquarters in Taiwan, Quadrant in Shanghai and the Thailand branch.",
+      "ko": "Charger Mechatronic 대만 본사, 상하이 Quadrant, 태국 지사의 연락처."
+    },
+    {
+      "id": "1d64accf",
+      "vi": "Charger Mechatronic có trụ sở chính tại Đài Loan, công ty liên kết Quadrant tại Thượng Hải và các chi nhánh tại Thái Lan, Việt Nam.",
+      "zh": "甲子機電總公司位於台灣，關係企業廣權機電位於上海，並在泰國與越南設有分公司。",
+      "en": "Charger Mechatronic has its headquarters in Taiwan, the affiliate Quadrant in Shanghai, and branches in Thailand and Vietnam.",
+      "ko": "Charger Mechatronic은 대만에 본사, 상하이에 관계사 Quadrant, 태국과 베트남에 지사를 두고 있습니다."
+    },
+    {
+      "id": "4ae408dd",
+      "vi": "Trụ sở chính và chi nhánh",
+      "zh": "總公司與分公司",
+      "en": "Headquarters and branches",
+      "ko": "본사와 지사"
+    },
+    {
+      "id": "8de4fef2",
+      "vi": "Chi nhánh Thái Lan",
+      "zh": "泰國分公司",
+      "en": "Thailand branch",
+      "ko": "태국 지사"
+    },
+    {
+      "id": "698b6ed0",
+      "vi": "Chi nhánh, Thái Lan",
+      "zh": "分公司・泰國",
+      "en": "Branch, Thailand",
+      "ko": "지사, 태국"
+    },
+    {
+      "id": "eac5e23c",
+      "vi": "Thông tin liên hệ của chi nhánh Thái Lan đang được cập nhật. Trong thời gian này, vui lòng liên hệ trụ sở chính tại Đài Loan hoặc CMV.",
+      "zh": "泰國分公司的聯絡資訊更新中，目前請洽台灣總公司或 CMV。",
+      "en": "Contact details for the Thailand branch are being updated. Until then, please contact the Taiwan headquarters or CMV.",
+      "ko": "태국 지사 연락처는 업데이트 중입니다. 그동안은 대만 본사 또는 CMV로 문의해 주십시오."
+    },
+    {
+      "id": "cb0543a4",
+      "vi": "Khách hàng tại Việt Nam vui lòng liên hệ CMV tại Thành phố Hồ Chí Minh.",
+      "zh": "越南客戶請洽胡志明市的 CMV。",
+      "en": "Customers in Vietnam: please contact CMV in Ho Chi Minh City.",
+      "ko": "베트남 고객은 호찌민시의 CMV로 문의해 주십시오."
+    },
+    {
+      "id": "78a87a62",
+      "vi": "Liên hệ CMV",
+      "zh": "聯絡 CMV",
+      "en": "Contact CMV",
+      "ko": "CMV에 문의"
+    }
+  ]
 }
